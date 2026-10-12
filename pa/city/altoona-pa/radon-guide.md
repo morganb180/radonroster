@@ -146,9 +146,3 @@ $786–$1,274
 National range (HomeAdvisor). No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
-
-## Want firms to contact you?
-
-Send one request to certified mitigators who serve Altoona.
-
-[Request quotes](https://radonroster.com/get-quotes/?city=altoona)

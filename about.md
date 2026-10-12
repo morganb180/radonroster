@@ -20,4 +20,4 @@ Radon Roster is not affiliated with PA DEP, EPA or any contractor. A listing is 
 
 ## Status
 
-The site is a draft preview and has not launched. Quote and listing-claim forms are placeholders that do not send anything yet. Questions or corrections: see the [contact page](https://radonroster.com/contact/).
+The site is a draft preview and has not launched. The quote form sends each request straight to up to 3 nearby DEP-certified firms (it is not switched on yet in this preview); the listing-claim form is still a placeholder. Questions or corrections: see the [contact page](https://radonroster.com/contact/).
