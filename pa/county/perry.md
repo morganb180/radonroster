@@ -4,51 +4,64 @@ description: "1 PA DEP-certified radon firms in Perry County: 61% of basement te
 canonical: https://radonroster.com/pa/county/perry/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Perry County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Perry
 
 # Radon testing & mitigation in Perry County, PA
 
+61% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Perry County radon test data
 
-**61%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Perry**61%**
 
-**6.0 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**6.0**median basement pCi/L
 
 **5,953**basement tests on record
 
-**39%**first-floor tests ≥ 4 pCi/L  
-842 tests, median 2.8
+**#3**of 67 PA counties by share ≥ 4
 
-**#3 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **39%** of 842 tests ≥ 4 pCi/L, median 2.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **1 DEP-certified firms** have a business address in Perry County (0 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=perry)
 
-## Radon testing (1 firm)
+Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (1 firm)
 
 ### Alpha Home Inspections
 
-47 Cooks Road, Duncannon, PA  
-☎ [(717) 914-1600](tel:7179141600)  
-✉ [nicole@alphainspection.net](mailto:nicole@alphainspection.net)  
-🌐 [alphainspection.net](https://www.alphainspection.net/)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+Duncannon2 certified people
+
+#### Address
+
+* 47 Cooks Road, Duncannon, PA
+* ✉ [nicole@alphainspection.net](mailto:nicole@alphainspection.net)
+* [alphainspection.net](https://www.alphainspection.net/)
+
+#### Certified individuals
 
 * Kenny, Nicole (testing #3483)
 * Kenny, Zachariah (testing #9094)
 
-DEP cert IDs: testing #3483, testing #3698, testing #9094  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3483)
+#### DEP cert IDs
+
+testing #3483 · testing #3698 · testing #9094
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3483)
+
+[**Call** (717) 914-1600](tel:7179141600)
 
 ## Neighboring counties
 
-[Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms)
+[Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -73,3 +86,29 @@ With 61% of 5,953 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Perry County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Perry mitigators[Request quotes](https://radonroster.com/get-quotes/?county=perry)
+
+Our advice
+
+## Before you hire in Perry
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Perry.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=perry)

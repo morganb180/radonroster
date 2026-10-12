@@ -4,43 +4,52 @@ description: "7 PA DEP-certified radon firms in Washington County: 34% of baseme
 canonical: https://radonroster.com/pa/county/washington/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Washington County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Washington
 
 # Radon testing & mitigation in Washington County, PA
 
+34% of basement tests here came back at or above 4 pCi/L, a little under the statewide 37%. That means about one in 3 homes tested needs a fix.
+
 ## Washington County radon test data
 
-**34%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Washington**34%**
 
-**2.9 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.9**median basement pCi/L
 
 **38,759**basement tests on record
 
-**21%**first-floor tests ≥ 4 pCi/L  
-2,316 tests, median 1.8
+**#54**of 67 PA counties by share ≥ 4
 
-**#54 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **21%** of 2,316 tests ≥ 4 pCi/L, median 1.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **7 DEP-certified firms** have a business address in Washington County (1 offer mitigation), with 17 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=washington)
 
+[Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Home Radon Pros
 
-549 Mccombs Rd, Venetia, PA  
-☎ [(412) 584-0799](tel:4125840799)  
-✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)  
-✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)  
-🌐 [homeradonpros.com](https://www.homeradonpros.com/)
+✓ PA DEP certifiedMitigationTesting
 
-9 DEP-certified individuals
+Venetia9 certified people
+
+#### Address
+
+* 549 Mccombs Rd, Venetia, PA
+* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
+* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
+* [homeradonpros.com](https://www.homeradonpros.com/)
+
+#### Certified individuals
 
 * Anesin, Richard (mitigation #7704)
 * Broomhead, Steven (mitigation #7673)
@@ -52,117 +61,163 @@ Firms that also test are shown here once.
 * Mihalik, Joseph (mitigation #7264)
 * Moon, Ethan (mitigation #7718)
 
-DEP cert IDs: mitigation #3238, mitigation #3476, mitigation #7264, mitigation #7600, mitigation #7602, mitigation #7673, mitigation #7674, mitigation #7703, mitigation #7704, mitigation #7718, testing #3238  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+#### DEP cert IDs
+
+mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · mitigation #7602 · mitigation #7673 · mitigation #7674 · mitigation #7703 · mitigation #7704 · mitigation #7718 · testing #3238
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+
+[**Call** (412) 584-0799](tel:4125840799)
 
 ## Radon testing (6 firms)
-
-✔ Certified by PA DEP Testing
 
 ### Heritage Home Insp
 
 ⚠ Name may be cut off in DEP records
 
-1148 Meadow Brook Drive, Canonsburg, PA  
-☎ [(888) 308-4018](tel:8883084018)  
-✉ [steve@heritagehomeinspectors.com](mailto:steve@heritagehomeinspectors.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Canonsburg1 certified person
+
+#### Address
+
+* 1148 Meadow Brook Drive, Canonsburg, PA
+* ✉ [steve@heritagehomeinspectors.com](mailto:steve@heritagehomeinspectors.com)
+
+#### Certified individuals
 
 * Sobetsky, Cami (testing #9003)
 
-DEP cert IDs: testing #9003  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9003)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #9003
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9003)
+
+[**Call** (888) 308-4018](tel:8883084018)
 
 ### Heritage Home Inspectors
 
-1148 Meadowbrook Dr, Canonsburg, PA  
-☎ [(888) 308-4018](tel:8883084018)  
-✉ [steve@heritagehomeinspector.com](mailto:steve@heritagehomeinspector.com)  
-🌐 [heritagehomeinspector.com](https://www.heritagehomeinspector.com/)
+✓ PA DEP certifiedTesting
 
-3 DEP-certified individuals
+Canonsburg3 certified people
+
+#### Address
+
+* 1148 Meadowbrook Dr, Canonsburg, PA
+* ✉ [steve@heritagehomeinspector.com](mailto:steve@heritagehomeinspector.com)
+* [heritagehomeinspector.com](https://www.heritagehomeinspector.com/)
+
+#### Certified individuals
 
 * Clifford, Tyler (testing #9076)
 * Morris, Stephen (testing #3335)
 * Morris,Evan (testing #9131)
 
-DEP cert IDs: testing #3335, testing #3569, testing #9076, testing #9131  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3335)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3335 · testing #3569 · testing #9076 · testing #9131
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3335)
+
+[**Call** (888) 308-4018](tel:8883084018)
 
 ### Jaworski, Mark
 
-75 Putorti Ln, Canonsburg, PA  
-☎ [(412) 583-7962](tel:4125837962)  
-✉ [mark@jaworskiremodeling.com](mailto:mark@jaworskiremodeling.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Canonsburg1 certified person
+
+#### Address
+
+* 75 Putorti Ln, Canonsburg, PA
+* ✉ [mark@jaworskiremodeling.com](mailto:mark@jaworskiremodeling.com)
+
+#### Certified individuals
 
 * Jaworski, Mark (testing #2935)
 
-DEP cert IDs: testing #2935  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2935)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2935
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2935)
+
+[**Call** (412) 583-7962](tel:4125837962)
 
 ### Lydic, Joseph
 
-3935 Washington Rd., Canonsburg, PA  
-☎ [(412) 912-8686](tel:4129128686)  
-✉ [peakinspectorjoe@gmail.com](mailto:peakinspectorjoe@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Canonsburg1 certified person
+
+#### Address
+
+* 3935 Washington Rd., Canonsburg, PA
+* ✉ [peakinspectorjoe@gmail.com](mailto:peakinspectorjoe@gmail.com)
+
+#### Certified individuals
 
 * Lydic, Joseph (testing #3397)
 
-DEP cert IDs: testing #3397  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3397)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3397
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3397)
+
+[**Call** (412) 912-8686](tel:4129128686)
 
 ### Tayzak Inc
 
-523 Burnside Rd, Mc Donald, PA  
-☎ [(724) 513-0832](tel:7245130832)  
-✉ jim.zaminska@pillartopost,com (as listed (as printed by DEP; may be incomplete)  
-✉ may be truncated) (as printed by DEP; may be incomplete)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mc Donald1 certified person
+
+#### Address
+
+* 523 Burnside Rd, Mc Donald, PA
+* ✉ jim.zaminska@pillartopost,com (as listed (as printed by DEP; may be incomplete)
+* ✉ may be truncated) (as printed by DEP; may be incomplete)
+
+#### Certified individuals
 
 * Bellhy, Thomas (testing #8854)
 
-DEP cert IDs: testing #8854  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8854)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8854
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8854)
+
+[**Call** (724) 513-0832](tel:7245130832)
 
 ### Klein Jr., Robert Scott
 
-4017 Washington Rd, Mcmurray, PA  
-☎ [(724) 413-5522](tel:7244135522)  
-✉ [scottdhis@gmail.com](mailto:scottdhis@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mcmurray1 certified person
+
+#### Address
+
+* 4017 Washington Rd, Mcmurray, PA
+* ✉ [scottdhis@gmail.com](mailto:scottdhis@gmail.com)
+
+#### Certified individuals
 
 * Klein Jr., Robert Scott (testing #2880)
 
-DEP cert IDs: testing #2880  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2880)
+#### DEP cert IDs
+
+testing #2880
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2880)
+
+[**Call** (724) 413-5522](tel:7244135522)
 
 ## Neighboring counties
 
-[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Greene](https://radonroster.com/pa/county/greene/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms)
+[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Greene](https://radonroster.com/pa/county/greene/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -193,3 +248,29 @@ Detailed local guides: [How to find a radon expert in Canonsburg](https://radonr
 **How much does radon mitigation cost in Washington County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Washington mitigators[Request quotes](https://radonroster.com/get-quotes/?county=washington)
+
+Our advice
+
+## Before you hire in Washington
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Washington.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=washington)

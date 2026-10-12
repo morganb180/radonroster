@@ -4,13 +4,29 @@ description: "Philadelphia, PA radon guide: 12% of 144,527 basement tests at or 
 canonical: https://radonroster.com/pa/city/philadelphia-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Philadelphia, PA](https://radonroster.com/pa/city/philadelphia-pa/)›Radon guide
 
 # How to find a radon expert in Philadelphia, PA
 
 Philadelphia tests lower than much of Pennsylvania, with **12%** of 144,527 basement tests at or above 4 pCi/L. That still leaves 17,576 tests over the action level, so a low average doesn't clear any single house. That's close to Philadelphia County as a whole (12%) and below the statewide share (37%). The median Philadelphia result (1.6 pCi/L) is below the 4 pCi/L line. The Philadelphia County median is 1.7 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Philadelphia municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Philadelphia at a glance
+
+Philadelphia**12%**
+
+Philadelphia Co.**12%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.6**median pCi/L
+
+**144,527**tests on record
+
+**#33**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=philadelphia) [Browse all Philadelphia radon firms](https://radonroster.com/pa/city/philadelphia-pa/) · [Philadelphia County](https://radonroster.com/pa/county/philadelphia/)
 
@@ -37,41 +53,55 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **10** based in Philadelphia (2 mitigation), **0** elsewhere in Philadelphia County (0 mitigation), and **13** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Rvs Radon Mitigation
 
 ⚠ Name may be cut off in DEP records
 
-294 E Cheltenham Ave, Philadelphia, PA  
-☎ [(267) 269-5573](tel:2672695573)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 294 E Cheltenham Ave, Philadelphia, PA
+
+#### Certified individuals
 
 * Tabora, Bryann (mitigation #7735)
 
-DEP cert IDs: mitigation #7735  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #7735
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
+
+[**Call** (267) 269-5573](tel:2672695573)
 
 ### Rvs Radon Mitigation, LLC.
 
-294 E Cheltenham Ave, Philadelphia, PA  
-☎ [(267) 269-5573](tel:2672695573)  
-✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)  
-🌐 [rvsradon.com](https://www.rvsradon.com/)
+✓ PA DEP certifiedMitigation
 
-3 DEP-certified individuals
+Philadelphia3 certified people
+
+#### Address
+
+* 294 E Cheltenham Ave, Philadelphia, PA
+* ✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)
+* [rvsradon.com](https://www.rvsradon.com/)
+
+#### Certified individuals
 
 * Bastidas, Juan D. (mitigation #7697)
 * Gonzalez, Juan Antonio (mitigation #3458)
 * Tituana, Ivan (mitigation #7725)
 
-DEP cert IDs: mitigation #3458, mitigation #3594, mitigation #7697, mitigation #7725  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
+#### DEP cert IDs
+
+mitigation #3458 · mitigation #3594 · mitigation #7697 · mitigation #7725
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
+
+[**Call** (267) 269-5573](tel:2672695573)
 
 [See all firms near Philadelphia →](https://radonroster.com/pa/city/philadelphia-pa/)
 
@@ -127,3 +157,29 @@ In PA DEP's test records, 12% of 144,527 basement tests with a Philadelphia addr
 **How much does radon mitigation cost in Philadelphia?**
 
 We don't have Philadelphia-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=philadelphia)
+
+Our advice
+
+## Before you hire in Philadelphia
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Philadelphia.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=philadelphia)

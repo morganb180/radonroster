@@ -1,16 +1,2 @@
-*{box-sizing:border-box}body{margin:0;font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#1d2433;background:#f6f8fb}
-a{color:#0b5cad}header{background:#0f3d5e;color:#fff}header .w{display:flex;gap:1rem;align-items:center;flex-wrap:wrap;padding:.7rem 1rem}header a{color:#fff;text-decoration:none}
-.logo{font-weight:800;font-size:1.2rem;margin-right:auto}nav a{margin-left:.9rem;font-size:.95rem}.w{max-width:1100px;margin:0 auto;padding:1rem}
-.draft{background:#ffe28a;color:#5a4300;text-align:center;font-size:.85rem;padding:.3rem}.hero{background:linear-gradient(135deg,#0f3d5e,#1b6fa0);color:#fff;padding:2.5rem 0}
-.hero h1{margin:.2rem 0 1rem;font-size:2rem}.search{display:flex;gap:.5rem;max-width:620px}.search input{flex:1;padding:.8rem;border-radius:8px;border:0;font-size:1rem}
-.btn{display:inline-block;background:#f28c28;color:#fff;border:0;padding:.75rem 1.1rem;border-radius:8px;font-weight:700;text-decoration:none;cursor:pointer}
-#results{background:#fff;color:#1d2433;border-radius:8px;max-width:620px;margin-top:.4rem}#results a{display:block;padding:.5rem .8rem;border-bottom:1px solid #eee;text-decoration:none}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:.8rem}.card{background:#fff;border:1px solid #dde3ec;border-radius:10px;padding:.9rem}
-.card h3{margin:.1rem 0 .3rem;font-size:1.02rem}.badge{display:inline-block;background:#e5f4ea;color:#17602f;border-radius:999px;padding:.1rem .55rem;font-size:.75rem;font-weight:700}
-.muted{color:#5d687a;font-size:.86rem}table{border-collapse:collapse;width:100%;background:#fff}td,th{border:1px solid #dde3ec;padding:.4rem .5rem;text-align:left;font-size:.92rem}
-th{background:#eef2f7}.note{background:#fff8e6;border-left:4px solid #f2b824;padding:.7rem 1rem;margin:1rem 0}.cols{columns:4 170px}footer{background:#14202e;color:#c7d0dc;font-size:.85rem;margin-top:2rem}footer a{color:#9fd0ff}
-form label{display:block;margin:.6rem 0 .2rem;font-weight:600}form input,form select,form textarea{width:100%;padding:.55rem;border:1px solid #c9d2df;border-radius:6px;font:inherit}
-.tiers{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}.price{font-size:1.8rem;font-weight:800}.pill{display:inline-block;background:#e8eef7;border-radius:999px;padding:.05rem .5rem;font-size:.75rem;margin-right:.2rem}
-details summary{cursor:pointer;color:#0b5cad;font-size:.85rem}.statgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:.6rem;margin:1rem 0}
-.stat{background:#fff;border:1px solid #dde3ec;border-radius:10px;padding:.7rem}.stat b{display:block;font-size:1.5rem}.flag{color:#8a5a00;font-size:.78rem}
-.calc{background:#fff;border:1px solid #dde3ec;border-radius:10px;padding:1rem;max-width:560px}.calc output{display:block;font-size:1.4rem;font-weight:800;margin-top:.5rem}
+/* Radon Roster site-specific additions. Shared look: /theme.css (build/theme/radon-theme.css) */
+.cols li .muted{font-size:.8rem}

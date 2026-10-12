@@ -4,50 +4,63 @@ description: "1 PA DEP-certified radon firms in Clearfield County: 53% of baseme
 canonical: https://radonroster.com/pa/county/clearfield/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Clearfield County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Clearfield
 
 # Radon testing & mitigation in Clearfield County, PA
 
+53% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Clearfield County radon test data
 
-**53%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Clearfield**53%**
 
-**4.3 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.3**median basement pCi/L
 
 **10,793**basement tests on record
 
-**27%**first-floor tests ≥ 4 pCi/L  
-1,008 tests, median 1.8
+**#16**of 67 PA counties by share ≥ 4
 
-**#16 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **27%** of 1,008 tests ≥ 4 pCi/L, median 1.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **1 DEP-certified firms** have a business address in Clearfield County (0 offer mitigation), with 1 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=clearfield)
 
-## Radon testing (1 firm)
+Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (1 firm)
 
 ### Baughman, Troy
 
-823 W Weber Ave, Dubois, PA  
-☎ [(814) 771-7737](tel:8147717737)  
-✉ [troy@millstonehomeinspections.com](mailto:troy@millstonehomeinspections.com)  
-🌐 [millstonehomeinspections.com](https://millstonehomeinspections.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Dubois1 certified person
+
+#### Address
+
+* 823 W Weber Ave, Dubois, PA
+* ✉ [troy@millstonehomeinspections.com](mailto:troy@millstonehomeinspections.com)
+* [millstonehomeinspections.com](https://millstonehomeinspections.com/)
+
+#### Certified individuals
 
 * Baughman, Troy (testing #3167)
 
-DEP cert IDs: testing #3167  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3167)
+#### DEP cert IDs
+
+testing #3167
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3167)
+
+[**Call** (814) 771-7737](tel:8147717737)
 
 ## Neighboring counties
 
-[Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Elk](https://radonroster.com/pa/county/elk/) (1 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms)
+[Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Elk](https://radonroster.com/pa/county/elk/) (1 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -72,3 +85,29 @@ With 53% of 10,793 basement tests at or above 4 pCi/L (above the 37% statewide s
 **How much does radon mitigation cost in Clearfield County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Clearfield mitigators[Request quotes](https://radonroster.com/get-quotes/?county=clearfield)
+
+Our advice
+
+## Before you hire in Clearfield
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Clearfield.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=clearfield)

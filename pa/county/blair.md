@@ -4,87 +4,114 @@ description: "3 PA DEP-certified radon firms in Blair County: 43% of basement te
 canonical: https://radonroster.com/pa/county/blair/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Blair County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Blair
 
 # Radon testing & mitigation in Blair County, PA
 
+43% of basement tests here came back at or above 4 pCi/L, above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Blair County radon test data
 
-**43%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Blair**43%**
 
-**3.2 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.2**median basement pCi/L
 
 **17,390**basement tests on record
 
-**22%**first-floor tests ≥ 4 pCi/L  
-1,641 tests, median 1.5
+**#44**of 67 PA counties by share ≥ 4
 
-**#44 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **22%** of 1,641 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **3 DEP-certified firms** have a business address in Blair County (1 offer mitigation), with 4 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=blair)
 
+[Mitigation1](#mitigation)[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Helping Solutions LLC
 
-3499 Kettle Rd, Altoona, PA  
-☎ [(814) 934-0905](tel:8149340905)  
-✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Altoona2 certified people
+
+#### Address
+
+* 3499 Kettle Rd, Altoona, PA
+* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
+
+#### Certified individuals
 
 * Ake, Justin (testing #2854, mitigation #2854)
 * Link, Richard (testing #9075)
 
-DEP cert IDs: mitigation #2854, testing #2854, testing #3404, testing #9075  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
+#### DEP cert IDs
+
+mitigation #2854 · testing #2854 · testing #3404 · testing #9075
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
+
+[**Call** (814) 934-0905](tel:8149340905)
 
 ## Radon testing (2 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Ulery, Adam
 
-615 Aspen Ln, Duncansville, PA  
-☎ [(814) 931-1745](tel:8149311745)  
-✉ [akinspections@yahoo.com](mailto:akinspections@yahoo.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Duncansville1 certified person
+
+#### Address
+
+* 615 Aspen Ln, Duncansville, PA
+* ✉ [akinspections@yahoo.com](mailto:akinspections@yahoo.com)
+
+#### Certified individuals
 
 * Ulery, Adam (testing #3171)
 
-DEP cert IDs: testing #3171  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3171)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3171
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3171)
+
+[**Call** (814) 931-1745](tel:8149311745)
 
 ### Ott, Dwayne
 
-311 Bell Tip Rd, Tyrone, PA  
-☎ [(814) 937-2276](tel:8149372276)  
-✉ [dwayne@advantageinsp.com](mailto:dwayne@advantageinsp.com)  
-🌐 [advantageinsp.com](https://advantageinsp.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Tyrone1 certified person
+
+#### Address
+
+* 311 Bell Tip Rd, Tyrone, PA
+* ✉ [dwayne@advantageinsp.com](mailto:dwayne@advantageinsp.com)
+* [advantageinsp.com](https://advantageinsp.com/)
+
+#### Certified individuals
 
 * Ott, Dwayne (testing #1962)
 
-DEP cert IDs: testing #1962  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1962)
+#### DEP cert IDs
+
+testing #1962
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1962)
+
+[**Call** (814) 937-2276](tel:8149372276)
 
 ## Neighboring counties
 
-[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms)
+[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -115,3 +142,29 @@ Detailed local guides: [How to find a radon expert in Altoona](https://radonrost
 **How much does radon mitigation cost in Blair County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Blair mitigators[Request quotes](https://radonroster.com/get-quotes/?county=blair)
+
+Our advice
+
+## Before you hire in Blair
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Blair.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=blair)

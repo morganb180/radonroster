@@ -4,13 +4,29 @@ description: "State College, PA radon guide: 55% of 23,460 basement tests at or 
 canonical: https://radonroster.com/pa/city/state-college-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [State College](https://radonroster.com/pa/city/state-college-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[State College, PA](https://radonroster.com/pa/city/state-college-pa/)›Radon guide
 
 # How to find a radon expert in State College, PA
 
 About **55%** of basement tests in State College, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 23,460 tests in PA DEP's records. That's close to Centre County as a whole (56%) and above the statewide share (37%). The median State College result (4.8 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Centre County median is 5.2 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a State College municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## State College at a glance
+
+State College**55%**
+
+Centre Co.**56%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.8**median pCi/L
+
+**23,460**tests on record
+
+**#4**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=state-college) [Browse all State College radon firms](https://radonroster.com/pa/city/state-college-pa/) · [Centre County](https://radonroster.com/pa/county/centre/)
 
@@ -42,56 +58,77 @@ Every firm listed for State College on Radon Roster shows its DEP IDs and a link
 
 Nearest DEP-certified firms: **1** based in State College (0 mitigation), **3** elsewhere in Centre County (3 mitigation), and **2** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Glantz, Frank
 
-Po Box 866, Lemont, PA  
-☎ [(814) 278-7751](tel:8142787751)  
-✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)  
-🌐 [raid-on-radon.com](https://raid-on-radon.com/)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Lemont1 certified person
+
+#### Address
+
+* Po Box 866, Lemont, PA
+* ✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)
+* [raid-on-radon.com](https://raid-on-radon.com/)
+
+#### Certified individuals
 
 * Glantz, Frank (mitigation #2135)
 
-DEP cert IDs: mitigation #2135  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2135
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
+
+[**Call** (814) 278-7751](tel:8142787751)
 
 ### Mckee Environmental, Inc.
 
-86 Quartz Dr, Bellefonte, PA  
-☎ [(814) 380-7126](tel:8143807126)  
-✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Bellefonte2 certified people
+
+#### Address
+
+* 86 Quartz Dr, Bellefonte, PA
+* ✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
+
+#### Certified individuals
 
 * Mckee, Douglas (testing #3484, mitigation #3484)
 * Mckee, Jillian (testing #9103)
 
-DEP cert IDs: mitigation #3484, testing #3484, testing #3710, testing #9103  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3484 · testing #3484 · testing #3710 · testing #9103
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
+
+[**Call** (814) 380-7126](tel:8143807126)
 
 ### Oak Leaf Environmental
 
-409 S Pennsylvania Ave, Centre Hall, PA  
-☎ [(814) 876-2228](tel:8148762228)  
-✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)  
-🌐 [oakleafenv.com](https://www.oakleafenv.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Centre Hall1 certified person
+
+#### Address
+
+* 409 S Pennsylvania Ave, Centre Hall, PA
+* ✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)
+* [oakleafenv.com](https://www.oakleafenv.com/)
+
+#### Certified individuals
 
 * Wilkins, Thomas (testing #3726, mitigation #3726)
 
-DEP cert IDs: mitigation #3726, mitigation #3727, testing #3726, testing #3727  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
+#### DEP cert IDs
+
+mitigation #3726 · mitigation #3727 · testing #3726 · testing #3727
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
+
+[**Call** (814) 876-2228](tel:8148762228)
 
 [See all firms near State College →](https://radonroster.com/pa/city/state-college-pa/)
 
@@ -138,3 +175,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to State College mitigators[Request quotes](https://radonroster.com/get-quotes/?city=state-college)
+
+Our advice
+
+## Before you hire in State College
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve State College.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=state-college)

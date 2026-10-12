@@ -4,13 +4,29 @@ description: "Allentown, PA radon guide: 47% of 29,724 basement tests at or abov
 canonical: https://radonroster.com/pa/city/allentown-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Allentown](https://radonroster.com/pa/city/allentown-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Allentown, PA](https://radonroster.com/pa/city/allentown-pa/)›Radon guide
 
 # How to find a radon expert in Allentown, PA
 
 In Allentown, 29,724 basement radon tests in PA DEP's records give a median of **3.6 pCi/L**, and **47%** were at or above 4 pCi/L. That's close to Lehigh County as a whole (47%) and above the statewide share (37%). The median Allentown result (3.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Lehigh County median is 3.6 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Allentown municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Allentown at a glance
+
+Allentown**47%**
+
+Lehigh Co.**47%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.6**median pCi/L
+
+**29,724**tests on record
+
+**#12**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=allentown) [Browse all Allentown radon firms](https://radonroster.com/pa/city/allentown-pa/) · [Lehigh County](https://radonroster.com/pa/county/lehigh/)
 
@@ -42,32 +58,42 @@ General information, not legal advice.
 
 Nearest DEP-certified firms: **4** based in Allentown (3 mitigation), **7** elsewhere in Lehigh County (1 mitigation), and **18** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Anwar, Waqas
 
-6027 Palomino Dr, Allentown, PA  
-☎ [(610) 457-2363](tel:6104572363)  
-✉ [pennsyradonremediation@gmail.com](mailto:pennsyradonremediation@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Allentown1 certified person
+
+#### Address
+
+* 6027 Palomino Dr, Allentown, PA
+* ✉ [pennsyradonremediation@gmail.com](mailto:pennsyradonremediation@gmail.com)
+
+#### Certified individuals
 
 * Anwar, Waqas (mitigation #3318)
 
-DEP cert IDs: mitigation #3318  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3318)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3318
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3318)
+
+[**Call** (610) 457-2363](tel:6104572363)
 
 ### Integra Environmental LLC
 
-6801 Tilghman St Unit 115, Allentown, PA  
-☎ [(610) 346-8004](tel:6103468004)  
-✉ [tony@integraradon.com](mailto:tony@integraradon.com)  
-🌐 [integraradon.com](https://integraradon.com/)
+✓ PA DEP certifiedMitigationTesting
 
-6 DEP-certified individuals
+Allentown6 certified people
+
+#### Address
+
+* 6801 Tilghman St Unit 115, Allentown, PA
+* ✉ [tony@integraradon.com](mailto:tony@integraradon.com)
+* [integraradon.com](https://integraradon.com/)
+
+#### Certified individuals
 
 * Dilts, Mark (mitigation #7514)
 * Domingues, Tony (testing #2621, mitigation #2621)
@@ -76,20 +102,27 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Roque, David (mitigation #7646)
 * Weber,Connor (mitigation #7734)
 
-DEP cert IDs: mitigation #2621, mitigation #3398, mitigation #7514, mitigation #7646, mitigation #7732, mitigation #7733, mitigation #7734, testing #2621  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2621)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2621 · mitigation #3398 · mitigation #7514 · mitigation #7646 · mitigation #7732 · mitigation #7733 · mitigation #7734 · testing #2621
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2621)
+
+[**Call** (610) 346-8004](tel:6103468004)
 
 ### SWAT Environmental
 
-1125 S Cedar Crest Blvd, Allentown, PA  
-☎ [(610) 674-4421](tel:6106744421)  
-✉ [aszews@swatradon.com](mailto:aszews@swatradon.com)  
-🌐 [swat-radon.com](https://swat-radon.com/)
+✓ PA DEP certifiedMitigation
 
-8 DEP-certified individuals
+Allentown8 certified people
+
+#### Address
+
+* 1125 S Cedar Crest Blvd, Allentown, PA
+* ✉ [aszews@swatradon.com](mailto:aszews@swatradon.com)
+* [swat-radon.com](https://swat-radon.com/)
+
+#### Certified individuals
 
 * Bird, Dennis (mitigation #7560)
 * Bozek, Joseph (mitigation #7652)
@@ -100,25 +133,36 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Rowland, Rhadshee (mitigation #7417)
 * Uncapher, Jacob (mitigation #7688)
 
-DEP cert IDs: mitigation #3272, mitigation #3567, mitigation #3586, mitigation #7417, mitigation #7560, mitigation #7652, mitigation #7661, mitigation #7677, mitigation #7688  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3272)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3272 · mitigation #3567 · mitigation #3586 · mitigation #7417 · mitigation #7560 · mitigation #7652 · mitigation #7661 · mitigation #7677 · mitigation #7688
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3272)
+
+[**Call** (610) 674-4421](tel:6106744421)
 
 ### Metzger, Dale
 
-3450 Lurman Dr, Macungie, PA  
-☎ [(484) 903-1182](tel:4849031182)  
-✉ [dalemtzgr@yahoo.com](mailto:dalemtzgr@yahoo.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Macungie1 certified person
+
+#### Address
+
+* 3450 Lurman Dr, Macungie, PA
+* ✉ [dalemtzgr@yahoo.com](mailto:dalemtzgr@yahoo.com)
+
+#### Certified individuals
 
 * Metzger, Dale (mitigation #2921)
 
-DEP cert IDs: mitigation #2921  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2921)
+#### DEP cert IDs
+
+mitigation #2921
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2921)
+
+[**Call** (484) 903-1182](tel:4849031182)
 
 [See all firms near Allentown →](https://radonroster.com/pa/city/allentown-pa/)
 
@@ -165,3 +209,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Allentown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=allentown)
+
+Our advice
+
+## Before you hire in Allentown
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Allentown.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=allentown)

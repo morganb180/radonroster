@@ -4,13 +4,29 @@ description: "York, PA radon guide: 58% of 28,440 basement tests at or above 4 p
 canonical: https://radonroster.com/pa/city/york-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [York](https://radonroster.com/pa/city/york-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[York, PA](https://radonroster.com/pa/city/york-pa/)›Radon guide
 
 # How to find a radon expert in York, PA
 
 About **58%** of basement tests in York, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 28,440 tests in PA DEP's records. That's close to York County as a whole (56%) and above the statewide share (37%). The median York result (5.0 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The York County median is 4.9 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a York municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## York at a glance
+
+York**58%**
+
+York Co.**56%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.0**median pCi/L
+
+**28,440**tests on record
+
+**#3**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=york) [Browse all York radon firms](https://radonroster.com/pa/city/york-pa/) · [York County](https://radonroster.com/pa/county/york/)
 
@@ -37,55 +53,76 @@ Most systems use **active soil depressurization** ([EPA Consumer's Guide to Rado
 
 Nearest DEP-certified firms: **5** based in York (1 mitigation), **3** elsewhere in York County (2 mitigation), and **13** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Absolute Radon Mitigation, LLC
 
-800 Locust Grove Rd, York, PA  
-☎ [(717) 755-5398](tel:7177555398)  
-✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)  
-✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+York2 certified people
+
+#### Address
+
+* 800 Locust Grove Rd, York, PA
+* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
+* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+
+#### Certified individuals
 
 * Richard, Troy (mitigation #7244)
 * Schlaline, Jeffrey (testing #1965, mitigation #1965)
 
-DEP cert IDs: mitigation #1965, mitigation #1966, mitigation #7244, testing #1965  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+
+[**Call** (717) 755-5398](tel:7177555398)
 
 ### Levine, Seymour
 
-198 Rose Hill Dr, New Cumberland, PA  
-☎ [(717) 576-9589](tel:7175769589)  
-✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+New Cumberland1 certified person
+
+#### Address
+
+* 198 Rose Hill Dr, New Cumberland, PA
+* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+
+#### Certified individuals
 
 * Levine, Seymour (testing #2735, mitigation #2735)
 
-DEP cert IDs: mitigation #2735, testing #2735  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2735 · testing #2735
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+
+[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
-247 Mine Bank Rd, Wellsville, PA  
-☎ [(717) 432-9575](tel:7174329575)  
-✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Wellsville1 certified person
+
+#### Address
+
+* 247 Mine Bank Rd, Wellsville, PA
+* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+
+#### Certified individuals
 
 * Meyer, Jr., Robert (testing #1800, mitigation #1800)
 
-DEP cert IDs: mitigation #1800, testing #1800  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+#### DEP cert IDs
+
+mitigation #1800 · testing #1800
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+
+[**Call** (717) 432-9575](tel:7174329575)
 
 [See all firms near York →](https://radonroster.com/pa/city/york-pa/)
 
@@ -136,3 +173,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?city=york)
+
+Our advice
+
+## Before you hire in York
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve York.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=york)

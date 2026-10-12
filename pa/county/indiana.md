@@ -4,65 +4,85 @@ description: "2 PA DEP-certified radon firms in Indiana County: 46% of basement 
 canonical: https://radonroster.com/pa/county/indiana/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Indiana County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Indiana
 
 # Radon testing & mitigation in Indiana County, PA
 
+46% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Indiana County radon test data
 
-**46%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Indiana**46%**
 
-**3.6 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.6**median basement pCi/L
 
 **9,119**basement tests on record
 
-**24%**first-floor tests ≥ 4 pCi/L  
-813 tests, median 1.8
+**#37**of 67 PA counties by share ≥ 4
 
-**#37 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **24%** of 813 tests ≥ 4 pCi/L, median 1.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Indiana County (0 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=indiana)
 
-## Radon testing (2 firms)
+Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (2 firms)
 
 ### Fordyce, John
 
-7844 Old Route 56 Hwy W, Indiana, PA  
-☎ [(724) 463-7233](tel:7244637233)  
-✉ [john@safebuyhi.com](mailto:john@safebuyhi.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Indiana1 certified person
+
+#### Address
+
+* 7844 Old Route 56 Hwy W, Indiana, PA
+* ✉ [john@safebuyhi.com](mailto:john@safebuyhi.com)
+
+#### Certified individuals
 
 * Fordyce, John (testing #2550)
 
-DEP cert IDs: testing #2550  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2550)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2550
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2550)
+
+[**Call** (724) 463-7233](tel:7244637233)
 
 ### Schloder, David
 
-2014 Mcintyre Rd, Mc Intyre, PA  
-☎ [(724) 840-8103](tel:7248408103)  
-✉ [eshomeinspectionservices@gmail.com](mailto:eshomeinspectionservices@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mc Intyre1 certified person
+
+#### Address
+
+* 2014 Mcintyre Rd, Mc Intyre, PA
+* ✉ [eshomeinspectionservices@gmail.com](mailto:eshomeinspectionservices@gmail.com)
+
+#### Certified individuals
 
 * Schloder, David (testing #3755)
 
-DEP cert IDs: testing #3755  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3755)
+#### DEP cert IDs
+
+testing #3755
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3755)
+
+[**Call** (724) 840-8103](tel:7248408103)
 
 ## Neighboring counties
 
-[Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms)
+[Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -87,3 +107,29 @@ With 46% of 9,119 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Indiana County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Indiana mitigators[Request quotes](https://radonroster.com/get-quotes/?county=indiana)
+
+Our advice
+
+## Before you hire in Indiana
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Indiana.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=indiana)

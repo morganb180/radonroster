@@ -4,49 +4,62 @@ description: "1 PA DEP-certified radon firms in Union County: 45% of basement te
 canonical: https://radonroster.com/pa/county/union/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Union County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Union
 
 # Radon testing & mitigation in Union County, PA
 
+45% of basement tests here came back at or above 4 pCi/L, above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Union County radon test data
 
-**45%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Union**45%**
 
-**3.5 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.5**median basement pCi/L
 
 **8,075**basement tests on record
 
-**19%**first-floor tests ≥ 4 pCi/L  
-1,474 tests, median 1.5
+**#39**of 67 PA counties by share ≥ 4
 
-**#39 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **19%** of 1,474 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **1 DEP-certified firms** have a business address in Union County (0 offer mitigation), with 1 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=union)
 
-## Radon testing (1 firm)
+Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (1 firm)
 
 ### Kerstetter, Seth
 
-201 Furnace Road, Union, PA  
-☎ [(570) 524-4491](tel:5705244491)  
-✉ [skerstetter@seda-cog.org](mailto:skerstetter@seda-cog.org)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Union1 certified person
+
+#### Address
+
+* 201 Furnace Road, Union, PA
+* ✉ [skerstetter@seda-cog.org](mailto:skerstetter@seda-cog.org)
+
+#### Certified individuals
 
 * Kerstetter, Seth (testing #3683)
 
-DEP cert IDs: testing #3683  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3683)
+#### DEP cert IDs
+
+testing #3683
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3683)
+
+[**Call** (570) 524-4491](tel:5705244491)
 
 ## Neighboring counties
 
-[Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms)
+[Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -71,3 +84,29 @@ With 45% of 8,075 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Union County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Union mitigators[Request quotes](https://radonroster.com/get-quotes/?county=union)
+
+Our advice
+
+## Before you hire in Union
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Union.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=union)

@@ -4,13 +4,29 @@ description: "Media, PA radon guide: 28% of 14,007 basement tests at or above 4 
 canonical: https://radonroster.com/pa/city/media-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Media](https://radonroster.com/pa/city/media-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Media, PA](https://radonroster.com/pa/city/media-pa/)›Radon guide
 
 # How to find a radon expert in Media, PA
 
 Media tests lower than much of Pennsylvania, with **28%** of 14,007 basement tests at or above 4 pCi/L. That still leaves 3,936 tests over the action level, so a low average doesn't clear any single house. That's above Delaware County as a whole (20%) and below the statewide share (37%). The median Media result (2.4 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Delaware County median is 2.0 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Media municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Media at a glance
+
+Media**28%**
+
+Delaware Co.**20%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.4**median pCi/L
+
+**14,007**tests on record
+
+**#24**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=media) [Browse all Media radon firms](https://radonroster.com/pa/city/media-pa/) · [Delaware County](https://radonroster.com/pa/county/delaware/)
 
@@ -40,21 +56,28 @@ Every firm listed for Media on Radon Roster shows its DEP IDs and a link to the 
 
 Nearest DEP-certified firms: **3** based in Media (0 mitigation), **9** elsewhere in Delaware County (1 mitigation), and **13** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Olinchak, Gary
 
-512 Smiley St, Crum Lynne, PA  
-☎ [(610) 909-4356](tel:6109094356)  
-✉ [golinchak@aol.com](mailto:golinchak@aol.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Crum Lynne1 certified person
+
+#### Address
+
+* 512 Smiley St, Crum Lynne, PA
+* ✉ [golinchak@aol.com](mailto:golinchak@aol.com)
+
+#### Certified individuals
 
 * Olinchak, Gary (mitigation #3003)
 
-DEP cert IDs: mitigation #3003  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3003)
+#### DEP cert IDs
+
+mitigation #3003
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3003)
+
+[**Call** (610) 909-4356](tel:6109094356)
 
 [See all firms near Media →](https://radonroster.com/pa/city/media-pa/)
 
@@ -105,3 +128,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/get-quotes/?city=media)
+
+Our advice
+
+## Before you hire in Media
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Media.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=media)

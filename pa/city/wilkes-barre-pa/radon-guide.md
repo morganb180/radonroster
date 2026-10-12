@@ -4,13 +4,29 @@ description: "Wilkes-Barre, PA radon guide: 18% of 6,150 basement tests at or ab
 canonical: https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Wilkes-Barre, PA](https://radonroster.com/pa/city/wilkes-barre-pa/)›Radon guide
 
 # How to find a radon expert in Wilkes-Barre, PA
 
 Wilkes-Barre tests lower than much of Pennsylvania, with **18%** of 6,150 basement tests at or above 4 pCi/L. That still leaves 1,079 tests over the action level, so a low average doesn't clear any single house. That's below Luzerne County as a whole (31%) and below the statewide share (37%). The median Wilkes-Barre result (1.7 pCi/L) is below the 4 pCi/L line. The Luzerne County median is 2.4 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Wilkes-Barre municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Wilkes-Barre at a glance
+
+Wilkes-Barre**18%**
+
+Luzerne Co.**31%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.7**median pCi/L
+
+**6,150**tests on record
+
+**#32**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=wilkes-barre) [Browse all Wilkes-Barre radon firms](https://radonroster.com/pa/city/wilkes-barre-pa/) · [Luzerne County](https://radonroster.com/pa/county/luzerne/)
 
@@ -40,15 +56,18 @@ Every firm listed for Wilkes-Barre on Radon Roster shows its DEP IDs and a link 
 
 Nearest DEP-certified firms: **1** based in Wilkes-Barre (0 mitigation), **12** elsewhere in Luzerne County (1 mitigation), and **9** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Crestwood Radon And Environmental
 
-116 S Main Rd, Mountain Top, PA  
-☎ [(570) 747-2366](tel:5707472366)  
-✉ [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
+✓ PA DEP certifiedMitigation
 
-5 DEP-certified individuals
+Mountain Top5 certified people
+
+#### Address
+
+* 116 S Main Rd, Mountain Top, PA
+* ✉ [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
+
+#### Certified individuals
 
 * Bieski, Eric (mitigation #7724)
 * Button, Robert (mitigation #3720)
@@ -56,9 +75,13 @@ Nearest DEP-certified firms: **1** based in Wilkes-Barre (0 mitigation), **12** 
 * Kopeck, Edward (mitigation #7720)
 * Madden, Christopher (mitigation #7728)
 
-DEP cert IDs: mitigation #3720, mitigation #3721, mitigation #7720, mitigation #7724, mitigation #7726, mitigation #7728  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3720)
+#### DEP cert IDs
+
+mitigation #3720 · mitigation #3721 · mitigation #7720 · mitigation #7724 · mitigation #7726 · mitigation #7728
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3720)
+
+[**Call** (570) 747-2366](tel:5707472366)
 
 [See all firms near Wilkes-Barre →](https://radonroster.com/pa/city/wilkes-barre-pa/)
 
@@ -109,3 +132,29 @@ In PA DEP's test records, 18% of 6,150 basement tests with a Wilkes-Barre addres
 **How much does radon mitigation cost in Wilkes-Barre?**
 
 We don't have Wilkes-Barre-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
+
+Our advice
+
+## Before you hire in Wilkes-Barre
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Wilkes-Barre.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)

@@ -4,190 +4,259 @@ description: "9 PA DEP-certified radon firms in Lancaster County: 55% of basemen
 canonical: https://radonroster.com/pa/county/lancaster/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Lancaster County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Lancaster
 
 # Radon testing & mitigation in Lancaster County, PA
 
+55% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Lancaster County radon test data
 
-**55%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Lancaster**55%**
 
-**4.7 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.7**median basement pCi/L
 
 **109,372**basement tests on record
 
-**39%**first-floor tests ≥ 4 pCi/L  
-14,553 tests, median 2.7
+**#13**of 67 PA counties by share ≥ 4
 
-**#13 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **39%** of 14,553 tests ≥ 4 pCi/L, median 2.7
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **9 DEP-certified firms** have a business address in Lancaster County (3 offer mitigation), with 13 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=lancaster)
 
+[Mitigation3](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (3 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Rjh Radon Mitigation Inc
 
-Po Box 91, Akron, PA  
-☎ [(717) 859-6996](tel:7178596996)  
-✉ [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
+✓ PA DEP certifiedMitigation
 
-2 DEP-certified individuals
+Akron2 certified people
+
+#### Address
+
+* Po Box 91, Akron, PA
+* ✉ [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
+
+#### Certified individuals
 
 * Hoffman, Elliot (mitigation #3058)
 * Sauder, Keith (mitigation #7582)
 
-DEP cert IDs: mitigation #0565, mitigation #3058, mitigation #7582  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0565)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #0565 · mitigation #3058 · mitigation #7582
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0565)
+
+[**Call** (717) 859-6996](tel:7178596996)
 
 ### Fritsch, Andrew
 
-110 S Line Rd, Ephrata, PA  
-☎ [(717) 949-2011](tel:7179492011)  
-✉ [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)  
-🌐 [bauderbasement.com](https://bauderbasement.com/)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Ephrata1 certified person
+
+#### Address
+
+* 110 S Line Rd, Ephrata, PA
+* ✉ [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)
+* [bauderbasement.com](https://bauderbasement.com/)
+
+#### Certified individuals
 
 * Fritsch, Andrew (mitigation #3541)
 
-DEP cert IDs: mitigation #3541  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3541)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3541
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3541)
+
+[**Call** (717) 949-2011](tel:7179492011)
 
 ### Jk Mechanical Inc
 
-202 W Kendig Rd, Willow Street, PA  
-☎ [(717) 464-0111](tel:7174640111)  
-✉ [bshimp@jkmechanical.com](mailto:bshimp@jkmechanical.com)  
-✉ [serivce@jkmechanical.com](mailto:serivce@jkmechanical.com)  
-🌐 [jkmechanical.com](https://www.jkmechanical.com/)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Willow Street3 certified people
+
+#### Address
+
+* 202 W Kendig Rd, Willow Street, PA
+* ✉ [bshimp@jkmechanical.com](mailto:bshimp@jkmechanical.com)
+* ✉ [serivce@jkmechanical.com](mailto:serivce@jkmechanical.com)
+* [jkmechanical.com](https://www.jkmechanical.com/)
+
+#### Certified individuals
 
 * Salvatore, Alexander (mitigation #7729)
 * Salvatore, Andrew (mitigation #7730)
 * Shimp, Brian (testing #3747, mitigation #3747)
 
-DEP cert IDs: mitigation #3747, mitigation #3748, mitigation #7729, mitigation #7730, testing #3747  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3747)
+#### DEP cert IDs
+
+mitigation #3747 · mitigation #3748 · mitigation #7729 · mitigation #7730 · testing #3747
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3747)
+
+[**Call** (717) 464-0111](tel:7174640111)
 
 ## Radon testing (6 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Muehling, Matthew
 
-106 Canvasback Lane, Elizabethtown, PA  
-☎ [(717) 330-5658](tel:7173305658)  
-✉ [mgmuehling@gmail.com](mailto:mgmuehling@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Elizabethtown1 certified person
+
+#### Address
+
+* 106 Canvasback Lane, Elizabethtown, PA
+* ✉ [mgmuehling@gmail.com](mailto:mgmuehling@gmail.com)
+
+#### Certified individuals
 
 * Muehling, Matthew (testing #2795)
 
-DEP cert IDs: testing #2795  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2795)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2795
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2795)
+
+[**Call** (717) 330-5658](tel:7173305658)
 
 ### Precise Inspecting
 
-2105 W Ridge Dr, Lancaster, PA  
-☎ [(717) 808-5997](tel:7178085997)  
-✉ [bill@preciseinspecting.com](mailto:bill@preciseinspecting.com)  
-🌐 [preciseinspecting.com](https://www.preciseinspecting.com/)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+Lancaster2 certified people
+
+#### Address
+
+* 2105 W Ridge Dr, Lancaster, PA
+* ✉ [bill@preciseinspecting.com](mailto:bill@preciseinspecting.com)
+* [preciseinspecting.com](https://www.preciseinspecting.com/)
+
+#### Certified individuals
 
 * Haughery, Bill (testing #3295)
 * Haughery, Matt (testing #8900)
 
-DEP cert IDs: testing #3295, testing #3445, testing #8900  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3295)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3295 · testing #3445 · testing #8900
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3295)
+
+[**Call** (717) 808-5997](tel:7178085997)
 
 ### Carrozza, Jr., Anthony
 
-770 Fairview Rd, Mount Joy, PA  
-☎ [(717) 490-1126](tel:7174901126)  
-✉ [acarrozza369@comcast.net](mailto:acarrozza369@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mount Joy1 certified person
+
+#### Address
+
+* 770 Fairview Rd, Mount Joy, PA
+* ✉ [acarrozza369@comcast.net](mailto:acarrozza369@comcast.net)
+
+#### Certified individuals
 
 * Carrozza, Jr., Anthony (testing #2858)
 
-DEP cert IDs: testing #2858  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2858)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2858
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2858)
+
+[**Call** (717) 490-1126](tel:7174901126)
 
 ### Risk, Douglas
 
-230 Haines Station Rd, Peach Bottom, PA  
-☎ [(717) 519-7845](tel:7175197845)  
-✉ [dcrhomeinspection@gmail.com](mailto:dcrhomeinspection@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Peach Bottom1 certified person
+
+#### Address
+
+* 230 Haines Station Rd, Peach Bottom, PA
+* ✉ [dcrhomeinspection@gmail.com](mailto:dcrhomeinspection@gmail.com)
+
+#### Certified individuals
 
 * Risk, Douglas (testing #3599)
 
-DEP cert IDs: testing #3599  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3599)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3599
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3599)
+
+[**Call** (717) 519-7845](tel:7175197845)
 
 ### Schmidt Iii, Wolfgang
 
-335 Camargo Rd, Quarryville, PA  
-☎ [(717) 290-6777](tel:7172906777)  
-✉ [alliedhomeinspect@gmail.com](mailto:alliedhomeinspect@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Quarryville1 certified person
+
+#### Address
+
+* 335 Camargo Rd, Quarryville, PA
+* ✉ [alliedhomeinspect@gmail.com](mailto:alliedhomeinspect@gmail.com)
+
+#### Certified individuals
 
 * Schmidt Iii, Wolfgang (testing #3743)
 
-DEP cert IDs: testing #3743  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3743)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3743
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3743)
+
+[**Call** (717) 290-6777](tel:7172906777)
 
 ### Angelucci, Thomas
 
-424 E Church St, Stevens, PA  
-☎ [(717) 413-4582](tel:7174134582)  
-✉ [tom@inspectmyhomenow.com](mailto:tom@inspectmyhomenow.com)  
-🌐 [amerisurehomeinspection.com](https://www.amerisurehomeinspection.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Stevens1 certified person
+
+#### Address
+
+* 424 E Church St, Stevens, PA
+* ✉ [tom@inspectmyhomenow.com](mailto:tom@inspectmyhomenow.com)
+* [amerisurehomeinspection.com](https://www.amerisurehomeinspection.com/)
+
+#### Certified individuals
 
 * Angelucci, Thomas (testing #3283)
 
-DEP cert IDs: testing #3283  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3283)
+#### DEP cert IDs
+
+testing #3283
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3283)
+
+[**Call** (717) 413-4582](tel:7174134582)
 
 ## Neighboring counties
 
-[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms)
+[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -218,3 +287,29 @@ Detailed local guides: [How to find a radon expert in Lancaster](https://radonro
 **How much does radon mitigation cost in Lancaster County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/get-quotes/?county=lancaster)
+
+Our advice
+
+## Before you hire in Lancaster
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Lancaster.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=lancaster)

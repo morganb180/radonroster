@@ -4,13 +4,29 @@ description: "Chambersburg, PA radon guide: 59% of 9,035 basement tests at or ab
 canonical: https://radonroster.com/pa/city/chambersburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Chambersburg, PA](https://radonroster.com/pa/city/chambersburg-pa/)›Radon guide
 
 # How to find a radon expert in Chambersburg, PA
 
 About **59%** of basement tests in Chambersburg, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 9,035 tests in PA DEP's records. That's close to Franklin County as a whole (59%) and above the statewide share (37%). The median Chambersburg result (5.4 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Franklin County median is 5.2 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Chambersburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Chambersburg at a glance
+
+Chambersburg**59%**
+
+Franklin Co.**59%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.4**median pCi/L
+
+**9,035**tests on record
+
+**#1**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=chambersburg) [Browse all Chambersburg radon firms](https://radonroster.com/pa/city/chambersburg-pa/) · [Franklin County](https://radonroster.com/pa/county/franklin/)
 
@@ -87,3 +103,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=chambersburg)
+
+Our advice
+
+## Before you hire in Chambersburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Chambersburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=chambersburg)

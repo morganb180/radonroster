@@ -4,13 +4,29 @@ description: "Canonsburg, PA radon guide: 29% of 9,725 basement tests at or abov
 canonical: https://radonroster.com/pa/city/canonsburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Canonsburg, PA](https://radonroster.com/pa/city/canonsburg-pa/)›Radon guide
 
 # How to find a radon expert in Canonsburg, PA
 
 Canonsburg tests lower than much of Pennsylvania, with **29%** of 9,725 basement tests at or above 4 pCi/L. That still leaves 2,823 tests over the action level, so a low average doesn't clear any single house. That's below Washington County as a whole (34%) and below the statewide share (37%). The median Canonsburg result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Washington County median is 2.9 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Canonsburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Canonsburg at a glance
+
+Canonsburg**29%**
+
+Washington Co.**34%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.6**median pCi/L
+
+**9,725**tests on record
+
+**#23**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=canonsburg) [Browse all Canonsburg radon firms](https://radonroster.com/pa/city/canonsburg-pa/) · [Washington County](https://radonroster.com/pa/county/washington/)
 
@@ -37,17 +53,20 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **4** based in Canonsburg (0 mitigation), **3** elsewhere in Washington County (1 mitigation), and **12** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Home Radon Pros
 
-549 Mccombs Rd, Venetia, PA  
-☎ [(412) 584-0799](tel:4125840799)  
-✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)  
-✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)  
-🌐 [homeradonpros.com](https://www.homeradonpros.com/)
+✓ PA DEP certifiedMitigationTesting
 
-9 DEP-certified individuals
+Venetia9 certified people
+
+#### Address
+
+* 549 Mccombs Rd, Venetia, PA
+* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
+* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
+* [homeradonpros.com](https://www.homeradonpros.com/)
+
+#### Certified individuals
 
 * Anesin, Richard (mitigation #7704)
 * Broomhead, Steven (mitigation #7673)
@@ -59,9 +78,13 @@ Nearest DEP-certified firms: **4** based in Canonsburg (0 mitigation), **3** els
 * Mihalik, Joseph (mitigation #7264)
 * Moon, Ethan (mitigation #7718)
 
-DEP cert IDs: mitigation #3238, mitigation #3476, mitigation #7264, mitigation #7600, mitigation #7602, mitigation #7673, mitigation #7674, mitigation #7703, mitigation #7704, mitigation #7718, testing #3238  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+#### DEP cert IDs
+
+mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · mitigation #7602 · mitigation #7673 · mitigation #7674 · mitigation #7703 · mitigation #7704 · mitigation #7718 · testing #3238
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+
+[**Call** (412) 584-0799](tel:4125840799)
 
 [See all firms near Canonsburg →](https://radonroster.com/pa/city/canonsburg-pa/)
 
@@ -116,3 +139,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=canonsburg)
+
+Our advice
+
+## Before you hire in Canonsburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Canonsburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=canonsburg)

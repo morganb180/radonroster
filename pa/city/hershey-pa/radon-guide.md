@@ -4,13 +4,29 @@ description: "Hershey, PA radon guide: 41% of 8,814 basement tests at or above 4
 canonical: https://radonroster.com/pa/city/hershey-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Hershey](https://radonroster.com/pa/city/hershey-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Hershey, PA](https://radonroster.com/pa/city/hershey-pa/)›Radon guide
 
 # How to find a radon expert in Hershey, PA
 
 In Hershey, 8,814 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **41%** were at or above 4 pCi/L. That's below Dauphin County as a whole (51%) and above the statewide share (37%). The median Hershey result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Dauphin County median is 4.1 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Hershey municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Hershey at a glance
+
+Hershey**41%**
+
+Dauphin Co.**51%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.8**median pCi/L
+
+**8,814**tests on record
+
+**#14**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=hershey) [Browse all Hershey radon firms](https://radonroster.com/pa/city/hershey-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
 
@@ -41,84 +57,123 @@ Every firm listed for Hershey on Radon Roster shows its DEP IDs and a link to th
 
 Nearest DEP-certified firms: **1** based in Hershey (0 mitigation), **8** elsewhere in Dauphin County (5 mitigation), and **13** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Enviroquest, Inc.
 
-1738 N 3Rd St Ste A, Harrisburg, PA  
-☎ [(717) 233-6144](tel:7172336144)  
-✉ [evq@comcast.net](mailto:evq@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-4 DEP-certified individuals
+Harrisburg4 certified people
+
+#### Address
+
+* 1738 N 3Rd St Ste A, Harrisburg, PA
+* ✉ [evq@comcast.net](mailto:evq@comcast.net)
+
+#### Certified individuals
 
 * Durborow, Brent (testing #9068)
 * Miller, Cory (mitigation #7516)
 * Staz, Iii, John (testing #1512, mitigation #1512)
 * Staz, Michael (mitigation #7227)
 
-DEP cert IDs: mitigation #1512, mitigation #1725, mitigation #7227, mitigation #7516, testing #1512, testing #1725, testing #9068  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1512 · mitigation #1725 · mitigation #7227 · mitigation #7516 · testing #1512 · testing #1725 · testing #9068
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
+
+[**Call** (717) 233-6144](tel:7172336144)
 
 ### Enviroquest, Inc.
 
-1738 N. 3Rd St, Harrisburg, PA  
-☎ [(717) 233-6144](tel:7172336144)  
-✉ [evq@comcast.net](mailto:evq@comcast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Harrisburg1 certified person
+
+#### Address
+
+* 1738 N. 3Rd St, Harrisburg, PA
+* ✉ [evq@comcast.net](mailto:evq@comcast.net)
+
+#### Certified individuals
 
 * Durborow, Brent (mitigation #7458)
 
-DEP cert IDs: mitigation #7458  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #7458
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
+
+[**Call** (717) 233-6144](tel:7172336144)
 
 ### Radon, Joseph
 
-400 Market St, Harrisburg, PA  
-☎ [(717) 425-5365](tel:7174255365)  
-✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Harrisburg1 certified person
+
+#### Address
+
+* 400 Market St, Harrisburg, PA
+* ✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
+
+#### Certified individuals
 
 * Radon, Joseph (testing #1234, mitigation #1234)
 
-DEP cert IDs: mitigation #1234, testing #1234  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1234 · testing #1234
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
+
+[**Call** (717) 425-5365](tel:7174255365)
 
 ### Sipe, Steven
 
-69 Million Dollar Rd, Halifax, PA  
-☎ [(717) 425-0989](tel:7174250989)  
-✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Halifax1 certified person
+
+#### Address
+
+* 69 Million Dollar Rd, Halifax, PA
+* ✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
+
+#### Certified individuals
 
 * Sipe, Steven (testing #3287, mitigation #3287)
 
-DEP cert IDs: mitigation #3287, testing #3287  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3287 · testing #3287
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
+
+[**Call** (717) 425-0989](tel:7174250989)
 
 ### Zzzz Brp Demo Account
 
-Po Box 8469, Harrisburg, PA  
-☎ [(717) 425-5365](tel:7174255365)  
-✉ [macoons@pa.gov](mailto:macoons@pa.gov)
+✓ PA DEP certifiedMitigationTesting
 
-DEP cert IDs: mitigation #9999, testing #9999  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
+HarrisburgCertified firm
+
+#### Address
+
+* Po Box 8469, Harrisburg, PA
+* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
+
+#### Certified individuals
+
+* None listed separately
+
+#### DEP cert IDs
+
+mitigation #9999 · testing #9999
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
+
+[**Call** (717) 425-5365](tel:7174255365)
 
 [See all firms near Hershey →](https://radonroster.com/pa/city/hershey-pa/)
 
@@ -165,3 +220,29 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 **How do I find a certified radon expert in Hershey, PA?**
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Hershey and 8 more in Dauphin County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/get-quotes/?city=hershey)
+
+Our advice
+
+## Before you hire in Hershey
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Hershey.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=hershey)

@@ -4,172 +4,234 @@ description: "8 PA DEP-certified radon firms in York County: 56% of basement tes
 canonical: https://radonroster.com/pa/county/york/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › York County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›York
 
 # Radon testing & mitigation in York County, PA
 
+56% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## York County radon test data
 
-**56%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+York**56%**
 
-**4.9 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.9**median basement pCi/L
 
 **81,840**basement tests on record
 
-**33%**first-floor tests ≥ 4 pCi/L  
-10,682 tests, median 2.1
+**#7**of 67 PA counties by share ≥ 4
 
-**#7 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **33%** of 10,682 tests ≥ 4 pCi/L, median 2.1
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **8 DEP-certified firms** have a business address in York County (3 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=york)
 
+[Mitigation3](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (3 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Levine, Seymour
 
-198 Rose Hill Dr, New Cumberland, PA  
-☎ [(717) 576-9589](tel:7175769589)  
-✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+New Cumberland1 certified person
+
+#### Address
+
+* 198 Rose Hill Dr, New Cumberland, PA
+* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+
+#### Certified individuals
 
 * Levine, Seymour (testing #2735, mitigation #2735)
 
-DEP cert IDs: mitigation #2735, testing #2735  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2735 · testing #2735
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+
+[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
-247 Mine Bank Rd, Wellsville, PA  
-☎ [(717) 432-9575](tel:7174329575)  
-✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Wellsville1 certified person
+
+#### Address
+
+* 247 Mine Bank Rd, Wellsville, PA
+* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+
+#### Certified individuals
 
 * Meyer, Jr., Robert (testing #1800, mitigation #1800)
 
-DEP cert IDs: mitigation #1800, testing #1800  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1800 · testing #1800
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+
+[**Call** (717) 432-9575](tel:7174329575)
 
 ### Absolute Radon Mitigation, LLC
 
-800 Locust Grove Rd, York, PA  
-☎ [(717) 755-5398](tel:7177555398)  
-✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)  
-✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+York2 certified people
+
+#### Address
+
+* 800 Locust Grove Rd, York, PA
+* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
+* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+
+#### Certified individuals
 
 * Richard, Troy (mitigation #7244)
 * Schlaline, Jeffrey (testing #1965, mitigation #1965)
 
-DEP cert IDs: mitigation #1965, mitigation #1966, mitigation #7244, testing #1965  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+#### DEP cert IDs
+
+mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+
+[**Call** (717) 755-5398](tel:7177555398)
 
 ## Radon testing (5 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Haney, Shawn
 
-320 Walnut St., Wrightsville, PA  
-☎ [(717) 808-2551](tel:7178082551)  
-✉ [sj.haney@hotmail.com](mailto:sj.haney@hotmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Wrightsville1 certified person
+
+#### Address
+
+* 320 Walnut St., Wrightsville, PA
+* ✉ [sj.haney@hotmail.com](mailto:sj.haney@hotmail.com)
+
+#### Certified individuals
 
 * Haney, Shawn (testing #3093)
 
-DEP cert IDs: testing #3093  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3093)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3093
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3093)
+
+[**Call** (717) 808-2551](tel:7178082551)
 
 ### Hoffman, Dan
 
-118 N Manheim St, York, PA  
-☎ [(717) 978-0191](tel:7179780191)  
-✉ [tekinspectionyork@gmail.com](mailto:tekinspectionyork@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+York1 certified person
+
+#### Address
+
+* 118 N Manheim St, York, PA
+* ✉ [tekinspectionyork@gmail.com](mailto:tekinspectionyork@gmail.com)
+
+#### Certified individuals
 
 * Hoffman, Dan (testing #3493)
 
-DEP cert IDs: testing #3493  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3493)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3493
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3493)
+
+[**Call** (717) 978-0191](tel:7179780191)
 
 ### Homechek Inc
 
-2575 Eastern Blvd Ste 210, York, PA  
-☎ [(717) 764-1920](tel:7177641920)  
-✉ [tate@yourinpectionpeople.com](mailto:tate@yourinpectionpeople.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+York1 certified person
+
+#### Address
+
+* 2575 Eastern Blvd Ste 210, York, PA
+* ✉ [tate@yourinpectionpeople.com](mailto:tate@yourinpectionpeople.com)
+
+#### Certified individuals
 
 * Kruszon, Tate (testing #8760)
 
-DEP cert IDs: testing #8760  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8760)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8760
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8760)
+
+[**Call** (717) 764-1920](tel:7177641920)
 
 ### Homechek, Inc.
 
-2575 Eastern Blvd, York, PA  
-☎ [(717) 764-1920](tel:7177641920)  
-✉ [alex@yourinspectionpeople.com](mailto:alex@yourinspectionpeople.com)  
-✉ [matt@yourinspectionpeople.com](mailto:matt@yourinspectionpeople.com)  
-🌐 [yourinspectionpeople.com](https://yourinspectionpeople.com/)
+✓ PA DEP certifiedTesting
 
-4 DEP-certified individuals
+York4 certified people
+
+#### Address
+
+* 2575 Eastern Blvd, York, PA
+* ✉ [alex@yourinspectionpeople.com](mailto:alex@yourinspectionpeople.com)
+* ✉ [matt@yourinspectionpeople.com](mailto:matt@yourinspectionpeople.com)
+* [yourinspectionpeople.com](https://yourinspectionpeople.com/)
+
+#### Certified individuals
 
 * Hodges, Matt (testing #8438)
 * Johnson, Steven (testing #1630)
 * Murog, Alex (testing #8699)
 * Wilson, Nicholas (testing #9130)
 
-DEP cert IDs: testing #1630, testing #1631, testing #8438, testing #8699, testing #9130  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1630)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #1630 · testing #1631 · testing #8438 · testing #8699 · testing #9130
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1630)
+
+[**Call** (717) 764-1920](tel:7177641920)
 
 ### Unger, Isaiah
 
-613 Edgewood Rd, York, PA  
-☎ [(410) 357-1124](tel:4103571124)  
-✉ [isaiah@idhomeinspections.org](mailto:isaiah@idhomeinspections.org)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+York1 certified person
+
+#### Address
+
+* 613 Edgewood Rd, York, PA
+* ✉ [isaiah@idhomeinspections.org](mailto:isaiah@idhomeinspections.org)
+
+#### Certified individuals
 
 * Unger, Isaiah (testing #3674)
 
-DEP cert IDs: testing #3674  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3674)
+#### DEP cert IDs
+
+testing #3674
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3674)
+
+[**Call** (410) 357-1124](tel:4103571124)
 
 ## Neighboring counties
 
-[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms)
+[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -200,3 +262,29 @@ Detailed local guides: [How to find a radon expert in York](https://radonroster.
 **How much does radon mitigation cost in York County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?county=york)
+
+Our advice
+
+## Before you hire in York
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve York.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=york)

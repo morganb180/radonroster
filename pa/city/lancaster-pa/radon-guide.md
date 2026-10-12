@@ -4,13 +4,29 @@ description: "Lancaster, PA radon guide: 51% of 37,640 basement tests at or abov
 canonical: https://radonroster.com/pa/city/lancaster-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Lancaster, PA](https://radonroster.com/pa/city/lancaster-pa/)›Radon guide
 
 # How to find a radon expert in Lancaster, PA
 
 About **51%** of basement tests in Lancaster, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 37,640 tests in PA DEP's records. That's below Lancaster County as a whole (55%) and above the statewide share (37%). The median Lancaster result (4.1 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Lancaster County median is 4.7 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Lancaster municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Lancaster at a glance
+
+Lancaster**51%**
+
+Lancaster Co.**55%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.1**median pCi/L
+
+**37,640**tests on record
+
+**#7**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=lancaster) [Browse all Lancaster radon firms](https://radonroster.com/pa/city/lancaster-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
 
@@ -37,59 +53,80 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **1** based in Lancaster (0 mitigation), **8** elsewhere in Lancaster County (3 mitigation), and **17** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Fritsch, Andrew
 
-110 S Line Rd, Ephrata, PA  
-☎ [(717) 949-2011](tel:7179492011)  
-✉ [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)  
-🌐 [bauderbasement.com](https://bauderbasement.com/)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Ephrata1 certified person
+
+#### Address
+
+* 110 S Line Rd, Ephrata, PA
+* ✉ [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)
+* [bauderbasement.com](https://bauderbasement.com/)
+
+#### Certified individuals
 
 * Fritsch, Andrew (mitigation #3541)
 
-DEP cert IDs: mitigation #3541  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3541)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3541
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3541)
+
+[**Call** (717) 949-2011](tel:7179492011)
 
 ### Jk Mechanical Inc
 
-202 W Kendig Rd, Willow Street, PA  
-☎ [(717) 464-0111](tel:7174640111)  
-✉ [bshimp@jkmechanical.com](mailto:bshimp@jkmechanical.com)  
-✉ [serivce@jkmechanical.com](mailto:serivce@jkmechanical.com)  
-🌐 [jkmechanical.com](https://www.jkmechanical.com/)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Willow Street3 certified people
+
+#### Address
+
+* 202 W Kendig Rd, Willow Street, PA
+* ✉ [bshimp@jkmechanical.com](mailto:bshimp@jkmechanical.com)
+* ✉ [serivce@jkmechanical.com](mailto:serivce@jkmechanical.com)
+* [jkmechanical.com](https://www.jkmechanical.com/)
+
+#### Certified individuals
 
 * Salvatore, Alexander (mitigation #7729)
 * Salvatore, Andrew (mitigation #7730)
 * Shimp, Brian (testing #3747, mitigation #3747)
 
-DEP cert IDs: mitigation #3747, mitigation #3748, mitigation #7729, mitigation #7730, testing #3747  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3747)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3747 · mitigation #3748 · mitigation #7729 · mitigation #7730 · testing #3747
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3747)
+
+[**Call** (717) 464-0111](tel:7174640111)
 
 ### Rjh Radon Mitigation Inc
 
-Po Box 91, Akron, PA  
-☎ [(717) 859-6996](tel:7178596996)  
-✉ [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
+✓ PA DEP certifiedMitigation
 
-2 DEP-certified individuals
+Akron2 certified people
+
+#### Address
+
+* Po Box 91, Akron, PA
+* ✉ [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
+
+#### Certified individuals
 
 * Hoffman, Elliot (mitigation #3058)
 * Sauder, Keith (mitigation #7582)
 
-DEP cert IDs: mitigation #0565, mitigation #3058, mitigation #7582  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0565)
+#### DEP cert IDs
+
+mitigation #0565 · mitigation #3058 · mitigation #7582
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0565)
+
+[**Call** (717) 859-6996](tel:7178596996)
 
 [See all firms near Lancaster →](https://radonroster.com/pa/city/lancaster-pa/)
 
@@ -141,3 +178,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lancaster)
+
+Our advice
+
+## Before you hire in Lancaster
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Lancaster.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=lancaster)

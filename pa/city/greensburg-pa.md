@@ -4,424 +4,587 @@ description: "39% of 15,223 basement radon tests in Greensburg, PA were at or ab
 canonical: https://radonroster.com/pa/city/greensburg-pa/
 ---
 
-[Home](https://radonroster.com/) › [Cities](https://radonroster.com/pa/cities/) › Greensburg
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›Greensburg
 
 # Radon testing & mitigation in Greensburg, PA
 
 Greensburg sits in Westmoreland County. In the PA DEP test dataset, 15,223 basement radon tests carry a Greensburg address. Their median was **3.1 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Westmoreland County it was 40%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
-Below are the PA DEP-certified firms with a business address in Greensburg, then other firms in Westmoreland County, then mitigation firms in the counties next door. Certified pros often travel, so ask each one whether they cover your street.
+## Greensburg radon test data
+
+Greensburg**39%**
+
+Westmoreland Co.**40%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.1**median pCi/L
+
+**15,223**tests on record
+
+**3**firms based here
 
 City figures come from the municipality / mailing-address name in [PA DEP's Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (computed 2026-10-11). They count tests, not homes.
 
-[**Read the Greensburg radon hiring guide →**](https://radonroster.com/pa/city/greensburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
+Below are the PA DEP-certified firms with a business address in Greensburg, then other firms in Westmoreland County, then mitigation firms in the counties next door. Certified pros often travel, so ask each one whether they cover your street.
 
-[Get free quotes in Greensburg](https://radonroster.com/get-quotes/?city=greensburg)
+[**Read the Greensburg radon hiring guide →**](https://radonroster.com/pa/city/greensburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
 ## Firms based in Greensburg (3)
 
+[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Petrill, Jerry A.
 
-290 Forbes Trail Rd, Greensburg, PA  
-☎ [(724) 289-8632](tel:7242898632)  
-✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Greensburg1 certified person
+
+#### Address
+
+* 290 Forbes Trail Rd, Greensburg, PA
+* ✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
+
+#### Certified individuals
 
 * Petrill, Jerry A. (mitigation #1801)
 
-DEP cert IDs: mitigation #1801  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
+#### DEP cert IDs
+
+mitigation #1801
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
+
+[**Call** (724) 289-8632](tel:7242898632)
 
 ## Radon testing (2 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Joseph, Andrew
 
-1103 Hemingway Dr, Greensburg, PA  
-☎ [(724) 217-8723](tel:7242178723)  
-✉ [essentialinspectionservices@gmail.com](mailto:essentialinspectionservices@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Greensburg1 certified person
+
+#### Address
+
+* 1103 Hemingway Dr, Greensburg, PA
+* ✉ [essentialinspectionservices@gmail.com](mailto:essentialinspectionservices@gmail.com)
+
+#### Certified individuals
 
 * Joseph, Andrew (testing #3299)
 
-DEP cert IDs: testing #3299  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3299)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3299
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3299)
+
+[**Call** (724) 217-8723](tel:7242178723)
 
 ### Thomas, Christopher
 
-640 Keystone St, Greensburg, PA  
-☎ [(724) 836-0328](tel:7248360328)  
-✉ [chris@a-ztech.us](mailto:chris@a-ztech.us)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Greensburg1 certified person
+
+#### Address
+
+* 640 Keystone St, Greensburg, PA
+* ✉ [chris@a-ztech.us](mailto:chris@a-ztech.us)
+
+#### Certified individuals
 
 * Thomas, Christopher (testing #3646)
 
-DEP cert IDs: testing #3646  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3646)
+#### DEP cert IDs
+
+testing #3646
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3646)
+
+[**Call** (724) 836-0328](tel:7248360328)
 
 ## Elsewhere in Westmoreland County (14)
 
+[Mitigation4](#county-mitigation)[Testing10](#county-testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (4 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Main Street Radon Remediation
 
-13610 Lincoln Way, Irwin, PA  
-☎ [(724) 744-8006](tel:7247448006)  
-✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Irwin1 certified person
+
+#### Address
+
+* 13610 Lincoln Way, Irwin, PA
+* ✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
+
+#### Certified individuals
 
 * Warhold, Chad (testing #3689, mitigation #3689)
 
-DEP cert IDs: mitigation #3689, mitigation #3690, testing #3689, testing #3690  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3689 · mitigation #3690 · testing #3689 · testing #3690
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
+
+[**Call** (724) 744-8006](tel:7247448006)
 
 ### Martin, Alexander
 
-156 N View Hts, New Florence, PA  
-☎ [(814) 418-7158](tel:8144187158)  
-✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+New Florence1 certified person
+
+#### Address
+
+* 156 N View Hts, New Florence, PA
+* ✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Martin, Alexander (testing #3631, mitigation #3631)
 
-DEP cert IDs: mitigation #3631, testing #3631  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3631 · testing #3631
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
+
+[**Call** (814) 418-7158](tel:8144187158)
 
 ### Restoration Contracting Services In
 
 ⚠ Name may be cut off in DEP records
 
-720 Anderson St, New Kensington, PA  
-☎ [(412) 379-3278](tel:4123793278)  
-✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)  
-🌐 [rcsrestoration.com](https://www.rcsrestoration.com/)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+New Kensington3 certified people
+
+#### Address
+
+* 720 Anderson St, New Kensington, PA
+* ✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
+* [rcsrestoration.com](https://www.rcsrestoration.com/)
+
+#### Certified individuals
 
 * Angelini, Kenneth (mitigation #7534)
 * Bonura, Jr., Michael (testing #3219, mitigation #3219)
 * Bonura, Zeke (mitigation #7650)
 
-DEP cert IDs: mitigation #3219, mitigation #3220, mitigation #7534, mitigation #7650, testing #3219  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3219 · mitigation #3220 · mitigation #7534 · mitigation #7650 · testing #3219
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
+
+[**Call** (412) 379-3278](tel:4123793278)
 
 ### Blank, Mathew
 
-120 Loyola Ln, Trafford, PA  
-☎ [(724) 515-9414](tel:7245159414)  
-✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Trafford1 certified person
+
+#### Address
+
+* 120 Loyola Ln, Trafford, PA
+* ✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
+
+#### Certified individuals
 
 * Blank, Mathew (mitigation #3696)
 
-DEP cert IDs: mitigation #3696  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
+#### DEP cert IDs
+
+mitigation #3696
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
+
+[**Call** (724) 515-9414](tel:7245159414)
 
 ## Radon testing (10 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Braden, Nathan
 
-307 Pandora Rd, Derry, PA  
-☎ [(724) 708-5361](tel:7247085361)  
-✉ [bradeninspectionsllc@gmail.com](mailto:bradeninspectionsllc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Derry1 certified person
+
+#### Address
+
+* 307 Pandora Rd, Derry, PA
+* ✉ [bradeninspectionsllc@gmail.com](mailto:bradeninspectionsllc@gmail.com)
+
+#### Certified individuals
 
 * Braden, Nathan (testing #3455)
 
-DEP cert IDs: testing #3455  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3455)
+#### DEP cert IDs
 
-✔ Certified by PA DEP LabTesting
+testing #3455
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3455)
+
+[**Call** (724) 708-5361](tel:7247085361)
 
 ### Rajkovich, Celia
 
-122 W 5Th Ave, Derry, PA  
-☎ [(724) 774-7535](tel:7247747535)  
-✉ [numberoneradontester@comcast.net](mailto:numberoneradontester@comcast.net)
+✓ PA DEP certifiedLabTesting
 
-1 DEP-certified individual
+Derry1 certified person
+
+#### Address
+
+* 122 W 5Th Ave, Derry, PA
+* ✉ [numberoneradontester@comcast.net](mailto:numberoneradontester@comcast.net)
+
+#### Certified individuals
 
 * Rajkovich, Celia (testing #2258, lab #2258)
 
-DEP cert IDs: lab #2258, testing #2258  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2258)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+lab #2258 · testing #2258
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2258)
+
+[**Call** (724) 774-7535](tel:7247747535)
 
 ### Brucker, Brian
 
-2376 Mount Vernon Ave, Export, PA  
-☎ [(724) 327-6624](tel:7243276624)  
-✉ [inspect@comcast.net](mailto:inspect@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Export1 certified person
+
+#### Address
+
+* 2376 Mount Vernon Ave, Export, PA
+* ✉ [inspect@comcast.net](mailto:inspect@comcast.net)
+
+#### Certified individuals
 
 * Brucker, Brian (testing #3001)
 
-DEP cert IDs: testing #3001  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3001)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3001
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3001)
+
+[**Call** (724) 327-6624](tel:7243276624)
 
 ### Sorovacu, Yvonne
 
-Po Box 137, Harrison City, PA  
-☎ [(724) 392-7023](tel:7243927023)  
-✉ [yvonne@protectpt.org](mailto:yvonne@protectpt.org)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Harrison City1 certified person
+
+#### Address
+
+* Po Box 137, Harrison City, PA
+* ✉ [yvonne@protectpt.org](mailto:yvonne@protectpt.org)
+
+#### Certified individuals
 
 * Sorovacu, Yvonne (testing #3660)
 
-DEP cert IDs: testing #3660  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3660)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3660
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3660)
+
+[**Call** (724) 392-7023](tel:7243927023)
 
 ### Grove, Thomas
 
-118 Dolores Dr, Irwin, PA  
-☎ [(412) 554-0634](tel:4125540634)  
-✉ [tomgrove@comcast.net](mailto:tomgrove@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Irwin1 certified person
+
+#### Address
+
+* 118 Dolores Dr, Irwin, PA
+* ✉ [tomgrove@comcast.net](mailto:tomgrove@comcast.net)
+
+#### Certified individuals
 
 * Grove, Thomas (testing #3025)
 
-DEP cert IDs: testing #3025  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3025)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3025
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3025)
+
+[**Call** (412) 554-0634](tel:4125540634)
 
 ### Liberty Inspectors
 
-2460 Devlin Ct, North Huntingdon, PA  
-☎ [(412) 303-8588](tel:4123038588)  
-✉ [info@libertyinspectors.com](mailto:info@libertyinspectors.com)  
-🌐 [libertyinspectors.com](https://libertyinspectors.com/)
+✓ PA DEP certifiedTesting
 
-4 DEP-certified individuals
+North Huntingdon4 certified people
+
+#### Address
+
+* 2460 Devlin Ct, North Huntingdon, PA
+* ✉ [info@libertyinspectors.com](mailto:info@libertyinspectors.com)
+* [libertyinspectors.com](https://libertyinspectors.com/)
+
+#### Certified individuals
 
 * Bechtold, Terry (testing #3363)
 * Guglielmo, Dante (testing #9045)
 * King, Jonathan (testing #9125)
 * Metzgar, Elijah (testing #8908)
 
-DEP cert IDs: testing #3363, testing #3394, testing #8908, testing #9045, testing #9125  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3363)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3363 · testing #3394 · testing #8908 · testing #9045 · testing #9125
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3363)
+
+[**Call** (412) 303-8588](tel:4123038588)
 
 ### Mcmanus, Patrick
 
-608 Cedardale Dr, North Huntingdon, PA  
-☎ [(724) 515-2067](tel:7245152067)  
-✉ [acloselookinspections@comcast.net](mailto:acloselookinspections@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+North Huntingdon1 certified person
+
+#### Address
+
+* 608 Cedardale Dr, North Huntingdon, PA
+* ✉ [acloselookinspections@comcast.net](mailto:acloselookinspections@comcast.net)
+
+#### Certified individuals
 
 * Mcmanus, Patrick (testing #3264)
 
-DEP cert IDs: testing #3264  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3264)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3264
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3264)
+
+[**Call** (724) 515-2067](tel:7245152067)
 
 ### Helman, Jonathan J
 
-189 Valley View Dr, Rostraver Twp, PA  
-☎ [(412) 897-7877](tel:4128977877)  
-✉ [helmanhomeinspections@gmail.com](mailto:helmanhomeinspections@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Rostraver Twp1 certified person
+
+#### Address
+
+* 189 Valley View Dr, Rostraver Twp, PA
+* ✉ [helmanhomeinspections@gmail.com](mailto:helmanhomeinspections@gmail.com)
+
+#### Certified individuals
 
 * Helman, Jonathan J (testing #3547)
 
-DEP cert IDs: testing #3547  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3547)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3547
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3547)
+
+[**Call** (412) 897-7877](tel:4128977877)
 
 ### Cole, Bryan
 
-317 Mcwilliams Rd, Trafford, PA  
-☎ [(412) 373-9505](tel:4123739505)  
-✉ [homecheckbc@aol.com](mailto:homecheckbc@aol.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Trafford1 certified person
+
+#### Address
+
+* 317 Mcwilliams Rd, Trafford, PA
+* ✉ [homecheckbc@aol.com](mailto:homecheckbc@aol.com)
+
+#### Certified individuals
 
 * Cole, Bryan (testing #1656)
 
-DEP cert IDs: testing #1656  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1656)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #1656
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1656)
+
+[**Call** (412) 373-9505](tel:4123739505)
 
 ### Lucas, Donald
 
-4 N 3Rd St, Youngwood, PA  
-☎ [(833) 279-1758](tel:8332791758)  
-✉ [scott@inspectrahome.com](mailto:scott@inspectrahome.com)  
-🌐 [inspectrahome.com](https://www.inspectrahome.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Youngwood1 certified person
+
+#### Address
+
+* 4 N 3Rd St, Youngwood, PA
+* ✉ [scott@inspectrahome.com](mailto:scott@inspectrahome.com)
+* [inspectrahome.com](https://www.inspectrahome.com/)
+
+#### Certified individuals
 
 * Lucas, Donald (testing #3662)
 
-DEP cert IDs: testing #3662  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3662)
+#### DEP cert IDs
+
+testing #3662
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3662)
+
+[**Call** (833) 279-1758](tel:8332791758)
 
 ## Mitigation firms in neighboring counties (6)
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Bacchus, Brian C.
 
-Allegheny County
+✓ PA DEP certifiedMitigationTestingAllegheny County
 
-125 Twin Oaks Dr, Wexford, PA  
-☎ [(724) 940-3366](tel:7249403366)  
-✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
+Wexford1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 125 Twin Oaks Dr, Wexford, PA
+* ✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
+
+#### Certified individuals
 
 * Bacchus, Brian C. (testing #1771, mitigation #1771)
 
-DEP cert IDs: mitigation #1771, testing #1771  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1771 · testing #1771
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
+
+[**Call** (724) 940-3366](tel:7249403366)
 
 ### Buffone, Steven
 
-Allegheny County
+✓ PA DEP certifiedMitigationTestingAllegheny County
 
-301 S Hills Vlg, Pittsburgh, PA  
-☎ [(330) 717-4061](tel:3307174061)  
-✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
+Pittsburgh1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 301 S Hills Vlg, Pittsburgh, PA
+* ✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
+
+#### Certified individuals
 
 * Buffone, Steven (testing #3700, mitigation #3700)
 
-DEP cert IDs: mitigation #3700, testing #3700  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3700 · testing #3700
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
+
+[**Call** (330) 717-4061](tel:3307174061)
 
 ### Shaffer, Jon
 
-Allegheny County
+✓ PA DEP certifiedMitigationAllegheny County
 
-1115 Cornell St, Pittsburgh, PA  
-☎ [(724) 772-2200](tel:7247722200)  
-✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
+Pittsburgh1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 1115 Cornell St, Pittsburgh, PA
+* ✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
+
+#### Certified individuals
 
 * Shaffer, Jon (mitigation #2499)
 
-DEP cert IDs: mitigation #2499  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2499
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
+
+[**Call** (724) 772-2200](tel:7247722200)
 
 ### Steel City Radon
 
-Allegheny County
+✓ PA DEP certifiedMitigationAllegheny County
 
-1223 Southgate Dr, Pittsburgh, PA  
-☎ [(412) 851-4231](tel:4128514231)  
-✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
+Pittsburgh2 certified people
 
-2 DEP-certified individuals
+#### Address
+
+* 1223 Southgate Dr, Pittsburgh, PA
+* ✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
+
+#### Certified individuals
 
 * Nowicki, Michael (mitigation #2038)
 * Nowicki, Susan (mitigation #7315)
 
-DEP cert IDs: mitigation #2002, mitigation #2038, mitigation #7315  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2002 · mitigation #2038 · mitigation #7315
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
+
+[**Call** (412) 851-4231](tel:4128514231)
 
 ### Carpenter, Keith
 
-Cambria County
+✓ PA DEP certifiedMitigationCambria County
 
-124 Old Colony Dr, Johnstown, PA  
-☎ [(814) 525-0895](tel:8145250895)  
-✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
+Johnstown1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 124 Old Colony Dr, Johnstown, PA
+* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
+
+#### Certified individuals
 
 * Carpenter, Keith (mitigation #2037)
 
-DEP cert IDs: mitigation #2037  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2037
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
+
+[**Call** (814) 525-0895](tel:8145250895)
 
 ### Home Radon Pros
 
-Washington County
+✓ PA DEP certifiedMitigationTestingWashington County
 
-549 Mccombs Rd, Venetia, PA  
-☎ [(412) 584-0799](tel:4125840799)  
-✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)  
-✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)  
-🌐 [homeradonpros.com](https://www.homeradonpros.com/)
+Venetia9 certified people
 
-9 DEP-certified individuals
+#### Address
+
+* 549 Mccombs Rd, Venetia, PA
+* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
+* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
+* [homeradonpros.com](https://www.homeradonpros.com/)
+
+#### Certified individuals
 
 * Anesin, Richard (mitigation #7704)
 * Broomhead, Steven (mitigation #7673)
@@ -433,24 +596,56 @@ Washington County
 * Mihalik, Joseph (mitigation #7264)
 * Moon, Ethan (mitigation #7718)
 
-DEP cert IDs: mitigation #3238, mitigation #3476, mitigation #7264, mitigation #7600, mitigation #7602, mitigation #7673, mitigation #7674, mitigation #7703, mitigation #7704, mitigation #7718, testing #3238  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+#### DEP cert IDs
+
+mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · mitigation #7602 · mitigation #7673 · mitigation #7674 · mitigation #7703 · mitigation #7704 · mitigation #7718 · testing #3238
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
+
+[**Call** (412) 584-0799](tel:4125840799)
 
 ## Westmoreland County radon test data
 
-**40%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Westmoreland**40%**
 
-**3.2 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.2**median basement pCi/L
 
 **66,800**basement tests on record
 
-**25%**first-floor tests ≥ 4 pCi/L  
-4,116 tests, median 1.9
+**#48**of 67 PA counties by share ≥ 4
 
-**#48 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **25%** of 4,116 tests ≥ 4 pCi/L, median 1.9
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 [All Westmoreland County listings →](https://radonroster.com/pa/county/westmoreland/) · [Greensburg radon guide](https://radonroster.com/pa/city/greensburg-pa/radon-guide/)
+
+**Want firms to contact you?**One request to Greensburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)
+
+Our advice
+
+## Before you hire in Greensburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Greensburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)

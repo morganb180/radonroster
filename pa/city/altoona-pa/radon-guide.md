@@ -4,13 +4,29 @@ description: "Altoona, PA radon guide: 39% of 7,523 basement tests at or above 4
 canonical: https://radonroster.com/pa/city/altoona-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Altoona](https://radonroster.com/pa/city/altoona-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Altoona, PA](https://radonroster.com/pa/city/altoona-pa/)›Radon guide
 
 # How to find a radon expert in Altoona, PA
 
 In Altoona, 7,523 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Blair County as a whole (43%) and about level with the statewide share (37%). The median Altoona result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Blair County median is 3.2 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Altoona municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Altoona at a glance
+
+Altoona**39%**
+
+Blair Co.**43%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.8**median pCi/L
+
+**7,523**tests on record
+
+**#15**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=altoona) [Browse all Altoona radon firms](https://radonroster.com/pa/city/altoona-pa/) · [Blair County](https://radonroster.com/pa/county/blair/)
 
@@ -41,22 +57,29 @@ Every firm listed for Altoona on Radon Roster shows its DEP IDs and a link to th
 
 Nearest DEP-certified firms: **1** based in Altoona (1 mitigation), **2** elsewhere in Blair County (0 mitigation), and **4** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Helping Solutions LLC
 
-3499 Kettle Rd, Altoona, PA  
-☎ [(814) 934-0905](tel:8149340905)  
-✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Altoona2 certified people
+
+#### Address
+
+* 3499 Kettle Rd, Altoona, PA
+* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
+
+#### Certified individuals
 
 * Ake, Justin (testing #2854, mitigation #2854)
 * Link, Richard (testing #9075)
 
-DEP cert IDs: mitigation #2854, testing #2854, testing #3404, testing #9075  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
+#### DEP cert IDs
+
+mitigation #2854 · testing #2854 · testing #3404 · testing #9075
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
+
+[**Call** (814) 934-0905](tel:8149340905)
 
 [See all firms near Altoona →](https://radonroster.com/pa/city/altoona-pa/)
 
@@ -103,3 +126,29 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 **How do I find a certified radon expert in Altoona, PA?**
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Altoona and 2 more in Blair County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Want firms to contact you?**One request to Altoona mitigators[Request quotes](https://radonroster.com/get-quotes/?city=altoona)
+
+Our advice
+
+## Before you hire in Altoona
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Altoona.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=altoona)

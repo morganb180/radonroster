@@ -4,69 +4,89 @@ description: "2 PA DEP-certified radon firms in Snyder County: 50% of basement t
 canonical: https://radonroster.com/pa/county/snyder/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Snyder County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Snyder
 
 # Radon testing & mitigation in Snyder County, PA
 
+50% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Snyder County radon test data
 
-**50%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Snyder**50%**
 
-**4.0 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.0**median basement pCi/L
 
 **4,749**basement tests on record
 
-**20%**first-floor tests ≥ 4 pCi/L  
-844 tests, median 1.6
+**#22**of 67 PA counties by share ≥ 4
 
-**#22 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **20%** of 844 tests ≥ 4 pCi/L, median 1.6
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Snyder County (2 offer mitigation), with 3 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=snyder)
 
+[Mitigation2](#mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (2 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Radon Guys, LLC
 
-714 Bowersox Rd, Middleburg, PA  
-☎ [(570) 212-9870](tel:5702129870)  
-✉ [daniel@radonguysllc.com](mailto:daniel@radonguysllc.com)  
-🌐 [radonguysllc.com](https://www.radonguysllc.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Middleburg1 certified person
+
+#### Address
+
+* 714 Bowersox Rd, Middleburg, PA
+* ✉ [daniel@radonguysllc.com](mailto:daniel@radonguysllc.com)
+* [radonguysllc.com](https://www.radonguysllc.com/)
+
+#### Certified individuals
 
 * Rae, Daniel (testing #3717, mitigation #3717)
 
-DEP cert IDs: mitigation #3717, mitigation #3718, testing #3717, testing #3718  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3717)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3717 · mitigation #3718 · testing #3717 · testing #3718
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3717)
+
+[**Call** (570) 212-9870](tel:5702129870)
 
 ### Penn Guard Radon Solutions
 
-806 9Th St, Selinsgrove, PA  
-☎ [(610) 496-9810](tel:6104969810)  
-✉ [jamie@dogtowncontracting.com](mailto:jamie@dogtowncontracting.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Selinsgrove2 certified people
+
+#### Address
+
+* 806 9Th St, Selinsgrove, PA
+* ✉ [jamie@dogtowncontracting.com](mailto:jamie@dogtowncontracting.com)
+
+#### Certified individuals
 
 * Bailor, Lucas (mitigation #7731, testing #9146)
 * Gentile, Jamie A. (testing #3761, mitigation #3761)
 
-DEP cert IDs: mitigation #3761, mitigation #3762, mitigation #7731, testing #3761, testing #3762, testing #9146  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3761)
+#### DEP cert IDs
+
+mitigation #3761 · mitigation #3762 · mitigation #7731 · testing #3761 · testing #3762 · testing #9146
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3761)
+
+[**Call** (610) 496-9810](tel:6104969810)
 
 ## Neighboring counties
 
-[Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms)
+[Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -91,3 +111,29 @@ With 50% of 4,749 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Snyder County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Snyder mitigators[Request quotes](https://radonroster.com/get-quotes/?county=snyder)
+
+Our advice
+
+## Before you hire in Snyder
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Snyder.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=snyder)

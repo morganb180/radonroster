@@ -4,65 +4,85 @@ description: "2 PA DEP-certified radon firms in Venango County: 46% of basement 
 canonical: https://radonroster.com/pa/county/venango/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Venango County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Venango
 
 # Radon testing & mitigation in Venango County, PA
 
+46% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Venango County radon test data
 
-**46%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Venango**46%**
 
-**3.6 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.6**median basement pCi/L
 
 **5,018**basement tests on record
 
-**22%**first-floor tests ≥ 4 pCi/L  
-800 tests, median 1.5
+**#35**of 67 PA counties by share ≥ 4
 
-**#35 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **22%** of 800 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Venango County (0 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=venango)
 
-## Radon testing (2 firms)
+Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (2 firms)
 
 ### Dillion, Jason
 
-190 Colbert Ave, Oil City, PA  
-☎ [(814) 671-3303](tel:8146713303)  
-✉ [jason.dillion@venangocountypa.gov](mailto:jason.dillion@venangocountypa.gov)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Oil City1 certified person
+
+#### Address
+
+* 190 Colbert Ave, Oil City, PA
+* ✉ [jason.dillion@venangocountypa.gov](mailto:jason.dillion@venangocountypa.gov)
+
+#### Certified individuals
 
 * Dillion, Jason (testing #3659)
 
-DEP cert IDs: testing #3659  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3659)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3659
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3659)
+
+[**Call** (814) 671-3303](tel:8146713303)
 
 ### Shaw, Dustin
 
-32 S West Blvd, Seneca, PA  
-☎ [(814) 758-3022](tel:8147583022)  
-✉ [skywardimageryllc@gmail.com](mailto:skywardimageryllc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Seneca1 certified person
+
+#### Address
+
+* 32 S West Blvd, Seneca, PA
+* ✉ [skywardimageryllc@gmail.com](mailto:skywardimageryllc@gmail.com)
+
+#### Certified individuals
 
 * Shaw, Dustin (testing #3750)
 
-DEP cert IDs: testing #3750  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3750)
+#### DEP cert IDs
+
+testing #3750
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3750)
+
+[**Call** (814) 758-3022](tel:8147583022)
 
 ## Neighboring counties
 
-[Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms)
+[Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -87,3 +107,29 @@ With 46% of 5,018 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Venango County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Venango mitigators[Request quotes](https://radonroster.com/get-quotes/?county=venango)
+
+Our advice
+
+## Before you hire in Venango
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Venango.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=venango)

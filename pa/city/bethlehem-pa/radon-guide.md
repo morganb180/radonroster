@@ -4,13 +4,29 @@ description: "Bethlehem, PA radon guide: 47% of 26,107 basement tests at or abov
 canonical: https://radonroster.com/pa/city/bethlehem-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Bethlehem, PA](https://radonroster.com/pa/city/bethlehem-pa/)›Radon guide
 
 # How to find a radon expert in Bethlehem, PA
 
 In Bethlehem, 26,107 basement radon tests in PA DEP's records give a median of **3.6 pCi/L**, and **47%** were at or above 4 pCi/L. That's close to Northampton County as a whole (48%) and above the statewide share (37%). The median Bethlehem result (3.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Northampton County median is 3.7 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Bethlehem municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Bethlehem at a glance
+
+Bethlehem**47%**
+
+Northampton Co.**48%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.6**median pCi/L
+
+**26,107**tests on record
+
+**#11**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=bethlehem) [Browse all Bethlehem radon firms](https://radonroster.com/pa/city/bethlehem-pa/) · [Northampton County](https://radonroster.com/pa/county/northampton/)
 
@@ -37,21 +53,28 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **1** based in Bethlehem (0 mitigation), **6** elsewhere in Northampton County (1 mitigation), and **11** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Cruz, Luis
 
-4086 Sycamore Dr, Northampton, PA  
-☎ [(610) 615-0706](tel:6106150706)  
-✉ [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Northampton1 certified person
+
+#### Address
+
+* 4086 Sycamore Dr, Northampton, PA
+* ✉ [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Cruz, Luis (mitigation #3712)
 
-DEP cert IDs: mitigation #3712  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3712)
+#### DEP cert IDs
+
+mitigation #3712
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3712)
+
+[**Call** (610) 615-0706](tel:6106150706)
 
 [See all firms near Bethlehem →](https://radonroster.com/pa/city/bethlehem-pa/)
 
@@ -103,3 +126,29 @@ In PA DEP's test records, 47% of 26,107 basement tests with a Bethlehem address 
 **How much does radon mitigation cost in Bethlehem?**
 
 We don't have Bethlehem-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Bethlehem mitigators[Request quotes](https://radonroster.com/get-quotes/?city=bethlehem)
+
+Our advice
+
+## Before you hire in Bethlehem
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Bethlehem.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=bethlehem)

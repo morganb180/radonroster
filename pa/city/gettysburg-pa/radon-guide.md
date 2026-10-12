@@ -4,13 +4,29 @@ description: "Gettysburg, PA radon guide: 39% of 5,585 basement tests at or abov
 canonical: https://radonroster.com/pa/city/gettysburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Gettysburg, PA](https://radonroster.com/pa/city/gettysburg-pa/)›Radon guide
 
 # How to find a radon expert in Gettysburg, PA
 
 In Gettysburg, 5,585 basement radon tests in PA DEP's records give a median of **3.0 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Adams County as a whole (44%) and about level with the statewide share (37%). The median Gettysburg result (3.0 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Adams County median is 3.4 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Gettysburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Gettysburg at a glance
+
+Gettysburg**39%**
+
+Adams Co.**44%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.0**median pCi/L
+
+**5,585**tests on record
+
+**#16**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=gettysburg) [Browse all Gettysburg radon firms](https://radonroster.com/pa/city/gettysburg-pa/) · [Adams County](https://radonroster.com/pa/county/adams/)
 
@@ -42,16 +58,19 @@ General information, not legal advice.
 
 Nearest DEP-certified firms: **3** based in Gettysburg (1 mitigation), **3** elsewhere in Adams County (0 mitigation), and **7** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Radon Protection Services Of Gettysburg
 
-282 Longstreet Dr, Gettysburg, PA  
-☎ [(717) 334-3435](tel:7173343435)  
-✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)  
-🌐 [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
+✓ PA DEP certifiedMitigationTesting
 
-5 DEP-certified individuals
+Gettysburg5 certified people
+
+#### Address
+
+* 282 Longstreet Dr, Gettysburg, PA
+* ✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
+* [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
+
+#### Certified individuals
 
 * Anderson, Robert (testing #1688, mitigation #1688)
 * Caruso, John (testing #8714)
@@ -59,9 +78,13 @@ Nearest DEP-certified firms: **3** based in Gettysburg (1 mitigation), **3** els
 * Giuffreda, Matthew P. (mitigation #7624)
 * Gorman, Steven (testing #9067)
 
-DEP cert IDs: mitigation #0275, mitigation #1688, mitigation #7624, testing #0275, testing #1688, testing #8714, testing #9067, testing #9120  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
+#### DEP cert IDs
+
+mitigation #0275 · mitigation #1688 · mitigation #7624 · testing #0275 · testing #1688 · testing #8714 · testing #9067 · testing #9120
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
+
+[**Call** (717) 334-3435](tel:7173343435)
 
 [See all firms near Gettysburg →](https://radonroster.com/pa/city/gettysburg-pa/)
 
@@ -107,3 +130,29 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 **How do I find a certified radon expert in Gettysburg, PA?**
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 3 DEP-certified firms based in Gettysburg and 3 more in Adams County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)
+
+Our advice
+
+## Before you hire in Gettysburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Gettysburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)

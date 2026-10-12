@@ -4,13 +4,29 @@ description: "Harrisburg, PA radon guide: 52% of 38,427 basement tests at or abo
 canonical: https://radonroster.com/pa/city/harrisburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Harrisburg, PA](https://radonroster.com/pa/city/harrisburg-pa/)›Radon guide
 
 # How to find a radon expert in Harrisburg, PA
 
 About **52%** of basement tests in Harrisburg, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 38,427 tests in PA DEP's records. That's close to Dauphin County as a whole (51%) and above the statewide share (37%). The median Harrisburg result (4.3 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Dauphin County median is 4.1 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Harrisburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Harrisburg at a glance
+
+Harrisburg**52%**
+
+Dauphin Co.**51%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.3**median pCi/L
+
+**38,427**tests on record
+
+**#6**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=harrisburg) [Browse all Harrisburg radon firms](https://radonroster.com/pa/city/harrisburg-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
 
@@ -37,84 +53,123 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **6** based in Harrisburg (4 mitigation), **3** elsewhere in Dauphin County (1 mitigation), and **13** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Enviroquest, Inc.
 
-1738 N 3Rd St Ste A, Harrisburg, PA  
-☎ [(717) 233-6144](tel:7172336144)  
-✉ [evq@comcast.net](mailto:evq@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-4 DEP-certified individuals
+Harrisburg4 certified people
+
+#### Address
+
+* 1738 N 3Rd St Ste A, Harrisburg, PA
+* ✉ [evq@comcast.net](mailto:evq@comcast.net)
+
+#### Certified individuals
 
 * Durborow, Brent (testing #9068)
 * Miller, Cory (mitigation #7516)
 * Staz, Iii, John (testing #1512, mitigation #1512)
 * Staz, Michael (mitigation #7227)
 
-DEP cert IDs: mitigation #1512, mitigation #1725, mitigation #7227, mitigation #7516, testing #1512, testing #1725, testing #9068  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1512 · mitigation #1725 · mitigation #7227 · mitigation #7516 · testing #1512 · testing #1725 · testing #9068
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
+
+[**Call** (717) 233-6144](tel:7172336144)
 
 ### Enviroquest, Inc.
 
-1738 N. 3Rd St, Harrisburg, PA  
-☎ [(717) 233-6144](tel:7172336144)  
-✉ [evq@comcast.net](mailto:evq@comcast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Harrisburg1 certified person
+
+#### Address
+
+* 1738 N. 3Rd St, Harrisburg, PA
+* ✉ [evq@comcast.net](mailto:evq@comcast.net)
+
+#### Certified individuals
 
 * Durborow, Brent (mitigation #7458)
 
-DEP cert IDs: mitigation #7458  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #7458
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
+
+[**Call** (717) 233-6144](tel:7172336144)
 
 ### Radon, Joseph
 
-400 Market St, Harrisburg, PA  
-☎ [(717) 425-5365](tel:7174255365)  
-✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Harrisburg1 certified person
+
+#### Address
+
+* 400 Market St, Harrisburg, PA
+* ✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
+
+#### Certified individuals
 
 * Radon, Joseph (testing #1234, mitigation #1234)
 
-DEP cert IDs: mitigation #1234, testing #1234  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1234 · testing #1234
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
+
+[**Call** (717) 425-5365](tel:7174255365)
 
 ### Zzzz Brp Demo Account
 
-Po Box 8469, Harrisburg, PA  
-☎ [(717) 425-5365](tel:7174255365)  
-✉ [macoons@pa.gov](mailto:macoons@pa.gov)
+✓ PA DEP certifiedMitigationTesting
 
-DEP cert IDs: mitigation #9999, testing #9999  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
+HarrisburgCertified firm
 
-✔ Certified by PA DEP MitigationTesting
+#### Address
+
+* Po Box 8469, Harrisburg, PA
+* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
+
+#### Certified individuals
+
+* None listed separately
+
+#### DEP cert IDs
+
+mitigation #9999 · testing #9999
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
+
+[**Call** (717) 425-5365](tel:7174255365)
 
 ### Sipe, Steven
 
-69 Million Dollar Rd, Halifax, PA  
-☎ [(717) 425-0989](tel:7174250989)  
-✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Halifax1 certified person
+
+#### Address
+
+* 69 Million Dollar Rd, Halifax, PA
+* ✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
+
+#### Certified individuals
 
 * Sipe, Steven (testing #3287, mitigation #3287)
 
-DEP cert IDs: mitigation #3287, testing #3287  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
+#### DEP cert IDs
+
+mitigation #3287 · testing #3287
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
+
+[**Call** (717) 425-0989](tel:7174250989)
 
 [See all firms near Harrisburg →](https://radonroster.com/pa/city/harrisburg-pa/)
 
@@ -164,3 +219,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=harrisburg)
+
+Our advice
+
+## Before you hire in Harrisburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Harrisburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=harrisburg)

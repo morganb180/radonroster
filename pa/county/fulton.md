@@ -4,23 +4,27 @@ description: "0 PA DEP-certified radon firms in Fulton County: 70% of basement t
 canonical: https://radonroster.com/pa/county/fulton/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Fulton County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Fulton
 
 # Radon testing & mitigation in Fulton County, PA
 
+70% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 1 homes tested needs a fix.
+
 ## Fulton County radon test data
 
-**70%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Fulton**70%**
 
-**7.6 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**7.6**median basement pCi/L
 
 **707**basement tests on record
 
-**52%**first-floor tests ≥ 4 pCi/L  
-103 tests, median 4.1
+**#1**of 67 PA counties by share ≥ 4
 
-**#1 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **52%** of 103 tests ≥ 4 pCi/L, median 4.1
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
@@ -30,6 +34,32 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 ## Neighboring counties
 
-[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms)
+[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
+
+**Want firms to contact you?**One request to Fulton mitigators[Request quotes](https://radonroster.com/get-quotes/?county=fulton)
+
+Our advice
+
+## Before you hire in Fulton
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Fulton.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=fulton)

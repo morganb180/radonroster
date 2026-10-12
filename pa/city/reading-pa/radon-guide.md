@@ -4,13 +4,29 @@ description: "Reading, PA radon guide: 49% of 21,235 basement tests at or above 
 canonical: https://radonroster.com/pa/city/reading-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Reading](https://radonroster.com/pa/city/reading-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Reading, PA](https://radonroster.com/pa/city/reading-pa/)›Radon guide
 
 # How to find a radon expert in Reading, PA
 
 In Reading, 21,235 basement radon tests in PA DEP's records give a median of **3.8 pCi/L**, and **49%** were at or above 4 pCi/L. That's close to Berks County as a whole (51%) and above the statewide share (37%). The median Reading result (3.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Berks County median is 4.0 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Reading municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Reading at a glance
+
+Reading**49%**
+
+Berks Co.**51%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.8**median pCi/L
+
+**21,235**tests on record
+
+**#8**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=reading) [Browse all Reading radon firms](https://radonroster.com/pa/city/reading-pa/) · [Berks County](https://radonroster.com/pa/county/berks/)
 
@@ -42,71 +58,99 @@ Every firm listed for Reading on Radon Roster shows its DEP IDs and a link to th
 
 Nearest DEP-certified firms: **2** based in Reading (0 mitigation), **7** elsewhere in Berks County (4 mitigation), and **21** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Podolecki, Piotr
 
-11 Timber Dr, Alburtis, PA  
-☎ [(484) 547-3496](tel:4845473496)  
-✉ [radongone@ymail.com](mailto:radongone@ymail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Alburtis1 certified person
+
+#### Address
+
+* 11 Timber Dr, Alburtis, PA
+* ✉ [radongone@ymail.com](mailto:radongone@ymail.com)
+
+#### Certified individuals
 
 * Podolecki, Piotr (mitigation #2885)
 
-DEP cert IDs: mitigation #2885  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2885
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
+
+[**Call** (484) 547-3496](tel:4845473496)
 
 ### Rogers, Keith
 
-305 Cameron Dr, Douglassville, PA  
-☎ [(610) 575-2775](tel:6105752775)  
-✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Douglassville1 certified person
+
+#### Address
+
+* 305 Cameron Dr, Douglassville, PA
+* ✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
+
+#### Certified individuals
 
 * Rogers, Keith (mitigation #3540)
 
-DEP cert IDs: mitigation #3540  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3540
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
+
+[**Call** (610) 575-2775](tel:6105752775)
 
 ### S. J. Watras Inc
 
-32 Indian Ln, Boyertown, PA  
-☎ [(610) 367-5005](tel:6103675005)  
-✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Boyertown1 certified person
+
+#### Address
+
+* 32 Indian Ln, Boyertown, PA
+* ✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
+
+#### Certified individuals
 
 * Cameron, Paul (mitigation #7579)
 
-DEP cert IDs: mitigation #7579  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #7579
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
+
+[**Call** (610) 367-5005](tel:6103675005)
 
 ### S. J. Watras, Inc.
 
-32 Indian Ln, Boyertown, PA  
-☎ [(610) 367-5005](tel:6103675005)  
-✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Boyertown3 certified people
+
+#### Address
+
+* 32 Indian Ln, Boyertown, PA
+* ✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
+
+#### Certified individuals
 
 * Berry, James (mitigation #7580)
 * Watras, Michael (mitigation #7111)
 * Watras, Stanley J. (testing #1056, mitigation #1056)
 
-DEP cert IDs: mitigation #1056, mitigation #1057, mitigation #7111, mitigation #7580, testing #1056, testing #1057  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
+#### DEP cert IDs
+
+mitigation #1056 · mitigation #1057 · mitigation #7111 · mitigation #7580 · testing #1056 · testing #1057
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
+
+[**Call** (610) 367-5005](tel:6103675005)
 
 [See all firms near Reading →](https://radonroster.com/pa/city/reading-pa/)
 
@@ -153,3 +197,29 @@ In PA DEP's test records, 49% of 21,235 basement tests with a Reading address we
 **How much does radon mitigation cost in Reading?**
 
 We don't have Reading-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Reading mitigators[Request quotes](https://radonroster.com/get-quotes/?city=reading)
+
+Our advice
+
+## Before you hire in Reading
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Reading.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=reading)

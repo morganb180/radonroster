@@ -4,66 +4,86 @@ description: "2 PA DEP-certified radon firms in Armstrong County: 53% of basemen
 canonical: https://radonroster.com/pa/county/armstrong/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Armstrong County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Armstrong
 
 # Radon testing & mitigation in Armstrong County, PA
 
+53% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Armstrong County radon test data
 
-**53%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Armstrong**53%**
 
-**4.3 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.3**median basement pCi/L
 
 **4,627**basement tests on record
 
-**24%**first-floor tests ≥ 4 pCi/L  
-679 tests, median 1.7
+**#14**of 67 PA counties by share ≥ 4
 
-**#14 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **24%** of 679 tests ≥ 4 pCi/L, median 1.7
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Armstrong County (0 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=armstrong)
 
-## Radon testing (2 firms)
+Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (2 firms)
 
 ### Wolfe, Jr., Jerry
 
-97 Main St, Freeport, PA  
-☎ [(412) 770-6269](tel:4127706269)  
-✉ [wolfeinspections@gmail.com](mailto:wolfeinspections@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Freeport1 certified person
+
+#### Address
+
+* 97 Main St, Freeport, PA
+* ✉ [wolfeinspections@gmail.com](mailto:wolfeinspections@gmail.com)
+
+#### Certified individuals
 
 * Wolfe, Jr., Jerry (testing #3261)
 
-DEP cert IDs: testing #3261  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3261)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3261
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3261)
+
+[**Call** (412) 770-6269](tel:4127706269)
 
 ### Morrow, Robert
 
-150 River Rd, Templeton, PA  
-☎ [(412) 421-9100](tel:4124219100)  
-✉ [rob@inspectioneeringpgh.com](mailto:rob@inspectioneeringpgh.com)  
-🌐 [inspectioneeringpgh.com](https://www.inspectioneeringpgh.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Templeton1 certified person
+
+#### Address
+
+* 150 River Rd, Templeton, PA
+* ✉ [rob@inspectioneeringpgh.com](mailto:rob@inspectioneeringpgh.com)
+* [inspectioneeringpgh.com](https://www.inspectioneeringpgh.com/)
+
+#### Certified individuals
 
 * Morrow, Robert (testing #3100)
 
-DEP cert IDs: testing #3100  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3100)
+#### DEP cert IDs
+
+testing #3100
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3100)
+
+[**Call** (412) 421-9100](tel:4124219100)
 
 ## Neighboring counties
 
-[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms)
+[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -88,3 +108,29 @@ With 53% of 4,627 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Armstrong County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Armstrong mitigators[Request quotes](https://radonroster.com/get-quotes/?county=armstrong)
+
+Our advice
+
+## Before you hire in Armstrong
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Armstrong.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=armstrong)

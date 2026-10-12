@@ -4,81 +4,104 @@ description: "12 PA DEP-certified radon firms in Butler County: 47% of basement 
 canonical: https://radonroster.com/pa/county/butler/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Butler County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Butler
 
 # Radon testing & mitigation in Butler County, PA
 
+47% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Butler County radon test data
 
-**47%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Butler**47%**
 
-**3.6 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.6**median basement pCi/L
 
 **45,628**basement tests on record
 
-**30%**first-floor tests ≥ 4 pCi/L  
-3,207 tests, median 2.2
+**#32**of 67 PA counties by share ≥ 4
 
-**#32 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **30%** of 3,207 tests ≥ 4 pCi/L, median 2.2
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **12 DEP-certified firms** have a business address in Butler County (1 offer mitigation), with 25 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=butler)
 
+[Mitigation1](#mitigation)[Testing11](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Kennihan Plumbing And Heating Inc
 
-530 Steiner Bridge Rd, Valencia, PA  
-☎ [(724) 898-2587](tel:7248982587)  
-✉ [bill@kennihans.com](mailto:bill@kennihans.com)  
-🌐 [kennihans.com](https://www.kennihans.com/)
+✓ PA DEP certifiedMitigation
 
-4 DEP-certified individuals
+Valencia4 certified people
+
+#### Address
+
+* 530 Steiner Bridge Rd, Valencia, PA
+* ✉ [bill@kennihans.com](mailto:bill@kennihans.com)
+* [kennihans.com](https://www.kennihans.com/)
+
+#### Certified individuals
 
 * Himme, Gregory L. (mitigation #7632)
 * Kennihan, Jerome (mitigation #7719)
 * Kennihan, William (mitigation #3535)
 * Tosi, Zachary C. (mitigation #7630)
 
-DEP cert IDs: mitigation #3535, mitigation #3536, mitigation #7630, mitigation #7632, mitigation #7719  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
+#### DEP cert IDs
+
+mitigation #3535 · mitigation #3536 · mitigation #7630 · mitigation #7632 · mitigation #7719
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
+
+[**Call** (724) 898-2587](tel:7248982587)
 
 ## Radon testing (11 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Supik, Joshua
 
-144 Wetzel Rd, Cabot, PA  
-☎ [(724) 994-0333](tel:7249940333)  
-✉ [supikhomeinspector@gmail.com](mailto:supikhomeinspector@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Cabot1 certified person
+
+#### Address
+
+* 144 Wetzel Rd, Cabot, PA
+* ✉ [supikhomeinspector@gmail.com](mailto:supikhomeinspector@gmail.com)
+
+#### Certified individuals
 
 * Supik, Joshua (testing #3320)
 
-DEP cert IDs: testing #3320  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3320)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3320
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3320)
+
+[**Call** (724) 994-0333](tel:7249940333)
 
 ### Cei/Housemaster Home Inspections
 
-9125 Marshall Rd Ste B12, Cranberry Townsh, PA  
-☎ [(724) 772-5593](tel:7247725593)  
-✉ [daniel.ayers@housemaster.com](mailto:daniel.ayers@housemaster.com)  
-✉ [ivan.cilik@housemaster.com](mailto:ivan.cilik@housemaster.com)  
-🌐 [housemaster.com](https://housemaster.com/)
+✓ PA DEP certifiedTesting
 
-8 DEP-certified individuals
+Cranberry Townsh8 certified people
+
+#### Address
+
+* 9125 Marshall Rd Ste B12, Cranberry Townsh, PA
+* ✉ [daniel.ayers@housemaster.com](mailto:daniel.ayers@housemaster.com)
+* ✉ [ivan.cilik@housemaster.com](mailto:ivan.cilik@housemaster.com)
+* [housemaster.com](https://housemaster.com/)
+
+#### Certified individuals
 
 * Ayers, Dan (testing #3385)
 * Cilik, Ivan (testing #2873)
@@ -89,162 +112,233 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Polczynski, Scott (testing #8838)
 * Richardson, Jr., George (testing #8664)
 
-DEP cert IDs: testing #1230, testing #2011, testing #2012, testing #2873, testing #3327, testing #3385, testing #8327, testing #8664, testing #8838, testing #9096  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1230)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #1230 · testing #2011 · testing #2012 · testing #2873 · testing #3327 · testing #3385 · testing #8327 · testing #8664 · testing #8838 · testing #9096
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1230)
+
+[**Call** (724) 772-5593](tel:7247725593)
 
 ### Ecs Mid-Atlantic LLC
 
-100 E Kensinger Dr, Cranberry Townsh, PA  
-☎ [(412) 206-1470](tel:4122061470)  
-✉ [bbehrens@ecslimited.com](mailto:bbehrens@ecslimited.com)
+✓ PA DEP certifiedTesting
 
-3 DEP-certified individuals
+Cranberry Townsh3 certified people
+
+#### Address
+
+* 100 E Kensinger Dr, Cranberry Townsh, PA
+* ✉ [bbehrens@ecslimited.com](mailto:bbehrens@ecslimited.com)
+
+#### Certified individuals
 
 * Behrens, Brian (testing #3763)
 * Swick, Ariana (testing #9148)
 * Wolf, Jamie (testing #9147)
 
-DEP cert IDs: testing #3275, testing #3763, testing #9147, testing #9148  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3275)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3275 · testing #3763 · testing #9147 · testing #9148
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3275)
+
+[**Call** (412) 206-1470](tel:4122061470)
 
 ### Staniland, William
 
-706 Russett Meadow Ct, Cranberry Townsh, PA  
-☎ [(724) 742-2776](tel:7247422776)  
-✉ [bstani@zoominternet.net](mailto:bstani@zoominternet.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Cranberry Townsh1 certified person
+
+#### Address
+
+* 706 Russett Meadow Ct, Cranberry Townsh, PA
+* ✉ [bstani@zoominternet.net](mailto:bstani@zoominternet.net)
+
+#### Certified individuals
 
 * Staniland, William (testing #2734)
 
-DEP cert IDs: testing #2734  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2734)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2734
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2734)
+
+[**Call** (724) 742-2776](tel:7247422776)
 
 ### West, Aaron
 
-1675 Route 228 #1068, Cranberry Townsh, PA  
-☎ [(412) 204-6149](tel:4122046149)  
-✉ [aaron.west@keystonecastleinspections.com](mailto:aaron.west@keystonecastleinspections.com)  
-🌐 [keystonecastleinspections.com](https://www.keystonecastleinspections.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Cranberry Townsh1 certified person
+
+#### Address
+
+* 1675 Route 228 #1068, Cranberry Townsh, PA
+* ✉ [aaron.west@keystonecastleinspections.com](mailto:aaron.west@keystonecastleinspections.com)
+* [keystonecastleinspections.com](https://www.keystonecastleinspections.com/)
+
+#### Certified individuals
 
 * West, Aaron (testing #3709)
 
-DEP cert IDs: testing #3709  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3709)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3709
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3709)
+
+[**Call** (412) 204-6149](tel:4122046149)
 
 ### Amerispec Home In
 
 ⚠ Name may be cut off in DEP records
 
-100 Rylie Dr, Harmony, PA  
-☎ [(724) 452-5025](tel:7244525025)  
-✉ [ronega@amerispec.net](mailto:ronega@amerispec.net)  
-🌐 [amerispec.com](https://www.amerispec.com/)
+✓ PA DEP certifiedTesting
 
-3 DEP-certified individuals
+Harmony3 certified people
+
+#### Address
+
+* 100 Rylie Dr, Harmony, PA
+* ✉ [ronega@amerispec.net](mailto:ronega@amerispec.net)
+* [amerispec.com](https://www.amerispec.com/)
+
+#### Certified individuals
 
 * Campbell, Jason (testing #8896)
 * Onega, Richard N (testing #8729)
 * Peffer, Leonard (testing #8897)
 
-DEP cert IDs: testing #8729, testing #8896, testing #8897  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8729)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8729 · testing #8896 · testing #8897
 
-### Onega LLC
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8729)
 
-100 Rylie Dr, Harmony, PA  
-☎ [(724) 452-5025](tel:7244525025)  
-✉ [ronega@zoominternet.net](mailto:ronega@zoominternet.net)
-
-DEP cert IDs: testing #2522  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2522)
-
-✔ Certified by PA DEP Testing
+[**Call** (724) 452-5025](tel:7244525025)
 
 ### Onega LLC
 
-100 Rylie Dr, Harmony, PA  
-☎ [(724) 452-5025](tel:7244525025)  
-✉ [rich.onega@onegainspect.com](mailto:rich.onega@onegainspect.com)  
-🌐 [onegainspect.com](https://www.onegainspect.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+HarmonyCertified firm
+
+#### Address
+
+* 100 Rylie Dr, Harmony, PA
+* ✉ [ronega@zoominternet.net](mailto:ronega@zoominternet.net)
+
+#### Certified individuals
+
+* None listed separately
+
+#### DEP cert IDs
+
+testing #2522
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2522)
+
+[**Call** (724) 452-5025](tel:7244525025)
+
+### Onega LLC
+
+✓ PA DEP certifiedTesting
+
+Harmony1 certified person
+
+#### Address
+
+* 100 Rylie Dr, Harmony, PA
+* ✉ [rich.onega@onegainspect.com](mailto:rich.onega@onegainspect.com)
+* [onegainspect.com](https://www.onegainspect.com/)
+
+#### Certified individuals
 
 * Onega, Richard (testing #2386)
 
-DEP cert IDs: testing #2386  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2386)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2386
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2386)
+
+[**Call** (724) 452-5025](tel:7244525025)
 
 ### Kampi, Brian
 
-2175 Ridge Dr, Mars, PA  
-☎ [(412) 367-0707](tel:4123670707)  
-✉ [gohomefrontllc@gmail.com](mailto:gohomefrontllc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mars1 certified person
+
+#### Address
+
+* 2175 Ridge Dr, Mars, PA
+* ✉ [gohomefrontllc@gmail.com](mailto:gohomefrontllc@gmail.com)
+
+#### Certified individuals
 
 * Kampi, Brian (testing #2618)
 
-DEP cert IDs: testing #2618  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2618)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2618
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2618)
+
+[**Call** (412) 367-0707](tel:4123670707)
 
 ### Ritenour, Shelbi
 
-315 Knoch Rd, Saxonburg, PA  
-☎ [(724) 504-3804](tel:7245043804)  
-✉ [bartoshomeinspections@gmail.com](mailto:bartoshomeinspections@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Saxonburg1 certified person
+
+#### Address
+
+* 315 Knoch Rd, Saxonburg, PA
+* ✉ [bartoshomeinspections@gmail.com](mailto:bartoshomeinspections@gmail.com)
+
+#### Certified individuals
 
 * Ritenour, Shelbi (testing #3562)
 
-DEP cert IDs: testing #3562  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3562)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3562
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3562)
+
+[**Call** (724) 504-3804](tel:7245043804)
 
 ### Barto, Richard
 
-112 Shields Ln, Slippery Rock, PA  
-☎ [(724) 504-2746](tel:7245042746)  
-✉ [richbarto@gmail.com](mailto:richbarto@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Slippery Rock1 certified person
+
+#### Address
+
+* 112 Shields Ln, Slippery Rock, PA
+* ✉ [richbarto@gmail.com](mailto:richbarto@gmail.com)
+
+#### Certified individuals
 
 * Barto, Richard (testing #2477)
 
-DEP cert IDs: testing #2477  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2477)
+#### DEP cert IDs
+
+testing #2477
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2477)
+
+[**Call** (724) 504-2746](tel:7245042746)
 
 ## Neighboring counties
 
-[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Lawrence](https://radonroster.com/pa/county/lawrence/) (2 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Venango](https://radonroster.com/pa/county/venango/) (2 firms)
+[Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Lawrence](https://radonroster.com/pa/county/lawrence/) (2 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Venango](https://radonroster.com/pa/county/venango/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -275,3 +369,29 @@ Detailed local guides: [How to find a radon expert in Cranberry Township](https:
 **How much does radon mitigation cost in Butler County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Butler mitigators[Request quotes](https://radonroster.com/get-quotes/?county=butler)
+
+Our advice
+
+## Before you hire in Butler
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Butler.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=butler)

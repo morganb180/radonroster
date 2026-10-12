@@ -4,13 +4,29 @@ description: "Camp Hill, PA radon guide: 58% of 12,590 basement tests at or abov
 canonical: https://radonroster.com/pa/city/camp-hill-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Camp Hill, PA](https://radonroster.com/pa/city/camp-hill-pa/)›Radon guide
 
 # How to find a radon expert in Camp Hill, PA
 
 About **58%** of basement tests in Camp Hill, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 12,590 tests in PA DEP's records. That's above Cumberland County as a whole (55%) and above the statewide share (37%). The median Camp Hill result (5.1 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Cumberland County median is 4.8 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Camp Hill municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Camp Hill at a glance
+
+Camp Hill**58%**
+
+Cumberland Co.**55%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.1**median pCi/L
+
+**12,590**tests on record
+
+**#2**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=camp-hill) [Browse all Camp Hill radon firms](https://radonroster.com/pa/city/camp-hill-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
 
@@ -42,75 +58,103 @@ General information, not legal advice.
 
 Nearest DEP-certified firms: **1** based in Camp Hill (1 mitigation), **5** elsewhere in Cumberland County (3 mitigation), and **9** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### American Radon Solutions, Inc.
 
-3537 Hartzdale Dr Suite H, Camp Hill, PA  
-☎ [(717) 795-9367](tel:7177959367)  
-✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+✓ PA DEP certifiedMitigation
 
-2 DEP-certified individuals
+Camp Hill2 certified people
+
+#### Address
+
+* 3537 Hartzdale Dr Suite H, Camp Hill, PA
+* ✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Nguyen, Cuong (mitigation #7058)
 * Nguyen, Tuan (mitigation #1419)
 
-DEP cert IDs: mitigation #1418, mitigation #1419, mitigation #7058  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1418 · mitigation #1419 · mitigation #7058
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+
+[**Call** (717) 795-9367](tel:7177959367)
 
 ### Precision Inspections & Radon Solutions
 
-4900 Carlisle Pk #277, Mechanicsburg, PA  
-☎ [(717) 763-1373](tel:7177631373)  
-✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)  
-✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)  
-🌐 [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+✓ PA DEP certifiedMitigationTesting
 
-4 DEP-certified individuals
+Mechanicsburg4 certified people
+
+#### Address
+
+* 4900 Carlisle Pk #277, Mechanicsburg, PA
+* ✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)
+* ✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)
+* [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+
+#### Certified individuals
 
 * Ling, Jeremy (testing #8493, mitigation #2404)
 * Ling, Selena (testing #3104)
 * Pealer, Connor (mitigation #7544)
 * Price, Michael (testing #8909)
 
-DEP cert IDs: mitigation #2404, mitigation #3355, mitigation #7544, testing #3104, testing #3105, testing #8493, testing #8909  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2404 · mitigation #3355 · mitigation #7544 · testing #3104 · testing #3105 · testing #8493 · testing #8909
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+
+[**Call** (717) 763-1373](tel:7177631373)
 
 ### Ro, Jooik
 
-30 Sunset Dr, Carlisle, PA  
-☎ [(717) 226-7179](tel:7172267179)  
-✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Carlisle1 certified person
+
+#### Address
+
+* 30 Sunset Dr, Carlisle, PA
+* ✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+
+#### Certified individuals
 
 * Ro, Jooik (testing #2760, mitigation #2760)
 
-DEP cert IDs: mitigation #2760, testing #2760  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2760 · testing #2760
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+
+[**Call** (717) 226-7179](tel:7172267179)
 
 ### Sheely, Mike
 
-1000 Wolfe Rd, Enola, PA  
-☎ [(717) 732-6538](tel:7177326538)  
-✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Enola1 certified person
+
+#### Address
+
+* 1000 Wolfe Rd, Enola, PA
+* ✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+
+#### Certified individuals
 
 * Sheely, Mike (mitigation #2691)
 
-DEP cert IDs: mitigation #2691  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+#### DEP cert IDs
+
+mitigation #2691
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+
+[**Call** (717) 732-6538](tel:7177326538)
 
 [See all firms near Camp Hill →](https://radonroster.com/pa/city/camp-hill-pa/)
 
@@ -157,3 +201,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/get-quotes/?city=camp-hill)
+
+Our advice
+
+## Before you hire in Camp Hill
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Camp Hill.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=camp-hill)

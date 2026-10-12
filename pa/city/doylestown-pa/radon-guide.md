@@ -4,13 +4,29 @@ description: "Doylestown, PA radon guide: 34% of 27,330 basement tests at or abo
 canonical: https://radonroster.com/pa/city/doylestown-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Doylestown, PA](https://radonroster.com/pa/city/doylestown-pa/)›Radon guide
 
 # How to find a radon expert in Doylestown, PA
 
 In Doylestown, 27,330 basement radon tests in PA DEP's records give a median of **2.6 pCi/L**, and **34%** were at or above 4 pCi/L. That's above Bucks County as a whole (31%) and below the statewide share (37%). The median Doylestown result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Bucks County median is 2.5 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Doylestown municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Doylestown at a glance
+
+Doylestown**34%**
+
+Bucks Co.**31%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.6**median pCi/L
+
+**27,330**tests on record
+
+**#21**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=doylestown) [Browse all Doylestown radon firms](https://radonroster.com/pa/city/doylestown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
 
@@ -42,73 +58,101 @@ General information, not legal advice.
 
 Nearest DEP-certified firms: **4** based in Doylestown (1 mitigation), **15** elsewhere in Bucks County (3 mitigation), and **15** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Insight Property Services
 
-368 Pine Run Rd, Doylestown, PA  
-☎ [(215) 674-1808](tel:2156741808)  
-✉ [insightinspect@comcast.net](mailto:insightinspect@comcast.net)  
-🌐 [insightservices-pa.com](https://www.insightservices-pa.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Doylestown1 certified person
+
+#### Address
+
+* 368 Pine Run Rd, Doylestown, PA
+* ✉ [insightinspect@comcast.net](mailto:insightinspect@comcast.net)
+* [insightservices-pa.com](https://www.insightservices-pa.com/)
+
+#### Certified individuals
 
 * Schluth, Edward M. (testing #1990, mitigation #1990)
 
-DEP cert IDs: mitigation #1990, testing #1990  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1990)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1990 · testing #1990
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1990)
+
+[**Call** (215) 674-1808](tel:2156741808)
 
 ### Indoor Air Surgeons, LLC
 
-3070 Bristol Pike, Bensalem, PA  
-☎ [(215) 239-8628](tel:2152398628)  
-✉ [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Bensalem1 certified person
+
+#### Address
+
+* 3070 Bristol Pike, Bensalem, PA
+* ✉ [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
+
+#### Certified individuals
 
 * Jackson, Corwin (mitigation #3063)
 
-DEP cert IDs: mitigation #3063, mitigation #3347  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3063)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3063 · mitigation #3347
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3063)
+
+[**Call** (215) 239-8628](tel:2152398628)
 
 ### The Radon Bros
 
-2288 Township Rd, Quakertown, PA  
-☎ [(484) 460-9697](tel:4844609697)  
-✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)  
-✉ [theradonbros@gmail.com](mailto:theradonbros@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Quakertown3 certified people
+
+#### Address
+
+* 2288 Township Rd, Quakertown, PA
+* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+* ✉ [theradonbros@gmail.com](mailto:theradonbros@gmail.com)
+
+#### Certified individuals
 
 * Griffith, Bryan (testing #9106, mitigation #7668)
 * Mcgann, Edward (testing #9104, mitigation #7712)
 * Smith, Jacob (testing #9105)
 
-DEP cert IDs: mitigation #3556, mitigation #7668, mitigation #7712, testing #3714, testing #9104, testing #9105, testing #9106  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3556)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3556 · mitigation #7668 · mitigation #7712 · testing #3714 · testing #9104 · testing #9105 · testing #9106
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3556)
+
+[**Call** (484) 460-9697](tel:4844609697)
 
 ### The Radon Bros
 
-2288 Township Road, Quakertown, PA  
-☎ [(484) 460-9697](tel:4844609697)  
-✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Quakertown1 certified person
+
+#### Address
+
+* 2288 Township Road, Quakertown, PA
+* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+
+#### Certified individuals
 
 * Smith, Jacob (mitigation #7699)
 
-DEP cert IDs: mitigation #7699  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7699)
+#### DEP cert IDs
+
+mitigation #7699
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7699)
+
+[**Call** (484) 460-9697](tel:4844609697)
 
 [See all firms near Doylestown →](https://radonroster.com/pa/city/doylestown-pa/)
 
@@ -153,3 +197,29 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 4 DEP-certified firms
 **Is radon common in Doylestown?**
 
 In PA DEP's test records, 34% of 27,330 basement tests with a Doylestown address were at or above 4 pCi/L (median 2.6 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=doylestown)
+
+Our advice
+
+## Before you hire in Doylestown
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Doylestown.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=doylestown)

@@ -4,13 +4,29 @@ description: "Erie, PA radon guide: 24% of 28,022 basement tests at or above 4 p
 canonical: https://radonroster.com/pa/city/erie-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Erie](https://radonroster.com/pa/city/erie-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Erie, PA](https://radonroster.com/pa/city/erie-pa/)›Radon guide
 
 # How to find a radon expert in Erie, PA
 
 Erie tests lower than much of Pennsylvania, with **24%** of 28,022 basement tests at or above 4 pCi/L. That still leaves 6,603 tests over the action level, so a low average doesn't clear any single house. That's below Erie County as a whole (28%) and below the statewide share (37%). The median Erie result (2.0 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Erie County median is 2.2 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Erie municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Erie at a glance
+
+Erie**24%**
+
+Erie Co.**28%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.0**median pCi/L
+
+**28,022**tests on record
+
+**#28**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=erie) [Browse all Erie radon firms](https://radonroster.com/pa/city/erie-pa/) · [Erie County](https://radonroster.com/pa/county/erie/)
 
@@ -36,37 +52,51 @@ Most systems use **active soil depressurization** ([EPA Consumer's Guide to Rado
 
 Nearest DEP-certified firms: **5** based in Erie (2 mitigation), **1** elsewhere in Erie County (0 mitigation), and **1** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Barbarini, Nicholas
 
-5810 Clinton St, Erie, PA  
-☎ [(814) 490-2167](tel:8144902167)  
-✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 5810 Clinton St, Erie, PA
+* ✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
+
+#### Certified individuals
 
 * Barbarini, Nicholas (mitigation #3133)
 
-DEP cert IDs: mitigation #3133  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3133
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
+
+[**Call** (814) 490-2167](tel:8144902167)
 
 ### Parenti, Michael
 
-3811 W Lake Rd, Erie, PA  
-☎ [(814) 873-4900](tel:8148734900)  
-✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 3811 W Lake Rd, Erie, PA
+* ✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
+
+#### Certified individuals
 
 * Parenti, Michael (mitigation #3016)
 
-DEP cert IDs: mitigation #3016  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
+#### DEP cert IDs
+
+mitigation #3016
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
+
+[**Call** (814) 873-4900](tel:8148734900)
 
 [See all firms near Erie →](https://radonroster.com/pa/city/erie-pa/)
 
@@ -121,3 +151,29 @@ Yes. Even here, 6,603 basement tests in DEP's records were at or above 4 pCi/L. 
 **Is radon common in Erie?**
 
 In PA DEP's test records, 24% of 28,022 basement tests with a Erie address were at or above 4 pCi/L (median 2.0 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/get-quotes/?city=erie)
+
+Our advice
+
+## Before you hire in Erie
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Erie.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=erie)

@@ -11,6 +11,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [Out-of-state firms certified in PA](https://radonroster.com/pa/out-of-state/)
 
 ## Guides
+- [All radon guides](https://radonroster.com/guides/)
 - [What is radon?](https://radonroster.com/what-is-radon/)
 - [Radon testing vs mitigation](https://radonroster.com/testing-vs-mitigation/)
 - [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/): typical national ranges and estimate tool

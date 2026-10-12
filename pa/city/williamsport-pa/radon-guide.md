@@ -4,13 +4,29 @@ description: "Williamsport, PA radon guide: 39% of 6,668 basement tests at or ab
 canonical: https://radonroster.com/pa/city/williamsport-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Williamsport](https://radonroster.com/pa/city/williamsport-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Williamsport, PA](https://radonroster.com/pa/city/williamsport-pa/)›Radon guide
 
 # How to find a radon expert in Williamsport, PA
 
 In Williamsport, 6,668 basement radon tests in PA DEP's records give a median of **2.9 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Lycoming County as a whole (46%) and about level with the statewide share (37%). The median Williamsport result (2.9 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Lycoming County median is 3.6 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Williamsport municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Williamsport at a glance
+
+Williamsport**39%**
+
+Lycoming Co.**46%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.9**median pCi/L
+
+**6,668**tests on record
+
+**#17**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=williamsport) [Browse all Williamsport radon firms](https://radonroster.com/pa/city/williamsport-pa/) · [Lycoming County](https://radonroster.com/pa/county/lycoming/)
 
@@ -37,21 +53,28 @@ Most systems use **active soil depressurization** ([EPA Consumer's Guide to Rado
 
 Nearest DEP-certified firms: **1** based in Williamsport (1 mitigation), **1** elsewhere in Lycoming County (0 mitigation), and **2** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Jcn Radon Services Inc
 
-1911 Poco Farm Rd, Williamsport, PA  
-☎ [(570) 988-6800](tel:5709886800)  
-✉ [jcnradonservices@gmail.com](mailto:jcnradonservices@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Williamsport1 certified person
+
+#### Address
+
+* 1911 Poco Farm Rd, Williamsport, PA
+* ✉ [jcnradonservices@gmail.com](mailto:jcnradonservices@gmail.com)
+
+#### Certified individuals
 
 * Stiger, Timothy E. (testing #3518, mitigation #3518)
 
-DEP cert IDs: mitigation #3518, mitigation #3565, testing #3518  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3518)
+#### DEP cert IDs
+
+mitigation #3518 · mitigation #3565 · testing #3518
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3518)
+
+[**Call** (570) 988-6800](tel:5709886800)
 
 [See all firms near Williamsport →](https://radonroster.com/pa/city/williamsport-pa/)
 
@@ -102,3 +125,29 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms
 **Is radon common in Williamsport?**
 
 In PA DEP's test records, 39% of 6,668 basement tests with a Williamsport address were at or above 4 pCi/L (median 2.9 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**Want firms to contact you?**One request to Williamsport mitigators[Request quotes](https://radonroster.com/get-quotes/?city=williamsport)
+
+Our advice
+
+## Before you hire in Williamsport
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Williamsport.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=williamsport)

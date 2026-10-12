@@ -4,134 +4,182 @@ description: "6 PA DEP-certified radon firms in Erie County: 28% of basement tes
 canonical: https://radonroster.com/pa/county/erie/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Erie County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Erie
 
 # Radon testing & mitigation in Erie County, PA
 
+28% of basement tests here came back at or above 4 pCi/L, well below the statewide 37%. That means about one in 4 homes tested needs a fix.
+
 ## Erie County radon test data
 
-**28%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Erie**28%**
 
-**2.2 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.2**median basement pCi/L
 
 **41,146**basement tests on record
 
-**14%**first-floor tests ≥ 4 pCi/L  
-4,764 tests, median 1.1
+**#62**of 67 PA counties by share ≥ 4
 
-**#62 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **14%** of 4,764 tests ≥ 4 pCi/L, median 1.1
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **6 DEP-certified firms** have a business address in Erie County (2 offer mitigation), with 6 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=erie)
 
+[Mitigation2](#mitigation)[Testing4](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (2 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Barbarini, Nicholas
 
-5810 Clinton St, Erie, PA  
-☎ [(814) 490-2167](tel:8144902167)  
-✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 5810 Clinton St, Erie, PA
+* ✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
+
+#### Certified individuals
 
 * Barbarini, Nicholas (mitigation #3133)
 
-DEP cert IDs: mitigation #3133  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3133
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
+
+[**Call** (814) 490-2167](tel:8144902167)
 
 ### Parenti, Michael
 
-3811 W Lake Rd, Erie, PA  
-☎ [(814) 873-4900](tel:8148734900)  
-✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 3811 W Lake Rd, Erie, PA
+* ✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
+
+#### Certified individuals
 
 * Parenti, Michael (mitigation #3016)
 
-DEP cert IDs: mitigation #3016  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
+#### DEP cert IDs
+
+mitigation #3016
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
+
+[**Call** (814) 873-4900](tel:8148734900)
 
 ## Radon testing (4 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Banister, Joseph
 
-5420 Harold Dr, Edinboro, PA  
-☎ [(814) 602-9442](tel:8146029442)  
-✉ [joe@homewellpi.com](mailto:joe@homewellpi.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Edinboro1 certified person
+
+#### Address
+
+* 5420 Harold Dr, Edinboro, PA
+* ✉ [joe@homewellpi.com](mailto:joe@homewellpi.com)
+
+#### Certified individuals
 
 * Banister, Joseph (testing #3354)
 
-DEP cert IDs: testing #3354  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3354)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3354
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3354)
+
+[**Call** (814) 602-9442](tel:8146029442)
 
 ### Guertin, Steve
 
-2965 Persimmon Dr, Erie, PA  
-☎ [(716) 581-1019](tel:7165811019)  
-✉ [barnowlhomeinspectionsllc@gmail.com](mailto:barnowlhomeinspectionsllc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 2965 Persimmon Dr, Erie, PA
+* ✉ [barnowlhomeinspectionsllc@gmail.com](mailto:barnowlhomeinspectionsllc@gmail.com)
+
+#### Certified individuals
 
 * Guertin, Steve (testing #3618)
 
-DEP cert IDs: testing #3618  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3618)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3618
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3618)
+
+[**Call** (716) 581-1019](tel:7165811019)
 
 ### Henry, Harold
 
-2103 Rudolph Ave, Erie, PA  
-☎ [(814) 881-3413](tel:8148813413)  
-✉ [henryswildlife@gmail.com](mailto:henryswildlife@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 2103 Rudolph Ave, Erie, PA
+* ✉ [henryswildlife@gmail.com](mailto:henryswildlife@gmail.com)
+
+#### Certified individuals
 
 * Henry, Harold (testing #1954)
 
-DEP cert IDs: testing #1954  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1954)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #1954
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1954)
+
+[**Call** (814) 881-3413](tel:8148813413)
 
 ### Wilcoxson, Owen
 
-426 Joliette Ave, Erie, PA  
-☎ [(814) 920-4171](tel:8149204171)  
-✉ [owen@homeinspectionmanagement.com](mailto:owen@homeinspectionmanagement.com)  
-🌐 [eriehomeinspectors.com](https://www.eriehomeinspectors.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Erie1 certified person
+
+#### Address
+
+* 426 Joliette Ave, Erie, PA
+* ✉ [owen@homeinspectionmanagement.com](mailto:owen@homeinspectionmanagement.com)
+* [eriehomeinspectors.com](https://www.eriehomeinspectors.com/)
+
+#### Certified individuals
 
 * Wilcoxson, Owen (testing #3416)
 
-DEP cert IDs: testing #3416  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3416)
+#### DEP cert IDs
+
+testing #3416
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3416)
+
+[**Call** (814) 920-4171](tel:8149204171)
 
 ## Neighboring counties
 
-[Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms)
+[Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -162,3 +210,29 @@ Detailed local guides: [How to find a radon expert in Erie](https://radonroster.
 **How much does radon mitigation cost in Erie County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/get-quotes/?county=erie)
+
+Our advice
+
+## Before you hire in Erie
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Erie.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=erie)

@@ -4,116 +4,157 @@ description: "5 PA DEP-certified radon firms in Franklin County: 59% of basement
 canonical: https://radonroster.com/pa/county/franklin/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Franklin County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Franklin
 
 # Radon testing & mitigation in Franklin County, PA
 
+59% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Franklin County radon test data
 
-**59%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Franklin**59%**
 
-**5.2 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.2**median basement pCi/L
 
 **20,850**basement tests on record
 
-**37%**first-floor tests ≥ 4 pCi/L  
-3,511 tests, median 2.6
+**#6**of 67 PA counties by share ≥ 4
 
-**#6 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **37%** of 3,511 tests ≥ 4 pCi/L, median 2.6
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **5 DEP-certified firms** have a business address in Franklin County (0 offer mitigation), with 5 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=franklin)
 
-## Radon testing (5 firms)
+Mitigation 0[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (5 firms)
 
 ### Baxter Environmental
 
-941 Progress Rd, Chambersburg, PA  
-☎ [(717) 263-7341](tel:7172637341)  
-✉ [info@baxtergroupinc.com](mailto:info@baxtergroupinc.com)  
-🌐 [baxtergroupinc.com](https://baxtergroupinc.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Chambersburg1 certified person
+
+#### Address
+
+* 941 Progress Rd, Chambersburg, PA
+* ✉ [info@baxtergroupinc.com](mailto:info@baxtergroupinc.com)
+* [baxtergroupinc.com](https://baxtergroupinc.com/)
+
+#### Certified individuals
 
 * Rosenberry, Cole (testing #8846)
 
-DEP cert IDs: testing #8846  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8846)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8846
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8846)
+
+[**Call** (717) 263-7341](tel:7172637341)
 
 ### Hoverter, Travis
 
-452 Allen Dr, Chambersburg, PA  
-☎ [(800) 791-7920](tel:8007917920)  
-✉ [travisscpa@comcast.net](mailto:travisscpa@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Chambersburg1 certified person
+
+#### Address
+
+* 452 Allen Dr, Chambersburg, PA
+* ✉ [travisscpa@comcast.net](mailto:travisscpa@comcast.net)
+
+#### Certified individuals
 
 * Hoverter, Travis (testing #2706)
 
-DEP cert IDs: testing #2706  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2706)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2706
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2706)
+
+[**Call** (800) 791-7920](tel:8007917920)
 
 ### Shirley, Alan
 
-919 Clearfield Rd, Shippensburg, PA  
-☎ [(717) 502-4402](tel:7175024402)  
-✉ [alan@mcjhomeinspection.com](mailto:alan@mcjhomeinspection.com)  
-🌐 [mcjhomeinspection.com](https://mcjhomeinspection.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Shippensburg1 certified person
+
+#### Address
+
+* 919 Clearfield Rd, Shippensburg, PA
+* ✉ [alan@mcjhomeinspection.com](mailto:alan@mcjhomeinspection.com)
+* [mcjhomeinspection.com](https://mcjhomeinspection.com/)
+
+#### Certified individuals
 
 * Shirley, Alan (testing #3462)
 
-DEP cert IDs: testing #3462  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3462)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3462
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3462)
+
+[**Call** (717) 502-4402](tel:7175024402)
 
 ### Smith, Maren
 
-309 S Oller Ave, Waynesboro, PA  
-☎ [(717) 404-9006](tel:7174049006)  
-✉ [smithmaren06@gmail.com](mailto:smithmaren06@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Waynesboro1 certified person
+
+#### Address
+
+* 309 S Oller Ave, Waynesboro, PA
+* ✉ [smithmaren06@gmail.com](mailto:smithmaren06@gmail.com)
+
+#### Certified individuals
 
 * Smith, Maren (testing #3625)
 
-DEP cert IDs: testing #3625  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3625)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3625
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3625)
+
+[**Call** (717) 404-9006](tel:7174049006)
 
 ### Young, Jason
 
-13290 Scott Rd, Waynesboro, PA  
-☎ [(610) 248-0825](tel:6102480825)  
-✉ [jason.young@elementaletc.com](mailto:jason.young@elementaletc.com)  
-🌐 [elementaletc.com](https://www.elementaletc.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Waynesboro1 certified person
+
+#### Address
+
+* 13290 Scott Rd, Waynesboro, PA
+* ✉ [jason.young@elementaletc.com](mailto:jason.young@elementaletc.com)
+* [elementaletc.com](https://www.elementaletc.com/)
+
+#### Certified individuals
 
 * Young, Jason (testing #3601)
 
-DEP cert IDs: testing #3601  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3601)
+#### DEP cert IDs
+
+testing #3601
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3601)
+
+[**Call** (610) 248-0825](tel:6102480825)
 
 ## Neighboring counties
 
-[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms)
+[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -144,3 +185,29 @@ Detailed local guides: [How to find a radon expert in Chambersburg](https://rado
 **How much does radon mitigation cost in Franklin County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Franklin mitigators[Request quotes](https://radonroster.com/get-quotes/?county=franklin)
+
+Our advice
+
+## Before you hire in Franklin
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Franklin.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=franklin)

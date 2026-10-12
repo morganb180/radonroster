@@ -4,23 +4,27 @@ description: "0 PA DEP-certified radon firms in Greene County: 34% of basement t
 canonical: https://radonroster.com/pa/county/greene/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Greene County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Greene
 
 # Radon testing & mitigation in Greene County, PA
 
+34% of basement tests here came back at or above 4 pCi/L, a little under the statewide 37%. That means about one in 3 homes tested needs a fix.
+
 ## Greene County radon test data
 
-**34%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Greene**34%**
 
-**2.8 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.8**median basement pCi/L
 
 **1,562**basement tests on record
 
-**16%**first-floor tests ≥ 4 pCi/L  
-132 tests, median 1.3
+**#56**of 67 PA counties by share ≥ 4
 
-**#56 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **16%** of 132 tests ≥ 4 pCi/L, median 1.3
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
@@ -30,6 +34,32 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 ## Neighboring counties
 
-[Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms)
+[Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
+
+**Want firms to contact you?**One request to Greene mitigators[Request quotes](https://radonroster.com/get-quotes/?county=greene)
+
+Our advice
+
+## Before you hire in Greene
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Greene.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=greene)

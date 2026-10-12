@@ -4,36 +4,55 @@ description: "39% of 5,585 basement radon tests in Gettysburg, PA were at or abo
 canonical: https://radonroster.com/pa/city/gettysburg-pa/
 ---
 
-[Home](https://radonroster.com/) › [Cities](https://radonroster.com/pa/cities/) › Gettysburg
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›Gettysburg
 
 # Radon testing & mitigation in Gettysburg, PA
 
 Gettysburg sits in Adams County. In the PA DEP test dataset, 5,585 basement radon tests carry a Gettysburg address. Their median was **3.0 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Adams County it was 44%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
-Below are the PA DEP-certified firms with a business address in Gettysburg, then other firms in Adams County, then mitigation firms in the counties next door. Certified pros often travel, so ask each one whether they cover your street.
+## Gettysburg radon test data
+
+Gettysburg**39%**
+
+Adams Co.**44%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.0**median pCi/L
+
+**5,585**tests on record
+
+**3**firms based here
 
 City figures come from the municipality / mailing-address name in [PA DEP's Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (computed 2026-10-11). They count tests, not homes.
 
-[**Read the Gettysburg radon hiring guide →**](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
+Below are the PA DEP-certified firms with a business address in Gettysburg, then other firms in Adams County, then mitigation firms in the counties next door. Certified pros often travel, so ask each one whether they cover your street.
 
-[Get free quotes in Gettysburg](https://radonroster.com/get-quotes/?city=gettysburg)
+[**Read the Gettysburg radon hiring guide →**](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
 ## Firms based in Gettysburg (3)
 
+[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Radon Protection Services Of Gettysburg
 
-282 Longstreet Dr, Gettysburg, PA  
-☎ [(717) 334-3435](tel:7173343435)  
-✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)  
-🌐 [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
+✓ PA DEP certifiedMitigationTesting
 
-5 DEP-certified individuals
+Gettysburg5 certified people
+
+#### Address
+
+* 282 Longstreet Dr, Gettysburg, PA
+* ✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
+* [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
+
+#### Certified individuals
 
 * Anderson, Robert (testing #1688, mitigation #1688)
 * Caruso, John (testing #8714)
@@ -41,251 +60,355 @@ Firms that also test are shown here once.
 * Giuffreda, Matthew P. (mitigation #7624)
 * Gorman, Steven (testing #9067)
 
-DEP cert IDs: mitigation #0275, mitigation #1688, mitigation #7624, testing #0275, testing #1688, testing #8714, testing #9067, testing #9120  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
+#### DEP cert IDs
+
+mitigation #0275 · mitigation #1688 · mitigation #7624 · testing #0275 · testing #1688 · testing #8714 · testing #9067 · testing #9120
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
+
+[**Call** (717) 334-3435](tel:7173343435)
 
 ## Radon testing (2 firms)
-
-✔ Certified by PA DEP Testing
 
 ### Mason Dixon Home
 
 ⚠ Name may be cut off in DEP records
 
-282 Longstreet Dr, Gettysburg, PA  
-☎ [(717) 334-3435](tel:7173343435)  
-✉ [susankint@comcast.net](mailto:susankint@comcast.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Gettysburg1 certified person
+
+#### Address
+
+* 282 Longstreet Dr, Gettysburg, PA
+* ✉ [susankint@comcast.net](mailto:susankint@comcast.net)
+
+#### Certified individuals
 
 * Anderson, Robert (testing #8304)
 
-DEP cert IDs: testing #8304  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8304)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8304
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8304)
+
+[**Call** (717) 334-3435](tel:7173343435)
 
 ### Top Dawg Inspections
 
-817 Storms Store Rd, Gettysburg, PA  
-☎ [(717) 778-7201](tel:7177787201)  
-✉ [scott@topdawginspections.com](mailto:scott@topdawginspections.com)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+Gettysburg2 certified people
+
+#### Address
+
+* 817 Storms Store Rd, Gettysburg, PA
+* ✉ [scott@topdawginspections.com](mailto:scott@topdawginspections.com)
+
+#### Certified individuals
 
 * Clugston, Devrynn (testing #9046)
 * Lyons, Winfield (testing #2985)
 
-DEP cert IDs: testing #2985, testing #2996, testing #9046  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2985)
+#### DEP cert IDs
+
+testing #2985 · testing #2996 · testing #9046
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2985)
+
+[**Call** (717) 778-7201](tel:7177787201)
 
 ## Elsewhere in Adams County (3)
 
-## Radon testing (3 firms)
+Mitigation 0[Testing3](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (3 firms)
 
 ### Henline, Travis
 
-105A Rice Ln, Aspers, PA  
-☎ [(223) 350-2597](tel:2233502597)  
-✉ [travis@precisionpropertyinspectionspa.com](mailto:travis@precisionpropertyinspectionspa.com)  
-🌐 [precisionpropertyinspectionspa.com](https://www.precisionpropertyinspectionspa.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Aspers1 certified person
+
+#### Address
+
+* 105A Rice Ln, Aspers, PA
+* ✉ [travis@precisionpropertyinspectionspa.com](mailto:travis@precisionpropertyinspectionspa.com)
+* [precisionpropertyinspectionspa.com](https://www.precisionpropertyinspectionspa.com/)
+
+#### Certified individuals
 
 * Henline, Travis (testing #3760)
 
-DEP cert IDs: testing #3760  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3760)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3760
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3760)
+
+[**Call** (223) 350-2597](tel:2233502597)
 
 ### S.A.F.E. Inspection Services, LLC
 
-Po Box 343, East Berlin, PA  
-☎ [(717) 491-1740](tel:7174911740)  
-✉ [safeinspectionservices@gmail.com](mailto:safeinspectionservices@gmail.com)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+East Berlin2 certified people
+
+#### Address
+
+* Po Box 343, East Berlin, PA
+* ✉ [safeinspectionservices@gmail.com](mailto:safeinspectionservices@gmail.com)
+
+#### Certified individuals
 
 * Condon, Jeremy (testing #8642)
 * Feeser, Scott (testing #2193)
 
-DEP cert IDs: testing #2193, testing #3013, testing #8642  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2193)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2193 · testing #3013 · testing #8642
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2193)
+
+[**Call** (717) 491-1740](tel:7174911740)
 
 ### Barrick, Darrell
 
-37 Knisley Dr, Hanover, PA  
-☎ [(717) 495-3600](tel:7174953600)  
-✉ [darrellbarrick@gmail.com](mailto:darrellbarrick@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Hanover1 certified person
+
+#### Address
+
+* 37 Knisley Dr, Hanover, PA
+* ✉ [darrellbarrick@gmail.com](mailto:darrellbarrick@gmail.com)
+
+#### Certified individuals
 
 * Barrick, Darrell (testing #3623)
 
-DEP cert IDs: testing #3623  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3623)
+#### DEP cert IDs
+
+testing #3623
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3623)
+
+[**Call** (717) 495-3600](tel:7174953600)
 
 ## Mitigation firms in neighboring counties (7)
 
-✔ Certified by PA DEP Mitigation
-
 ### American Radon Solutions, Inc.
 
-Cumberland County
+✓ PA DEP certifiedMitigationCumberland County
 
-3537 Hartzdale Dr Suite H, Camp Hill, PA  
-☎ [(717) 795-9367](tel:7177959367)  
-✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+Camp Hill2 certified people
 
-2 DEP-certified individuals
+#### Address
+
+* 3537 Hartzdale Dr Suite H, Camp Hill, PA
+* ✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Nguyen, Cuong (mitigation #7058)
 * Nguyen, Tuan (mitigation #1419)
 
-DEP cert IDs: mitigation #1418, mitigation #1419, mitigation #7058  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1418 · mitigation #1419 · mitigation #7058
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+
+[**Call** (717) 795-9367](tel:7177959367)
 
 ### Precision Inspections & Radon Solutions
 
-Cumberland County
+✓ PA DEP certifiedMitigationTestingCumberland County
 
-4900 Carlisle Pk #277, Mechanicsburg, PA  
-☎ [(717) 763-1373](tel:7177631373)  
-✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)  
-✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)  
-🌐 [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+Mechanicsburg4 certified people
 
-4 DEP-certified individuals
+#### Address
+
+* 4900 Carlisle Pk #277, Mechanicsburg, PA
+* ✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)
+* ✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)
+* [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+
+#### Certified individuals
 
 * Ling, Jeremy (testing #8493, mitigation #2404)
 * Ling, Selena (testing #3104)
 * Pealer, Connor (mitigation #7544)
 * Price, Michael (testing #8909)
 
-DEP cert IDs: mitigation #2404, mitigation #3355, mitigation #7544, testing #3104, testing #3105, testing #8493, testing #8909  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2404 · mitigation #3355 · mitigation #7544 · testing #3104 · testing #3105 · testing #8493 · testing #8909
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+
+[**Call** (717) 763-1373](tel:7177631373)
 
 ### Ro, Jooik
 
-Cumberland County
+✓ PA DEP certifiedMitigationTestingCumberland County
 
-30 Sunset Dr, Carlisle, PA  
-☎ [(717) 226-7179](tel:7172267179)  
-✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+Carlisle1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 30 Sunset Dr, Carlisle, PA
+* ✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+
+#### Certified individuals
 
 * Ro, Jooik (testing #2760, mitigation #2760)
 
-DEP cert IDs: mitigation #2760, testing #2760  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2760 · testing #2760
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+
+[**Call** (717) 226-7179](tel:7172267179)
 
 ### Sheely, Mike
 
-Cumberland County
+✓ PA DEP certifiedMitigationCumberland County
 
-1000 Wolfe Rd, Enola, PA  
-☎ [(717) 732-6538](tel:7177326538)  
-✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+Enola1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 1000 Wolfe Rd, Enola, PA
+* ✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+
+#### Certified individuals
 
 * Sheely, Mike (mitigation #2691)
 
-DEP cert IDs: mitigation #2691  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2691
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+
+[**Call** (717) 732-6538](tel:7177326538)
 
 ### Absolute Radon Mitigation, LLC
 
-York County
+✓ PA DEP certifiedMitigationTestingYork County
 
-800 Locust Grove Rd, York, PA  
-☎ [(717) 755-5398](tel:7177555398)  
-✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)  
-✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+York2 certified people
 
-2 DEP-certified individuals
+#### Address
+
+* 800 Locust Grove Rd, York, PA
+* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
+* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
+
+#### Certified individuals
 
 * Richard, Troy (mitigation #7244)
 * Schlaline, Jeffrey (testing #1965, mitigation #1965)
 
-DEP cert IDs: mitigation #1965, mitigation #1966, mitigation #7244, testing #1965  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
+
+[**Call** (717) 755-5398](tel:7177555398)
 
 ### Levine, Seymour
 
-York County
+✓ PA DEP certifiedMitigationTestingYork County
 
-198 Rose Hill Dr, New Cumberland, PA  
-☎ [(717) 576-9589](tel:7175769589)  
-✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+New Cumberland1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 198 Rose Hill Dr, New Cumberland, PA
+* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
+
+#### Certified individuals
 
 * Levine, Seymour (testing #2735, mitigation #2735)
 
-DEP cert IDs: mitigation #2735, testing #2735  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2735 · testing #2735
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
+
+[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
-York County
+✓ PA DEP certifiedMitigationTestingYork County
 
-247 Mine Bank Rd, Wellsville, PA  
-☎ [(717) 432-9575](tel:7174329575)  
-✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+Wellsville1 certified person
 
-1 DEP-certified individual
+#### Address
+
+* 247 Mine Bank Rd, Wellsville, PA
+* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
+
+#### Certified individuals
 
 * Meyer, Jr., Robert (testing #1800, mitigation #1800)
 
-DEP cert IDs: mitigation #1800, testing #1800  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+#### DEP cert IDs
+
+mitigation #1800 · testing #1800
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
+
+[**Call** (717) 432-9575](tel:7174329575)
 
 ## Adams County radon test data
 
-**44%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Adams**44%**
 
-**3.4 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.4**median basement pCi/L
 
 **16,668**basement tests on record
 
-**17%**first-floor tests ≥ 4 pCi/L  
-2,785 tests, median 1.4
+**#40**of 67 PA counties by share ≥ 4
 
-**#40 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **17%** of 2,785 tests ≥ 4 pCi/L, median 1.4
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 [All Adams County listings →](https://radonroster.com/pa/county/adams/) · [Gettysburg radon guide](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/)
+
+**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)
+
+Our advice
+
+## Before you hire in Gettysburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Gettysburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)

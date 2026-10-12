@@ -4,102 +4,136 @@ description: "4 PA DEP-certified radon firms in Cambria County: 43% of basement 
 canonical: https://radonroster.com/pa/county/cambria/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Cambria County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Cambria
 
 # Radon testing & mitigation in Cambria County, PA
 
+43% of basement tests here came back at or above 4 pCi/L, above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Cambria County radon test data
 
-**43%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Cambria**43%**
 
-**3.4 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.4**median basement pCi/L
 
 **16,349**basement tests on record
 
-**22%**first-floor tests ≥ 4 pCi/L  
-1,016 tests, median 1.5
+**#42**of 67 PA counties by share ≥ 4
 
-**#42 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **22%** of 1,016 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **4 DEP-certified firms** have a business address in Cambria County (1 offer mitigation), with 4 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=cambria)
 
+[Mitigation1](#mitigation)[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Carpenter, Keith
 
-124 Old Colony Dr, Johnstown, PA  
-☎ [(814) 525-0895](tel:8145250895)  
-✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Johnstown1 certified person
+
+#### Address
+
+* 124 Old Colony Dr, Johnstown, PA
+* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
+
+#### Certified individuals
 
 * Carpenter, Keith (mitigation #2037)
 
-DEP cert IDs: mitigation #2037  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
+#### DEP cert IDs
+
+mitigation #2037
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
+
+[**Call** (814) 525-0895](tel:8145250895)
 
 ## Radon testing (3 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Smith, Jeffrey
 
-1263 Manor Dr, Ebensburg, PA  
-☎ [(814) 330-9767](tel:8143309767)  
-✉ [jeff@jeffsmithinspectionservice.com](mailto:jeff@jeffsmithinspectionservice.com)  
-🌐 [jeffsmithinspectionservice.com](https://jeffsmithinspectionservice.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Ebensburg1 certified person
+
+#### Address
+
+* 1263 Manor Dr, Ebensburg, PA
+* ✉ [jeff@jeffsmithinspectionservice.com](mailto:jeff@jeffsmithinspectionservice.com)
+* [jeffsmithinspectionservice.com](https://jeffsmithinspectionservice.com/)
+
+#### Certified individuals
 
 * Smith, Jeffrey (testing #2165)
 
-DEP cert IDs: testing #2165  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2165)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2165
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2165)
+
+[**Call** (814) 330-9767](tel:8143309767)
 
 ### Schuller, Eric
 
-337 Russell Ave, Johnstown, PA  
-☎ [(814) 242-4259](tel:8142424259)  
-✉ [uncleerc@gmail.com](mailto:uncleerc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Johnstown1 certified person
+
+#### Address
+
+* 337 Russell Ave, Johnstown, PA
+* ✉ [uncleerc@gmail.com](mailto:uncleerc@gmail.com)
+
+#### Certified individuals
 
 * Schuller, Eric (testing #3708)
 
-DEP cert IDs: testing #3708  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3708)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3708
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3708)
+
+[**Call** (814) 242-4259](tel:8142424259)
 
 ### Spicher, Timothy
 
-239 Fords Corner Rd, Nanty Glo, PA  
-☎ [(814) 826-1123](tel:8148261123)  
-✉ [tim.spicher@newchapterhi.pro](mailto:tim.spicher@newchapterhi.pro)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Nanty Glo1 certified person
+
+#### Address
+
+* 239 Fords Corner Rd, Nanty Glo, PA
+* ✉ [tim.spicher@newchapterhi.pro](mailto:tim.spicher@newchapterhi.pro)
+
+#### Certified individuals
 
 * Spicher, Timothy (testing #3707)
 
-DEP cert IDs: testing #3707  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3707)
+#### DEP cert IDs
+
+testing #3707
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3707)
+
+[**Call** (814) 826-1123](tel:8148261123)
 
 ## Neighboring counties
 
-[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Somerset](https://radonroster.com/pa/county/somerset/) (1 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms)
+[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Somerset](https://radonroster.com/pa/county/somerset/) (1 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -130,3 +164,29 @@ Detailed local guides: [How to find a radon expert in Johnstown](https://radonro
 **How much does radon mitigation cost in Cambria County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Cambria mitigators[Request quotes](https://radonroster.com/get-quotes/?county=cambria)
+
+Our advice
+
+## Before you hire in Cambria
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Cambria.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=cambria)

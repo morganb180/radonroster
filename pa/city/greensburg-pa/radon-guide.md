@@ -4,13 +4,29 @@ description: "Greensburg, PA radon guide: 39% of 15,223 basement tests at or abo
 canonical: https://radonroster.com/pa/city/greensburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Greensburg](https://radonroster.com/pa/city/greensburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Greensburg, PA](https://radonroster.com/pa/city/greensburg-pa/)›Radon guide
 
 # How to find a radon expert in Greensburg, PA
 
 In Greensburg, 15,223 basement radon tests in PA DEP's records give a median of **3.1 pCi/L**, and **39%** were at or above 4 pCi/L. That's close to Westmoreland County as a whole (40%) and about level with the statewide share (37%). The median Greensburg result (3.1 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Westmoreland County median is 3.2 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Greensburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Greensburg at a glance
+
+Greensburg**39%**
+
+Westmoreland Co.**40%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.1**median pCi/L
+
+**15,223**tests on record
+
+**#18**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=greensburg) [Browse all Greensburg radon firms](https://radonroster.com/pa/city/greensburg-pa/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/)
 
@@ -41,90 +57,125 @@ Every firm listed for Greensburg on Radon Roster shows its DEP IDs and a link to
 
 Nearest DEP-certified firms: **3** based in Greensburg (1 mitigation), **14** elsewhere in Westmoreland County (4 mitigation), and **6** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Petrill, Jerry A.
 
-290 Forbes Trail Rd, Greensburg, PA  
-☎ [(724) 289-8632](tel:7242898632)  
-✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Greensburg1 certified person
+
+#### Address
+
+* 290 Forbes Trail Rd, Greensburg, PA
+* ✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
+
+#### Certified individuals
 
 * Petrill, Jerry A. (mitigation #1801)
 
-DEP cert IDs: mitigation #1801  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1801
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
+
+[**Call** (724) 289-8632](tel:7242898632)
 
 ### Blank, Mathew
 
-120 Loyola Ln, Trafford, PA  
-☎ [(724) 515-9414](tel:7245159414)  
-✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Trafford1 certified person
+
+#### Address
+
+* 120 Loyola Ln, Trafford, PA
+* ✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
+
+#### Certified individuals
 
 * Blank, Mathew (mitigation #3696)
 
-DEP cert IDs: mitigation #3696  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3696
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
+
+[**Call** (724) 515-9414](tel:7245159414)
 
 ### Main Street Radon Remediation
 
-13610 Lincoln Way, Irwin, PA  
-☎ [(724) 744-8006](tel:7247448006)  
-✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Irwin1 certified person
+
+#### Address
+
+* 13610 Lincoln Way, Irwin, PA
+* ✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
+
+#### Certified individuals
 
 * Warhold, Chad (testing #3689, mitigation #3689)
 
-DEP cert IDs: mitigation #3689, mitigation #3690, testing #3689, testing #3690  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3689 · mitigation #3690 · testing #3689 · testing #3690
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
+
+[**Call** (724) 744-8006](tel:7247448006)
 
 ### Martin, Alexander
 
-156 N View Hts, New Florence, PA  
-☎ [(814) 418-7158](tel:8144187158)  
-✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+New Florence1 certified person
+
+#### Address
+
+* 156 N View Hts, New Florence, PA
+* ✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Martin, Alexander (testing #3631, mitigation #3631)
 
-DEP cert IDs: mitigation #3631, testing #3631  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3631 · testing #3631
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
+
+[**Call** (814) 418-7158](tel:8144187158)
 
 ### Restoration Contracting Services In
 
 ⚠ Name may be cut off in DEP records
 
-720 Anderson St, New Kensington, PA  
-☎ [(412) 379-3278](tel:4123793278)  
-✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)  
-🌐 [rcsrestoration.com](https://www.rcsrestoration.com/)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+New Kensington3 certified people
+
+#### Address
+
+* 720 Anderson St, New Kensington, PA
+* ✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
+* [rcsrestoration.com](https://www.rcsrestoration.com/)
+
+#### Certified individuals
 
 * Angelini, Kenneth (mitigation #7534)
 * Bonura, Jr., Michael (testing #3219, mitigation #3219)
 * Bonura, Zeke (mitigation #7650)
 
-DEP cert IDs: mitigation #3219, mitigation #3220, mitigation #7534, mitigation #7650, testing #3219  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
+#### DEP cert IDs
+
+mitigation #3219 · mitigation #3220 · mitigation #7534 · mitigation #7650 · testing #3219
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
+
+[**Call** (412) 379-3278](tel:4123793278)
 
 [See all firms near Greensburg →](https://radonroster.com/pa/city/greensburg-pa/)
 
@@ -171,3 +222,29 @@ We don't have Greensburg-specific price data. A national cost guide puts typical
 **Do I need a radon test when buying a home in Pennsylvania?**
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
+
+**Want firms to contact you?**One request to Greensburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)
+
+Our advice
+
+## Before you hire in Greensburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Greensburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)

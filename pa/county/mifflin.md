@@ -4,49 +4,62 @@ description: "1 PA DEP-certified radon firms in Mifflin County: 59% of basement 
 canonical: https://radonroster.com/pa/county/mifflin/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Mifflin County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Mifflin
 
 # Radon testing & mitigation in Mifflin County, PA
 
+59% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Mifflin County radon test data
 
-**59%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Mifflin**59%**
 
-**5.5 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.5**median basement pCi/L
 
 **3,773**basement tests on record
 
-**53%**first-floor tests ≥ 4 pCi/L  
-860 tests, median 4.3
+**#5**of 67 PA counties by share ≥ 4
 
-**#5 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **53%** of 860 tests ≥ 4 pCi/L, median 4.3
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **1 DEP-certified firms** have a business address in Mifflin County (0 offer mitigation), with 1 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=mifflin)
 
-## Radon testing (1 firm)
+Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (1 firm)
 
 ### White, John
 
-8 Redwood Dr, Lewistown, PA  
-☎ [(717) 250-7583](tel:7172507583)  
-✉ [jwhite@itbinspect.com](mailto:jwhite@itbinspect.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Lewistown1 certified person
+
+#### Address
+
+* 8 Redwood Dr, Lewistown, PA
+* ✉ [jwhite@itbinspect.com](mailto:jwhite@itbinspect.com)
+
+#### Certified individuals
 
 * White, John (testing #3174)
 
-DEP cert IDs: testing #3174  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3174)
+#### DEP cert IDs
+
+testing #3174
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3174)
+
+[**Call** (717) 250-7583](tel:7172507583)
 
 ## Neighboring counties
 
-[Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms)
+[Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -71,3 +84,29 @@ With 59% of 3,773 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Mifflin County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Mifflin mitigators[Request quotes](https://radonroster.com/get-quotes/?county=mifflin)
+
+Our advice
+
+## Before you hire in Mifflin
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Mifflin.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=mifflin)

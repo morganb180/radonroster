@@ -4,70 +4,90 @@ description: "2 PA DEP-certified radon firms in Columbia County: 51% of basement
 canonical: https://radonroster.com/pa/county/columbia/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Columbia County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Columbia
 
 # Radon testing & mitigation in Columbia County, PA
 
+51% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Columbia County radon test data
 
-**51%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Columbia**51%**
 
-**4.1 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.1**median basement pCi/L
 
 **10,285**basement tests on record
 
-**24%**first-floor tests ≥ 4 pCi/L  
-2,269 tests, median 1.6
+**#20**of 67 PA counties by share ≥ 4
 
-**#20 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **24%** of 2,269 tests ≥ 4 pCi/L, median 1.6
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Columbia County (1 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=columbia)
 
+[Mitigation1](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Ralston, Jeffrey
 
-422 Valley Rd, Bloomsburg, PA  
-☎ [(570) 384-3574](tel:5703843574)  
-✉ [paradonsolutions@yahoo.com](mailto:paradonsolutions@yahoo.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Bloomsburg1 certified person
+
+#### Address
+
+* 422 Valley Rd, Bloomsburg, PA
+* ✉ [paradonsolutions@yahoo.com](mailto:paradonsolutions@yahoo.com)
+
+#### Certified individuals
 
 * Ralston, Jeffrey (testing #3163, mitigation #3163)
 
-DEP cert IDs: mitigation #3163, testing #3163  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3163)
+#### DEP cert IDs
+
+mitigation #3163 · testing #3163
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3163)
+
+[**Call** (570) 384-3574](tel:5703843574)
 
 ## Radon testing (1 firm)
 
-✔ Certified by PA DEP Testing
-
 ### Devries, Walter
 
-203 Hogs Back Rd, Millville, PA  
-☎ [(570) 380-9110](tel:5703809110)  
-✉ [walt@rockhouseinspection.com](mailto:walt@rockhouseinspection.com)  
-🌐 [rockhouseinspection.com](https://www.rockhouseinspection.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Millville1 certified person
+
+#### Address
+
+* 203 Hogs Back Rd, Millville, PA
+* ✉ [walt@rockhouseinspection.com](mailto:walt@rockhouseinspection.com)
+* [rockhouseinspection.com](https://www.rockhouseinspection.com/)
+
+#### Certified individuals
 
 * Devries, Walter (testing #3598)
 
-DEP cert IDs: testing #3598  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3598)
+#### DEP cert IDs
+
+testing #3598
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3598)
+
+[**Call** (570) 380-9110](tel:5703809110)
 
 ## Neighboring counties
 
-[Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Sullivan](https://radonroster.com/pa/county/sullivan/) (0 firms)
+[Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Sullivan](https://radonroster.com/pa/county/sullivan/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -92,3 +112,29 @@ With 51% of 10,285 basement tests at or above 4 pCi/L (above the 37% statewide s
 **How much does radon mitigation cost in Columbia County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Columbia mitigators[Request quotes](https://radonroster.com/get-quotes/?county=columbia)
+
+Our advice
+
+## Before you hire in Columbia
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Columbia.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=columbia)

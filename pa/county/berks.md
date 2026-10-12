@@ -4,129 +4,173 @@ description: "9 PA DEP-certified radon firms in Berks County: 51% of basement te
 canonical: https://radonroster.com/pa/county/berks/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Berks County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Berks
 
 # Radon testing & mitigation in Berks County, PA
 
+51% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Berks County radon test data
 
-**51%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Berks**51%**
 
-**4.0 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.0**median basement pCi/L
 
 **78,443**basement tests on record
 
-**37%**first-floor tests ≥ 4 pCi/L  
-8,048 tests, median 2.6
+**#21**of 67 PA counties by share ≥ 4
 
-**#21 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **37%** of 8,048 tests ≥ 4 pCi/L, median 2.6
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **9 DEP-certified firms** have a business address in Berks County (4 offer mitigation), with 18 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=berks)
 
+[Mitigation4](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (4 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Podolecki, Piotr
 
-11 Timber Dr, Alburtis, PA  
-☎ [(484) 547-3496](tel:4845473496)  
-✉ [radongone@ymail.com](mailto:radongone@ymail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Alburtis1 certified person
+
+#### Address
+
+* 11 Timber Dr, Alburtis, PA
+* ✉ [radongone@ymail.com](mailto:radongone@ymail.com)
+
+#### Certified individuals
 
 * Podolecki, Piotr (mitigation #2885)
 
-DEP cert IDs: mitigation #2885  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2885
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
+
+[**Call** (484) 547-3496](tel:4845473496)
 
 ### S. J. Watras Inc
 
-32 Indian Ln, Boyertown, PA  
-☎ [(610) 367-5005](tel:6103675005)  
-✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Boyertown1 certified person
+
+#### Address
+
+* 32 Indian Ln, Boyertown, PA
+* ✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
+
+#### Certified individuals
 
 * Cameron, Paul (mitigation #7579)
 
-DEP cert IDs: mitigation #7579  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #7579
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
+
+[**Call** (610) 367-5005](tel:6103675005)
 
 ### S. J. Watras, Inc.
 
-32 Indian Ln, Boyertown, PA  
-☎ [(610) 367-5005](tel:6103675005)  
-✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Boyertown3 certified people
+
+#### Address
+
+* 32 Indian Ln, Boyertown, PA
+* ✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
+
+#### Certified individuals
 
 * Berry, James (mitigation #7580)
 * Watras, Michael (mitigation #7111)
 * Watras, Stanley J. (testing #1056, mitigation #1056)
 
-DEP cert IDs: mitigation #1056, mitigation #1057, mitigation #7111, mitigation #7580, testing #1056, testing #1057  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1056 · mitigation #1057 · mitigation #7111 · mitigation #7580 · testing #1056 · testing #1057
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
+
+[**Call** (610) 367-5005](tel:6103675005)
 
 ### Rogers, Keith
 
-305 Cameron Dr, Douglassville, PA  
-☎ [(610) 575-2775](tel:6105752775)  
-✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Douglassville1 certified person
+
+#### Address
+
+* 305 Cameron Dr, Douglassville, PA
+* ✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
+
+#### Certified individuals
 
 * Rogers, Keith (mitigation #3540)
 
-DEP cert IDs: mitigation #3540  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
+#### DEP cert IDs
+
+mitigation #3540
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
+
+[**Call** (610) 575-2775](tel:6105752775)
 
 ## Radon testing (5 firms)
-
-✔ Certified by PA DEP Testing
 
 ### A-1 Realty Ser
 
 ⚠ Name may be cut off in DEP records
 
-Po Box 179, Kutztown, PA  
-☎ [(610) 683-7370](tel:6106837370)  
-✉ [info@brsinspect.com](mailto:info@brsinspect.com)  
-🌐 [brsinspect.com](https://brsinspect.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Kutztown1 certified person
+
+#### Address
+
+* Po Box 179, Kutztown, PA
+* ✉ [info@brsinspect.com](mailto:info@brsinspect.com)
+* [brsinspect.com](https://brsinspect.com/)
+
+#### Certified individuals
 
 * Zimmerman, Jeffrey (testing #2751)
 
-DEP cert IDs: testing #2751  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2751)
+#### DEP cert IDs
 
-✔ Certified by PA DEP LabTesting
+testing #2751
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2751)
+
+[**Call** (610) 683-7370](tel:6106837370)
 
 ### A.B.E. Radiation Measurements Labs
 
-1005 Old Route 22, Lenhartsville, PA  
-☎ [(610) 756-4153](tel:6107564153)  
-✉ [tony@radprotection.com](mailto:tony@radprotection.com)  
-🌐 [radprotection.com](https://www.radprotection.com/)
+✓ PA DEP certifiedLabTesting
 
-5 DEP-certified individuals
+Lenhartsville5 certified people
+
+#### Address
+
+* 1005 Old Route 22, Lenhartsville, PA
+* ✉ [tony@radprotection.com](mailto:tony@radprotection.com)
+* [radprotection.com](https://www.radprotection.com/)
+
+#### Certified individuals
 
 * Bowers, Joshua (testing #9085)
 * Lamastra, Anthony (testing #0050, lab #0050)
@@ -134,66 +178,91 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Steber, Clay (testing #8833)
 * Steber, Jeanette (testing #8834)
 
-DEP cert IDs: lab #0048, lab #0050, testing #0048, testing #0050, testing #8014, testing #8833, testing #8834, testing #9085  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0048)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+lab #0048 · lab #0050 · testing #0048 · testing #0050 · testing #8014 · testing #8833 · testing #8834 · testing #9085
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0048)
+
+[**Call** (610) 756-4153](tel:6107564153)
 
 ### Artigliere, David
 
-Po Box 4475, Reading, PA  
-☎ [(610) 220-1907](tel:6102201907)  
-✉ [artihi@gmail.com](mailto:artihi@gmail.com)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+Reading2 certified people
+
+#### Address
+
+* Po Box 4475, Reading, PA
+* ✉ [artihi@gmail.com](mailto:artihi@gmail.com)
+
+#### Certified individuals
 
 * Artigliere, David (testing #2399)
 * Artigliere, Tina (testing #2398)
 
-DEP cert IDs: testing #2398, testing #2399  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2398)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2398 · testing #2399
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2398)
+
+[**Call** (610) 220-1907](tel:6102201907)
 
 ### Melendez, Jarel
 
-613 Bingaman St, Reading, PA  
-☎ [(484) 388-9696](tel:4843889696)  
-✉ [jarel.melendez@readingpa.gov](mailto:jarel.melendez@readingpa.gov)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Reading1 certified person
+
+#### Address
+
+* 613 Bingaman St, Reading, PA
+* ✉ [jarel.melendez@readingpa.gov](mailto:jarel.melendez@readingpa.gov)
+
+#### Certified individuals
 
 * Melendez, Jarel (testing #3605)
 
-DEP cert IDs: testing #3605  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3605)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3605
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3605)
+
+[**Call** (484) 388-9696](tel:4843889696)
 
 ### Suburban Property
 
 ⚠ Name may be cut off in DEP records
 
-4600 Kutztown Rd, Temple, PA  
-☎ [(610) 929-1154](tel:6109291154)  
-✉ [rick@inspectnow.com](mailto:rick@inspectnow.com)
+✓ PA DEP certifiedTesting
 
-3 DEP-certified individuals
+Temple3 certified people
+
+#### Address
+
+* 4600 Kutztown Rd, Temple, PA
+* ✉ [rick@inspectnow.com](mailto:rick@inspectnow.com)
+
+#### Certified individuals
 
 * Becker, Jonathan (testing #8778)
 * Cutrer, Morgan (testing #8830)
 * Stump, Jonathan (testing #8392)
 
-DEP cert IDs: testing #8392, testing #8778, testing #8830  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8392)
+#### DEP cert IDs
+
+testing #8392 · testing #8778 · testing #8830
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8392)
+
+[**Call** (610) 929-1154](tel:6109291154)
 
 ## Neighboring counties
 
-[Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms)
+[Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -224,3 +293,29 @@ Detailed local guides: [How to find a radon expert in Reading](https://radonrost
 **How much does radon mitigation cost in Berks County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Berks mitigators[Request quotes](https://radonroster.com/get-quotes/?county=berks)
+
+Our advice
+
+## Before you hire in Berks
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Berks.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=berks)

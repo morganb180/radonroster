@@ -4,13 +4,29 @@ description: "Scranton, PA radon guide: 20% of 9,215 basement tests at or above 
 canonical: https://radonroster.com/pa/city/scranton-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Scranton](https://radonroster.com/pa/city/scranton-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Scranton, PA](https://radonroster.com/pa/city/scranton-pa/)›Radon guide
 
 # How to find a radon expert in Scranton, PA
 
 Scranton tests lower than much of Pennsylvania, with **20%** of 9,215 basement tests at or above 4 pCi/L. That still leaves 1,814 tests over the action level, so a low average doesn't clear any single house. That's below Lackawanna County as a whole (28%) and below the statewide share (37%). The median Scranton result (1.8 pCi/L) is below the 4 pCi/L line. The Lackawanna County median is 2.3 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Scranton municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Scranton at a glance
+
+Scranton**20%**
+
+Lackawanna Co.**28%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.8**median pCi/L
+
+**9,215**tests on record
+
+**#31**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=scranton) [Browse all Scranton radon firms](https://radonroster.com/pa/city/scranton-pa/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/)
 
@@ -41,73 +57,101 @@ Every firm listed for Scranton on Radon Roster shows its DEP IDs and a link to t
 
 Nearest DEP-certified firms: **2** based in Scranton (1 mitigation), **7** elsewhere in Lackawanna County (3 mitigation), and **5** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Disaster Blaster Inc
 
-536 N Main Ave, Scranton, PA  
-☎ [(570) 963-1123](tel:5709631123)  
-✉ [g\_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)  
-🌐 [disasterblaster.com](https://www.disasterblaster.com/)
+✓ PA DEP certifiedMitigation
 
-4 DEP-certified individuals
+Scranton4 certified people
+
+#### Address
+
+* 536 N Main Ave, Scranton, PA
+* ✉ [g\_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)
+* [disasterblaster.com](https://www.disasterblaster.com/)
+
+#### Certified individuals
 
 * Lyons, Allen (mitigation #7235)
 * Lyons, Gary (mitigation #2849)
 * Lyons, Matthew (mitigation #7412)
 * Schneider, William (mitigation #7299)
 
-DEP cert IDs: mitigation #2848, mitigation #2849, mitigation #7235, mitigation #7299, mitigation #7412  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2848)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2848 · mitigation #2849 · mitigation #7235 · mitigation #7299 · mitigation #7412
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2848)
+
+[**Call** (570) 963-1123](tel:5709631123)
 
 ### Affordable Radon Mitigation
 
-24 Amanda Ln, Scott Township, PA  
-☎ [(570) 254-2242](tel:5702542242)  
-✉ [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Scott Township1 certified person
+
+#### Address
+
+* 24 Amanda Ln, Scott Township, PA
+* ✉ [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
+
+#### Certified individuals
 
 * Vail, Jr, Robert (mitigation #1716)
 
-DEP cert IDs: mitigation #1716  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1716)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #1716
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1716)
+
+[**Call** (570) 254-2242](tel:5702542242)
 
 ### Kotz, Jim
 
-405 Carbondale Rd, Clarks Summit, PA  
-☎ [(570) 499-0752](tel:5704990752)  
-✉ [attackradon@gmail.com](mailto:attackradon@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Clarks Summit1 certified person
+
+#### Address
+
+* 405 Carbondale Rd, Clarks Summit, PA
+* ✉ [attackradon@gmail.com](mailto:attackradon@gmail.com)
+
+#### Certified individuals
 
 * Kotz, Jim (mitigation #3441)
 
-DEP cert IDs: mitigation #3441  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3441)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3441
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3441)
+
+[**Call** (570) 499-0752](tel:5704990752)
 
 ### Zigga, Eric
 
-835 Murray St, Throop, PA  
-☎ [(570) 383-2363](tel:5703832363)  
-✉ [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Throop1 certified person
+
+#### Address
+
+* 835 Murray St, Throop, PA
+* ✉ [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
+
+#### Certified individuals
 
 * Zigga, Eric (mitigation #2233)
 
-DEP cert IDs: mitigation #2233  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2233)
+#### DEP cert IDs
+
+mitigation #2233
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2233)
+
+[**Call** (570) 383-2363](tel:5703832363)
 
 [See all firms near Scranton →](https://radonroster.com/pa/city/scranton-pa/)
 
@@ -158,3 +202,29 @@ In PA DEP's test records, 20% of 9,215 basement tests with a Scranton address we
 **How much does radon mitigation cost in Scranton?**
 
 We don't have Scranton-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=scranton)
+
+Our advice
+
+## Before you hire in Scranton
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Scranton.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=scranton)

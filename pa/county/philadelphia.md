@@ -4,177 +4,242 @@ description: "10 PA DEP-certified radon firms in Philadelphia County: 12% of bas
 canonical: https://radonroster.com/pa/county/philadelphia/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Philadelphia County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Philadelphia
 
 # Radon testing & mitigation in Philadelphia County, PA
 
+12% of basement tests here came back at or above 4 pCi/L, well below the statewide 37%. Neighboring houses can still test very differently, so every home should be tested.
+
 ## Philadelphia County radon test data
 
-**12%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Philadelphia**12%**
 
-**1.7 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.7**median basement pCi/L
 
 **155,445**basement tests on record
 
-**5%**first-floor tests ≥ 4 pCi/L  
-20,065 tests, median 1.0
+**#67**of 67 PA counties by share ≥ 4
 
-**#67 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **5%** of 20,065 tests ≥ 4 pCi/L, median 1.0
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **10 DEP-certified firms** have a business address in Philadelphia County (2 offer mitigation), with 17 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=philadelphia)
 
+[Mitigation2](#mitigation)[Testing8](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (2 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Rvs Radon Mitigation
 
 ⚠ Name may be cut off in DEP records
 
-294 E Cheltenham Ave, Philadelphia, PA  
-☎ [(267) 269-5573](tel:2672695573)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 294 E Cheltenham Ave, Philadelphia, PA
+
+#### Certified individuals
 
 * Tabora, Bryann (mitigation #7735)
 
-DEP cert IDs: mitigation #7735  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #7735
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
+
+[**Call** (267) 269-5573](tel:2672695573)
 
 ### Rvs Radon Mitigation, LLC.
 
-294 E Cheltenham Ave, Philadelphia, PA  
-☎ [(267) 269-5573](tel:2672695573)  
-✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)  
-🌐 [rvsradon.com](https://www.rvsradon.com/)
+✓ PA DEP certifiedMitigation
 
-3 DEP-certified individuals
+Philadelphia3 certified people
+
+#### Address
+
+* 294 E Cheltenham Ave, Philadelphia, PA
+* ✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)
+* [rvsradon.com](https://www.rvsradon.com/)
+
+#### Certified individuals
 
 * Bastidas, Juan D. (mitigation #7697)
 * Gonzalez, Juan Antonio (mitigation #3458)
 * Tituana, Ivan (mitigation #7725)
 
-DEP cert IDs: mitigation #3458, mitigation #3594, mitigation #7697, mitigation #7725  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
+#### DEP cert IDs
+
+mitigation #3458 · mitigation #3594 · mitigation #7697 · mitigation #7725
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
+
+[**Call** (267) 269-5573](tel:2672695573)
 
 ## Radon testing (8 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Borkowski, Patrick
 
-Po Box 63827, Philadelphia, PA  
-☎ [(888) 927-3944](tel:8889273944)  
-✉ [info@apexinspections.net](mailto:info@apexinspections.net)  
-🌐 [apexinspections.net](https://apexinspections.net/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* Po Box 63827, Philadelphia, PA
+* ✉ [info@apexinspections.net](mailto:info@apexinspections.net)
+* [apexinspections.net](https://apexinspections.net/)
+
+#### Certified individuals
 
 * Borkowski, Patrick (testing #2497)
 
-DEP cert IDs: testing #2497  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2497)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2497
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2497)
+
+[**Call** (888) 927-3944](tel:8889273944)
 
 ### Dunn, Jr., William
 
-3111 S 19Th St, Philadelphia, PA  
-☎ [(215) 284-1737](tel:2152841737)  
-✉ [willdunn430@gmail.com](mailto:willdunn430@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 3111 S 19Th St, Philadelphia, PA
+* ✉ [willdunn430@gmail.com](mailto:willdunn430@gmail.com)
+
+#### Certified individuals
 
 * Dunn, Jr., William (testing #3374)
 
-DEP cert IDs: testing #3374  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3374)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3374
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3374)
+
+[**Call** (215) 284-1737](tel:2152841737)
 
 ### Geo Environmental
 
-Po Box 33450, Philadelphia, PA  
-☎ [(215) 778-7118](tel:2157787118)  
-✉ [geotristate@gmail.com](mailto:geotristate@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* Po Box 33450, Philadelphia, PA
+* ✉ [geotristate@gmail.com](mailto:geotristate@gmail.com)
+
+#### Certified individuals
 
 * Lerro, Joseph (testing #8701)
 
-DEP cert IDs: testing #8701  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8701)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #8701
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8701)
+
+[**Call** (215) 778-7118](tel:2157787118)
 
 ### Lampe, Bruce D.
 
-9615 Berea St, Philadelphia, PA  
-☎ [(215) 632-4220](tel:2156324220)  
-✉ [medhomeinsp@aol.com](mailto:medhomeinsp@aol.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 9615 Berea St, Philadelphia, PA
+* ✉ [medhomeinsp@aol.com](mailto:medhomeinsp@aol.com)
+
+#### Certified individuals
 
 * Lampe, Bruce D. (testing #2188)
 
-DEP cert IDs: testing #2188  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2188)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2188
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2188)
+
+[**Call** (215) 632-4220](tel:2156324220)
 
 ### Mazzio, Michael
 
-8203 Dorcas St, Philadelphia, PA  
-☎ [(215) 280-5473](tel:2152805473)  
-✉ [absoluteenvirotesting@gmail.co](mailto:absoluteenvirotesting@gmail.co)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 8203 Dorcas St, Philadelphia, PA
+* ✉ [absoluteenvirotesting@gmail.co](mailto:absoluteenvirotesting@gmail.co)
+
+#### Certified individuals
 
 * Mazzio, Michael (testing #3677)
 
-DEP cert IDs: testing #3677  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3677)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3677
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3677)
+
+[**Call** (215) 280-5473](tel:2152805473)
 
 ### Serrano, Moises
 
-3446 Reach Street, Philadelphia, PA  
-☎ [(215) 800-9528](tel:2158009528)  
-✉ [moises@libertyradondiagnostics.com](mailto:moises@libertyradondiagnostics.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 3446 Reach Street, Philadelphia, PA
+* ✉ [moises@libertyradondiagnostics.com](mailto:moises@libertyradondiagnostics.com)
+
+#### Certified individuals
 
 * Serrano, Moises (testing #3746)
 
-DEP cert IDs: testing #3746  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3746)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3746
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3746)
+
+[**Call** (215) 800-9528](tel:2158009528)
 
 ### Valueguard Usa, Inc.
 
-100 E Penn Sq Ste 400, Philadelphia, PA  
-☎ [(215) 860-3150](tel:2158603150)  
-✉ [chase@valueguardusa.com](mailto:chase@valueguardusa.com)  
-✉ [team@valueguardusa.com](mailto:team@valueguardusa.com)
+✓ PA DEP certifiedTesting
 
-6 DEP-certified individuals
+Philadelphia6 certified people
+
+#### Address
+
+* 100 E Penn Sq Ste 400, Philadelphia, PA
+* ✉ [chase@valueguardusa.com](mailto:chase@valueguardusa.com)
+* ✉ [team@valueguardusa.com](mailto:team@valueguardusa.com)
+
+#### Certified individuals
 
 * Baltrush, Michael (testing #9053)
 * Gilger, Tyler (testing #9030)
@@ -183,29 +248,40 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Royer, James (testing #9031)
 * Shalaway, Cory (testing #9016)
 
-DEP cert IDs: testing #1910, testing #2740, testing #8788, testing #9016, testing #9030, testing #9031, testing #9053  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1910)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #1910 · testing #2740 · testing #8788 · testing #9016 · testing #9030 · testing #9031 · testing #9053
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1910)
+
+[**Call** (215) 860-3150](tel:2158603150)
 
 ### Yeager, Joseph
 
-185 Levering Street, Philadelphia, PA  
-☎ [(215) 205-4453](tel:2152054453)  
-✉ [joseph.s.yeager@gmail.com](mailto:joseph.s.yeager@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Philadelphia1 certified person
+
+#### Address
+
+* 185 Levering Street, Philadelphia, PA
+* ✉ [joseph.s.yeager@gmail.com](mailto:joseph.s.yeager@gmail.com)
+
+#### Certified individuals
 
 * Yeager, Joseph (testing #3503)
 
-DEP cert IDs: testing #3503  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3503)
+#### DEP cert IDs
+
+testing #3503
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3503)
+
+[**Call** (215) 205-4453](tel:2152054453)
 
 ## Neighboring counties
 
-[Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Delaware](https://radonroster.com/pa/county/delaware/) (12 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms)
+[Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Delaware](https://radonroster.com/pa/county/delaware/) (12 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -236,3 +312,29 @@ Detailed local guides: [How to find a radon expert in Philadelphia](https://rado
 **How much does radon mitigation cost in Philadelphia County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/get-quotes/?county=philadelphia)
+
+Our advice
+
+## Before you hire in Philadelphia
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Philadelphia.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=philadelphia)

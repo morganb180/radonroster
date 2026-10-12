@@ -4,13 +4,29 @@ description: "West Chester, PA radon guide: 24% of 45,366 basement tests at or a
 canonical: https://radonroster.com/pa/city/west-chester-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [West Chester](https://radonroster.com/pa/city/west-chester-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[West Chester, PA](https://radonroster.com/pa/city/west-chester-pa/)›Radon guide
 
 # How to find a radon expert in West Chester, PA
 
 West Chester tests lower than much of Pennsylvania, with **24%** of 45,366 basement tests at or above 4 pCi/L. That still leaves 10,723 tests over the action level, so a low average doesn't clear any single house. That's below Chester County as a whole (31%) and below the statewide share (37%). The median West Chester result (1.9 pCi/L) is below the 4 pCi/L line. The Chester County median is 2.4 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a West Chester municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## West Chester at a glance
+
+West Chester**24%**
+
+Chester Co.**31%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.9**median pCi/L
+
+**45,366**tests on record
+
+**#27**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=west-chester) [Browse all West Chester radon firms](https://radonroster.com/pa/city/west-chester-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
 
@@ -40,16 +56,19 @@ Every firm listed for West Chester on Radon Roster shows its DEP IDs and a link 
 
 Nearest DEP-certified firms: **2** based in West Chester (1 mitigation), **16** elsewhere in Chester County (2 mitigation), and **16** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Safe Shelter Environmental
 
-7 S Wayne St, West Chester, PA  
-☎ [(610) 594-0350](tel:6105940350)  
-✉ [joe@safeshelter.com](mailto:joe@safeshelter.com)  
-🌐 [safeshelter.com](https://safeshelter.com/)
+✓ PA DEP certifiedMitigationTesting
 
-6 DEP-certified individuals
+West Chester6 certified people
+
+#### Address
+
+* 7 S Wayne St, West Chester, PA
+* ✉ [joe@safeshelter.com](mailto:joe@safeshelter.com)
+* [safeshelter.com](https://safeshelter.com/)
+
+#### Certified individuals
 
 * Batten Jr, Joseph (testing #3525, mitigation #3525)
 * Fisicaro, Jesse (mitigation #7713)
@@ -58,42 +77,60 @@ Nearest DEP-certified firms: **2** based in West Chester (1 mitigation), **16** 
 * Hughes, Kareem (mitigation #7716)
 * Tavoni, Matthew (mitigation #7714)
 
-DEP cert IDs: mitigation #0207, mitigation #3525, mitigation #7713, mitigation #7714, mitigation #7715, mitigation #7716, mitigation #7717, testing #0207, testing #3525  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0207)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #0207 · mitigation #3525 · mitigation #7713 · mitigation #7714 · mitigation #7715 · mitigation #7716 · mitigation #7717 · testing #0207 · testing #3525
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0207)
+
+[**Call** (610) 594-0350](tel:6105940350)
 
 ### Conrad, Spencer
 
-116 Gay Street #186, Phoenixville, PA  
-☎ [(570) 573-8159](tel:5705738159)  
-✉ [spencerconradinspect@gmail.com](mailto:spencerconradinspect@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Phoenixville1 certified person
+
+#### Address
+
+* 116 Gay Street #186, Phoenixville, PA
+* ✉ [spencerconradinspect@gmail.com](mailto:spencerconradinspect@gmail.com)
+
+#### Certified individuals
 
 * Conrad, Spencer (testing #3020, mitigation #3020)
 
-DEP cert IDs: mitigation #3020, testing #3020  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3020)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3020 · testing #3020
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3020)
+
+[**Call** (570) 573-8159](tel:5705738159)
 
 ### Gutridge Inspections
 
-1614 Laurelwood Rd, Pottstown, PA  
-☎ [(610) 385-3339](tel:6103853339)  
-✉ [office@gutridgeinspections.com](mailto:office@gutridgeinspections.com)  
-🌐 [gutridgeinspections.com](https://www.gutridgeinspections.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Pottstown1 certified person
+
+#### Address
+
+* 1614 Laurelwood Rd, Pottstown, PA
+* ✉ [office@gutridgeinspections.com](mailto:office@gutridgeinspections.com)
+* [gutridgeinspections.com](https://www.gutridgeinspections.com/)
+
+#### Certified individuals
 
 * Gutridge, Charles (testing #2973, mitigation #2973)
 
-DEP cert IDs: mitigation #2973, testing #2973  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2973)
+#### DEP cert IDs
+
+mitigation #2973 · testing #2973
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2973)
+
+[**Call** (610) 385-3339](tel:6103853339)
 
 [See all firms near West Chester →](https://radonroster.com/pa/city/west-chester-pa/)
 
@@ -144,3 +181,29 @@ We don't have West Chester-specific price data. A national cost guide puts typic
 **Do I need a radon test when buying a home in Pennsylvania?**
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
+
+**Want firms to contact you?**One request to West Chester mitigators[Request quotes](https://radonroster.com/get-quotes/?city=west-chester)
+
+Our advice
+
+## Before you hire in West Chester
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve West Chester.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=west-chester)

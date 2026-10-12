@@ -4,13 +4,29 @@ description: "King of Prussia, PA radon guide: 21% of 6,855 basement tests at or
 canonical: https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[King of Prussia, PA](https://radonroster.com/pa/city/king-of-prussia-pa/)›Radon guide
 
 # How to find a radon expert in King of Prussia, PA
 
 King of Prussia tests lower than much of Pennsylvania, with **21%** of 6,855 basement tests at or above 4 pCi/L. That still leaves 1,408 tests over the action level, so a low average doesn't clear any single house. That's below Montgomery County as a whole (28%) and below the statewide share (37%). The median King of Prussia result (1.9 pCi/L) is below the 4 pCi/L line. The Montgomery County median is 2.4 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a King of Prussia municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## King of Prussia at a glance
+
+King of Prussia**21%**
+
+Montgomery Co.**28%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**1.9**median pCi/L
+
+**6,855**tests on record
+
+**#30**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=king-of-prussia) [Browse all King of Prussia radon firms](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
 
@@ -37,85 +53,116 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **1** based in King of Prussia (1 mitigation), **28** elsewhere in Montgomery County (7 mitigation), and **18** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Air Quality Control, Inc.
 
-630 Freedom Business Ctr, King Of Prussia, PA  
-☎ [(610) 239-4212](tel:6102394212)  
-✉ [roger@aqc-radon.com](mailto:roger@aqc-radon.com)  
-🌐 [aqc-radon.com](http://www.aqc-radon.com/)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+King Of Prussia1 certified person
+
+#### Address
+
+* 630 Freedom Business Ctr, King Of Prussia, PA
+* ✉ [roger@aqc-radon.com](mailto:roger@aqc-radon.com)
+* [aqc-radon.com](http://www.aqc-radon.com/)
+
+#### Certified individuals
 
 * Burens, Jr., Roger (mitigation #1862)
 
-DEP cert IDs: mitigation #1862  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1862)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1862
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1862)
+
+[**Call** (610) 239-4212](tel:6102394212)
 
 ### Accurate Radon Control Inc
 
-Po Box 296, Green Lane, PA  
-☎ [(215) 541-1557](tel:2155411557)  
-✉ [dave@accurateradoncontrol.com](mailto:dave@accurateradoncontrol.com)  
-🌐 [accurateradoncontrol.com](https://accurateradoncontrol.com/)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Green Lane2 certified people
+
+#### Address
+
+* Po Box 296, Green Lane, PA
+* ✉ [dave@accurateradoncontrol.com](mailto:dave@accurateradoncontrol.com)
+* [accurateradoncontrol.com](https://accurateradoncontrol.com/)
+
+#### Certified individuals
 
 * Demar, David (testing #2112, mitigation #2112)
 * Demar, Zachariah (mitigation #7709)
 
-DEP cert IDs: mitigation #2112, mitigation #2113, mitigation #7709, testing #2112  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2112)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2112 · mitigation #2113 · mitigation #7709 · testing #2112
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2112)
+
+[**Call** (215) 541-1557](tel:2155411557)
 
 ### Airotox
 
-14 E Main St, Lansdale, PA  
-☎ [(215) 247-6869](tel:2152476869)  
-✉ [info@airotox.com](mailto:info@airotox.com)  
-🌐 [airotox.com](https://airotox.com/)
+✓ PA DEP certifiedMitigation
 
-3 DEP-certified individuals
+Lansdale3 certified people
+
+#### Address
+
+* 14 E Main St, Lansdale, PA
+* ✉ [info@airotox.com](mailto:info@airotox.com)
+* [airotox.com](https://airotox.com/)
+
+#### Certified individuals
 
 * Achuff, Mark (mitigation #2741)
 * Achuff, Matthew (mitigation #7422)
 * Achuff, Ryan (mitigation #7424)
 
-DEP cert IDs: mitigation #2741, mitigation #3109, mitigation #7422, mitigation #7424  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2741)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2741 · mitigation #3109 · mitigation #7422 · mitigation #7424
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2741)
+
+[**Call** (215) 247-6869](tel:2152476869)
 
 ### Gentry, Timothy J.
 
-Po Box 1642, Horsham, PA  
-☎ [(215) 672-8529](tel:2156728529)  
-✉ [homeinspectiondetective@comcast.net](mailto:homeinspectiondetective@comcast.net)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Horsham1 certified person
+
+#### Address
+
+* Po Box 1642, Horsham, PA
+* ✉ [homeinspectiondetective@comcast.net](mailto:homeinspectiondetective@comcast.net)
+
+#### Certified individuals
 
 * Gentry, Timothy J. (testing #2217, mitigation #2217)
 
-DEP cert IDs: mitigation #2217, testing #2217  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2217)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2217 · testing #2217
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2217)
+
+[**Call** (215) 672-8529](tel:2156728529)
 
 ### Radon Technology & Enviromental Inc
 
-828 Oak St, Royersford, PA  
-☎ [(610) 495-2810](tel:6104952810)  
-✉ [info@wefixradon.com](mailto:info@wefixradon.com)
+✓ PA DEP certifiedMitigation
 
-5 DEP-certified individuals
+Royersford5 certified people
+
+#### Address
+
+* 828 Oak St, Royersford, PA
+* ✉ [info@wefixradon.com](mailto:info@wefixradon.com)
+
+#### Certified individuals
 
 * Carney, Matthew (mitigation #7364)
 * Hadfield, John (mitigation #7627)
@@ -123,26 +170,37 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Kollmeyer, Shane (mitigation #7441)
 * Kollmeyer, Sr, Bruce (mitigation #7047)
 
-DEP cert IDs: mitigation #1308, mitigation #3024, mitigation #7047, mitigation #7364, mitigation #7441, mitigation #7627  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1308)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1308 · mitigation #3024 · mitigation #7047 · mitigation #7364 · mitigation #7441 · mitigation #7627
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1308)
+
+[**Call** (610) 495-2810](tel:6104952810)
 
 ### Radon-Rid LLC
 
-693 Egypt Rd, Phoenixville, PA  
-☎ [(610) 222-2273](tel:6102222273)  
-✉ [info@radonrid.com](mailto:info@radonrid.com)  
-🌐 [radonrid.com](https://www.radonrid.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Phoenixville1 certified person
+
+#### Address
+
+* 693 Egypt Rd, Phoenixville, PA
+* ✉ [info@radonrid.com](mailto:info@radonrid.com)
+* [radonrid.com](https://www.radonrid.com/)
+
+#### Certified individuals
 
 * Marino, Marc A. (testing #2585, mitigation #2585)
 
-DEP cert IDs: mitigation #2585, mitigation #2586, testing #2585  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2585)
+#### DEP cert IDs
+
+mitigation #2585 · mitigation #2586 · testing #2585
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2585)
+
+[**Call** (610) 222-2273](tel:6102222273)
 
 [See all firms near King of Prussia →](https://radonroster.com/pa/city/king-of-prussia-pa/)
 
@@ -198,3 +256,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to King of Prussia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=king-of-prussia)
+
+Our advice
+
+## Before you hire in King of Prussia
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve King of Prussia.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=king-of-prussia)

@@ -4,140 +4,188 @@ description: "6 PA DEP-certified radon firms in Cumberland County: 55% of baseme
 canonical: https://radonroster.com/pa/county/cumberland/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Cumberland County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Cumberland
 
 # Radon testing & mitigation in Cumberland County, PA
 
+55% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Cumberland County radon test data
 
-**55%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Cumberland**55%**
 
-**4.8 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.8**median basement pCi/L
 
 **76,621**basement tests on record
 
-**37%**first-floor tests ≥ 4 pCi/L  
-17,596 tests, median 2.5
+**#12**of 67 PA counties by share ≥ 4
 
-**#12 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **37%** of 17,596 tests ≥ 4 pCi/L, median 2.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **6 DEP-certified firms** have a business address in Cumberland County (4 offer mitigation), with 10 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=cumberland)
 
+[Mitigation4](#mitigation)[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (4 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### American Radon Solutions, Inc.
 
-3537 Hartzdale Dr Suite H, Camp Hill, PA  
-☎ [(717) 795-9367](tel:7177959367)  
-✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+✓ PA DEP certifiedMitigation
 
-2 DEP-certified individuals
+Camp Hill2 certified people
+
+#### Address
+
+* 3537 Hartzdale Dr Suite H, Camp Hill, PA
+* ✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
+
+#### Certified individuals
 
 * Nguyen, Cuong (mitigation #7058)
 * Nguyen, Tuan (mitigation #1419)
 
-DEP cert IDs: mitigation #1418, mitigation #1419, mitigation #7058  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #1418 · mitigation #1419 · mitigation #7058
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
+
+[**Call** (717) 795-9367](tel:7177959367)
 
 ### Ro, Jooik
 
-30 Sunset Dr, Carlisle, PA  
-☎ [(717) 226-7179](tel:7172267179)  
-✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Carlisle1 certified person
+
+#### Address
+
+* 30 Sunset Dr, Carlisle, PA
+* ✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
+
+#### Certified individuals
 
 * Ro, Jooik (testing #2760, mitigation #2760)
 
-DEP cert IDs: mitigation #2760, testing #2760  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2760 · testing #2760
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
+
+[**Call** (717) 226-7179](tel:7172267179)
 
 ### Sheely, Mike
 
-1000 Wolfe Rd, Enola, PA  
-☎ [(717) 732-6538](tel:7177326538)  
-✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Enola1 certified person
+
+#### Address
+
+* 1000 Wolfe Rd, Enola, PA
+* ✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
+
+#### Certified individuals
 
 * Sheely, Mike (mitigation #2691)
 
-DEP cert IDs: mitigation #2691  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2691
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
+
+[**Call** (717) 732-6538](tel:7177326538)
 
 ### Precision Inspections & Radon Solutions
 
-4900 Carlisle Pk #277, Mechanicsburg, PA  
-☎ [(717) 763-1373](tel:7177631373)  
-✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)  
-✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)  
-🌐 [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+✓ PA DEP certifiedMitigationTesting
 
-4 DEP-certified individuals
+Mechanicsburg4 certified people
+
+#### Address
+
+* 4900 Carlisle Pk #277, Mechanicsburg, PA
+* ✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)
+* ✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)
+* [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
+
+#### Certified individuals
 
 * Ling, Jeremy (testing #8493, mitigation #2404)
 * Ling, Selena (testing #3104)
 * Pealer, Connor (mitigation #7544)
 * Price, Michael (testing #8909)
 
-DEP cert IDs: mitigation #2404, mitigation #3355, mitigation #7544, testing #3104, testing #3105, testing #8493, testing #8909  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+#### DEP cert IDs
+
+mitigation #2404 · mitigation #3355 · mitigation #7544 · testing #3104 · testing #3105 · testing #8493 · testing #8909
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
+
+[**Call** (717) 763-1373](tel:7177631373)
 
 ## Radon testing (2 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Cline, Jr., Joseph
 
-Po Box 1145, Mechanicsburg, PA  
-☎ [(717) 503-7086](tel:7175037086)  
-✉ [ansinspect@netscape.net](mailto:ansinspect@netscape.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mechanicsburg1 certified person
+
+#### Address
+
+* Po Box 1145, Mechanicsburg, PA
+* ✉ [ansinspect@netscape.net](mailto:ansinspect@netscape.net)
+
+#### Certified individuals
 
 * Cline, Jr., Joseph (testing #2282)
 
-DEP cert IDs: testing #2282  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2282)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2282
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2282)
+
+[**Call** (717) 503-7086](tel:7175037086)
 
 ### Heintzelman, David C.
 
-2802 W Rosegarden Blvd, Mechanicsburg, PA  
-☎ [(717) 480-3357](tel:7174803357)  
-✉ [ann@adlerhi.com](mailto:ann@adlerhi.com)  
-🌐 [adlerhi.com](https://adlerhi.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Mechanicsburg1 certified person
+
+#### Address
+
+* 2802 W Rosegarden Blvd, Mechanicsburg, PA
+* ✉ [ann@adlerhi.com](mailto:ann@adlerhi.com)
+* [adlerhi.com](https://adlerhi.com/)
+
+#### Certified individuals
 
 * Heintzelman, David C. (testing #3532)
 
-DEP cert IDs: testing #3532  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3532)
+#### DEP cert IDs
+
+testing #3532
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3532)
+
+[**Call** (717) 480-3357](tel:7174803357)
 
 ## Neighboring counties
 
-[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms)
+[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -168,3 +216,29 @@ Detailed local guides: [How to find a radon expert in Camp Hill](https://radonro
 **How much does radon mitigation cost in Cumberland County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Cumberland mitigators[Request quotes](https://radonroster.com/get-quotes/?county=cumberland)
+
+Our advice
+
+## Before you hire in Cumberland
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Cumberland.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=cumberland)

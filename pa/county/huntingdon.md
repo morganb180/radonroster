@@ -4,83 +4,110 @@ description: "3 PA DEP-certified radon firms in Huntingdon County: 53% of baseme
 canonical: https://radonroster.com/pa/county/huntingdon/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Huntingdon County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Huntingdon
 
 # Radon testing & mitigation in Huntingdon County, PA
 
+53% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Huntingdon County radon test data
 
-**53%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Huntingdon**53%**
 
-**4.3 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.3**median basement pCi/L
 
 **3,984**basement tests on record
 
-**25%**first-floor tests ≥ 4 pCi/L  
-542 tests, median 1.8
+**#15**of 67 PA counties by share ≥ 4
 
-**#15 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **25%** of 542 tests ≥ 4 pCi/L, median 1.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **3 DEP-certified firms** have a business address in Huntingdon County (0 offer mitigation), with 4 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=huntingdon)
 
-## Radon testing (3 firms)
+Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (3 firms)
 
 ### Kuntz, Ronald
 
-Po Box 174, Alexandria, PA  
-☎ [(814) 669-1221](tel:8146691221)  
-✉ [ronk@pro-spect.biz](mailto:ronk@pro-spect.biz)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Alexandria1 certified person
+
+#### Address
+
+* Po Box 174, Alexandria, PA
+* ✉ [ronk@pro-spect.biz](mailto:ronk@pro-spect.biz)
+
+#### Certified individuals
 
 * Kuntz, Ronald (testing #2168)
 
-DEP cert IDs: testing #2168  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2168)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2168
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2168)
+
+[**Call** (814) 669-1221](tel:8146691221)
 
 ### Barnish, Greig
 
-2224 Highland Ave, Huntingdon, PA  
-☎ [(814) 599-0381](tel:8145990381)  
-✉ [glbarn1@verizon.net](mailto:glbarn1@verizon.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Huntingdon1 certified person
+
+#### Address
+
+* 2224 Highland Ave, Huntingdon, PA
+* ✉ [glbarn1@verizon.net](mailto:glbarn1@verizon.net)
+
+#### Certified individuals
 
 * Barnish, Greig (testing #3485)
 
-DEP cert IDs: testing #3485  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3485)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3485
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3485)
+
+[**Call** (814) 599-0381](tel:8145990381)
 
 ### Baker, Kimberly
 
-1564 Dry Hollow Rd, Warriors Mark, PA  
-☎ [(814) 632-9224](tel:8146329224)  
-✉ [dwellingdiagnostics@windstream.net](mailto:dwellingdiagnostics@windstream.net)  
-✉ [kimbaker@windstream.net](mailto:kimbaker@windstream.net)
+✓ PA DEP certifiedTesting
 
-2 DEP-certified individuals
+Warriors Mark2 certified people
+
+#### Address
+
+* 1564 Dry Hollow Rd, Warriors Mark, PA
+* ✉ [dwellingdiagnostics@windstream.net](mailto:dwellingdiagnostics@windstream.net)
+* ✉ [kimbaker@windstream.net](mailto:kimbaker@windstream.net)
+
+#### Certified individuals
 
 * Baker, Kimberly (testing #3175)
 * Baker, Roger (testing #2160)
 
-DEP cert IDs: testing #2160, testing #3175  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2160)
+#### DEP cert IDs
+
+testing #2160 · testing #3175
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2160)
+
+[**Call** (814) 632-9224](tel:8146329224)
 
 ## Neighboring counties
 
-[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms)
+[Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -105,3 +132,29 @@ With 53% of 3,984 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Huntingdon County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Huntingdon mitigators[Request quotes](https://radonroster.com/get-quotes/?county=huntingdon)
+
+Our advice
+
+## Before you hire in Huntingdon
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Huntingdon.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=huntingdon)

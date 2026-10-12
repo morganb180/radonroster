@@ -4,125 +4,169 @@ description: "7 PA DEP-certified radon firms in Pike County: 38% of basement tes
 canonical: https://radonroster.com/pa/county/pike/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Pike County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Pike
 
 # Radon testing & mitigation in Pike County, PA
 
+38% of basement tests here came back at or above 4 pCi/L, about level with the statewide 37%. That means about one in 3 homes tested needs a fix.
+
 ## Pike County radon test data
 
-**38%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Pike**38%**
 
-**2.9 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.9**median basement pCi/L
 
 **21,604**basement tests on record
 
-**13%**first-floor tests ≥ 4 pCi/L  
-6,846 tests, median 1.3
+**#50**of 67 PA counties by share ≥ 4
 
-**#50 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **13%** of 6,846 tests ≥ 4 pCi/L, median 1.3
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **7 DEP-certified firms** have a business address in Pike County (1 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=pike)
 
+[Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Knesnik, Randy
 
-413 Long Meadow Rd, Milford, PA  
-☎ [(570) 828-2790](tel:5708282790)  
-✉ [randykn@ptd.net](mailto:randykn@ptd.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Milford1 certified person
+
+#### Address
+
+* 413 Long Meadow Rd, Milford, PA
+* ✉ [randykn@ptd.net](mailto:randykn@ptd.net)
+
+#### Certified individuals
 
 * Knesnik, Randy (mitigation #1880)
 
-DEP cert IDs: mitigation #1880  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1880)
+#### DEP cert IDs
+
+mitigation #1880
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1880)
+
+[**Call** (570) 828-2790](tel:5708282790)
 
 ## Radon testing (6 firms)
 
-✔ Certified by PA DEP Testing
-
 ### Minogue, Sean
 
-145 Fox Rd, Dingmans Ferry, PA  
-☎ [(646) 269-1986](tel:6462691986)  
-✉ [info@minoguehomeinspections.com](mailto:info@minoguehomeinspections.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Dingmans Ferry1 certified person
+
+#### Address
+
+* 145 Fox Rd, Dingmans Ferry, PA
+* ✉ [info@minoguehomeinspections.com](mailto:info@minoguehomeinspections.com)
+
+#### Certified individuals
 
 * Minogue, Sean (testing #3495)
 
-DEP cert IDs: testing #3495  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3495)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3495
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3495)
+
+[**Call** (646) 269-1986](tel:6462691986)
 
 ### Precise Home
 
-2901 Hemlock Farms, Hawley, PA  
-☎ [(917) 279-6725](tel:9172796725)  
-✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Hawley1 certified person
+
+#### Address
+
+* 2901 Hemlock Farms, Hawley, PA
+* ✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
+
+#### Certified individuals
 
 * Schachter, Joel W. (testing #2189)
 
-DEP cert IDs: testing #2189  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2189)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2189
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2189)
+
+[**Call** (917) 279-6725](tel:9172796725)
 
 ### Precise Home Inspections, LLC
 
-2901 Hemlock Farms, Lords Valley, PA  
-☎ [(917) 279-6725](tel:9172796725)  
-✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Lords Valley1 certified person
+
+#### Address
+
+* 2901 Hemlock Farms, Lords Valley, PA
+* ✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
+
+#### Certified individuals
 
 * Schachter, Flint (testing #8715)
 
-DEP cert IDs: testing #2817, testing #8715  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2817)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2817 · testing #8715
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2817)
+
+[**Call** (917) 279-6725](tel:9172796725)
 
 ### Cline, Matthew
 
-310 Avenue G, Matamoras, PA  
-☎ [(973) 981-6665](tel:9739816665)  
-✉ [ateasehomeinspectionllc@gmail.com](mailto:ateasehomeinspectionllc@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Matamoras1 certified person
+
+#### Address
+
+* 310 Avenue G, Matamoras, PA
+* ✉ [ateasehomeinspectionllc@gmail.com](mailto:ateasehomeinspectionllc@gmail.com)
+
+#### Certified individuals
 
 * Cline, Matthew (testing #3508)
 
-DEP cert IDs: testing #3508  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3508)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3508
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3508)
+
+[**Call** (973) 981-6665](tel:9739816665)
 
 ### Nova Group, Gbc
 
-700 Route 6, Suite 1, Shohola, PA  
-☎ [(570) 786-1031](tel:5707861031)  
-✉ [anthony.galasso@novagroupgbc.com](mailto:anthony.galasso@novagroupgbc.com)  
-✉ [madeline.wroblewski@novagroupgbc.com](mailto:madeline.wroblewski@novagroupgbc.com)  
-🌐 [novagroupgbc.com](https://www.novagroupgbc.com/)
+✓ PA DEP certifiedTesting
 
-6 DEP-certified individuals
+Shohola6 certified people
+
+#### Address
+
+* 700 Route 6, Suite 1, Shohola, PA
+* ✉ [anthony.galasso@novagroupgbc.com](mailto:anthony.galasso@novagroupgbc.com)
+* ✉ [madeline.wroblewski@novagroupgbc.com](mailto:madeline.wroblewski@novagroupgbc.com)
+* [novagroupgbc.com](https://www.novagroupgbc.com/)
+
+#### Certified individuals
 
 * Fiorentino-Strawn, Thomas (testing #9061)
 * Galasso, Anthony J (testing #3551)
@@ -131,29 +175,40 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * Wright, Ethan (testing #9144)
 * Wroblewski, Madeline (testing #3634)
 
-DEP cert IDs: testing #3551, testing #3634, testing #3635, testing #9061, testing #9140, testing #9144  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3551)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #3551 · testing #3634 · testing #3635 · testing #9061 · testing #9140 · testing #9144
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3551)
+
+[**Call** (570) 786-1031](tel:5707861031)
 
 ### Moraski, Ronald
 
-104 Deer Path, Tafton, PA  
-☎ [(570) 290-7629](tel:5702907629)  
-✉ [aspispros@gmail.com](mailto:aspispros@gmail.com)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Tafton1 certified person
+
+#### Address
+
+* 104 Deer Path, Tafton, PA
+* ✉ [aspispros@gmail.com](mailto:aspispros@gmail.com)
+
+#### Certified individuals
 
 * Moraski, Ronald (testing #3236)
 
-DEP cert IDs: testing #3236  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3236)
+#### DEP cert IDs
+
+testing #3236
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3236)
+
+[**Call** (570) 290-7629](tel:5702907629)
 
 ## Neighboring counties
 
-[Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Wayne](https://radonroster.com/pa/county/wayne/) (4 firms)
+[Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Wayne](https://radonroster.com/pa/county/wayne/) (4 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -178,3 +233,29 @@ With 38% of 21,604 basement tests at or above 4 pCi/L (near the 37% statewide sh
 **How much does radon mitigation cost in Pike County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Pike mitigators[Request quotes](https://radonroster.com/get-quotes/?county=pike)
+
+Our advice
+
+## Before you hire in Pike
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Pike.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=pike)

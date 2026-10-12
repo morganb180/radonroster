@@ -4,13 +4,29 @@ description: "Quakertown, PA radon guide: 35% of 7,479 basement tests at or abov
 canonical: https://radonroster.com/pa/city/quakertown-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Quakertown](https://radonroster.com/pa/city/quakertown-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Quakertown, PA](https://radonroster.com/pa/city/quakertown-pa/)›Radon guide
 
 # How to find a radon expert in Quakertown, PA
 
 In Quakertown, 7,479 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **35%** were at or above 4 pCi/L. That's above Bucks County as a whole (31%) and about level with the statewide share (37%). The median Quakertown result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Bucks County median is 2.5 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Quakertown municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Quakertown at a glance
+
+Quakertown**35%**
+
+Bucks Co.**31%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.8**median pCi/L
+
+**7,479**tests on record
+
+**#20**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=quakertown) [Browse all Quakertown radon firms](https://radonroster.com/pa/city/quakertown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
 
@@ -37,73 +53,101 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **2** based in Quakertown (2 mitigation), **17** elsewhere in Bucks County (2 mitigation), and **15** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### The Radon Bros
 
-2288 Township Rd, Quakertown, PA  
-☎ [(484) 460-9697](tel:4844609697)  
-✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)  
-✉ [theradonbros@gmail.com](mailto:theradonbros@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-3 DEP-certified individuals
+Quakertown3 certified people
+
+#### Address
+
+* 2288 Township Rd, Quakertown, PA
+* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+* ✉ [theradonbros@gmail.com](mailto:theradonbros@gmail.com)
+
+#### Certified individuals
 
 * Griffith, Bryan (testing #9106, mitigation #7668)
 * Mcgann, Edward (testing #9104, mitigation #7712)
 * Smith, Jacob (testing #9105)
 
-DEP cert IDs: mitigation #3556, mitigation #7668, mitigation #7712, testing #3714, testing #9104, testing #9105, testing #9106  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3556)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3556 · mitigation #7668 · mitigation #7712 · testing #3714 · testing #9104 · testing #9105 · testing #9106
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3556)
+
+[**Call** (484) 460-9697](tel:4844609697)
 
 ### The Radon Bros
 
-2288 Township Road, Quakertown, PA  
-☎ [(484) 460-9697](tel:4844609697)  
-✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Quakertown1 certified person
+
+#### Address
+
+* 2288 Township Road, Quakertown, PA
+* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
+
+#### Certified individuals
 
 * Smith, Jacob (mitigation #7699)
 
-DEP cert IDs: mitigation #7699  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7699)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #7699
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7699)
+
+[**Call** (484) 460-9697](tel:4844609697)
 
 ### Indoor Air Surgeons, LLC
 
-3070 Bristol Pike, Bensalem, PA  
-☎ [(215) 239-8628](tel:2152398628)  
-✉ [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Bensalem1 certified person
+
+#### Address
+
+* 3070 Bristol Pike, Bensalem, PA
+* ✉ [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
+
+#### Certified individuals
 
 * Jackson, Corwin (mitigation #3063)
 
-DEP cert IDs: mitigation #3063, mitigation #3347  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3063)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3063 · mitigation #3347
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3063)
+
+[**Call** (215) 239-8628](tel:2152398628)
 
 ### Insight Property Services
 
-368 Pine Run Rd, Doylestown, PA  
-☎ [(215) 674-1808](tel:2156741808)  
-✉ [insightinspect@comcast.net](mailto:insightinspect@comcast.net)  
-🌐 [insightservices-pa.com](https://www.insightservices-pa.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Doylestown1 certified person
+
+#### Address
+
+* 368 Pine Run Rd, Doylestown, PA
+* ✉ [insightinspect@comcast.net](mailto:insightinspect@comcast.net)
+* [insightservices-pa.com](https://www.insightservices-pa.com/)
+
+#### Certified individuals
 
 * Schluth, Edward M. (testing #1990, mitigation #1990)
 
-DEP cert IDs: mitigation #1990, testing #1990  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1990)
+#### DEP cert IDs
+
+mitigation #1990 · testing #1990
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1990)
+
+[**Call** (215) 674-1808](tel:2156741808)
 
 [See all firms near Quakertown →](https://radonroster.com/pa/city/quakertown-pa/)
 
@@ -153,3 +197,29 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 **How do I find a certified radon expert in Quakertown, PA?**
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 2 DEP-certified firms based in Quakertown and 17 more in Bucks County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Want firms to contact you?**One request to Quakertown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=quakertown)
+
+Our advice
+
+## Before you hire in Quakertown
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Quakertown.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=quakertown)

@@ -4,52 +4,65 @@ description: "1 PA DEP-certified radon firms in Elk County: 48% of basement test
 canonical: https://radonroster.com/pa/county/elk/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Elk County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Elk
 
 # Radon testing & mitigation in Elk County, PA
 
+48% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Elk County radon test data
 
-**48%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Elk**48%**
 
-**3.8 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.8**median basement pCi/L
 
 **3,519**basement tests on record
 
-**26%**first-floor tests ≥ 4 pCi/L  
-335 tests, median 1.5
+**#28**of 67 PA counties by share ≥ 4
 
-**#28 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **26%** of 335 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **1 DEP-certified firms** have a business address in Elk County (1 offer mitigation), with 1 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=elk)
 
+[Mitigation1](#mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Gelsick, Michael
 
-537 Maurus St, Saint Marys, PA  
-☎ [(814) 590-9754](tel:8145909754)  
-✉ [mgelsick@gelsickhomeinsp.com](mailto:mgelsick@gelsickhomeinsp.com)  
-🌐 [gelsickhomeinsp.com](https://gelsickhomeinsp.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Saint Marys1 certified person
+
+#### Address
+
+* 537 Maurus St, Saint Marys, PA
+* ✉ [mgelsick@gelsickhomeinsp.com](mailto:mgelsick@gelsickhomeinsp.com)
+* [gelsickhomeinsp.com](https://gelsickhomeinsp.com/)
+
+#### Certified individuals
 
 * Gelsick, Michael (testing #2809, mitigation #2809)
 
-DEP cert IDs: mitigation #2809, testing #2809  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2809)
+#### DEP cert IDs
+
+mitigation #2809 · testing #2809
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2809)
+
+[**Call** (814) 590-9754](tel:8145909754)
 
 ## Neighboring counties
 
-[Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [McKean](https://radonroster.com/pa/county/mckean/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms)
+[Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [McKean](https://radonroster.com/pa/county/mckean/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -74,3 +87,29 @@ With 48% of 3,519 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Elk County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Elk mitigators[Request quotes](https://radonroster.com/get-quotes/?county=elk)
+
+Our advice
+
+## Before you hire in Elk
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Elk.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=elk)

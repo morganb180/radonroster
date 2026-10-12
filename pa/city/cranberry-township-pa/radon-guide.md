@@ -4,13 +4,29 @@ description: "Cranberry Township, PA radon guide: 38% of 10,735 basement tests a
 canonical: https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Cranberry Township](https://radonroster.com/pa/city/cranberry-township-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Cranberry Township, PA](https://radonroster.com/pa/city/cranberry-township-pa/)›Radon guide
 
 # How to find a radon expert in Cranberry Township, PA
 
 In Cranberry Township, 10,735 basement radon tests in PA DEP's records give a median of **2.9 pCi/L**, and **38%** were at or above 4 pCi/L. That's below Butler County as a whole (47%) and about level with the statewide share (37%). The median Cranberry Township result (2.9 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Butler County median is 3.6 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Cranberry Township municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Cranberry Township at a glance
+
+Cranberry Township**38%**
+
+Butler Co.**47%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.9**median pCi/L
+
+**10,735**tests on record
+
+**#19**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=cranberry-township) [Browse all Cranberry Township radon firms](https://radonroster.com/pa/city/cranberry-township-pa/) · [Butler County](https://radonroster.com/pa/county/butler/)
 
@@ -41,25 +57,32 @@ Every firm listed for Cranberry Township on Radon Roster shows its DEP IDs and a
 
 Nearest DEP-certified firms: **0** based in Cranberry Township (0 mitigation), **12** elsewhere in Butler County (1 mitigation), and **7** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP Mitigation
-
 ### Kennihan Plumbing And Heating Inc
 
-530 Steiner Bridge Rd, Valencia, PA  
-☎ [(724) 898-2587](tel:7248982587)  
-✉ [bill@kennihans.com](mailto:bill@kennihans.com)  
-🌐 [kennihans.com](https://www.kennihans.com/)
+✓ PA DEP certifiedMitigation
 
-4 DEP-certified individuals
+Valencia4 certified people
+
+#### Address
+
+* 530 Steiner Bridge Rd, Valencia, PA
+* ✉ [bill@kennihans.com](mailto:bill@kennihans.com)
+* [kennihans.com](https://www.kennihans.com/)
+
+#### Certified individuals
 
 * Himme, Gregory L. (mitigation #7632)
 * Kennihan, Jerome (mitigation #7719)
 * Kennihan, William (mitigation #3535)
 * Tosi, Zachary C. (mitigation #7630)
 
-DEP cert IDs: mitigation #3535, mitigation #3536, mitigation #7630, mitigation #7632, mitigation #7719  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
+#### DEP cert IDs
+
+mitigation #3535 · mitigation #3536 · mitigation #7630 · mitigation #7632 · mitigation #7719
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
+
+[**Call** (724) 898-2587](tel:7248982587)
 
 [See all firms near Cranberry Township →](https://radonroster.com/pa/city/cranberry-township-pa/)
 
@@ -105,3 +128,29 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 **How long does a radon test take?**
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/get-quotes/?city=cranberry-township)
+
+Our advice
+
+## Before you hire in Cranberry Township
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Cranberry Township.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=cranberry-township)

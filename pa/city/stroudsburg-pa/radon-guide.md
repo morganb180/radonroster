@@ -4,13 +4,29 @@ description: "Stroudsburg, PA radon guide: 49% of 7,508 basement tests at or abo
 canonical: https://radonroster.com/pa/city/stroudsburg-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Stroudsburg, PA](https://radonroster.com/pa/city/stroudsburg-pa/)›Radon guide
 
 # How to find a radon expert in Stroudsburg, PA
 
 In Stroudsburg, 7,508 basement radon tests in PA DEP's records give a median of **3.8 pCi/L**, and **49%** were at or above 4 pCi/L. That's above Monroe County as a whole (46%) and above the statewide share (37%). The median Stroudsburg result (3.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Monroe County median is 3.6 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Stroudsburg municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Stroudsburg at a glance
+
+Stroudsburg**49%**
+
+Monroe Co.**46%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.8**median pCi/L
+
+**7,508**tests on record
+
+**#9**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=stroudsburg) [Browse all Stroudsburg radon firms](https://radonroster.com/pa/city/stroudsburg-pa/) · [Monroe County](https://radonroster.com/pa/county/monroe/)
 
@@ -37,54 +53,75 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 Nearest DEP-certified firms: **2** based in Stroudsburg (1 mitigation), **9** elsewhere in Monroe County (2 mitigation), and **8** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Abell, Matt
 
-304 Wallace St, Stroudsburg, PA  
-☎ [(570) 807-1831](tel:5708071831)  
-✉ [ablebodiesservices@hotmail.com](mailto:ablebodiesservices@hotmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Stroudsburg1 certified person
+
+#### Address
+
+* 304 Wallace St, Stroudsburg, PA
+* ✉ [ablebodiesservices@hotmail.com](mailto:ablebodiesservices@hotmail.com)
+
+#### Certified individuals
 
 * Abell, Matt (testing #3632, mitigation #3632)
 
-DEP cert IDs: mitigation #3632, testing #3632  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3632)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3632 · testing #3632
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3632)
+
+[**Call** (570) 807-1831](tel:5708071831)
 
 ### A R M Environmental LLC
 
-P O Box 733, Tannersville, PA  
-☎ [(570) 402-1916](tel:5704021916)  
-✉ [mrmold.armenvironmental@gmail.com](mailto:mrmold.armenvironmental@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Tannersville2 certified people
+
+#### Address
+
+* P O Box 733, Tannersville, PA
+* ✉ [mrmold.armenvironmental@gmail.com](mailto:mrmold.armenvironmental@gmail.com)
+
+#### Certified individuals
 
 * Gibson, Garhett (testing #9080, mitigation #7687)
 * Gibson, Gregory (testing #2303, mitigation #2303)
 
-DEP cert IDs: mitigation #2303, mitigation #2439, mitigation #7687, testing #2303, testing #2439, testing #9080  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2303)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2303 · mitigation #2439 · mitigation #7687 · testing #2303 · testing #2439 · testing #9080
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2303)
+
+[**Call** (570) 402-1916](tel:5704021916)
 
 ### Levine, Benjamin
 
-110 Music Center Dr, East Stroudsburg, PA  
-☎ [(570) 977-9533](tel:5709779533)  
-✉ [bjlevine1992@yahoo.com](mailto:bjlevine1992@yahoo.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+East Stroudsburg1 certified person
+
+#### Address
+
+* 110 Music Center Dr, East Stroudsburg, PA
+* ✉ [bjlevine1992@yahoo.com](mailto:bjlevine1992@yahoo.com)
+
+#### Certified individuals
 
 * Levine, Benjamin (mitigation #3656)
 
-DEP cert IDs: mitigation #3656  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3656)
+#### DEP cert IDs
+
+mitigation #3656
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3656)
+
+[**Call** (570) 977-9533](tel:5709779533)
 
 [See all firms near Stroudsburg →](https://radonroster.com/pa/city/stroudsburg-pa/)
 
@@ -135,3 +172,29 @@ In PA DEP's test records, 49% of 7,508 basement tests with a Stroudsburg address
 **How much does radon mitigation cost in Stroudsburg?**
 
 We don't have Stroudsburg-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+
+**Want firms to contact you?**One request to Stroudsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=stroudsburg)
+
+Our advice
+
+## Before you hire in Stroudsburg
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Stroudsburg.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=stroudsburg)

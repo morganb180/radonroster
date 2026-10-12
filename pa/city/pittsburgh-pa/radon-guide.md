@@ -4,13 +4,29 @@ description: "Pittsburgh, PA radon guide: 31% of 157,738 basement tests at or ab
 canonical: https://radonroster.com/pa/city/pittsburgh-pa/radon-guide/
 ---
 
-[Home](https://radonroster.com/) › [PA cities](https://radonroster.com/pa/cities/) › [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/) › Radon guide
+[Pennsylvania](https://radonroster.com/)›[Cities](https://radonroster.com/pa/cities/)›[Pittsburgh, PA](https://radonroster.com/pa/city/pittsburgh-pa/)›Radon guide
 
 # How to find a radon expert in Pittsburgh, PA
 
 In Pittsburgh, 157,738 basement radon tests in PA DEP's records give a median of **2.6 pCi/L**, and **31%** were at or above 4 pCi/L. That's below Allegheny County as a whole (34%) and below the statewide share (37%). The median Pittsburgh result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Allegheny County median is 2.7 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Pittsburgh municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
+
+## Pittsburgh at a glance
+
+Pittsburgh**31%**
+
+Allegheny Co.**34%**
+
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**2.6**median pCi/L
+
+**157,738**tests on record
+
+**#22**of 33 guide cities
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=pittsburgh) [Browse all Pittsburgh radon firms](https://radonroster.com/pa/city/pittsburgh-pa/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/)
 
@@ -38,70 +54,98 @@ Most systems use **active soil depressurization** ([EPA Consumer's Guide to Rado
 
 Nearest DEP-certified firms: **28** based in Pittsburgh (3 mitigation), **16** elsewhere in Allegheny County (1 mitigation), and **10** mitigation firms in neighboring counties.
 
-✔ Certified by PA DEP MitigationTesting
-
 ### Buffone, Steven
 
-301 S Hills Vlg, Pittsburgh, PA  
-☎ [(330) 717-4061](tel:3307174061)  
-✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Pittsburgh1 certified person
+
+#### Address
+
+* 301 S Hills Vlg, Pittsburgh, PA
+* ✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
+
+#### Certified individuals
 
 * Buffone, Steven (testing #3700, mitigation #3700)
 
-DEP cert IDs: mitigation #3700, testing #3700  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3700 · testing #3700
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
+
+[**Call** (330) 717-4061](tel:3307174061)
 
 ### Shaffer, Jon
 
-1115 Cornell St, Pittsburgh, PA  
-☎ [(724) 772-2200](tel:7247722200)  
-✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Pittsburgh1 certified person
+
+#### Address
+
+* 1115 Cornell St, Pittsburgh, PA
+* ✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
+
+#### Certified individuals
 
 * Shaffer, Jon (mitigation #2499)
 
-DEP cert IDs: mitigation #2499  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #2499
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
+
+[**Call** (724) 772-2200](tel:7247722200)
 
 ### Steel City Radon
 
-1223 Southgate Dr, Pittsburgh, PA  
-☎ [(412) 851-4231](tel:4128514231)  
-✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
+✓ PA DEP certifiedMitigation
 
-2 DEP-certified individuals
+Pittsburgh2 certified people
+
+#### Address
+
+* 1223 Southgate Dr, Pittsburgh, PA
+* ✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
+
+#### Certified individuals
 
 * Nowicki, Michael (mitigation #2038)
 * Nowicki, Susan (mitigation #7315)
 
-DEP cert IDs: mitigation #2002, mitigation #2038, mitigation #7315  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #2002 · mitigation #2038 · mitigation #7315
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
+
+[**Call** (412) 851-4231](tel:4128514231)
 
 ### Bacchus, Brian C.
 
-125 Twin Oaks Dr, Wexford, PA  
-☎ [(724) 940-3366](tel:7249403366)  
-✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Wexford1 certified person
+
+#### Address
+
+* 125 Twin Oaks Dr, Wexford, PA
+* ✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
+
+#### Certified individuals
 
 * Bacchus, Brian C. (testing #1771, mitigation #1771)
 
-DEP cert IDs: mitigation #1771, testing #1771  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
+#### DEP cert IDs
+
+mitigation #1771 · testing #1771
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
+
+[**Call** (724) 940-3366](tel:7249403366)
 
 [See all firms near Pittsburgh →](https://radonroster.com/pa/city/pittsburgh-pa/)
 
@@ -152,3 +196,29 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 28 DEP-certified firm
 **Is radon common in Pittsburgh?**
 
 In PA DEP's test records, 31% of 157,738 basement tests with a Pittsburgh address were at or above 4 pCi/L (median 2.6 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**Want firms to contact you?**One request to Pittsburgh mitigators[Request quotes](https://radonroster.com/get-quotes/?city=pittsburgh)
+
+Our advice
+
+## Before you hire in Pittsburgh
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Pittsburgh.
+
+[Request quotes](https://radonroster.com/get-quotes/?city=pittsburgh)

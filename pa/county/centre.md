@@ -4,105 +4,139 @@ description: "4 PA DEP-certified radon firms in Centre County: 56% of basement t
 canonical: https://radonroster.com/pa/county/centre/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Centre County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Centre
 
 # Radon testing & mitigation in Centre County, PA
 
+56% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Centre County radon test data
 
-**56%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Centre**56%**
 
-**5.2 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**5.2**median basement pCi/L
 
 **39,814**basement tests on record
 
-**42%**first-floor tests ≥ 4 pCi/L  
-5,125 tests, median 3.2
+**#8**of 67 PA counties by share ≥ 4
 
-**#8 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **42%** of 5,125 tests ≥ 4 pCi/L, median 3.2
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **4 DEP-certified firms** have a business address in Centre County (3 offer mitigation), with 5 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=centre)
 
+[Mitigation3](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (3 firms)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP MitigationTesting
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Mckee Environmental, Inc.
 
-86 Quartz Dr, Bellefonte, PA  
-☎ [(814) 380-7126](tel:8143807126)  
-✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
+✓ PA DEP certifiedMitigationTesting
 
-2 DEP-certified individuals
+Bellefonte2 certified people
+
+#### Address
+
+* 86 Quartz Dr, Bellefonte, PA
+* ✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
+
+#### Certified individuals
 
 * Mckee, Douglas (testing #3484, mitigation #3484)
 * Mckee, Jillian (testing #9103)
 
-DEP cert IDs: mitigation #3484, testing #3484, testing #3710, testing #9103  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
+#### DEP cert IDs
 
-✔ Certified by PA DEP MitigationTesting
+mitigation #3484 · testing #3484 · testing #3710 · testing #9103
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
+
+[**Call** (814) 380-7126](tel:8143807126)
 
 ### Oak Leaf Environmental
 
-409 S Pennsylvania Ave, Centre Hall, PA  
-☎ [(814) 876-2228](tel:8148762228)  
-✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)  
-🌐 [oakleafenv.com](https://www.oakleafenv.com/)
+✓ PA DEP certifiedMitigationTesting
 
-1 DEP-certified individual
+Centre Hall1 certified person
+
+#### Address
+
+* 409 S Pennsylvania Ave, Centre Hall, PA
+* ✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)
+* [oakleafenv.com](https://www.oakleafenv.com/)
+
+#### Certified individuals
 
 * Wilkins, Thomas (testing #3726, mitigation #3726)
 
-DEP cert IDs: mitigation #3726, mitigation #3727, testing #3726, testing #3727  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Mitigation
+mitigation #3726 · mitigation #3727 · testing #3726 · testing #3727
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
+
+[**Call** (814) 876-2228](tel:8148762228)
 
 ### Glantz, Frank
 
-Po Box 866, Lemont, PA  
-☎ [(814) 278-7751](tel:8142787751)  
-✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)  
-🌐 [raid-on-radon.com](https://raid-on-radon.com/)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Lemont1 certified person
+
+#### Address
+
+* Po Box 866, Lemont, PA
+* ✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)
+* [raid-on-radon.com](https://raid-on-radon.com/)
+
+#### Certified individuals
 
 * Glantz, Frank (mitigation #2135)
 
-DEP cert IDs: mitigation #2135  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
+#### DEP cert IDs
+
+mitigation #2135
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
+
+[**Call** (814) 278-7751](tel:8142787751)
 
 ## Radon testing (1 firm)
-
-✔ Certified by PA DEP Testing
 
 ### Todd Giddings & As
 
 ⚠ Name may be cut off in DEP records
 
-3049 Enterprise Drive, State College, PA  
-☎ [(814) 238-5927](tel:8142385927)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+State College1 certified person
+
+#### Address
+
+* 3049 Enterprise Drive, State College, PA
+
+#### Certified individuals
 
 * Giddings, Todd (testing #8453)
 
-DEP cert IDs: testing #8453  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8453)
+#### DEP cert IDs
+
+testing #8453
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8453)
+
+[**Call** (814) 238-5927](tel:8142385927)
 
 ## Neighboring counties
 
-[Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms)
+[Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -133,3 +167,29 @@ Detailed local guides: [How to find a radon expert in State College](https://rad
 **How much does radon mitigation cost in Centre County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Centre mitigators[Request quotes](https://radonroster.com/get-quotes/?county=centre)
+
+Our advice
+
+## Before you hire in Centre
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Centre.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=centre)

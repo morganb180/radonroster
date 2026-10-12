@@ -4,70 +4,90 @@ description: "2 PA DEP-certified radon firms in Clinton County: 46% of basement 
 canonical: https://radonroster.com/pa/county/clinton/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Clinton County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Clinton
 
 # Radon testing & mitigation in Clinton County, PA
 
+46% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Clinton County radon test data
 
-**46%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Clinton**46%**
 
-**3.5 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**3.5**median basement pCi/L
 
 **4,724**basement tests on record
 
-**19%**first-floor tests ≥ 4 pCi/L  
-823 tests, median 1.3
+**#38**of 67 PA counties by share ≥ 4
 
-**#38 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **19%** of 823 tests ≥ 4 pCi/L, median 1.3
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Clinton County (1 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=clinton)
 
+[Mitigation1](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
+
 ## Radon mitigation (reduction systems) (1 firm)
 
-Firms that also test are shown here once.
-
-✔ Certified by PA DEP Mitigation
+Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### Conklin, George, Iv
 
-1351 W Winter Rd, Loganton, PA  
-☎ [(570) 433-8210](tel:5704338210)  
-✉ [gconk23@cs.com](mailto:gconk23@cs.com)
+✓ PA DEP certifiedMitigation
 
-1 DEP-certified individual
+Loganton1 certified person
+
+#### Address
+
+* 1351 W Winter Rd, Loganton, PA
+* ✉ [gconk23@cs.com](mailto:gconk23@cs.com)
+
+#### Certified individuals
 
 * Conklin, George, Iv (mitigation #2769)
 
-DEP cert IDs: mitigation #2769  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2769)
+#### DEP cert IDs
+
+mitigation #2769
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2769)
+
+[**Call** (570) 433-8210](tel:5704338210)
 
 ## Radon testing (1 firm)
 
-✔ Certified by PA DEP Testing
-
 ### Hancock, Gregory
 
-Po Box 110, Woolrich, PA  
-☎ [(570) 769-6365](tel:5707696365)  
-✉ [hhi@hancockhomeinspections.com](mailto:hhi@hancockhomeinspections.com)  
-🌐 [hancockhomeinspections.com](https://hancockhomeinspections.com/)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Woolrich1 certified person
+
+#### Address
+
+* Po Box 110, Woolrich, PA
+* ✉ [hhi@hancockhomeinspections.com](mailto:hhi@hancockhomeinspections.com)
+* [hancockhomeinspections.com](https://hancockhomeinspections.com/)
+
+#### Certified individuals
 
 * Hancock, Gregory (testing #1712)
 
-DEP cert IDs: testing #1712  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1712)
+#### DEP cert IDs
+
+testing #1712
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1712)
+
+[**Call** (570) 769-6365](tel:5707696365)
 
 ## Neighboring counties
 
-[Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms)
+[Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -92,3 +112,29 @@ With 46% of 4,724 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Clinton County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Clinton mitigators[Request quotes](https://radonroster.com/get-quotes/?county=clinton)
+
+Our advice
+
+## Before you hire in Clinton
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Clinton.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=clinton)

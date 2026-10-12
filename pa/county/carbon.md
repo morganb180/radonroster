@@ -4,65 +4,85 @@ description: "2 PA DEP-certified radon firms in Carbon County: 53% of basement t
 canonical: https://radonroster.com/pa/county/carbon/
 ---
 
-[Home](https://radonroster.com/) › [Counties](https://radonroster.com/pa/counties/) › Carbon County
+[Pennsylvania](https://radonroster.com/)›[Counties](https://radonroster.com/pa/counties/)›Carbon
 
 # Radon testing & mitigation in Carbon County, PA
 
+53% of basement tests here came back at or above 4 pCi/L, well above the statewide 37%. That means about one in 2 homes tested needs a fix.
+
 ## Carbon County radon test data
 
-**53%**basement tests ≥ 4 pCi/L  
-statewide: 37%
+Carbon**53%**
 
-**4.4 pCi/L**median basement test
+Statewide**37%**
+
+Share of basement tests ≥ 4 pCi/L
+
+**4.4**median basement pCi/L
 
 **9,429**basement tests on record
 
-**23%**first-floor tests ≥ 4 pCi/L  
-2,213 tests, median 1.8
+**#17**of 67 PA counties by share ≥ 4
 
-**#17 of 67**PA counties by share ≥ 4 pCi/L
+First floor: **23%** of 2,213 tests ≥ 4 pCi/L, median 1.8
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
 **2 DEP-certified firms** have a business address in Carbon County (0 offer mitigation), with 2 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=carbon)
 
-## Radon testing (2 firms)
+Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-✔ Certified by PA DEP Testing
+## Radon testing (2 firms)
 
 ### Hontz, Ammon
 
-Po Box 4064, Jim Thorpe, PA  
-☎ [(570) 467-7328](tel:5704677328)  
-✉ [adhomes@ptd.net](mailto:adhomes@ptd.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Jim Thorpe1 certified person
+
+#### Address
+
+* Po Box 4064, Jim Thorpe, PA
+* ✉ [adhomes@ptd.net](mailto:adhomes@ptd.net)
+
+#### Certified individuals
 
 * Hontz, Ammon (testing #2986)
 
-DEP cert IDs: testing #2986  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2986)
+#### DEP cert IDs
 
-✔ Certified by PA DEP Testing
+testing #2986
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2986)
+
+[**Call** (570) 467-7328](tel:5704677328)
 
 ### Shanley, Marc
 
-55 Country Acres Dr, Kunkletown, PA  
-☎ [(610) 681-4012](tel:6106814012)  
-✉ [trinity9@ptd.net](mailto:trinity9@ptd.net)
+✓ PA DEP certifiedTesting
 
-1 DEP-certified individual
+Kunkletown1 certified person
+
+#### Address
+
+* 55 Country Acres Dr, Kunkletown, PA
+* ✉ [trinity9@ptd.net](mailto:trinity9@ptd.net)
+
+#### Certified individuals
 
 * Shanley, Marc (testing #2172)
 
-DEP cert IDs: testing #2172  
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11  
-[Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2172)
+#### DEP cert IDs
+
+testing #2172
+
+Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2172)
+
+[**Call** (610) 681-4012](tel:6106814012)
 
 ## Neighboring counties
 
-[Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Northampton](https://radonroster.com/pa/county/northampton/) (7 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms)
+[Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Northampton](https://radonroster.com/pa/county/northampton/) (7 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
@@ -87,3 +107,29 @@ With 53% of 9,429 basement tests at or above 4 pCi/L (above the 37% statewide sh
 **How much does radon mitigation cost in Carbon County?**
 
 We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+
+**Want firms to contact you?**One request to Carbon mitigators[Request quotes](https://radonroster.com/get-quotes/?county=carbon)
+
+Our advice
+
+## Before you hire in Carbon
+
+1. Ask for the DEP cert ID and match it to the listing.
+2. Get at least two written quotes for mitigation.
+3. Retest after the system is installed.
+
+PA Radon Hotline **800-237-2366**
+
+Typical mitigation cost
+
+$786–$1,274
+
+National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+
+[Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Want firms to contact you?
+
+Send one request to certified mitigators who serve Carbon.
+
+[Request quotes](https://radonroster.com/get-quotes/?county=carbon)
