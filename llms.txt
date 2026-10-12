@@ -1,0 +1,33 @@
+# Radon Roster
+
+> Radon Roster is a free directory of Pennsylvania DEP-certified radon testing, mitigation and laboratory firms, with county and city radon test data from PA DEP public records. Draft preview, not yet launched (pages are noindex).
+
+Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real estate agents who need a PA DEP-certified radon tester or mitigation contractor, and for radon professionals who want to claim or correct their free listing. Listings come from PA DEP certification lists dated 10/01/2026; radon statistics come from PA DEP's public Radon Test Results dataset. A listing is not an endorsement. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://radonroster.com/index.md).
+
+## Directory
+- [All 67 Pennsylvania counties](https://radonroster.com/pa/counties/): certified firms by county
+- [Pennsylvania cities](https://radonroster.com/pa/cities/): local radon test data and nearby firms
+- [Radon levels by county](https://radonroster.com/pa/radon-levels-by-county/): PA DEP test statistics table
+- [Out-of-state firms certified in PA](https://radonroster.com/pa/out-of-state/)
+
+## Guides
+- [What is radon?](https://radonroster.com/what-is-radon/)
+- [Radon testing vs mitigation](https://radonroster.com/testing-vs-mitigation/)
+- [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/): typical national ranges and estimate tool
+- [PA real estate radon disclosure](https://radonroster.com/pa/real-estate-radon-disclosure/)
+- [Get free quotes](https://radonroster.com/get-quotes/): placeholder form, not yet functional
+
+## For contractors
+- [Advertising and pricing](https://radonroster.com/for-contractors/): draft featured-listing plans
+- [Claim, correct or remove a listing](https://radonroster.com/claim-listing/): placeholder form
+- [How we make money](https://radonroster.com/how-we-make-money/)
+
+## About
+- [About Radon Roster](https://radonroster.com/about/)
+- [About our data](https://radonroster.com/about-our-data/)
+- [Contact](https://radonroster.com/contact/)
+- [Privacy policy (draft)](https://radonroster.com/privacy/)
+- [Sitemap](https://radonroster.com/sitemap.xml)
+
+## Optional
+- [llms-full.txt](https://radonroster.com/llms-full.txt): full list of county, city and guide pages
