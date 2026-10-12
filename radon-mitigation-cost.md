@@ -17,9 +17,7 @@ These are **typical national ranges from a third-party cost guide**, not Pennsyl
 
 **Estimate only.** Uses only the national cost-guide figures cited above (HomeAdvisor). It isn't a quote, and Pennsylvania prices may differ.
 
- Mitigation system (typical $786-$1,274)  
- Professional radon test before or after (typical $150-$800)  
- Show the full reported range for mitigation ($395-$2,453)
+ Mitigation system (typical $786-$1,274) Professional radon test before or after (typical $150-$800) Show the full reported range for mitigation ($395-$2,453)
 
 ## What affects the price
 
