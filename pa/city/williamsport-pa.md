@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Williamsport, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in Williamsport, PA: 2 Certified Firms in Lycoming County | Radon Roster"
 description: "39% of 6,668 basement radon tests in Williamsport, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/williamsport-pa/
 ---
@@ -163,6 +163,8 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Williamsport mitigators[Request quotes](https://radonroster.com/get-quotes/?city=williamsport)
 
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in Williamsport
@@ -175,8 +177,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

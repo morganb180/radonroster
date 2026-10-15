@@ -1,5 +1,5 @@
 ---
-title: "Pennsylvania Radon Levels by County (PA DEP Test Data)"
+title: "Pennsylvania Radon Levels by County (PA DEP Test Data) | Radon Roster"
 description: "Median basement radon and share of tests at or above 4 pCi/L for every Pennsylvania county, from PA DEP's public test results."
 canonical: https://radonroster.com/pa/radon-levels-by-county/
 ---

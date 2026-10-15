@@ -1,5 +1,5 @@
 ---
-title: "Pennsylvania Real Estate Radon Disclosure Basics"
+title: "Pennsylvania Real Estate Radon Disclosure Basics | Radon Roster"
 description: "What PA sellers must disclose about radon, what the Seller's Property Disclosure Statement asks, and testing rules during home sales."
 canonical: https://radonroster.com/pa/real-estate-radon-disclosure/
 ---

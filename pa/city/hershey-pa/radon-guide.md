@@ -185,7 +185,7 @@ Most systems use **active soil depressurization** ([EPA Consumer's Guide to Rado
 
 | Item | Typical range (national) |
 | --- | --- |
-| Mitigation system installed | $786-$1,274, average about $1,028 (reported range $395-$2,453) |
+| Mitigation system installed | $800-$1,200 (PA DEP) (reported range $395-$2,453) |
 | Professional radon test | $150-$800 |
 
 Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/). These are national figures, not local quotes. Prices depend on foundation type, the number of suction points and pipe routing. Try the [estimate tool](https://radonroster.com/radon-mitigation-cost/).
@@ -207,7 +207,7 @@ In PA DEP's test records, 41% of 8,814 basement tests with a Hershey address wer
 
 **How much does radon mitigation cost in Hershey?**
 
-We don't have Hershey-specific price data. A national cost guide puts typical installs at $786-$1,274 (average about $1,028). Get written quotes from certified local mitigators.
+We don't have Hershey-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
 **Do I need a radon test when buying a home in Pennsylvania?**
 
@@ -235,8 +235,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

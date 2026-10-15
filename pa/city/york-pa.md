@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in York, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in York, PA: 8 Certified Firms in York County | Radon Roster"
 description: "58% of 28,440 basement radon tests in York, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/york-pa/
 ---
@@ -586,6 +586,12 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?city=york)
 
+## Nearby city pages
+
+[Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) · [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/)
+
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in York
@@ -598,8 +604,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

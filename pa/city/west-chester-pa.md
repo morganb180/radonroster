@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in West Chester, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in West Chester, PA: 18 Certified Firms in Chester County | Radon Roster"
 description: "24% of 45,366 basement radon tests in West Chester, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/west-chester-pa/
 ---
@@ -899,6 +899,12 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to West Chester mitigators[Request quotes](https://radonroster.com/get-quotes/?city=west-chester)
 
+## Nearby city pages
+
+[King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/)
+
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in West Chester
@@ -911,8 +917,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

@@ -11,3 +11,5 @@
 .leadform .lf-h{font:600 1.05rem var(--sans,system-ui);margin:0 0 .3rem}
 .leadform.compact label{font-size:.85rem;margin:.4rem 0 .15rem}.leadform.compact .consent{font-size:.76rem}
 .panel .leadform{margin:0}
+.fz-dym,.fz-none{margin:.4rem 0;font-size:.9rem}
+.reqform label{display:block;margin-top:.6rem}.reqform input,.reqform select,.reqform textarea{width:100%;box-sizing:border-box}.reqform .btn{margin-top:1rem}

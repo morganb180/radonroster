@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Lansdale, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in Lansdale, PA: 29 Certified Firms in Montgomery County | Radon Roster"
 description: "25% of 19,617 basement radon tests in Lansdale, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/lansdale-pa/
 ---
@@ -1241,6 +1241,12 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lansdale)
 
+## Nearby city pages
+
+[Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/)
+
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in Lansdale
@@ -1253,8 +1259,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

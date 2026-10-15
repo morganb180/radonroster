@@ -1,5 +1,5 @@
 ---
-title: "All 67 Pennsylvania Counties - Certified Radon Firms"
+title: "All 67 Pennsylvania Counties - Certified Radon Firms | Radon Roster"
 description: "Browse PA DEP-certified radon testing, mitigation and lab firms by Pennsylvania county."
 canonical: https://radonroster.com/pa/counties/
 ---

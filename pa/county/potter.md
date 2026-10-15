@@ -1,5 +1,5 @@
 ---
-title: "Certified Radon Mitigation & Testing in Potter County, PA | Radon Roster"
+title: "Radon Mitigation & Testing in Potter County, PA: 0 DEP-Certified Firms | Radon Roster"
 description: "0 PA DEP-certified radon firms in Potter County: 51% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
 canonical: https://radonroster.com/pa/county/potter/
 ---
@@ -40,6 +40,8 @@ Adjacency from U.S. Census Bureau county adjacency file.
 
 **Want firms to contact you?**One request to Potter mitigators[Request quotes](https://radonroster.com/get-quotes/?county=potter)
 
+Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
+
 Our advice
 
 ## Before you hire in Potter
@@ -52,8 +54,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)

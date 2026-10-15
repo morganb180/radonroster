@@ -19,8 +19,8 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [Get free quotes](https://radonroster.com/get-quotes/): one request sent to up to 3 nearby DEP-certified firms (not yet live)
 
 ## For contractors
-- [Advertising and pricing](https://radonroster.com/for-contractors/): draft featured-listing plans
-- [Claim, correct or remove a listing](https://radonroster.com/claim-listing/): placeholder form
+- [For contractors](https://radonroster.com/for-contractors/): free listings and quote requests
+- [Claim, correct or remove a listing](https://radonroster.com/claim-listing/): request form
 - [How we make money](https://radonroster.com/how-we-make-money/)
 
 ## About
@@ -28,6 +28,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [About our data](https://radonroster.com/about-our-data/)
 - [Contact](https://radonroster.com/contact/)
 - [Privacy policy (draft)](https://radonroster.com/privacy/)
+- [How we verify listings](https://radonroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://radonroster.com/sitemap.xml)
 
 ## Optional

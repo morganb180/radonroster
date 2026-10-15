@@ -8,7 +8,7 @@ canonical: https://radonroster.com/get-quotes/
 
 Tell us what you need and where. We send your request to up to 3 Pennsylvania DEP-certified firms nearest you that offer that service, and email you their names. They contact you directly. It's free, and there's no obligation.
 
-**Preview:** the request service isn't switched on yet. Until it is, this form won't go through. You can still [browse certified firms by county](https://radonroster.com/pa/counties/) and call them directly.
+**Opening soon:** online quote requests aren't switched on yet, so this form won't reach firms today. You can [browse certified firms by county](https://radonroster.com/pa/counties/) and call them directly.
 
 ## How it works
 

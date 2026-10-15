@@ -1,5 +1,5 @@
 ---
-title: "Certified Radon Mitigation & Testing in Northampton County, PA | Radon Roster"
+title: "Radon Mitigation & Testing in Northampton County, PA: 7 DEP-Certified Firms | Radon Roster"
 description: "7 PA DEP-certified radon firms in Northampton County: 48% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
 canonical: https://radonroster.com/pa/county/northampton/
 ---
@@ -221,7 +221,7 @@ Adjacency from U.S. Census Bureau county adjacency file.
 With 48% of 78,045 basement tests at or above 4 pCi/L (above the 37% statewide share), Northampton County has 1 DEP-certified mitigation firm based locally.
 
 * **Verify:** check the firm in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory), ask for the DEP ID ([25 Pa. Code Chapter 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)), or call 800-237-2366.
-* **Typical cost:** $786-$1,274 for a mitigation system, national range from the [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/).
+* **Typical cost:** $800-$1,200 for a mitigation system, national range from the [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/).
 * **Selling or buying:** PA's seller disclosure form asks about known radon and past tests ([49 Pa. Code § 35.335a](https://www.pacodeandbulletin.gov/secure/pacode/data/049/chapter35/s35.335a.html)).
 
 Detailed local guides: [How to find a radon expert in Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/radon-guide/) · [How to find a radon expert in Easton](https://radonroster.com/pa/city/easton-pa/radon-guide/)
@@ -238,9 +238,11 @@ Detailed local guides: [How to find a radon expert in Bethlehem](https://radonro
 
 **How much does radon mitigation cost in Northampton County?**
 
-We don't have county-specific price data. A national cost guide reports typical installs at $786-$1,274. Get written quotes from DEP-certified mitigators.
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.
 
 **Want firms to contact you?**One request to Northampton mitigators[Request quotes](https://radonroster.com/get-quotes/?county=northampton)
+
+Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
 
 Our advice
 
@@ -254,8 +256,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
