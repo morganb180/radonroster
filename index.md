@@ -26,7 +26,7 @@ Radon varies house to house, even on the same street. A test costs far less than
 
 ## Get two written quotes.
 
-Ask each certified mitigator for their DEP certification ID, and retest after the system is installed. A national cost guide puts typical systems at $786–$1,274.
+Ask each certified mitigator for their DEP certification ID, and retest after the system is installed. PA DEP says most systems cost $800-$1,200.
 
 [Typical costs and estimate tool →](https://radonroster.com/radon-mitigation-cost/)
 
@@ -66,7 +66,7 @@ Based on EPA guidance. General information, not medical advice.
 
    ### Fix it if needed
 
-   Get two written quotes from certified mitigators. Most systems cost $786–$1,274.
+   Get two written quotes from certified mitigators. Most systems cost $800–$1,200.
 
    [101 mitigation firms→](https://radonroster.com/pa/counties/)
 
@@ -111,26 +111,6 @@ PA DEP estimates about 40% of Pennsylvania homes tested have radon above EPA's 4
 ### Pennsylvania
 
 414 DEP-certified firms · 67 counties](https://radonroster.com/pa/counties/)
-
-Coming soon
-
-### New York
-
-Coming soon
-
-### New Jersey
-
-Coming soon
-
-### Ohio
-
-Coming soon
-
-### Maryland
-
-Coming soon
-
-### Virginia
 
 ## Popular Pennsylvania cities
 

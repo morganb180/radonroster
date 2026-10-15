@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Johnstown, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in Johnstown, PA: 4 Certified Firms in Cambria County | Radon Roster"
 description: "43% of 10,172 basement radon tests in Johnstown, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/johnstown-pa/
 ---
@@ -309,6 +309,12 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Johnstown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=johnstown)
 
+## Nearby city pages
+
+[Altoona](https://radonroster.com/pa/city/altoona-pa/) · [Greensburg](https://radonroster.com/pa/city/greensburg-pa/)
+
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in Johnstown
@@ -321,14 +327,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
-
-## Want firms to contact you?
-
-Send one request to certified mitigators who serve Johnstown.
-
-[Request quotes](https://radonroster.com/get-quotes/?city=johnstown)

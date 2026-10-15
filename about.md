@@ -1,5 +1,5 @@
 ---
-title: "About Radon Roster | Pennsylvania Radon Contractor Directory"
+title: "About Radon Roster | Pennsylvania Radon Contractor Directory | Radon Roster"
 description: "What Radon Roster is, who it is for, where the listings come from and how the site is funded."
 canonical: https://radonroster.com/about/
 ---
@@ -18,6 +18,6 @@ Radon Roster is an independent directory of radon professionals certified by the
 
 Radon Roster is not affiliated with PA DEP, EPA or any contractor. A listing is not an endorsement. Free listings are ordered by location and name, never by payment, and any future paid placement will be labeled "Ad". Read [how we make money](https://radonroster.com/how-we-make-money/) and [about our data](https://radonroster.com/about-our-data/) for the full methodology.
 
-## Status
+## Corrections
 
-The site is a draft preview and has not launched. Quote and listing-claim forms are placeholders that do not send anything yet. Questions or corrections: see the [contact page](https://radonroster.com/contact/).
+Firms can [claim, correct or remove a listing](https://radonroster.com/claim-listing/). Other questions: see the [contact page](https://radonroster.com/contact/).

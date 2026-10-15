@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation by Pennsylvania City"
+title: "Radon Testing & Mitigation by Pennsylvania City | Radon Roster"
 description: "Local radon test data and DEP-certified radon pros for larger Pennsylvania cities and towns."
 canonical: https://radonroster.com/pa/cities/
 ---

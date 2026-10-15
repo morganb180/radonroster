@@ -1,45 +1,18 @@
 ---
-title: "For Radon Contractors: Get Featured | Radon Roster"
-description: "Upgrade your free PA DEP-based listing to a featured placement. Draft pricing."
+title: "For Radon Contractors: Your Free Listing | Radon Roster"
+description: "Every PA DEP-certified radon firm gets a free listing built from DEP records. Claim it, correct it, or ask about receiving homeowner quote requests."
 canonical: https://radonroster.com/for-contractors/
 ---
 
-# For contractors: get featured
+# For radon contractors
 
-Every PA DEP-certified firm gets a free basic listing from public records. Featured plans (coming soon) put your business at the top of the county pages homeowners use.
+Every PA DEP-certified radon firm already has a free listing here, built from DEP's public certification lists. Free listings are ordered by location and name, never by payment.
 
-**DRAFT PRICING - placeholder only, not offered for sale.**
+## What you can do now
 
-## Plans and draft pricing
+* [Claim your listing](https://radonroster.com/claim-listing/) to add a website or service area, correct details, or ask us to remove it.
+* Check that your DEP certification is current: we only list firms on DEP's lists.
 
-### Basic
+## Quote requests
 
-Free
-
-* DEP record listing
-* Claim & correct your info
-
-### Featured (draft)
-
-$49/mo
-
-* Top placement in 1 county
-* Logo, website link, service area
-* "Featured" badge
-
-### County Pro (draft)
-
-$99/mo
-
-* Featured in up to 3 counties
-* Quote requests routed to you
-* Monthly lead report
-
-### Pay per lead (draft)
-
-$25-50/lead
-
-* No monthly fee
-* Pay only for qualified requests
-
-Featured placement will be clearly labeled as paid advertising. Only firms with current DEP certification will be eligible. Questions about advertising: hello@radonroster.com (placeholder, see [contact](https://radonroster.com/contact/)). Sign-up is not active yet. See also [how we make money](https://radonroster.com/how-we-make-money/).
+Homeowners can ask for quotes from up to 3 nearby certified firms. If we offer paid options for contractors in the future, they will be labeled, and they will never change the free list or the "certified" badge. See [how we make money](https://radonroster.com/how-we-make-money/).

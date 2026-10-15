@@ -1,2 +1,15 @@
 /* Radon Roster site-specific additions. Shared look: /theme.css (build/theme/radon-theme.css) */
 .cols li .muted{font-size:.8rem}
+/* quote form (lead routing) */
+.leadform label{display:block;margin:.55rem 0 .2rem;font-weight:600;font-size:.92rem}
+.leadform input:not([type=checkbox]),.leadform select,.leadform textarea{width:100%;padding:.5rem .6rem;border:1px solid var(--line,#c9d2df);border-radius:6px;font:inherit;background:#fff}
+.leadform .lf2{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+.leadform .consent{display:flex;gap:.5rem;align-items:flex-start;font-weight:400;font-size:.82rem;line-height:1.4;margin:.8rem 0}
+.leadform .consent input{margin-top:.2rem;flex:none;width:1.05rem;height:1.05rem}
+.leadform .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.leadform .cf-turnstile{margin:.4rem 0 .6rem}.leadform .lf-out{font-size:.88rem;margin:.4rem 0 0}
+.leadform .lf-h{font:600 1.05rem var(--sans,system-ui);margin:0 0 .3rem}
+.leadform.compact label{font-size:.85rem;margin:.4rem 0 .15rem}.leadform.compact .consent{font-size:.76rem}
+.panel .leadform{margin:0}
+.fz-dym,.fz-none{margin:.4rem 0;font-size:.9rem}
+.reqform label{display:block;margin-top:.6rem}.reqform input,.reqform select,.reqform textarea{width:100%;box-sizing:border-box}.reqform .btn{margin-top:1rem}

@@ -1548,6 +1548,8 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 **Want firms to contact you?**One request to Pennsylvania mitigators[Request quotes](https://radonroster.com/get-quotes/?county=out-of-state)
 
+Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
+
 Our advice
 
 ## Before you hire in Pennsylvania
@@ -1560,14 +1562,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
-
-## Want firms to contact you?
-
-Send one request to certified mitigators who serve Pennsylvania.
-
-[Request quotes](https://radonroster.com/get-quotes/?county=out-of-state)

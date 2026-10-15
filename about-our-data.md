@@ -11,4 +11,4 @@ canonical: https://radonroster.com/about-our-data/
 * **No endorsement:** A listing is not a recommendation, and we're not affiliated with PA DEP. Always confirm current certification with DEP (800-237-2366).
 * **Firm grouping:** DEP lists firms and their certified individuals as separate entries. We group them by shared business email domain or by the same street address and city. Names cut off by DEP's 35-character field were completed only when the firm's own website or another DEP list confirmed the full name; the rest are flagged. Websites were added only after loading the firm's own site. Full change log: data/cleanup-log.csv.
 * **City data:** city figures use the municipality/mailing name in DEP's test dataset.
-* **Corrections:** [claim, correct or remove a listing](https://radonroster.com/claim-listing/) (placeholder).
+* **Corrections:** [claim, correct or remove a listing](https://radonroster.com/claim-listing/).

@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Wilkes-Barre, PA | Certified Pros & Local Data"
+title: "Radon Testing & Mitigation in Wilkes-Barre, PA: 13 Certified Firms in Luzerne County | Radon Roster"
 description: "18% of 6,150 basement radon tests in Wilkes-Barre, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/wilkes-barre-pa/
 ---
@@ -589,6 +589,12 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
 
+## Nearby city pages
+
+[Scranton](https://radonroster.com/pa/city/scranton-pa/) · [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/)
+
+Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
+
 Our advice
 
 ## Before you hire in Wilkes-Barre
@@ -601,14 +607,8 @@ PA Radon Hotline **800-237-2366**
 
 Typical mitigation cost
 
-$786–$1,274
+$800–$1,200
 
-National range (HomeAdvisor). No local price data; quotes vary by foundation type.
+PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
-
-## Want firms to contact you?
-
-Send one request to certified mitigators who serve Wilkes-Barre.
-
-[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
