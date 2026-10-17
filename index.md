@@ -6,7 +6,7 @@ canonical: https://radonroster.com/
 
 Pennsylvania · all 67 counties
 
-# Radon help for Pennsylvania homes, starting with your ZIP.
+# Find a certified radon pro in Pennsylvania.
 
 352 certified testing firms · short-term tests take 2–7 days 101 certified mitigation firms · get two written quotes 18 DEP-certified radon labs Enter your result, then your ZIP, city or county
 
