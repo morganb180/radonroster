@@ -1,6 +1,6 @@
 # Radon Roster
 
-> Radon Roster is a free directory of Pennsylvania DEP-certified radon testing, mitigation and laboratory firms, with county and city radon test data from PA DEP public records. Draft preview, not yet launched (pages are noindex).
+> Radon Roster is a free directory of Pennsylvania DEP-certified radon testing, mitigation and laboratory firms, with county and city radon test data from PA DEP public records.
 
 Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real estate agents who need a PA DEP-certified radon tester or mitigation contractor, and for radon professionals who want to claim or correct their free listing. Listings come from PA DEP certification lists dated 10/01/2026; radon statistics come from PA DEP's public Radon Test Results dataset. A listing is not an endorsement. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://radonroster.com/index.md).
 
