@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Dauphin County, PA: 9 DEP-Certified Firms | Radon Roster"
-description: "9 PA DEP-certified radon firms in Dauphin County: 51% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Mitigation & Testing in Dauphin County, PA: 8 DEP-Certified Firms | Radon Roster"
+description: "8 PA DEP-certified radon firms in Dauphin County: 51% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
 canonical: https://radonroster.com/pa/county/dauphin/
 ---
 
@@ -28,11 +28,11 @@ First floor: **24%** of 19,267 tests ≥ 4 pCi/L, median 1.4
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
-**9 DEP-certified firms** have a business address in Dauphin County (5 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=dauphin)
+**8 DEP-certified firms** have a business address in Dauphin County (4 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=dauphin)
 
 [Mitigation5](#mitigation)[Testing3](#testing)[Labs1](#lab)Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (5 firms)
+## Radon mitigation (reduction systems) (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -128,29 +128,6 @@ Harrisburg1 certified person
 mitigation #1234 · testing #1234
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
-
-[**Call** (717) 425-5365](tel:7174255365)
-
-### Zzzz Brp Demo Account
-
-✓ PA DEP certifiedMitigationTesting
-
-HarrisburgCertified firm
-
-#### Address
-
-* Po Box 8469, Harrisburg, PA
-* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
-
-#### Certified individuals
-
-* None listed separately
-
-#### DEP cert IDs
-
-mitigation #9999 · testing #9999
-
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
 
 [**Call** (717) 425-5365](tel:7174255365)
 
@@ -266,7 +243,7 @@ Adjacency from U.S. Census Bureau county adjacency file.
 
 ## Hiring a radon pro in Dauphin County: quick guide
 
-With 51% of 67,255 basement tests at or above 4 pCi/L (above the 37% statewide share), Dauphin County has 5 DEP-certified mitigation firms based locally.
+With 51% of 67,255 basement tests at or above 4 pCi/L (above the 37% statewide share), Dauphin County has 4 DEP-certified mitigation firms based locally.
 
 * **Verify:** check the firm in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory), ask for the DEP ID ([25 Pa. Code Chapter 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)), or call 800-237-2366.
 * **Typical cost:** $800-$1,200 for a mitigation system, national range from the [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/).
@@ -278,7 +255,7 @@ Detailed local guides: [How to find a radon expert in Harrisburg](https://radonr
 
 **How many certified radon mitigation firms are in Dauphin County?**
 
-5 DEP-certified firms offering mitigation and 9 certified radon firms in total list a business address in Dauphin County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+4 DEP-certified firms offering mitigation and 8 certified radon firms in total list a business address in Dauphin County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
 
 **What share of Dauphin County radon tests are high?**
 

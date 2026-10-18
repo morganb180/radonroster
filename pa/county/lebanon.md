@@ -137,7 +137,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
+[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
+[Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

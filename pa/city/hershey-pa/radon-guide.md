@@ -152,29 +152,6 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-0989](tel:7174250989)
 
-### Zzzz Brp Demo Account
-
-✓ PA DEP certifiedMitigationTesting
-
-HarrisburgCertified firm
-
-#### Address
-
-* Po Box 8469, Harrisburg, PA
-* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
-
-#### Certified individuals
-
-* None listed separately
-
-#### DEP cert IDs
-
-mitigation #9999 · testing #9999
-
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
-
-[**Call** (717) 425-5365](tel:7174255365)
-
 [See all firms near Hershey →](https://radonroster.com/pa/city/hershey-pa/)
 
 ## What a typical Pennsylvania radon system install involves
@@ -219,7 +196,7 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 
 **How do I find a certified radon expert in Hershey, PA?**
 
-Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Hershey and 8 more in Dauphin County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Hershey and 7 more in Dauphin County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
 
 **Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/get-quotes/?city=hershey)
 

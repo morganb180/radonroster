@@ -320,29 +320,6 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-0989](tel:7174250989)
 
-### Zzzz Brp Demo Account
-
-✓ PA DEP certifiedMitigationTestingDauphin County
-
-HarrisburgCertified firm
-
-#### Address
-
-* Po Box 8469, Harrisburg, PA
-* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
-
-#### Certified individuals
-
-* None listed separately
-
-#### DEP cert IDs
-
-mitigation #9999 · testing #9999
-
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
-
-[**Call** (717) 425-5365](tel:7174255365)
-
 ### Absolute Radon Mitigation, LLC
 
 ✓ PA DEP certifiedMitigationTestingYork County

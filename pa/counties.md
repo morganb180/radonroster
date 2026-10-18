@@ -27,7 +27,7 @@ canonical: https://radonroster.com/pa/counties/
 * [Columbia](https://radonroster.com/pa/county/columbia/) (2)
 * [Crawford](https://radonroster.com/pa/county/crawford/) (3)
 * [Cumberland](https://radonroster.com/pa/county/cumberland/) (6)
-* [Dauphin](https://radonroster.com/pa/county/dauphin/) (9)
+* [Dauphin](https://radonroster.com/pa/county/dauphin/) (8)
 * [Delaware](https://radonroster.com/pa/county/delaware/) (12)
 * [Elk](https://radonroster.com/pa/county/elk/) (1)
 * [Erie](https://radonroster.com/pa/county/erie/) (6)

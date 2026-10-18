@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Harrisburg, PA: 9 Certified Firms in Dauphin County | Radon Roster"
+title: "Radon Testing & Mitigation in Harrisburg, PA: 8 Certified Firms in Dauphin County | Radon Roster"
 description: "52% of 38,427 basement radon tests in Harrisburg, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/harrisburg-pa/
 ---
@@ -36,7 +36,7 @@ Below are the PA DEP-certified firms with a business address in Harrisburg, then
 
 [Mitigation4](#local-mitigation)[Testing1](#local-testing)[Labs1](#local-lab)Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Radon mitigation (reduction systems) (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -109,29 +109,6 @@ Harrisburg1 certified person
 mitigation #1234 · testing #1234
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
-
-[**Call** (717) 425-5365](tel:7174255365)
-
-### Zzzz Brp Demo Account
-
-✓ PA DEP certifiedMitigationTesting
-
-HarrisburgCertified firm
-
-#### Address
-
-* Po Box 8469, Harrisburg, PA
-* ✉ [macoons@pa.gov](mailto:macoons@pa.gov)
-
-#### Certified individuals
-
-* None listed separately
-
-#### DEP cert IDs
-
-mitigation #9999 · testing #9999
-
-Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9999)
 
 [**Call** (717) 425-5365](tel:7174255365)
 
