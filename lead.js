@@ -13,6 +13,8 @@ forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.va
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
  f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
+ var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fn=fid&&(window.RR_FIRMS||{})[fid];
+ if(fi&&fn&&/^F[0-9]{1,6}$/.test(fid)){fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='Your request goes to <strong>'+esc(fn)+'</strong> and up to 2 other nearby certified pros.';fl.hidden=false}}
  f.addEventListener("submit",function(e){if(!window.fetch)return;e.preventDefault();var out=f.querySelector(".lf-out"),btn=f.querySelector("button[type=submit]"),d={},sent=false;
   new FormData(f).forEach(function(v,k){d[k]=v});d.consent=!!f.querySelector("[name=consent]").checked;
   if(!String(d.email||"").trim()&&!String(d.phone||"").trim()){out.textContent="Please enter an email address or a phone number so firms can reach you.";(f.querySelector("[name=email]")||{focus:function(){}}).focus();return}

@@ -27,3 +27,15 @@
 .leadform .lf-zip{max-width:9rem}
 .leadform .lf-pair{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
 @media (max-width:640px){.leadform .lf-pair{grid-template-columns:1fr;gap:0}}
+.leadform .lf-firm{margin:.2rem 0 .4rem;font-size:.92rem}
+/* listing cards: quote-first CTA, phone behind "Show phone" (no JS: native <details>) */
+.firm .fcta{position:absolute;right:60px;top:var(--s4);display:flex;align-items:center;gap:var(--s3);min-height:32px}
+.firm .fcta .qbtn{min-height:34px;padding:.4rem .9rem;font-size:.88rem;margin:0;white-space:nowrap}
+.firm .fcta .ph summary{display:inline-flex;align-items:center;min-height:32px;padding:0;gap:0;grid-template-columns:none;font:500 .88rem var(--sans);color:var(--acc-ink);text-decoration:underline;text-underline-offset:3px;background:none;white-space:nowrap}
+.firm .fcta .ph summary::after{content:none}
+.firm .fcta .ph[open] summary{display:none}
+.firm .fcta .ph-num{display:flex;align-items:center;min-height:32px;font:500 .95rem var(--sans);color:var(--ink);text-decoration:none;letter-spacing:.02em;white-space:nowrap}
+.firm .fcta .ph-num:hover{text-decoration:underline}
+.firm .fcta .ph-num b{display:none}
+@media (min-width:641px){.firm:has(.fcta) summary{grid-template-columns:minmax(0,1fr) 160px 240px 24px}}
+@media (max-width:640px){.firm .fcta{position:static;border-top:1px solid var(--line);padding:var(--s2) var(--s4);gap:var(--s2)}.firm .fcta .qbtn{flex:1;min-height:44px}.firm .fcta .ph{flex:1;display:flex;justify-content:center}.firm .fcta .ph summary{justify-content:center;min-height:44px;width:100%}.firm .fcta .ph-num{justify-content:center;min-height:44px;color:var(--acc-ink);font-weight:600}.firm .fcta .ph-num b{display:inline;margin-right:.4rem}}
