@@ -12,6 +12,6 @@ Tell us what you need and where. We send your request to up to 3 Pennsylvania DE
 
 1. We match your ZIP to certified firms based in your county or the counties next to it, closest first, that offer the service you chose. Firms can't pay to be picked.
 2. Each firm gets your name, contact details, ZIP, county, what you need and your note by email.
-3. You get an email listing the firms we contacted. We only keep your details if you tick the optional box for radon tips and offers.
+3. You get an email listing the firms we contacted. We keep a copy of your request to run the service and never sell it. We only send you tips and offers if you tick the optional box.
 
 Prefer to choose yourself? Every [county page](https://radonroster.com/pa/counties/) lists every certified firm with phone, email and DEP cert IDs. PA Radon Hotline: 800-237-2366.
