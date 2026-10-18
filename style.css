@@ -13,3 +13,17 @@
 .panel .leadform{margin:0}
 .fz-dym,.fz-none{margin:.4rem 0;font-size:.9rem}
 .reqform label{display:block;margin-top:.6rem}.reqform input,.reqform select,.reqform textarea{width:100%;box-sizing:border-box}.reqform .btn{margin-top:1rem}
+/* simplified quote form (get-quotes) */
+.leadform .lf-need{border:0;padding:0;margin:.55rem 0 0;min-width:0}
+.leadform .lf-need legend{padding:0;margin:0 0 .3rem;font-weight:600;font-size:.92rem}
+.leadform .lf-opts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.5rem}
+.leadform label.lf-opt{position:relative;margin:0;font-weight:400}
+.leadform .lf-opt input{position:absolute;opacity:0;width:1px;height:1px}
+.leadform .lf-opt span{display:flex;align-items:center;justify-content:center;text-align:center;min-height:44px;padding:.4rem .5rem;border:1px solid var(--line2,#d6d0c3);border-radius:6px;background:#fff;cursor:pointer;font-weight:600;font-size:.92rem;line-height:1.2}
+.leadform .lf-opt span:hover{border-color:var(--acc)}
+.leadform .lf-opt input:checked+span{background:var(--acc);border-color:var(--acc);color:#fff}
+.leadform .lf-opt input:focus-visible+span{outline:2px solid var(--acc);outline-offset:2px}
+.leadform .lf-hint{font-size:.8rem;margin:.3rem 0 0}
+.leadform .lf-zip{max-width:9rem}
+.leadform .lf-pair{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+@media (max-width:640px){.leadform .lf-pair{grid-template-columns:1fr;gap:0}}

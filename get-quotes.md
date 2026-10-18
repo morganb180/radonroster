@@ -8,12 +8,10 @@ canonical: https://radonroster.com/get-quotes/
 
 Tell us what you need and where. We send your request to up to 3 Pennsylvania DEP-certified firms nearest you that offer that service, and email you their names. They contact you directly. It's free, and there's no obligation.
 
-**Opening soon:** online quote requests aren't switched on yet, so this form won't reach firms today. You can [browse certified firms by county](https://radonroster.com/pa/counties/) and call them directly.
-
 ## How it works
 
-1. We match your ZIP or county to certified firms based in your county or the counties next to it, closest first, that offer the service you chose. Firms can't pay to be picked.
-2. Each firm gets your name, contact details, ZIP, county, need, test result and note by email.
+1. We match your ZIP to certified firms based in your county or the counties next to it, closest first, that offer the service you chose. Firms can't pay to be picked.
+2. Each firm gets your name, contact details, ZIP, county, what you need and your note by email.
 3. You get an email listing the firms we contacted. We don't keep a copy of your request.
 
 Prefer to choose yourself? Every [county page](https://radonroster.com/pa/counties/) lists every certified firm with phone, email and DEP cert IDs. PA Radon Hotline: 800-237-2366.
