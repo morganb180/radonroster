@@ -11,6 +11,7 @@ Every PA DEP-certified radon firm already has a free listing here, built from DE
 ## What you can do now
 
 * [Claim your listing](https://radonroster.com/claim-listing/) to add a website or service area, correct details, or ask us to remove it.
+* [Get a free certification badge](https://radonroster.com/for-contractors/badge/) for your website. It shows your DEP certification type and links to your listing so homeowners can verify it.
 * Check that your DEP certification is current: we only list firms on DEP's lists.
 
 ## Quote requests

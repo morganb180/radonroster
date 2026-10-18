@@ -16,7 +16,11 @@ Typical national ranges and an estimate tool.](https://radonroster.com/radon-mit
 
 What sellers disclose and how real estate tests work.](https://radonroster.com/pa/real-estate-radon-disclosure/)[## Radon levels by county
 
-PA DEP test statistics for all 67 counties.](https://radonroster.com/pa/radon-levels-by-county/)
+PA DEP test statistics for all 67 counties.](https://radonroster.com/pa/radon-levels-by-county/)[## Pennsylvania radon map
+
+Interactive county map of DEP test results. Free to embed.](https://radonroster.com/pa/radon-map/)[## 2026 radon data report
+
+Which Pennsylvania counties test highest for radon.](https://radonroster.com/pa/radon-data-report-2026/)
 
 ## Local hiring guides
 
