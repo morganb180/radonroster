@@ -33,19 +33,19 @@ Files: `https://radonroster.com/badges/dep-certified-<type>-<style>.svg`, type =
 ## Badge code
 
 ```html
-<a href="https://radonroster.com/pa/county/YOUR-COUNTY/#YOUR-FIRM-ID" title="Check our PA DEP certification listing on Radon Roster"><img src="https://radonroster.com/badges/dep-certified-professional-light.svg" alt="PA DEP-Certified Radon Professional. Verify this firm&#x27;s listing on Radon Roster." width="269" height="72" style="border:0"></a>
+<a href="https://radonroster.com/pa/firms/YOUR-FIRM-PAGE/" title="Check our PA DEP certification listing on Radon Roster"><img src="https://radonroster.com/badges/dep-certified-professional-light.svg" alt="PA DEP-Certified Radon Professional. Verify this firm&#x27;s listing on Radon Roster." width="269" height="72" style="border:0"></a>
 ```
 
 Example for M Webster Construction Inc (DEP: mitigation + testing):
 
 ```html
-<a href="https://radonroster.com/pa/county/lebanon/#F2948" title="Check M Webster Construction Inc's PA DEP certification listing on Radon Roster"><img src="https://radonroster.com/badges/dep-certified-tester-mitigator-light.svg" alt="PA DEP-Certified Radon Tester &amp; Mitigator. Verify this firm&#x27;s listing on Radon Roster." width="297" height="72" style="border:0"></a>
+<a href="https://radonroster.com/pa/firms/m-webster-construction-inc-f2948/" title="Check M Webster Construction Inc's PA DEP certification listing on Radon Roster"><img src="https://radonroster.com/badges/dep-certified-tester-mitigator-light.svg" alt="PA DEP-Certified Radon Tester &amp; Mitigator. Verify this firm&#x27;s listing on Radon Roster." width="297" height="72" style="border:0"></a>
 ```
 
 ## How listing links work
 
-- Pennsylvania firms: `https://radonroster.com/pa/county/<county>/#<firm-id>` (example: https://radonroster.com/pa/county/lebanon/#F2948)
-- Out-of-state firms certified in PA: `https://radonroster.com/pa/out-of-state/#<firm-id>`
+- All firms (in-state and out-of-state): `https://radonroster.com/pa/firms/<name>-<firm-id>/` (example: https://radonroster.com/pa/firms/m-webster-construction-inc-f2948/). Full list: https://radonroster.com/pa/firms/
+- Older badge links to a county page anchor (`/pa/county/<county>/#<firm-id>`) keep working.
 - The firm ID ("F" plus a number) appears in your listing's "Claim, correct or remove this listing" link.
 
 ## Badge rules

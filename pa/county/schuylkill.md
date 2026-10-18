@@ -157,7 +157,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
+[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

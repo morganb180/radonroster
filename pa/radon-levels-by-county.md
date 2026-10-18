@@ -32,7 +32,7 @@ For EPA's county zone classifications, see the [EPA Map of Radon Zones](https://
 | 16 | [Clearfield](https://radonroster.com/pa/county/clearfield/) | 10,793 | 4.3 | 53% | 27% | 1 |
 | 17 | [Carbon](https://radonroster.com/pa/county/carbon/) | 9,429 | 4.4 | 53% | 23% | 2 |
 | 18 | [Potter](https://radonroster.com/pa/county/potter/) | 1,636 | 4.1 | 51% | 20% | 0 |
-| 19 | [Dauphin](https://radonroster.com/pa/county/dauphin/) | 67,255 | 4.1 | 51% | 24% | 9 |
+| 19 | [Dauphin](https://radonroster.com/pa/county/dauphin/) | 67,255 | 4.1 | 51% | 24% | 8 |
 | 20 | [Columbia](https://radonroster.com/pa/county/columbia/) | 10,285 | 4.1 | 51% | 24% | 2 |
 | 21 | [Berks](https://radonroster.com/pa/county/berks/) | 78,443 | 4.0 | 51% | 37% | 9 |
 | 22 | [Snyder](https://radonroster.com/pa/county/snyder/) | 4,749 | 4.0 | 50% | 20% | 2 |

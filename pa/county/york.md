@@ -231,7 +231,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms). Firms often serve across county lines.
+[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

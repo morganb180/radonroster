@@ -256,7 +256,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
+[Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

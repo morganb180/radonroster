@@ -185,7 +185,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
+[Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

@@ -34,7 +34,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 ## Neighboring counties
 
-[Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms). Firms often serve across county lines.
+[Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 

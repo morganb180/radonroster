@@ -61,7 +61,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Neighboring counties
 
-[Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (9 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
+[Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
