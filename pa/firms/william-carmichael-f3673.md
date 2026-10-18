@@ -14,7 +14,7 @@ Listed on Google as BeSure1st Inspections, Inc.
 
 Old Hickory, TN · 1 certified person
 
-[Call (615) 944-6999](tel:6159446999). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3673): your request goes to William Carmichael and up to 2 other nearby certified pros.
 
 ## Google rating
 

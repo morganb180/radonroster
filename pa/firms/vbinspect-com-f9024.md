@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/vbinspect-com-f9024/
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Call (412) 885-1133](tel:4128851133). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F9024): your request goes to Vbinspect.Com and up to 2 other nearby certified pros.
 
 ## Google rating
 

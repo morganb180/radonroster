@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/certified-radon-services-llc-f3705/
 
 Boston, NY · 4 certified people
 
-[Call (716) 713-8098](tel:7167138098). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3705): your request goes to Certified Radon Services, LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

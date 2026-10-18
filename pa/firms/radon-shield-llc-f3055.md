@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-shield-llc-f3055/
 
 Trenton, NJ · 1 certified person
 
-[Call (609) 222-5743](tel:6092225743). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3055): your request goes to Radon Shield LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

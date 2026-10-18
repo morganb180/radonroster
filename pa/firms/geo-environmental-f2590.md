@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/geo-environmental-f2590/
 
 Medford, NJ · 6 certified people
 
-[Call (215) 778-7118](tel:2157787118). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F2590): your request goes to Geo Environmental and up to 2 other nearby certified pros.
 
 ## Contact
 

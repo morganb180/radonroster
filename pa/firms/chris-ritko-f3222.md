@@ -12,7 +12,7 @@ Listed by PA DEP as Ritko, Chris
 
 Winter Garden, FL · 1 certified person
 
-[Call (814) 243-0374](tel:8142430374). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3222): your request goes to Chris Ritko and up to 2 other nearby certified pros.
 
 ## Contact
 

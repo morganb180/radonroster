@@ -12,7 +12,7 @@ Listed by PA DEP as Duffy, Thomas
 
 Port Jervis, NY · 1 certified person
 
-[Call (845) 281-9204](tel:8452819204). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3730): your request goes to Thomas Duffy and up to 2 other nearby certified pros.
 
 ## Contact
 

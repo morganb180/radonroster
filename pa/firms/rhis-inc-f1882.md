@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rhis-inc-f1882/
 
 Wilmington, DE · 8 certified people
 
-[Call (302) 993-9100](tel:3029939100). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F1882): your request goes to Rhis, Inc. and up to 2 other nearby certified pros.
 
 ## Contact
 

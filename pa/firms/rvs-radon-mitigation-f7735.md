@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/rvs-radon-mitigation-f7735/
 
 Philadelphia, PA · Philadelphia County · 1 certified person
 
-[Call (267) 269-5573](tel:2672695573). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F7735): your request goes to Rvs Radon Mitigation and up to 2 other nearby certified pros.
 
 ## Google rating
 

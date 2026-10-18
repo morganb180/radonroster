@@ -12,7 +12,7 @@ Listed by PA DEP as Kidwell, Jerry
 
 Ashburn, VA · 1 certified person
 
-[Call (571) 413-4733](tel:5714134733). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3751): your request goes to Jerry Kidwell and up to 2 other nearby certified pros.
 
 ## Contact
 

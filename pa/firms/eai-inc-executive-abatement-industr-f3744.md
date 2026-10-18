@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/eai-inc-executive-abatement-industr-
 
 Jersey City, NJ · 1 certified person
 
-[Call (201) 395-0080](tel:2013950080). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3744): your request goes to Eai Inc Executive Abatement Industr and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -14,7 +14,7 @@ Listed on Google as Belson Construction, LLC
 
 Emmitsburg, MD · 1 certified person
 
-[Call (443) 280-2091](tel:4432802091). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3334): your request goes to Michael Stansbury and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -14,7 +14,7 @@ Listed on Google as Beloyan Inspection Services
 
 Wrightstown, NJ · 1 certified person
 
-[Call (215) 750-7160](tel:2157507160). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F1494): your request goes to Stephen A. Beloyan and up to 2 other nearby certified pros.
 
 ## Google rating
 

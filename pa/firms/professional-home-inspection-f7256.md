@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/professional-home-inspection-f7256/
 
 Binghamton, NY · 4 certified people
 
-[Call (607) 773-1519](tel:6077731519). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F7256): your request goes to Professional Home Inspection and up to 2 other nearby certified pros.
 
 ## Google rating
 

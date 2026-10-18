@@ -14,7 +14,7 @@ Listed on Google as Vet Owned Home Inspections
 
 Morgantown, WV · 1 certified person
 
-[Call (304) 216-1179](tel:3042161179). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3697): your request goes to John Rossana and up to 2 other nearby certified pros.
 
 ## Google rating
 

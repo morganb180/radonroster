@@ -12,7 +12,7 @@ Listed by PA DEP as Ricker, Nathan
 
 Delaware, OH · 2 certified people
 
-[Call (833) 732-7379](tel:8337327379). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3670): your request goes to Nathan Ricker and up to 2 other nearby certified pros.
 
 ## Contact
 
