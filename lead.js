@@ -16,7 +16,7 @@ forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.va
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fn=fid&&(window.RR_FIRMS||{})[fid];
  if(fi&&fn&&/^F[0-9]{1,6}$/.test(fid)){fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='Your request goes to <strong>'+esc(fn)+'</strong> and up to 2 other nearby certified pros.';fl.hidden=false}}
  f.addEventListener("submit",function(e){if(!window.fetch)return;e.preventDefault();var out=f.querySelector(".lf-out"),btn=f.querySelector("button[type=submit]"),d={},sent=false;
-  new FormData(f).forEach(function(v,k){d[k]=v});d.consent=!!f.querySelector("[name=consent]").checked;
+  new FormData(f).forEach(function(v,k){d[k]=v});d.consent=!!f.querySelector("[name=consent]").checked;var mk=f.querySelector("[name=marketing_opt_in]");d.marketing_opt_in=!!(mk&&mk.checked);
   if(!String(d.email||"").trim()&&!String(d.phone||"").trim()){out.textContent="Please enter an email address or a phone number so firms can reach you.";(f.querySelector("[name=email]")||{focus:function(){}}).focus();return}
   btn.disabled=true;out.textContent="Sending...";
   fetch(f.action,{method:"POST",headers:{"content-type":"application/json",accept:"application/json"},body:JSON.stringify(d)}).then(function(r){sent=true;return r.json()}).then(function(j){

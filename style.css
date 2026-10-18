@@ -48,3 +48,4 @@ a.grat{display:inline;text-decoration:none}a.grat:hover{text-decoration:underlin
 .grev{margin:var(--s4) 0;padding:var(--s3) var(--s4);border-left:3px solid var(--line2);background:var(--card)}.grev p{margin:0 0 .4rem}.grev footer{font-size:.82rem;color:var(--mute)}.grev .stars{font-size:.8rem}
 .gattr{font-size:.78rem}
 @media (max-width:640px){.fp-contact,.fp-kv{grid-template-columns:1fr}.fp-list.cols2{columns:1}}
+.leadform .consent.optin{margin-top:-.3rem}
