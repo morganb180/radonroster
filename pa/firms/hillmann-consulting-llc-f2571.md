@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/hillmann-consulting-llc-f2571/
 
 Union, NJ · 7 certified people
 
-[Call (908) 688-7800](tel:9086887800). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F2571): your request goes to Hillmann Consulting, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

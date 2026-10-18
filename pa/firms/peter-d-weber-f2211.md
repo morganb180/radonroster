@@ -12,7 +12,7 @@ Listed by PA DEP as Weber, Peter D.
 
 Dagsboro, DE · 1 certified person
 
-[Call (610) 869-9066](tel:6108699066). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F2211): your request goes to Peter D. Weber and up to 2 other nearby certified pros.
 
 ## Contact
 

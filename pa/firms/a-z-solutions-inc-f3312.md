@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a-z-solutions-inc-f3312/
 
 North Canton, OH · 3 certified people
 
-[Call (330) 915-2650](tel:3309152650). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3312): your request goes to A-Z Solutions, Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

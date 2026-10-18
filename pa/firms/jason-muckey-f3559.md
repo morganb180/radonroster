@@ -14,7 +14,7 @@ Listed on Google as Precision Home Inspection of the Twin Tiers, LLC
 
 Horseheads, NY · 1 certified person
 
-[Call (607) 426-6242](tel:6074266242). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3559): your request goes to Jason Muckey and up to 2 other nearby certified pros.
 
 ## Google rating
 

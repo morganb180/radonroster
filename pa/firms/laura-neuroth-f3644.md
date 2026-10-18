@@ -12,7 +12,7 @@ Listed by PA DEP as Neuroth, Laura
 
 Palmyra, VA · 1 certified person
 
-[Call (804) 370-9598](tel:8043709598). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3644): your request goes to Laura Neuroth and up to 2 other nearby certified pros.
 
 ## Contact
 

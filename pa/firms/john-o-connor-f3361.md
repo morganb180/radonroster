@@ -12,7 +12,7 @@ Listed by PA DEP as O'Connor, John
 
 Keymar, MD · 1 certified person
 
-[Call (443) 340-7880](tel:4433407880). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3361): your request goes to John O'Connor and up to 2 other nearby certified pros.
 
 ## Contact
 

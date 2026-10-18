@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/environmental-testing-and-consulting
 
 Romulus, MI · 4 certified people
 
-[Call (734) 955-6600](tel:7349556600). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3713): your request goes to Environmental Testing & Consulting and up to 2 other nearby certified pros.
 
 ## Google rating
 

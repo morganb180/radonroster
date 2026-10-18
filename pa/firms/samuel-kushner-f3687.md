@@ -12,7 +12,7 @@ Listed by PA DEP as Kushner, Samuel
 
 Lakewood, NJ · 1 certified person
 
-[Call (848) 525-9865](tel:8485259865). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3687): your request goes to Samuel Kushner and up to 2 other nearby certified pros.
 
 ## Contact
 

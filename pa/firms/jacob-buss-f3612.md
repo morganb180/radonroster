@@ -12,7 +12,7 @@ Listed by PA DEP as Buss, Jacob
 
 Charlottesville, VA · 9 certified people
 
-[Call (847) 690-0905](tel:8476900905). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3612): your request goes to Jacob Buss and up to 2 other nearby certified pros.
 
 ## Contact
 

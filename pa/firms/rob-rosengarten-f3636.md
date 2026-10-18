@@ -12,7 +12,7 @@ Listed by PA DEP as Rosengarten, Rob
 
 Johns Island, SC · 1 certified person
 
-[Call (630) 893-6085](tel:6308936085). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3636): your request goes to Rob Rosengarten and up to 2 other nearby certified pros.
 
 ## Contact
 

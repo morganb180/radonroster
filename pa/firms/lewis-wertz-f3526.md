@@ -14,7 +14,7 @@ Listed on Google as Wertz Construction & Inspections llc
 
 Delmar, MD · 1 certified person
 
-[Call (443) 253-5428](tel:4432535428). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3526): your request goes to Lewis Wertz and up to 2 other nearby certified pros.
 
 ## Google rating
 

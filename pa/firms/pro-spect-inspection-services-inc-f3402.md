@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/pro-spect-inspection-services-inc-f3
 
 Dover, DE · 11 certified people
 
-[Call (570) 244-2090](tel:5702442090). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3402): your request goes to Pro-Spect Inspection Services Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

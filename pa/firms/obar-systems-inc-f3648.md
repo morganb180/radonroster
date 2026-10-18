@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/obar-systems-inc-f3648/
 
 Newfoundland, NJ · 6 certified people
 
-[Call (973) 697-0112](tel:9736970112). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3648): your request goes to Obar Systems, Inc. and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/partner-assessment-corporation-f3204
 
 Asbury Park, NJ · 8 certified people
 
-[Call (646) 214-2879](tel:6462142879). This firm can't take quote requests through Radon Roster yet.
+[Get a quote](https://radonroster.com/get-quotes/?firm=F3204): your request goes to Partner Assessment Corporation and up to 2 other nearby certified pros.
 
 ## Contact
 
