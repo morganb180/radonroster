@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/radon-levels-by-county/
 
 Computed 2026-10-11 from PA DEP's [Radon Test Results, September 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (PA Open Data Portal, public domain). Statewide, 37% of 2,644,033 basement tests were at or above 4 pCi/L. These are tests reported to DEP, not a random survey: repeat and post-mitigation tests are included. Basement readings usually run higher than living-floor readings.
 
+**See it on a map:** [Pennsylvania radon map by county](https://radonroster.com/pa/radon-map/) (free to embed) · **Read the analysis:** [2026 data report](https://radonroster.com/pa/radon-data-report-2026/)
+
 For EPA's county zone classifications, see the [EPA Map of Radon Zones](https://www.epa.gov/radon/epa-map-radon-zones). EPA recommends fixing a home at 4 pCi/L or more and considering it between 2 and 4 pCi/L ([EPA](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean)).
 
 | Rank | County | Basement tests | Median (pCi/L) | % basement ≥ 4 | % first floor ≥ 4 | Certified firms |

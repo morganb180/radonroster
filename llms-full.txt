@@ -8,6 +8,8 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [All 67 Pennsylvania counties](https://radonroster.com/pa/counties/): certified firms by county
 - [Pennsylvania cities](https://radonroster.com/pa/cities/): local radon test data and nearby firms
 - [Radon levels by county](https://radonroster.com/pa/radon-levels-by-county/): PA DEP test statistics table
+- [Pennsylvania radon map by county](https://radonroster.com/pa/radon-map/): interactive county map of the share of tests at or above 4 pCi/L, free to embed
+- [2026 PA radon data report](https://radonroster.com/pa/radon-data-report-2026/): which counties test highest, quotable stats, methodology and CSV
 - [Out-of-state firms certified in PA](https://radonroster.com/pa/out-of-state/)
 
 ## Guides
@@ -21,6 +23,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 ## For contractors
 - [For contractors](https://radonroster.com/for-contractors/): free listings and quote requests
 - [Claim, correct or remove a listing](https://radonroster.com/claim-listing/): request form
+- [Badge kit](https://radonroster.com/for-contractors/badge/): PA DEP-certification badges (tester, mitigator, lab) that link to a firm's own listing for verification
 - [How we make money](https://radonroster.com/how-we-make-money/)
 
 ## About
