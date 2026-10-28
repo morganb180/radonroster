@@ -16,7 +16,7 @@ Radon Roster is an independent directory of radon professionals certified by the
 
 ## Who operates Radon Roster
 
-Radon Roster (radonroster.com) is operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653, the same operator and address given in our [privacy policy](https://radonroster.com/privacy/). Contact us through the [contact page](https://radonroster.com/contact/).
+Radon Roster (radonroster.com) is operated by Radon Roster, the same operator named in our [privacy policy](https://radonroster.com/privacy/). Contact us through the [contact page](https://radonroster.com/contact/).
 
 ## Independence
 
