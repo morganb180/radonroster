@@ -1,6 +1,6 @@
 ---
-title: "Carrozza, Jr., Anthony: PA DEP-Certified Radon Tester in Mount Joy, PA | Radon Roster"
-description: "Carrozza, Jr., Anthony (Mount Joy, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Carrozza, Jr., Anthony: Radon Tester in Mount Joy, PA"
+description: "Carrozza, Jr., Anthony (Mount Joy, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/carrozza-jr-anthony-f2858/
 ---
 

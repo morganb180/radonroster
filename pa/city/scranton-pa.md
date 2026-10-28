@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Scranton, PA: 9 Certified Firms in Lackawanna County | Radon Roster"
+title: "Radon Testing & Mitigation in Scranton, PA | Radon Roster"
 description: "20% of 9,215 basement radon tests in Scranton, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/scranton-pa/
 ---
@@ -438,3 +438,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Scranton, PA?**
+
+20% of 9,215 basement radon tests with a Scranton address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 1.8 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Scranton?**
+
+Radon Roster lists 2 PA DEP-certified firms based in Scranton, 7 more elsewhere in Lackawanna County and 5 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Scranton?**
+
+We don't have Scranton-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Scranton radon hiring guide](https://radonroster.com/pa/city/scranton-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/) · [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/)

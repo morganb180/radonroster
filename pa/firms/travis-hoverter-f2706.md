@@ -1,6 +1,6 @@
 ---
-title: "Travis Hoverter: PA DEP-Certified Radon Tester in Chambersburg, PA | Radon Roster"
-description: "Travis Hoverter (Chambersburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Travis Hoverter: Radon Tester in Chambersburg, PA"
+description: "Travis Hoverter (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/travis-hoverter-f2706/
 ---
 

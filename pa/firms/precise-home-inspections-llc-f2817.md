@@ -1,6 +1,6 @@
 ---
-title: "Precise Home Inspections, LLC: PA DEP-Certified Radon Tester in Lords Valley, PA | Radon Roster"
-description: "Precise Home Inspections, LLC (Lords Valley, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Precise Home Inspections, LLC: Radon Tester, Lords Valley PA"
+description: "Precise Home Inspections, LLC (Lords Valley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/precise-home-inspections-llc-f2817/
 ---
 

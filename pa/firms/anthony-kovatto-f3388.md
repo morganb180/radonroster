@@ -1,6 +1,6 @@
 ---
-title: "Anthony Kovatto: PA DEP-Certified Radon Tester in Macungie, PA | Radon Roster"
-description: "Anthony Kovatto (Macungie, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Anthony Kovatto: Radon Tester in Macungie, PA | Radon Roster"
+description: "Anthony Kovatto (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/anthony-kovatto-f3388/
 ---
 

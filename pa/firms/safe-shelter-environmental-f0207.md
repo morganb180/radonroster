@@ -1,6 +1,6 @@
 ---
-title: "Safe Shelter Environmental: PA DEP-Certified Radon Tester & Mitigator in West Chester, PA | Radon Roster"
-description: "Safe Shelter Environmental (West Chester, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Safe Shelter Environmental: Radon, West Chester PA"
+description: "Safe Shelter Environmental (West Chester, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/safe-shelter-environmental-f0207/
 ---
 

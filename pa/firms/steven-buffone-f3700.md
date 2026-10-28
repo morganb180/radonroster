@@ -1,6 +1,6 @@
 ---
-title: "Steven Buffone: PA DEP-Certified Radon Tester & Mitigator in Pittsburgh, PA | Radon Roster"
-description: "Steven Buffone (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Steven Buffone: Radon Testing & Mitigation in Pittsburgh, PA"
+description: "Steven Buffone (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/steven-buffone-f3700/
 ---
 

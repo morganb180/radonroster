@@ -1,6 +1,6 @@
 ---
-title: "Radalink, Inc.: PA DEP-Certified Radon Laboratory in Atlanta, GA | Radon Roster"
-description: "Radalink, Inc. (Atlanta, GA) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Radalink, Inc.: Radon Lab in Atlanta, GA | Radon Roster"
+description: "Radalink, Inc. (Atlanta, GA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/radalink-inc-f1614/
 ---
 

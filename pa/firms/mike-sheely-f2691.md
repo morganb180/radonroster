@@ -1,6 +1,6 @@
 ---
-title: "Mike Sheely: PA DEP-Certified Radon Mitigator in Enola, PA | Radon Roster"
-description: "Mike Sheely (Enola, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Mike Sheely: Radon Mitigator in Enola, PA | Radon Roster"
+description: "Mike Sheely (Enola, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/mike-sheely-f2691/
 ---
 

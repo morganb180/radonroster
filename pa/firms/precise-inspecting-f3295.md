@@ -1,6 +1,6 @@
 ---
-title: "Precise Inspecting: PA DEP-Certified Radon Tester in Lancaster, PA | Radon Roster"
-description: "Precise Inspecting (Lancaster, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Precise Inspecting: Radon Tester in Lancaster, PA"
+description: "Precise Inspecting (Lancaster, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/precise-inspecting-f3295/
 ---
 

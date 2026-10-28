@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Carbon County, PA: 2 DEP-Certified Firms | Radon Roster"
-description: "2 PA DEP-certified radon firms in Carbon County: 53% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Carbon County, PA"
+description: "2 DEP-certified radon firms in Carbon County, PA. 53% of 9,429 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/carbon/
 ---
 
@@ -129,3 +129,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Carbon County?**
+
+0 DEP-certified firms offering mitigation and 2 certified radon firms in total list a business address in Carbon County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Carbon County radon tests are high?**
+
+53% of 9,429 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 4.4 pCi/L.
+
+**How much does radon mitigation cost in Carbon County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

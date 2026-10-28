@@ -1,6 +1,6 @@
 ---
-title: "Stephen A. Beloyan: PA DEP-Certified Radon Tester in Wrightstown, NJ | Radon Roster"
-description: "Stephen A. Beloyan (Wrightstown, NJ) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Stephen A. Beloyan: Radon Tester in Wrightstown, NJ"
+description: "Stephen A. Beloyan (Wrightstown, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-a-beloyan-f1494/
 ---
 

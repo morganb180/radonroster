@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Johnstown, PA: 4 Certified Firms in Cambria County | Radon Roster"
+title: "Radon Testing & Mitigation in Johnstown, PA | Radon Roster"
 description: "43% of 10,172 basement radon tests in Johnstown, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/johnstown-pa/
 ---
@@ -332,3 +332,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Johnstown, PA?**
+
+43% of 10,172 basement radon tests with a Johnstown address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 3.5 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Johnstown?**
+
+Radon Roster lists 2 PA DEP-certified firms based in Johnstown, 2 more elsewhere in Cambria County and 6 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Johnstown?**
+
+We don't have Johnstown-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Johnstown radon hiring guide](https://radonroster.com/pa/city/johnstown-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[Altoona](https://radonroster.com/pa/city/altoona-pa/) · [Greensburg](https://radonroster.com/pa/city/greensburg-pa/)

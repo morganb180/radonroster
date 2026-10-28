@@ -1,6 +1,6 @@
 ---
-title: "James Brownell: PA DEP-Certified Radon Tester in Clifford Townshi, PA | Radon Roster"
-description: "James Brownell (Clifford Townshi, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "James Brownell: Radon Tester in Clifford Townshi, PA"
+description: "James Brownell (Clifford Townshi, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-brownell-f3359/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Wilkes-Barre, PA: 13 Certified Firms in Luzerne County | Radon Roster"
+title: "Radon Testing & Mitigation in Wilkes-Barre, PA"
 description: "18% of 6,150 basement radon tests in Wilkes-Barre, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/wilkes-barre-pa/
 ---
@@ -612,3 +612,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Wilkes-Barre, PA?**
+
+18% of 6,150 basement radon tests with a Wilkes-Barre address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 1.7 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Wilkes-Barre?**
+
+Radon Roster lists 1 PA DEP-certified firm based in Wilkes-Barre, 12 more elsewhere in Luzerne County and 9 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Wilkes-Barre?**
+
+We don't have Wilkes-Barre-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Wilkes-Barre radon hiring guide](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[Scranton](https://radonroster.com/pa/city/scranton-pa/) · [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/)

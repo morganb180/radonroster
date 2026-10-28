@@ -1,6 +1,6 @@
 ---
-title: "Rssi: PA DEP-Certified Radon Laboratory in Morton Grove, IL | Radon Roster"
-description: "Rssi (Morton Grove, IL) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Rssi: Radon Lab in Morton Grove, IL | Radon Roster"
+description: "Rssi (Morton Grove, IL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/rssi-f1246/
 ---
 

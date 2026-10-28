@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Media, PA: 12 Certified Firms in Delaware County | Radon Roster"
+title: "Radon Testing & Mitigation in Media, PA | Radon Roster"
 description: "28% of 14,007 basement radon tests in Media, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/media-pa/
 ---
@@ -704,3 +704,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Media, PA?**
+
+28% of 14,007 basement radon tests with a Media address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 2.4 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Media?**
+
+Radon Roster lists 3 PA DEP-certified firms based in Media, 9 more elsewhere in Delaware County and 13 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Media?**
+
+We don't have Media-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Media radon hiring guide](https://radonroster.com/pa/city/media-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/) · [Downingtown](https://radonroster.com/pa/city/downingtown-pa/)

@@ -1,6 +1,6 @@
 ---
-title: "All In One Home Inspections, Inc.: PA DEP-Certified Radon Tester in Honesdale, PA | Radon Roster"
-description: "All In One Home Inspections, Inc. (Honesdale, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "All In One Home Inspections: Radon Tester in Honesdale, PA"
+description: "All In One Home Inspections, Inc. (Honesdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/all-in-one-home-inspections-inc-f3248/
 ---
 

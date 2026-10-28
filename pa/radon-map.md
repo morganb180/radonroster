@@ -1,6 +1,6 @@
 ---
-title: "Pennsylvania Radon Map by County (PA DEP Test Data) | Radon Roster"
-description: "Interactive map of all 67 Pennsylvania counties shaded by the share of basement radon tests at or above 4 pCi/L, from 2,644,033 PA DEP test results. Free to embed."
+title: "Pennsylvania Radon Map by County | Radon Roster"
+description: "Interactive map of all 67 Pennsylvania counties shaded by the share of basement radon tests at or above 4 pCi/L, from PA DEP's test results."
 canonical: https://radonroster.com/pa/radon-map/
 ---
 

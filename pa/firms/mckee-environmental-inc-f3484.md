@@ -1,6 +1,6 @@
 ---
-title: "Mckee Environmental, Inc.: PA DEP-Certified Radon Tester & Mitigator in Bellefonte, PA | Radon Roster"
-description: "Mckee Environmental, Inc. (Bellefonte, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Mckee Environmental: Radon Tester/Mitigator, Bellefonte PA"
+description: "Mckee Environmental, Inc. (Bellefonte, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/mckee-environmental-inc-f3484/
 ---
 

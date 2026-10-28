@@ -1,6 +1,6 @@
 ---
-title: "Matthew Cline: PA DEP-Certified Radon Tester in Matamoras, PA | Radon Roster"
-description: "Matthew Cline (Matamoras, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Matthew Cline: Radon Tester in Matamoras, PA | Radon Roster"
+description: "Matthew Cline (Matamoras, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-cline-f3508/
 ---
 

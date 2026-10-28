@@ -1,6 +1,6 @@
 ---
-title: "Harold Henry: PA DEP-Certified Radon Tester in Erie, PA | Radon Roster"
-description: "Harold Henry (Erie, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Harold Henry: Radon Tester in Erie, PA | Radon Roster"
+description: "Harold Henry (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/harold-henry-f1954/
 ---
 

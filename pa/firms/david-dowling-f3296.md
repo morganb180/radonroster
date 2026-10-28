@@ -1,6 +1,6 @@
 ---
-title: "David Dowling: PA DEP-Certified Radon Tester in Uniontown, PA | Radon Roster"
-description: "David Dowling (Uniontown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "David Dowling: Radon Tester in Uniontown, PA | Radon Roster"
+description: "David Dowling (Uniontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-dowling-f3296/
 ---
 

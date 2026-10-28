@@ -1,6 +1,6 @@
 ---
-title: "Wolfe, Jr., Jerry: PA DEP-Certified Radon Tester in Freeport, PA | Radon Roster"
-description: "Wolfe, Jr., Jerry (Freeport, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Wolfe, Jr., Jerry: Radon Tester in Freeport, PA"
+description: "Wolfe, Jr., Jerry (Freeport, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/wolfe-jr-jerry-f3261/
 ---
 

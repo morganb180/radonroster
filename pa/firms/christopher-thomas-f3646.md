@@ -1,6 +1,6 @@
 ---
-title: "Christopher Thomas: PA DEP-Certified Radon Tester in Greensburg, PA | Radon Roster"
-description: "Christopher Thomas (Greensburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Christopher Thomas: Radon Tester in Greensburg, PA"
+description: "Christopher Thomas (Greensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/christopher-thomas-f3646/
 ---
 

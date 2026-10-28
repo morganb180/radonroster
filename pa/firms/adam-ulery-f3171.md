@@ -1,6 +1,6 @@
 ---
-title: "Adam Ulery: PA DEP-Certified Radon Tester in Duncansville, PA | Radon Roster"
-description: "Adam Ulery (Duncansville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Adam Ulery: Radon Tester in Duncansville, PA | Radon Roster"
+description: "Adam Ulery (Duncansville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/adam-ulery-f3171/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Erik Funkhouser: PA DEP-Certified Radon Tester in Beaver Falls, PA | Radon Roster"
-description: "Erik Funkhouser (Beaver Falls, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Erik Funkhouser: Radon Tester in Beaver Falls, PA"
+description: "Erik Funkhouser (Beaver Falls, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/erik-funkhouser-f2980/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Ecosense Lab: PA DEP-Certified Radon Laboratory in Irvine, CA | Radon Roster"
-description: "Ecosense Lab (Irvine, CA) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Ecosense Lab: Radon Lab in Irvine, CA | Radon Roster"
+description: "Ecosense Lab (Irvine, CA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ecosense-lab-f3731/
 ---
 

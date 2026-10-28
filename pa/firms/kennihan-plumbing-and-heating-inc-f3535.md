@@ -1,6 +1,6 @@
 ---
-title: "Kennihan Plumbing And Heating Inc: PA DEP-Certified Radon Mitigator in Valencia, PA | Radon Roster"
-description: "Kennihan Plumbing And Heating Inc (Valencia, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Kennihan Plumbing And Heating: Radon Mitigator, Valencia PA"
+description: "Kennihan Plumbing And Heating Inc (Valencia, PA): PA DEP-certified for radon mitigation. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/kennihan-plumbing-and-heating-inc-f3535/
 ---
 

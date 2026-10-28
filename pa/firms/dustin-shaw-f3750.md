@@ -1,6 +1,6 @@
 ---
-title: "Dustin Shaw: PA DEP-Certified Radon Tester in Seneca, PA | Radon Roster"
-description: "Dustin Shaw (Seneca, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Dustin Shaw: Radon Tester in Seneca, PA | Radon Roster"
+description: "Dustin Shaw (Seneca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dustin-shaw-f3750/
 ---
 

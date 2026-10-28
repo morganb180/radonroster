@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation in Cranberry Township, PA: 12 Certified Firms in Butler County | Radon Roster"
-description: "38% of 10,735 basement radon tests in Cranberry Township, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
+title: "Radon Testing & Mitigation in Cranberry Township, PA"
+description: "38% of 10,735 basement radon tests in Cranberry Township, PA were at or above 4 pCi/L (PA DEP data). See DEP-certified radon testers and mitigators."
 canonical: https://radonroster.com/pa/city/cranberry-township-pa/
 ---
 
@@ -565,3 +565,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Cranberry Township, PA?**
+
+38% of 10,735 basement radon tests with a Cranberry Township address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 2.9 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Cranberry Township?**
+
+Radon Roster lists 0 PA DEP-certified firms based in Cranberry Township, 12 more elsewhere in Butler County and 7 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Cranberry Township?**
+
+We don't have Cranberry Township-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Cranberry Township radon hiring guide](https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/)

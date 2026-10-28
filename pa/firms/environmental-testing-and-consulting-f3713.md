@@ -1,6 +1,6 @@
 ---
-title: "Environmental Testing & Consulting: PA DEP-Certified Radon Tester in Romulus, MI | Radon Roster"
-description: "Environmental Testing & Consulting (Romulus, MI) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Environmental Testing & Consulting: Radon Tester, Romulus MI"
+description: "Environmental Testing & Consulting (Romulus, MI) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/environmental-testing-and-consulting-f3713/
 ---
 

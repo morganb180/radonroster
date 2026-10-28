@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation by Pennsylvania City | Radon Roster"
-description: "Local radon test data and DEP-certified radon pros for larger Pennsylvania cities and towns."
+title: "Radon Testing & Mitigation by PA City | Radon Roster"
+description: "Local radon test data and nearby DEP-certified radon testers and mitigators for 40 Pennsylvania cities and towns, from Allentown to York."
 canonical: https://radonroster.com/pa/cities/
 ---
 
@@ -11,19 +11,26 @@ canonical: https://radonroster.com/pa/cities/
 * [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/) (Northampton Co.)
 * [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) (Cumberland Co.)
 * [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/) (Washington Co.)
+* [Carlisle](https://radonroster.com/pa/city/carlisle-pa/) (Cumberland Co.)
 * [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/) (Franklin Co.)
+* [Columbia](https://radonroster.com/pa/city/columbia-pa/) (Lancaster Co.)
 * [Cranberry Township](https://radonroster.com/pa/city/cranberry-township-pa/) (Butler Co.)
+* [Downingtown](https://radonroster.com/pa/city/downingtown-pa/) (Chester Co.)
 * [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) (Bucks Co.)
 * [Easton](https://radonroster.com/pa/city/easton-pa/) (Northampton Co.)
+* [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/) (Lancaster Co.)
+* [Ephrata](https://radonroster.com/pa/city/ephrata-pa/) (Lancaster Co.)
 * [Erie](https://radonroster.com/pa/city/erie-pa/) (Erie Co.)
 * [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) (Adams Co.)
 * [Greensburg](https://radonroster.com/pa/city/greensburg-pa/) (Westmoreland Co.)
+* [Hanover](https://radonroster.com/pa/city/hanover-pa/) (York Co.)
 * [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) (Dauphin Co.)
 * [Hershey](https://radonroster.com/pa/city/hershey-pa/) (Dauphin Co.)
 * [Johnstown](https://radonroster.com/pa/city/johnstown-pa/) (Cambria Co.)
 * [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) (Montgomery Co.)
 * [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) (Lancaster Co.)
 * [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) (Montgomery Co.)
+* [Lebanon](https://radonroster.com/pa/city/lebanon-pa/) (Lebanon Co.)
 * [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) (Cumberland Co.)
 * [Media](https://radonroster.com/pa/city/media-pa/) (Delaware Co.)
 * [Norristown](https://radonroster.com/pa/city/norristown-pa/) (Montgomery Co.)
@@ -39,5 +46,7 @@ canonical: https://radonroster.com/pa/cities/
 * [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/) (Luzerne Co.)
 * [Williamsport](https://radonroster.com/pa/city/williamsport-pa/) (Lycoming Co.)
 * [York](https://radonroster.com/pa/city/york-pa/) (York Co.)
+
+Guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
 Don't see your town? [Browse by county](https://radonroster.com/pa/counties/) or use the search on the home page.

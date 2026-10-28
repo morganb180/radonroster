@@ -1,6 +1,6 @@
 ---
-title: "Timothy J. Gentry: PA DEP-Certified Radon Tester & Mitigator in Horsham, PA | Radon Roster"
-description: "Timothy J. Gentry (Horsham, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Timothy J. Gentry: Radon Testing & Mitigation in Horsham, PA"
+description: "Timothy J. Gentry (Horsham, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/timothy-j-gentry-f2217/
 ---
 

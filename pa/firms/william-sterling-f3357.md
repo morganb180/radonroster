@@ -1,6 +1,6 @@
 ---
-title: "William Sterling: PA DEP-Certified Radon Tester in Wilkes Barre, PA | Radon Roster"
-description: "William Sterling (Wilkes Barre, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "William Sterling: Radon Tester in Wilkes Barre, PA"
+description: "William Sterling (Wilkes Barre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-sterling-f3357/
 ---
 

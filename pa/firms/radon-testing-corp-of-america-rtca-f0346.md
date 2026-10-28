@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing Corp. Of America-Rtca: PA DEP-Certified Radon Laboratory in Elmsford, NY | Radon Roster"
-description: "Radon Testing Corp. Of America-Rtca (Elmsford, NY) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Radon Testing Corp. Of America-Rtca: Radon Lab, Elmsford NY"
+description: "Radon Testing Corp. Of America-Rtca (Elmsford, NY): PA DEP-certified for radon laboratory. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/radon-testing-corp-of-america-rtca-f0346/
 ---
 

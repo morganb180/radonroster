@@ -1,6 +1,6 @@
 ---
-title: "Absolute Radon Mitigation, LLC: PA DEP-Certified Radon Tester & Mitigator in York, PA | Radon Roster"
-description: "Absolute Radon Mitigation, LLC (York, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Absolute Radon Mitigation: Radon Tester/Mitigator, York PA"
+description: "Absolute Radon Mitigation, LLC (York, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/absolute-radon-mitigation-llc-f1965/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Which Pennsylvania Counties Test Highest for Radon? 2026 Data Report | Radon Roster"
+title: "2026 PA Radon Data Report: Highest Counties | Radon Roster"
 description: "Fulton, Juniata and Perry top the list. 37% of 2,644,033 PA basement radon tests were at or above 4 pCi/L. County rankings from PA DEP data."
 canonical: https://radonroster.com/pa/radon-data-report-2026/
 ---

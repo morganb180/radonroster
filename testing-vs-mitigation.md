@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing vs Radon Mitigation: What's the Difference? | Radon Roster"
+title: "Radon Testing vs Mitigation: Key Differences | Radon Roster"
 description: "Testing measures radon; mitigation reduces it. When you need each, short-term vs long-term tests, and how to choose a certified pro in PA."
 canonical: https://radonroster.com/testing-vs-mitigation/
 ---

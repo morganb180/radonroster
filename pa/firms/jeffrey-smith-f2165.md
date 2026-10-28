@@ -1,6 +1,6 @@
 ---
-title: "Jeffrey Smith: PA DEP-Certified Radon Tester in Ebensburg, PA | Radon Roster"
-description: "Jeffrey Smith (Ebensburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jeffrey Smith: Radon Tester in Ebensburg, PA | Radon Roster"
+description: "Jeffrey Smith (Ebensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-smith-f2165/
 ---
 

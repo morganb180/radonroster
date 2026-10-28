@@ -1,6 +1,6 @@
 ---
-title: "Gary Barclay: PA DEP-Certified Radon Tester in Watsontown, PA | Radon Roster"
-description: "Gary Barclay (Watsontown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Gary Barclay: Radon Tester in Watsontown, PA | Radon Roster"
+description: "Gary Barclay (Watsontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/gary-barclay-f3501/
 ---
 

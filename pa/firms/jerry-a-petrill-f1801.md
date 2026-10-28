@@ -1,6 +1,6 @@
 ---
-title: "Jerry A. Petrill: PA DEP-Certified Radon Mitigator in Greensburg, PA | Radon Roster"
-description: "Jerry A. Petrill (Greensburg, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Jerry A. Petrill: Radon Mitigator in Greensburg, PA"
+description: "Jerry A. Petrill (Greensburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jerry-a-petrill-f1801/
 ---
 

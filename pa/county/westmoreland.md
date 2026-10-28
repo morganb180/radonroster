@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Westmoreland County, PA: 17 DEP-Certified Firms | Radon Roster"
-description: "17 PA DEP-certified radon firms in Westmoreland County: 40% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Westmoreland County, PA"
+description: "17 DEP-certified radon firms in Westmoreland County, PA. 40% of 66,800 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/westmoreland/
 ---
 
@@ -494,3 +494,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Westmoreland County?**
+
+5 DEP-certified firms offering mitigation and 17 certified radon firms in total list a business address in Westmoreland County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Westmoreland County radon tests are high?**
+
+40% of 66,800 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 3.2 pCi/L.
+
+**How much does radon mitigation cost in Westmoreland County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

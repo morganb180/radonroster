@@ -1,6 +1,6 @@
 ---
-title: "A R M Environmental LLC: PA DEP-Certified Radon Tester & Mitigator in Tannersville, PA | Radon Roster"
-description: "A R M Environmental LLC (Tannersville, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "A R M Environmental: Radon Tester/Mitigator, Tannersville PA"
+description: "A R M Environmental LLC (Tannersville, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/a-r-m-environmental-llc-f2303/
 ---
 

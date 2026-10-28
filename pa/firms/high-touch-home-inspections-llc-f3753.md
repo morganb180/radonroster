@@ -1,6 +1,6 @@
 ---
-title: "High Touch Home Inspections LLC: PA DEP-Certified Radon Tester in Mcdonald, PA | Radon Roster"
-description: "High Touch Home Inspections LLC (Mcdonald, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "High Touch Home Inspections LLC: Radon Tester, Mcdonald PA"
+description: "High Touch Home Inspections LLC (Mcdonald, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/high-touch-home-inspections-llc-f3753/
 ---
 

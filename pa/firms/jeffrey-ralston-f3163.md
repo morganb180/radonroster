@@ -1,6 +1,6 @@
 ---
-title: "Jeffrey Ralston: PA DEP-Certified Radon Tester & Mitigator in Bloomsburg, PA | Radon Roster"
-description: "Jeffrey Ralston (Bloomsburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Jeffrey Ralston: Radon Tester/Mitigator in Bloomsburg, PA"
+description: "Jeffrey Ralston (Bloomsburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-ralston-f3163/
 ---
 

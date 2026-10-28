@@ -1,6 +1,6 @@
 ---
-title: "Brian C. Bacchus: PA DEP-Certified Radon Tester & Mitigator in Wexford, PA | Radon Roster"
-description: "Brian C. Bacchus (Wexford, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Brian C. Bacchus: Radon Testing & Mitigation in Wexford, PA"
+description: "Brian C. Bacchus (Wexford, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-c-bacchus-f1771/
 ---
 

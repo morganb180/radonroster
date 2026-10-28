@@ -1,6 +1,6 @@
 ---
-title: "Peach Inspections: PA DEP-Certified Radon Tester in Coatesville, PA | Radon Roster"
-description: "Peach Inspections (Coatesville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Peach Inspections: Radon Tester in Coatesville, PA"
+description: "Peach Inspections (Coatesville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/peach-inspections-f2288/
 ---
 

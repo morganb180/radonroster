@@ -1,6 +1,6 @@
 ---
-title: "Mark Jaworski: PA DEP-Certified Radon Tester in Canonsburg, PA | Radon Roster"
-description: "Mark Jaworski (Canonsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Mark Jaworski: Radon Tester in Canonsburg, PA | Radon Roster"
+description: "Mark Jaworski (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/mark-jaworski-f2935/
 ---
 

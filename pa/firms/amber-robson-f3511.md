@@ -1,6 +1,6 @@
 ---
-title: "Amber Robson: PA DEP-Certified Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Amber Robson (Pittsburgh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Amber Robson: Radon Tester in Pittsburgh, PA | Radon Roster"
+description: "Amber Robson (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/amber-robson-f3511/
 ---
 

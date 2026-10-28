@@ -1,6 +1,6 @@
 ---
-title: "Accustar Labs: PA DEP-Certified Radon Laboratory in Harrisburg, PA | Radon Roster"
-description: "Accustar Labs (Harrisburg, PA) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Accustar Labs: Radon Lab in Harrisburg, PA | Radon Roster"
+description: "Accustar Labs (Harrisburg, PA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/accustar-labs-f1935/
 ---
 

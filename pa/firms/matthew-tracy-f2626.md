@@ -1,6 +1,6 @@
 ---
-title: "Matthew Tracy: PA DEP-Certified Radon Tester in Doylestown, PA | Radon Roster"
-description: "Matthew Tracy (Doylestown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Matthew Tracy: Radon Tester in Doylestown, PA | Radon Roster"
+description: "Matthew Tracy (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-tracy-f2626/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Baxter Environmental: PA DEP-Certified Radon Tester in Chambersburg, PA | Radon Roster"
-description: "Baxter Environmental (Chambersburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Baxter Environmental: Radon Tester in Chambersburg, PA"
+description: "Baxter Environmental (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/baxter-environmental-f8846/
 ---
 

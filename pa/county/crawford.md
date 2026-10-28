@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Crawford County, PA: 3 DEP-Certified Firms | Radon Roster"
-description: "3 PA DEP-certified radon firms in Crawford County: 35% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Crawford County, PA"
+description: "3 DEP-certified radon firms in Crawford County, PA. 35% of 5,647 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/crawford/
 ---
 
@@ -152,3 +152,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Crawford County?**
+
+0 DEP-certified firms offering mitigation and 3 certified radon firms in total list a business address in Crawford County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Crawford County radon tests are high?**
+
+35% of 5,647 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 2.8 pCi/L.
+
+**How much does radon mitigation cost in Crawford County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

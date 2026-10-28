@@ -1,6 +1,6 @@
 ---
-title: "Stephen Hill: PA DEP-Certified Radon Tester in Windber, PA | Radon Roster"
-description: "Stephen Hill (Windber, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Stephen Hill: Radon Tester in Windber, PA | Radon Roster"
+description: "Stephen Hill (Windber, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-hill-f3311/
 ---
 

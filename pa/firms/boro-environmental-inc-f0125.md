@@ -1,6 +1,6 @@
 ---
-title: "Boro Environmental, Inc.: PA DEP-Certified Radon Tester in Glenolden, PA | Radon Roster"
-description: "Boro Environmental, Inc. (Glenolden, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Boro Environmental, Inc.: Radon Tester in Glenolden, PA"
+description: "Boro Environmental, Inc. (Glenolden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/boro-environmental-inc-f0125/
 ---
 

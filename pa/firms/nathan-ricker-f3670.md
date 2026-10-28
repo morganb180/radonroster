@@ -1,6 +1,6 @@
 ---
-title: "Nathan Ricker: PA DEP-Certified Radon Tester & Mitigator in Delaware, OH | Radon Roster"
-description: "Nathan Ricker (Delaware, OH) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Nathan Ricker: Radon Testing & Mitigation in Delaware, OH"
+description: "Nathan Ricker (Delaware, OH) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/nathan-ricker-f3670/
 ---
 

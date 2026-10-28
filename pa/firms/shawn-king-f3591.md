@@ -1,6 +1,6 @@
 ---
-title: "Shawn King: PA DEP-Certified Radon Tester in Meadville, PA | Radon Roster"
-description: "Shawn King (Meadville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Shawn King: Radon Tester in Meadville, PA | Radon Roster"
+description: "Shawn King (Meadville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-king-f3591/
 ---
 

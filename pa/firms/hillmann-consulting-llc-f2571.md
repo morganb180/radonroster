@@ -1,6 +1,6 @@
 ---
-title: "Hillmann Consulting, LLC: PA DEP-Certified Radon Tester in Union, NJ | Radon Roster"
-description: "Hillmann Consulting, LLC (Union, NJ) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Hillmann Consulting, LLC: Radon Tester in Union, NJ"
+description: "Hillmann Consulting, LLC (Union, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/hillmann-consulting-llc-f2571/
 ---
 

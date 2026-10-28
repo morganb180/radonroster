@@ -1,6 +1,6 @@
 ---
-title: "Hometeam Of South Pittsburgh: PA DEP-Certified Radon Tester in Springdale, PA | Radon Roster"
-description: "Hometeam Of South Pittsburgh (Springdale, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Hometeam Of South Pittsburgh: Radon Tester in Springdale, PA"
+description: "Hometeam Of South Pittsburgh (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/hometeam-of-south-pittsburgh-f2915/
 ---
 

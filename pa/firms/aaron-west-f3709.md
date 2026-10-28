@@ -1,6 +1,6 @@
 ---
-title: "Aaron West: PA DEP-Certified Radon Tester in Cranberry Townsh, PA | Radon Roster"
-description: "Aaron West (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Aaron West: Radon Tester in Cranberry Townsh, PA"
+description: "Aaron West (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/aaron-west-f3709/
 ---
 

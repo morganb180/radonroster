@@ -1,6 +1,6 @@
 ---
-title: "A.B.E. Radiation Measurements Labs: PA DEP-Certified Radon Lab & Tester in Lenhartsville, PA | Radon Roster"
-description: "A.B.E. Radiation Measurements Labs (Lenhartsville, PA) is on PA DEP's certified radon list for laboratory and testing. DEP cert IDs, contact details and a free quote request."
+title: "A.B.E. Radiation Measurements Labs: Radon, Lenhartsville PA"
+description: "A.B.E. Radiation Measurements Labs (Lenhartsville, PA): PA DEP-certified radon laboratory and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/a-b-e-radiation-measurements-labs-f0048/
 ---
 

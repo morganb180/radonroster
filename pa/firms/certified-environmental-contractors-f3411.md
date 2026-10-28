@@ -1,6 +1,6 @@
 ---
-title: "Certified Environmental Contractors: PA DEP-Certified Radon Lab & Tester in Freehold, NJ | Radon Roster"
-description: "Certified Environmental Contractors (Freehold, NJ) is on PA DEP's certified radon list for laboratory and testing. DEP cert IDs, contact details and a free quote request."
+title: "Certified Environmental Contractors: Radon, Freehold NJ"
+description: "Certified Environmental Contractors (Freehold, NJ): PA DEP-certified radon laboratory and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/certified-environmental-contractors-f3411/
 ---
 

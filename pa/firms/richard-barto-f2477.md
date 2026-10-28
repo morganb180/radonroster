@@ -1,6 +1,6 @@
 ---
-title: "Richard Barto: PA DEP-Certified Radon Tester in Slippery Rock, PA | Radon Roster"
-description: "Richard Barto (Slippery Rock, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Richard Barto: Radon Tester in Slippery Rock, PA"
+description: "Richard Barto (Slippery Rock, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-barto-f2477/
 ---
 

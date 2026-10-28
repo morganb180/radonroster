@@ -1,6 +1,6 @@
 ---
-title: "Moises Serrano: PA DEP-Certified Radon Tester in Philadelphia, PA | Radon Roster"
-description: "Moises Serrano (Philadelphia, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Moises Serrano: Radon Tester in Philadelphia, PA"
+description: "Moises Serrano (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/moises-serrano-f3746/
 ---
 

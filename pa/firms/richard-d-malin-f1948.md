@@ -1,6 +1,6 @@
 ---
-title: "Richard D. Malin: PA DEP-Certified Radon Tester in Monroeville, PA | Radon Roster"
-description: "Richard D. Malin (Monroeville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Richard D. Malin: Radon Tester in Monroeville, PA"
+description: "Richard D. Malin (Monroeville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-d-malin-f1948/
 ---
 

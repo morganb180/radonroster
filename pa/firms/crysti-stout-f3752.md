@@ -1,6 +1,6 @@
 ---
-title: "Crysti Stout: PA DEP-Certified Radon Tester in Whitehall, PA | Radon Roster"
-description: "Crysti Stout (Whitehall, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Crysti Stout: Radon Tester in Whitehall, PA | Radon Roster"
+description: "Crysti Stout (Whitehall, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/crysti-stout-f3752/
 ---
 

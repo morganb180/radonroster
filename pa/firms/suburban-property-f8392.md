@@ -1,6 +1,6 @@
 ---
-title: "Suburban Property: PA DEP-Certified Radon Tester in Temple, PA | Radon Roster"
-description: "Suburban Property (Temple, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Suburban Property: Radon Tester in Temple, PA | Radon Roster"
+description: "Suburban Property (Temple, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/suburban-property-f8392/
 ---
 

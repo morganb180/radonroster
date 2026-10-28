@@ -1,6 +1,6 @@
 ---
-title: "Professional Home Inspection: PA DEP-Certified Radon Tester & Mitigator in Binghamton, NY | Radon Roster"
-description: "Professional Home Inspection (Binghamton, NY) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Professional Home Inspection: Radon, Binghamton NY"
+description: "Professional Home Inspection (Binghamton, NY): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/professional-home-inspection-f7256/
 ---
 

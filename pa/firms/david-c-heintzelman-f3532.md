@@ -1,6 +1,6 @@
 ---
-title: "David C. Heintzelman: PA DEP-Certified Radon Tester in Mechanicsburg, PA | Radon Roster"
-description: "David C. Heintzelman (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "David C. Heintzelman: Radon Tester in Mechanicsburg, PA"
+description: "David C. Heintzelman (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-c-heintzelman-f3532/
 ---
 

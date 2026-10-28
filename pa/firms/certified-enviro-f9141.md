@@ -1,6 +1,6 @@
 ---
-title: "Certified Enviro: PA DEP-Certified Radon Tester in Freehold, NJ | Radon Roster"
-description: "Certified Enviro (Freehold, NJ) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Certified Enviro: Radon Tester in Freehold, NJ"
+description: "Certified Enviro (Freehold, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-enviro-f9141/
 ---
 

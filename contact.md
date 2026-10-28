@@ -1,6 +1,6 @@
 ---
 title: "Contact Radon Roster | Radon Roster"
-description: "How to contact Radon Roster, correct or remove a contractor listing, or ask about advertising."
+description: "Contact Radon Roster to correct or remove a radon contractor listing, ask about advertising, or send a question about our Pennsylvania radon directory."
 canonical: https://radonroster.com/contact/
 ---
 

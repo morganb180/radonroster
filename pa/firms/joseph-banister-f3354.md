@@ -1,6 +1,6 @@
 ---
-title: "Joseph Banister: PA DEP-Certified Radon Tester in Edinboro, PA | Radon Roster"
-description: "Joseph Banister (Edinboro, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joseph Banister: Radon Tester in Edinboro, PA | Radon Roster"
+description: "Joseph Banister (Edinboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-banister-f3354/
 ---
 

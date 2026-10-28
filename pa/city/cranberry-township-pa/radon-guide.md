@@ -1,6 +1,6 @@
 ---
-title: "How to Find a Radon Expert in Cranberry Township, PA: Testing, Mitigation & Cost Guide | Radon Roster"
-description: "Cranberry Township, PA radon guide: 38% of 10,735 basement tests at or above 4 pCi/L (median 2.9). How to verify DEP certification, questions to ask, typical costs and real estate tips."
+title: "Radon Expert in Cranberry Township, PA: Hiring & Cost Guide"
+description: "Cranberry Township, PA radon guide: 38% of 10,735 basement tests at or above 4 pCi/L. How to verify DEP certification, costs and real estate tips."
 canonical: https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/
 ---
 
@@ -148,3 +148,29 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How do I find a certified radon expert in Cranberry Township, PA?**
+
+Use a firm on PA DEP's certified lists. Radon Roster lists 0 DEP-certified firms based in Cranberry Township and 12 more in Butler County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Is radon common in Cranberry Township?**
+
+In PA DEP's test records, 38% of 10,735 basement tests with a Cranberry Township address were at or above 4 pCi/L (median 2.9 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**How much does radon mitigation cost in Cranberry Township?**
+
+We don't have Cranberry Township-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
+
+**Do I need a radon test when buying a home in Pennsylvania?**
+
+It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
+
+**How long does a radon test take?**
+
+Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free and low-cost test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Radon mitigation in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city guides: [Williamsport](https://radonroster.com/pa/city/williamsport-pa/radon-guide/) · [Greensburg](https://radonroster.com/pa/city/greensburg-pa/radon-guide/) · [Quakertown](https://radonroster.com/pa/city/quakertown-pa/radon-guide/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/radon-guide/)

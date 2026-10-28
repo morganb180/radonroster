@@ -1,6 +1,6 @@
 ---
-title: "Jason Muckey: PA DEP-Certified Radon Tester & Mitigator in Horseheads, NY | Radon Roster"
-description: "Jason Muckey (Horseheads, NY) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Jason Muckey: Radon Testing & Mitigation in Horseheads, NY"
+description: "Jason Muckey (Horseheads, NY) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-muckey-f3559/
 ---
 

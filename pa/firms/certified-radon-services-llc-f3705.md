@@ -1,6 +1,6 @@
 ---
-title: "Certified Radon Services, LLC: PA DEP-Certified Radon Mitigator in Boston, NY | Radon Roster"
-description: "Certified Radon Services, LLC (Boston, NY) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Certified Radon Services, LLC: Radon Mitigator in Boston, NY"
+description: "Certified Radon Services, LLC (Boston, NY) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-radon-services-llc-f3705/
 ---
 

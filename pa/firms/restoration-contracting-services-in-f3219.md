@@ -1,6 +1,6 @@
 ---
-title: "Restoration Contracting Services In: PA DEP-Certified Radon Tester & Mitigator in New Kensington, PA | Radon Roster"
-description: "Restoration Contracting Services In (New Kensington, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Restoration Contracting Services In - New Kensington, PA"
+description: "Restoration Contracting Services In (New Kensington, PA): PA DEP-certified radon mitigation and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/restoration-contracting-services-in-f3219/
 ---
 

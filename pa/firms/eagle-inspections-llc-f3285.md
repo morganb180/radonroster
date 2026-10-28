@@ -1,6 +1,6 @@
 ---
-title: "Eagle Inspections LLC: PA DEP-Certified Radon Tester in Croydon, PA | Radon Roster"
-description: "Eagle Inspections LLC (Croydon, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Eagle Inspections LLC: Radon Tester in Croydon, PA"
+description: "Eagle Inspections LLC (Croydon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/eagle-inspections-llc-f3285/
 ---
 

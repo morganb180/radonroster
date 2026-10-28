@@ -1,6 +1,6 @@
 ---
-title: "Rvs Radon Mitigation: PA DEP-Certified Radon Mitigator in Philadelphia, PA | Radon Roster"
-description: "Rvs Radon Mitigation (Philadelphia, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Rvs Radon Mitigation: Radon Mitigator in Philadelphia, PA"
+description: "Rvs Radon Mitigation (Philadelphia, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/rvs-radon-mitigation-f7735/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Keith Carpenter: PA DEP-Certified Radon Mitigator in Johnstown, PA | Radon Roster"
-description: "Keith Carpenter (Johnstown, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Keith Carpenter: Radon Mitigator in Johnstown, PA"
+description: "Keith Carpenter (Johnstown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/keith-carpenter-f2037/
 ---
 

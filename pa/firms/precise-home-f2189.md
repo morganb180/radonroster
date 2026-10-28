@@ -1,6 +1,6 @@
 ---
-title: "Precise Home: PA DEP-Certified Radon Tester in Hawley, PA | Radon Roster"
-description: "Precise Home (Hawley, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Precise Home: Radon Tester in Hawley, PA | Radon Roster"
+description: "Precise Home (Hawley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/precise-home-f2189/
 ---
 

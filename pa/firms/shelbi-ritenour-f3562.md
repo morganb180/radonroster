@@ -1,6 +1,6 @@
 ---
-title: "Shelbi Ritenour: PA DEP-Certified Radon Tester in Saxonburg, PA | Radon Roster"
-description: "Shelbi Ritenour (Saxonburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Shelbi Ritenour: Radon Tester in Saxonburg, PA"
+description: "Shelbi Ritenour (Saxonburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/shelbi-ritenour-f3562/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Radon Testing & Mitigation in Chambersburg, PA: 5 Certified Firms in Franklin County | Radon Roster"
+title: "Radon Testing & Mitigation in Chambersburg, PA"
 description: "59% of 9,035 basement radon tests in Chambersburg, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
 canonical: https://radonroster.com/pa/city/chambersburg-pa/
 ---
@@ -335,3 +335,25 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How common is high radon in Chambersburg, PA?**
+
+59% of 9,035 basement radon tests with a Chambersburg address in PA DEP's records were at or above EPA's 4 pCi/L action level (median 5.4 pCi/L). Statewide the share is 37%. Only a test tells you your home's level.
+
+**Which DEP-certified radon firms are in or near Chambersburg?**
+
+Radon Roster lists 2 PA DEP-certified firms based in Chambersburg, 3 more elsewhere in Franklin County and 5 mitigation firms in neighboring counties. Check any firm's cert ID in the PA DEP Radon Services Directory or call 800-237-2366.
+
+**What radon level should be fixed?**
+
+EPA recommends fixing a home at 4 pCi/L or higher and considering a fix between 2 and 4 pCi/L.
+
+**How much does radon mitigation cost near Chambersburg?**
+
+We don't have Chambersburg-specific price data. PA DEP says most radon mitigation systems typically cost $800-$1,200. Get written quotes from DEP-certified mitigators.
+
+More guides: [Chambersburg radon hiring guide](https://radonroster.com/pa/city/chambersburg-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city pages[Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) · [Carlisle](https://radonroster.com/pa/city/carlisle-pa/)

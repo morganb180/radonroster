@@ -1,6 +1,6 @@
 ---
 title: "Get Free Radon Quotes from Certified PA Pros | Radon Roster"
-description: "Send one request to up to 3 PA DEP-certified radon mitigation, testing or lab firms near you. Free, no obligation."
+description: "Send one request to up to 3 PA DEP-certified radon mitigation, testing or lab firms near you. Free and no obligation; you don't have to hire anyone."
 canonical: https://radonroster.com/get-quotes/
 ---
 

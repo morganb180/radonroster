@@ -1,6 +1,6 @@
 ---
-title: "Wolfgang Schmidt Iii: PA DEP-Certified Radon Tester in Quarryville, PA | Radon Roster"
-description: "Wolfgang Schmidt Iii (Quarryville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Wolfgang Schmidt Iii: Radon Tester in Quarryville, PA"
+description: "Wolfgang Schmidt Iii (Quarryville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/wolfgang-schmidt-iii-f3743/
 ---
 

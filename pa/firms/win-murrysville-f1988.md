@@ -1,6 +1,6 @@
 ---
-title: "Win - Murrysville: PA DEP-Certified Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Win - Murrysville (Pittsburgh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Win - Murrysville: Radon Tester in Pittsburgh, PA"
+description: "Win - Murrysville (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/win-murrysville-f1988/
 ---
 

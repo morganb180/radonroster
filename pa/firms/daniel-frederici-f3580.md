@@ -1,6 +1,6 @@
 ---
-title: "Daniel Frederici: PA DEP-Certified Radon Tester in Forest City, PA | Radon Roster"
-description: "Daniel Frederici (Forest City, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Daniel Frederici: Radon Tester in Forest City, PA"
+description: "Daniel Frederici (Forest City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/daniel-frederici-f3580/
 ---
 

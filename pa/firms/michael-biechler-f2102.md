@@ -1,6 +1,6 @@
 ---
-title: "Michael Biechler: PA DEP-Certified Radon Tester in Middletown, PA | Radon Roster"
-description: "Michael Biechler (Middletown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Michael Biechler: Radon Tester in Middletown, PA"
+description: "Michael Biechler (Middletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-biechler-f2102/
 ---
 

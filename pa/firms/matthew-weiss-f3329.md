@@ -1,6 +1,6 @@
 ---
-title: "Matthew Weiss: PA DEP-Certified Radon Tester in Emsworth, PA | Radon Roster"
-description: "Matthew Weiss (Emsworth, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Matthew Weiss: Radon Tester in Emsworth, PA | Radon Roster"
+description: "Matthew Weiss (Emsworth, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-weiss-f3329/
 ---
 

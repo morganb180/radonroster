@@ -1,6 +1,6 @@
 ---
-title: "Crestwood Radon And Environmental: PA DEP-Certified Radon Mitigator in Mountain Top, PA | Radon Roster"
-description: "Crestwood Radon And Environmental (Mountain Top, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Crestwood Radon And Environmental: Radon, Mountain Top PA"
+description: "Crestwood Radon And Environmental (Mountain Top, PA): PA DEP-certified for radon mitigation. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/crestwood-radon-and-environmental-f3720/
 ---
 

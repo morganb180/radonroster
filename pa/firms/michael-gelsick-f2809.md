@@ -1,6 +1,6 @@
 ---
-title: "Michael Gelsick: PA DEP-Certified Radon Tester & Mitigator in Saint Marys, PA | Radon Roster"
-description: "Michael Gelsick (Saint Marys, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Michael Gelsick: Radon Tester/Mitigator in Saint Marys, PA"
+description: "Michael Gelsick (Saint Marys, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-gelsick-f2809/
 ---
 

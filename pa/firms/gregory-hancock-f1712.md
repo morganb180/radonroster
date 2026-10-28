@@ -1,6 +1,6 @@
 ---
-title: "Gregory Hancock: PA DEP-Certified Radon Tester in Woolrich, PA | Radon Roster"
-description: "Gregory Hancock (Woolrich, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Gregory Hancock: Radon Tester in Woolrich, PA | Radon Roster"
+description: "Gregory Hancock (Woolrich, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/gregory-hancock-f1712/
 ---
 

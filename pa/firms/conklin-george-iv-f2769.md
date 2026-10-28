@@ -1,6 +1,6 @@
 ---
-title: "Conklin, George, Iv: PA DEP-Certified Radon Mitigator in Loganton, PA | Radon Roster"
-description: "Conklin, George, Iv (Loganton, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Conklin, George, Iv: Radon Mitigator in Loganton, PA"
+description: "Conklin, George, Iv (Loganton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/conklin-george-iv-f2769/
 ---
 

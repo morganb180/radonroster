@@ -1,6 +1,6 @@
 ---
-title: "John White: PA DEP-Certified Radon Tester in Lewistown, PA | Radon Roster"
-description: "John White (Lewistown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "John White: Radon Tester in Lewistown, PA | Radon Roster"
+description: "John White (Lewistown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-white-f3174/
 ---
 

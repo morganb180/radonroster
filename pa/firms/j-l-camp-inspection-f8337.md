@@ -1,6 +1,6 @@
 ---
-title: "J.L. Camp Inspection: PA DEP-Certified Radon Tester in Monaca, PA | Radon Roster"
-description: "J.L. Camp Inspection (Monaca, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "J.L. Camp Inspection: Radon Tester in Monaca, PA"
+description: "J.L. Camp Inspection (Monaca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/j-l-camp-inspection-f8337/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Margie L. Gordon: PA DEP-Certified Radon Lab & Tester in Coatesville, PA | Radon Roster"
-description: "Margie L. Gordon (Coatesville, PA) is on PA DEP's certified radon list for laboratory and testing. DEP cert IDs, contact details and a free quote request."
+title: "Margie L. Gordon: Radon Lab & Tester in Coatesville, PA"
+description: "Margie L. Gordon (Coatesville, PA) is on PA DEP's certified radon list for laboratory and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/margie-l-gordon-f1627/
 ---
 

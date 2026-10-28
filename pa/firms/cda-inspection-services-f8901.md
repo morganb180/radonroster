@@ -1,6 +1,6 @@
 ---
-title: "Cda Inspection Services: PA DEP-Certified Radon Tester in Emmaus, PA | Radon Roster"
-description: "Cda Inspection Services (Emmaus, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Cda Inspection Services (F8901): Radon Tester in Emmaus, PA"
+description: "Cda Inspection Services (173 Green St, Emmaus, PA, F8901): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/cda-inspection-services-f8901/
 ---
 

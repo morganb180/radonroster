@@ -1,6 +1,6 @@
 ---
-title: "Newman'S Home LLC: PA DEP-Certified Radon Tester in Morrisville, PA | Radon Roster"
-description: "Newman'S Home LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Newman'S Home LLC: Radon Tester in Morrisville, PA"
+description: "Newman'S Home LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/newman-s-home-llc-f1996/
 ---
 

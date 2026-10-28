@@ -1,6 +1,6 @@
 ---
-title: "Alpha Home Inspections: PA DEP-Certified Radon Tester in Duncannon, PA | Radon Roster"
-description: "Alpha Home Inspections (Duncannon, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Alpha Home Inspections: Radon Tester in Duncannon, PA"
+description: "Alpha Home Inspections (Duncannon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/alpha-home-inspections-f3483/
 ---
 

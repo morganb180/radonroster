@@ -1,6 +1,6 @@
 ---
-title: "Gene Heffner: PA DEP-Certified Radon Tester in Pottsville, PA | Radon Roster"
-description: "Gene Heffner (Pottsville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Gene Heffner: Radon Tester in Pottsville, PA | Radon Roster"
+description: "Gene Heffner (Pottsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/gene-heffner-f3358/
 ---
 

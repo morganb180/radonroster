@@ -1,6 +1,6 @@
 ---
-title: "Brian Poplarchick: PA DEP-Certified Radon Tester in Dunmore, PA | Radon Roster"
-description: "Brian Poplarchick (Dunmore, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Brian Poplarchick: Radon Tester in Dunmore, PA"
+description: "Brian Poplarchick (Dunmore, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-poplarchick-f3192/
 ---
 

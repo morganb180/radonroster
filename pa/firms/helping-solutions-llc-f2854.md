@@ -1,6 +1,6 @@
 ---
-title: "Helping Solutions LLC: PA DEP-Certified Radon Tester & Mitigator in Altoona, PA | Radon Roster"
-description: "Helping Solutions LLC (Altoona, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Helping Solutions LLC: Radon Tester/Mitigator in Altoona, PA"
+description: "Helping Solutions LLC (Altoona, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/helping-solutions-llc-f2854/
 ---
 

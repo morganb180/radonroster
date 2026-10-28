@@ -1,6 +1,6 @@
 ---
-title: "Radon Guys, LLC: PA DEP-Certified Radon Tester & Mitigator in Middleburg, PA | Radon Roster"
-description: "Radon Guys, LLC (Middleburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Radon Guys, LLC: Radon Tester/Mitigator in Middleburg, PA"
+description: "Radon Guys, LLC (Middleburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/radon-guys-llc-f3717/
 ---
 

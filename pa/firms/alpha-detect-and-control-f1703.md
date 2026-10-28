@@ -1,6 +1,6 @@
 ---
-title: "Alpha Detect & Control: PA DEP-Certified Radon Tester in Connellsville, PA | Radon Roster"
-description: "Alpha Detect & Control (Connellsville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Alpha Detect & Control: Radon Tester in Connellsville, PA"
+description: "Alpha Detect & Control (Connellsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/alpha-detect-and-control-f1703/
 ---
 

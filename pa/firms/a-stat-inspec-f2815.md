@@ -1,6 +1,6 @@
 ---
-title: "A- Stat Inspec: PA DEP-Certified Radon Tester in Doylestown, PA | Radon Roster"
-description: "A- Stat Inspec (Doylestown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "A- Stat Inspec: Radon Tester in Doylestown, PA"
+description: "A- Stat Inspec (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/a-stat-inspec-f2815/
 ---
 

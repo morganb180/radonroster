@@ -1,6 +1,6 @@
 ---
-title: "Ecs Mid-Atlantic LLC: PA DEP-Certified Radon Tester in Cranberry Townsh, PA | Radon Roster"
-description: "Ecs Mid-Atlantic LLC (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Ecs Mid-Atlantic LLC: Radon Tester in Cranberry Townsh, PA"
+description: "Ecs Mid-Atlantic LLC (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ecs-mid-atlantic-llc-f3275/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Spoehr, Jr, Eugene: PA DEP-Certified Radon Tester in Chadds Ford, PA | Radon Roster"
-description: "Spoehr, Jr, Eugene (Chadds Ford, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Spoehr, Jr, Eugene: Radon Tester in Chadds Ford, PA"
+description: "Spoehr, Jr, Eugene (Chadds Ford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/spoehr-jr-eugene-f1915/
 ---
 

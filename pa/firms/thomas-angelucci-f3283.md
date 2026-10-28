@@ -1,6 +1,6 @@
 ---
-title: "Thomas Angelucci: PA DEP-Certified Radon Tester in Stevens, PA | Radon Roster"
-description: "Thomas Angelucci (Stevens, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Thomas Angelucci: Radon Tester in Stevens, PA | Radon Roster"
+description: "Thomas Angelucci (Stevens, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-angelucci-f3283/
 ---
 

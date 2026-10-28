@@ -1,6 +1,6 @@
 ---
-title: "Richard Nesgoda: PA DEP-Certified Radon Tester in Edwardsville, PA | Radon Roster"
-description: "Richard Nesgoda (Edwardsville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Richard Nesgoda: Radon Tester in Edwardsville, PA"
+description: "Richard Nesgoda (Edwardsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-nesgoda-f3436/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Certified Radon Inc.: PA DEP-Certified Radon Tester in Aliquippa, PA | Radon Roster"
-description: "Certified Radon Inc. (Aliquippa, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Certified Radon Inc.: Radon Tester in Aliquippa, PA"
+description: "Certified Radon Inc. (Aliquippa, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-radon-inc-f3557/
 ---
 

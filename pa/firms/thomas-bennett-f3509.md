@@ -1,6 +1,6 @@
 ---
-title: "Thomas Bennett: PA DEP-Certified Radon Tester in Sayre, PA | Radon Roster"
-description: "Thomas Bennett (Sayre, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Thomas Bennett: Radon Tester in Sayre, PA | Radon Roster"
+description: "Thomas Bennett (Sayre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-bennett-f3509/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "American Radon Solutions, Inc.: PA DEP-Certified Radon Mitigator in Camp Hill, PA | Radon Roster"
-description: "American Radon Solutions, Inc. (Camp Hill, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "American Radon Solutions: Radon Mitigator in Camp Hill, PA"
+description: "American Radon Solutions, Inc. (Camp Hill, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/american-radon-solutions-inc-f1418/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Precision Inspections & Radon Solutions: PA DEP-Certified Radon Tester & Mitigator in Mechanicsburg, PA | Radon Roster"
-description: "Precision Inspections & Radon Solutions (Mechanicsburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Precision Inspections & Radon Solutions - Mechanicsburg, PA"
+description: "Precision Inspections & Radon Solutions (Mechanicsburg, PA): PA DEP-certified radon mitigation and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/precision-inspections-and-radon-solutions-f2404/
 ---
 

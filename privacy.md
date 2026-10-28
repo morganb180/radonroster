@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy | Radon Roster"
-description: "Privacy policy for Radon Roster: what quote requests collect, who receives them, and how long anything is kept."
+description: "Privacy policy for Radon Roster: what quote requests collect, which radon firms receive them, how long data is kept, and optional radon tips emails."
 canonical: https://radonroster.com/privacy/
 ---
 

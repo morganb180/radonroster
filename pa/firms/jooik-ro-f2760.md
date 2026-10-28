@@ -1,6 +1,6 @@
 ---
-title: "Jooik Ro: PA DEP-Certified Radon Tester & Mitigator in Carlisle, PA | Radon Roster"
-description: "Jooik Ro (Carlisle, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Jooik Ro: Radon Testing & Mitigation in Carlisle, PA"
+description: "Jooik Ro (Carlisle, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jooik-ro-f2760/
 ---
 

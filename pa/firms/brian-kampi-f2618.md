@@ -1,6 +1,6 @@
 ---
-title: "Brian Kampi: PA DEP-Certified Radon Tester in Mars, PA | Radon Roster"
-description: "Brian Kampi (Mars, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Brian Kampi: Radon Tester in Mars, PA | Radon Roster"
+description: "Brian Kampi (Mars, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-kampi-f2618/
 ---
 

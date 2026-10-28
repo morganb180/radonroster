@@ -1,6 +1,6 @@
 ---
-title: "S.A.F.E. Inspection Services, LLC: PA DEP-Certified Radon Tester in East Berlin, PA | Radon Roster"
-description: "S.A.F.E. Inspection Services, LLC (East Berlin, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "S.A.F.E. Inspection Services: Radon Tester, East Berlin PA"
+description: "S.A.F.E. Inspection Services, LLC (East Berlin, PA): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/s-a-f-e-inspection-services-llc-f2193/
 ---
 

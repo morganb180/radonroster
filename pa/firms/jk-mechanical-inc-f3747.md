@@ -1,6 +1,6 @@
 ---
-title: "Jk Mechanical Inc: PA DEP-Certified Radon Tester & Mitigator in Willow Street, PA | Radon Roster"
-description: "Jk Mechanical Inc (Willow Street, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Jk Mechanical Inc: Radon Tester/Mitigator, Willow Street PA"
+description: "Jk Mechanical Inc (Willow Street, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/jk-mechanical-inc-f3747/
 ---
 

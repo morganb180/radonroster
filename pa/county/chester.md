@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Chester County, PA: 18 DEP-Certified Firms | Radon Roster"
-description: "18 PA DEP-certified radon firms in Chester County: 31% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Chester County, PA"
+description: "18 DEP-certified radon firms in Chester County, PA. 31% of 212,529 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/chester/
 ---
 
@@ -526,3 +526,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Chester County?**
+
+3 DEP-certified firms offering mitigation and 18 certified radon firms in total list a business address in Chester County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Chester County radon tests are high?**
+
+31% of 212,529 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 2.4 pCi/L.
+
+**How much does radon mitigation cost in Chester County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

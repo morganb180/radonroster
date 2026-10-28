@@ -1,6 +1,6 @@
 ---
-title: "Welcome Home, Home Inspections LLC: PA DEP-Certified Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Welcome Home, Home Inspections LLC (Pittsburgh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Welcome Home, Home Inspections: Radon Tester, Pittsburgh PA"
+description: "Welcome Home, Home Inspections LLC (Pittsburgh, PA): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/welcome-home-home-inspections-llc-f3218/
 ---
 

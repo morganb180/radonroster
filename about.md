@@ -1,6 +1,6 @@
 ---
-title: "About Radon Roster | Pennsylvania Radon Contractor Directory | Radon Roster"
-description: "What Radon Roster is, who it is for, where the listings come from and how the site is funded."
+title: "About Radon Roster: PA Radon Directory"
+description: "About Radon Roster: an independent directory of PA DEP-certified radon pros, where its listings come from, who runs it and how it stays independent."
 canonical: https://radonroster.com/about/
 ---
 
@@ -13,6 +13,10 @@ Radon Roster is an independent directory of radon professionals certified by the
 * 414 DEP-certified radon testing, mitigation and laboratory firms, grouped by [county](https://radonroster.com/pa/counties/) and [city](https://radonroster.com/pa/cities/), each with its DEP certification IDs and a link to the source list.
 * County and city radon statistics computed from PA DEP's public Radon Test Results dataset ([radon levels by county](https://radonroster.com/pa/radon-levels-by-county/)).
 * Plain-language guides: [what radon is](https://radonroster.com/what-is-radon/), [testing vs mitigation](https://radonroster.com/testing-vs-mitigation/), [typical costs](https://radonroster.com/radon-mitigation-cost/) and [real estate disclosure](https://radonroster.com/pa/real-estate-radon-disclosure/).
+
+## Who operates Radon Roster
+
+Radon Roster (radonroster.com) is operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653, the same operator and address given in our [privacy policy](https://radonroster.com/privacy/). Contact us through the [contact page](https://radonroster.com/contact/).
 
 ## Independence
 

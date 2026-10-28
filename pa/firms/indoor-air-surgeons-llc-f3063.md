@@ -1,6 +1,6 @@
 ---
-title: "Indoor Air Surgeons, LLC: PA DEP-Certified Radon Mitigator in Bensalem, PA | Radon Roster"
-description: "Indoor Air Surgeons, LLC (Bensalem, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Indoor Air Surgeons, LLC: Radon Mitigator in Bensalem, PA"
+description: "Indoor Air Surgeons, LLC (Bensalem, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/indoor-air-surgeons-llc-f3063/
 ---
 

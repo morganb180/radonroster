@@ -1,5 +1,5 @@
 ---
-title: "All 413 PA DEP-Certified Radon Firms A-Z by County | Radon Roster"
+title: "All 413 PA DEP-Certified Radon Firms A-Z | Radon Roster"
 description: "Profiles of all 413 radon testing, mitigation and lab firms on PA DEP's certified lists dated 10/01/2026, grouped by county."
 canonical: https://radonroster.com/pa/firms/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Dwayne Ott: PA DEP-Certified Radon Tester in Tyrone, PA | Radon Roster"
-description: "Dwayne Ott (Tyrone, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Dwayne Ott: Radon Tester in Tyrone, PA | Radon Roster"
+description: "Dwayne Ott (Tyrone, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dwayne-ott-f1962/
 ---
 

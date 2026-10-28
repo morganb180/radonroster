@@ -1,6 +1,6 @@
 ---
-title: "Isaiah Unger: PA DEP-Certified Radon Tester in York, PA | Radon Roster"
-description: "Isaiah Unger (York, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Isaiah Unger: Radon Tester in York, PA | Radon Roster"
+description: "Isaiah Unger (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/isaiah-unger-f3674/
 ---
 

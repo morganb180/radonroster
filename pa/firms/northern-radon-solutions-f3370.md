@@ -1,6 +1,6 @@
 ---
-title: "Northern Radon Solutions: PA DEP-Certified Radon Mitigator in Honesdale, PA | Radon Roster"
-description: "Northern Radon Solutions (Honesdale, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Northern Radon Solutions: Radon Mitigator in Honesdale, PA"
+description: "Northern Radon Solutions (Honesdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/northern-radon-solutions-f3370/
 ---
 

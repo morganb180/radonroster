@@ -1,6 +1,6 @@
 ---
-title: "Piotr Podolecki: PA DEP-Certified Radon Mitigator in Alburtis, PA | Radon Roster"
-description: "Piotr Podolecki (Alburtis, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Piotr Podolecki: Radon Mitigator in Alburtis, PA"
+description: "Piotr Podolecki (Alburtis, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/piotr-podolecki-f2885/
 ---
 

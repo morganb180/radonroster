@@ -1,6 +1,6 @@
 ---
-title: "Homer Inspection Services: PA DEP-Certified Radon Tester in Atglen, PA | Radon Roster"
-description: "Homer Inspection Services (Atglen, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Homer Inspection Services: Radon Tester in Atglen, PA"
+description: "Homer Inspection Services (Atglen, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/homer-inspection-services-f3196/
 ---
 

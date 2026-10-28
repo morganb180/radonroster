@@ -146,3 +146,5 @@ body:has(#i-res:checked) .frow .pci{display:block}
 .res-out{font-weight:600;color:var(--ink);margin:.6rem 0 0}
 
 .btnrow{display:flex;flex-wrap:wrap;align-items:center;gap:var(--s3) var(--s4)}
+/* footer legal links: small text */
+.foot .legal,.foot p.legal{font-size:.7rem;opacity:.8}.foot .legal a{padding-block:0}

@@ -1,6 +1,6 @@
 ---
-title: "Absolute Safeguard Home Inspection: PA DEP-Certified Radon Tester in Carnegie, PA | Radon Roster"
-description: "Absolute Safeguard Home Inspection (Carnegie, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Absolute Safeguard Home Inspection: Radon, Carnegie PA"
+description: "Absolute Safeguard Home Inspection (Carnegie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/absolute-safeguard-home-inspection-f2868/
 ---
 

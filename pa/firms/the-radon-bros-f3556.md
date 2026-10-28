@@ -1,6 +1,6 @@
 ---
-title: "The Radon Bros: PA DEP-Certified Radon Tester & Mitigator in Quakertown, PA | Radon Roster"
-description: "The Radon Bros (Quakertown, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "The Radon Bros: Radon Testing & Mitigation in Quakertown, PA"
+description: "The Radon Bros (Quakertown, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/the-radon-bros-f3556/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Darrell Barrick: PA DEP-Certified Radon Tester in Hanover, PA | Radon Roster"
-description: "Darrell Barrick (Hanover, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Darrell Barrick: Radon Tester in Hanover, PA | Radon Roster"
+description: "Darrell Barrick (Hanover, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/darrell-barrick-f3623/
 ---
 

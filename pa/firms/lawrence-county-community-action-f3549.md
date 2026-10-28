@@ -1,6 +1,6 @@
 ---
-title: "Lawrence County Community Action: PA DEP-Certified Radon Tester in New Castle, PA | Radon Roster"
-description: "Lawrence County Community Action (New Castle, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Lawrence County Community Action: Radon, New Castle PA"
+description: "Lawrence County Community Action (New Castle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/lawrence-county-community-action-f3549/
 ---
 

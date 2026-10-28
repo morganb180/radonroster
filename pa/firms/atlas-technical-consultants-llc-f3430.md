@@ -1,6 +1,6 @@
 ---
-title: "Atlas Technical Consultants, LLC: PA DEP-Certified Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Atlas Technical Consultants, LLC (Pittsburgh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Atlas Technical Consultants: Radon Tester in Pittsburgh, PA"
+description: "Atlas Technical Consultants, LLC (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/atlas-technical-consultants-llc-f3430/
 ---
 

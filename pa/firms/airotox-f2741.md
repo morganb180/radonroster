@@ -1,6 +1,6 @@
 ---
-title: "Airotox: PA DEP-Certified Radon Mitigator in Lansdale, PA | Radon Roster"
-description: "Airotox (Lansdale, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Airotox: Radon Mitigator in Lansdale, PA | Radon Roster"
+description: "Airotox (Lansdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/airotox-f2741/
 ---
 

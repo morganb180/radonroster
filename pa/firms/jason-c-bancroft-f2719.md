@@ -1,6 +1,6 @@
 ---
-title: "Jason C. Bancroft: PA DEP-Certified Radon Tester in Gilbertsville, PA | Radon Roster"
-description: "Jason C. Bancroft (Gilbertsville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jason C. Bancroft: Radon Tester in Gilbertsville, PA"
+description: "Jason C. Bancroft (Gilbertsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-c-bancroft-f2719/
 ---
 

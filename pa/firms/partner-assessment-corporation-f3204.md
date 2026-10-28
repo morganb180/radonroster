@@ -1,6 +1,6 @@
 ---
-title: "Partner Assessment Corporation: PA DEP-Certified Radon Tester & Mitigator in Asbury Park, NJ | Radon Roster"
-description: "Partner Assessment Corporation (Asbury Park, NJ) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Partner Assessment Corporation: Radon, Asbury Park NJ"
+description: "Partner Assessment Corporation (Asbury Park, NJ): PA DEP-certified radon mitigation and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/partner-assessment-corporation-f3204/
 ---
 

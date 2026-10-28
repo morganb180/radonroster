@@ -1,6 +1,6 @@
 ---
-title: "Gutridge Inspections: PA DEP-Certified Radon Tester & Mitigator in Pottstown, PA | Radon Roster"
-description: "Gutridge Inspections (Pottstown, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Gutridge Inspections: Radon Tester/Mitigator, Pottstown PA"
+description: "Gutridge Inspections (Pottstown, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/gutridge-inspections-f2973/
 ---
 

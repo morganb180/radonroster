@@ -1,6 +1,6 @@
 ---
-title: "Gary Olinchak: PA DEP-Certified Radon Mitigator in Crum Lynne, PA | Radon Roster"
-description: "Gary Olinchak (Crum Lynne, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Gary Olinchak: Radon Mitigator in Crum Lynne, PA"
+description: "Gary Olinchak (Crum Lynne, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/gary-olinchak-f3003/
 ---
 

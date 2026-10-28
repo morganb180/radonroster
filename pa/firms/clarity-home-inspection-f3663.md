@@ -1,6 +1,6 @@
 ---
-title: "Clarity Home Inspection: PA DEP-Certified Radon Tester in Moon Township, PA | Radon Roster"
-description: "Clarity Home Inspection (Moon Township, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Clarity Home Inspection: Radon Tester in Moon Township, PA"
+description: "Clarity Home Inspection (Moon Township, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/clarity-home-inspection-f3663/
 ---
 

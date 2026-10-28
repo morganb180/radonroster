@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Montgomery County, PA: 29 DEP-Certified Firms | Radon Roster"
-description: "29 PA DEP-certified radon firms in Montgomery County: 28% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Montgomery County, PA"
+description: "29 DEP-certified radon firms in Montgomery County, PA. 28% of 296,621 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/montgomery/
 ---
 
@@ -813,3 +813,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Montgomery County?**
+
+8 DEP-certified firms offering mitigation and 29 certified radon firms in total list a business address in Montgomery County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Montgomery County radon tests are high?**
+
+28% of 296,621 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 2.4 pCi/L.
+
+**How much does radon mitigation cost in Montgomery County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

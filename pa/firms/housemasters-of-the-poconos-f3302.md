@@ -1,6 +1,6 @@
 ---
-title: "Housemasters Of The Poconos: PA DEP-Certified Radon Tester in Canadensis, PA | Radon Roster"
-description: "Housemasters Of The Poconos (Canadensis, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Housemasters Of The Poconos: Radon Tester in Canadensis, PA"
+description: "Housemasters Of The Poconos (Canadensis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/housemasters-of-the-poconos-f3302/
 ---
 

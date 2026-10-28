@@ -1,6 +1,6 @@
 ---
-title: "Brian Brucker: PA DEP-Certified Radon Tester in Export, PA | Radon Roster"
-description: "Brian Brucker (Export, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Brian Brucker: Radon Tester in Export, PA | Radon Roster"
+description: "Brian Brucker (Export, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-brucker-f3001/
 ---
 

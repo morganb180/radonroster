@@ -1,6 +1,6 @@
 ---
-title: "A Harmony Home Inspection, LLC: PA DEP-Certified Radon Tester in Allison Park, PA | Radon Roster"
-description: "A Harmony Home Inspection, LLC (Allison Park, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "A Harmony Home Inspection: Radon Tester in Allison Park, PA"
+description: "A Harmony Home Inspection, LLC (Allison Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/a-harmony-home-inspection-llc-f1842/
 ---
 

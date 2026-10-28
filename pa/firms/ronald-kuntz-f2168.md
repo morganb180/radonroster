@@ -1,6 +1,6 @@
 ---
-title: "Ronald Kuntz: PA DEP-Certified Radon Tester in Alexandria, PA | Radon Roster"
-description: "Ronald Kuntz (Alexandria, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Ronald Kuntz: Radon Tester in Alexandria, PA | Radon Roster"
+description: "Ronald Kuntz (Alexandria, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-kuntz-f2168/
 ---
 

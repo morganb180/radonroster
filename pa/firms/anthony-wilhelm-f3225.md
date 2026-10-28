@@ -1,6 +1,6 @@
 ---
-title: "Anthony Wilhelm: PA DEP-Certified Radon Tester in Tower City, PA | Radon Roster"
-description: "Anthony Wilhelm (Tower City, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Anthony Wilhelm: Radon Tester in Tower City, PA"
+description: "Anthony Wilhelm (Tower City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/anthony-wilhelm-f3225/
 ---
 

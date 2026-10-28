@@ -1,6 +1,6 @@
 ---
-title: "Eurofins Environment Testing Radon: PA DEP-Certified Radon Laboratory in Carrollton, TX | Radon Roster"
-description: "Eurofins Environment Testing Radon (Carrollton, TX) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Eurofins Environment Testing Radon: Radon Lab, Carrollton TX"
+description: "Eurofins Environment Testing Radon (Carrollton, TX): PA DEP-certified for radon laboratory. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/eurofins-environment-testing-radon-f0711/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Inspection Service: PA DEP-Certified Radon Tester in West Chester, PA | Radon Roster"
-description: "Inspection Service (West Chester, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Inspection Service: Radon Tester in West Chester, PA"
+description: "Inspection Service (West Chester, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/inspection-service-f8877/
 ---
 

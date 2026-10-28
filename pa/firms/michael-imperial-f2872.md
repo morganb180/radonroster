@@ -1,6 +1,6 @@
 ---
-title: "Michael Imperial: PA DEP-Certified Radon Tester in Jamison, PA | Radon Roster"
-description: "Michael Imperial (Jamison, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Michael Imperial: Radon Tester in Jamison, PA | Radon Roster"
+description: "Michael Imperial (Jamison, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-imperial-f2872/
 ---
 

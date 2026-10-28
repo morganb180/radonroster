@@ -1,6 +1,6 @@
 ---
-title: "Jerry Kidwell: PA DEP-Certified Radon Tester in Ashburn, VA | Radon Roster"
-description: "Jerry Kidwell (Ashburn, VA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jerry Kidwell: Radon Tester in Ashburn, VA | Radon Roster"
+description: "Jerry Kidwell (Ashburn, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jerry-kidwell-f3751/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Dominick Peda: PA DEP-Certified Radon Tester in Media, PA | Radon Roster"
-description: "Dominick Peda (Media, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Dominick Peda: Radon Tester in Media, PA | Radon Roster"
+description: "Dominick Peda (Media, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dominick-peda-f2624/
 ---
 

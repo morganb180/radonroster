@@ -1,6 +1,6 @@
 ---
-title: "S. J. Watras Inc: PA DEP-Certified Radon Mitigator in Boyertown, PA | Radon Roster"
-description: "S. J. Watras Inc (Boyertown, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "S. J. Watras Inc: Radon Mitigator in Boyertown, PA"
+description: "S. J. Watras Inc (Boyertown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/s-j-watras-inc-f7579/
 ---
 

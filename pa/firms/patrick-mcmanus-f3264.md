@@ -1,6 +1,6 @@
 ---
-title: "Patrick Mcmanus: PA DEP-Certified Radon Tester in North Huntingdon, PA | Radon Roster"
-description: "Patrick Mcmanus (North Huntingdon, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Patrick Mcmanus: Radon Tester in North Huntingdon, PA"
+description: "Patrick Mcmanus (North Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/patrick-mcmanus-f3264/
 ---
 

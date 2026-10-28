@@ -1,6 +1,6 @@
 ---
-title: "Pillar To Post: PA DEP-Certified Radon Tester in Morrisville, PA | Radon Roster"
-description: "Pillar To Post (Morrisville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Pillar To Post: Radon Tester in Morrisville, PA"
+description: "Pillar To Post (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/pillar-to-post-f8688/
 ---
 

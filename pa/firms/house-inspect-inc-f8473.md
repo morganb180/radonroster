@@ -1,6 +1,6 @@
 ---
-title: "House Inspect, Inc: PA DEP-Certified Radon Tester in Media, PA | Radon Roster"
-description: "House Inspect, Inc (Media, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "House Inspect, Inc (North Olive Street): Radon, Media PA"
+description: "House Inspect, Inc (601 North Olive Street, Media, PA): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/house-inspect-inc-f8473/
 ---
 

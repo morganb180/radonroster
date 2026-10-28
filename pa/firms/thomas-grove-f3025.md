@@ -1,6 +1,6 @@
 ---
-title: "Thomas Grove: PA DEP-Certified Radon Tester in Irwin, PA | Radon Roster"
-description: "Thomas Grove (Irwin, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Thomas Grove: Radon Tester in Irwin, PA | Radon Roster"
+description: "Thomas Grove (Irwin, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-grove-f3025/
 ---
 

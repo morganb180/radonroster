@@ -1,6 +1,6 @@
 ---
-title: "Kimberly Baker: PA DEP-Certified Radon Tester in Warriors Mark, PA | Radon Roster"
-description: "Kimberly Baker (Warriors Mark, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Kimberly Baker: Radon Tester in Warriors Mark, PA"
+description: "Kimberly Baker (Warriors Mark, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/kimberly-baker-f2160/
 ---
 

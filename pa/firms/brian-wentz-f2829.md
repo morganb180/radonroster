@@ -1,6 +1,6 @@
 ---
-title: "Brian Wentz: PA DEP-Certified Radon Tester in Harrisburg, PA | Radon Roster"
-description: "Brian Wentz (Harrisburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Brian Wentz: Radon Tester in Harrisburg, PA | Radon Roster"
+description: "Brian Wentz (Harrisburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-wentz-f2829/
 ---
 

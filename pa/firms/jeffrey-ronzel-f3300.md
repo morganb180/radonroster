@@ -1,6 +1,6 @@
 ---
-title: "Jeffrey Ronzel: PA DEP-Certified Radon Tester in Kunkletown, PA | Radon Roster"
-description: "Jeffrey Ronzel (Kunkletown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jeffrey Ronzel: Radon Tester in Kunkletown, PA"
+description: "Jeffrey Ronzel (Kunkletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-ronzel-f3300/
 ---
 

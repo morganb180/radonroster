@@ -1,6 +1,6 @@
 ---
-title: "Paul Bukeavich: PA DEP-Certified Radon Tester in Ashley, PA | Radon Roster"
-description: "Paul Bukeavich (Ashley, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Paul Bukeavich: Radon Tester in Ashley, PA | Radon Roster"
+description: "Paul Bukeavich (Ashley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/paul-bukeavich-f2473/
 ---
 

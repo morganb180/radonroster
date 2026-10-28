@@ -1,6 +1,6 @@
 ---
-title: "Insight Property Services: PA DEP-Certified Radon Tester & Mitigator in Doylestown, PA | Radon Roster"
-description: "Insight Property Services (Doylestown, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Insight Property Services: Radon, Doylestown PA"
+description: "Insight Property Services (Doylestown, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/insight-property-services-f1990/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Spotlight Home Inspection LLC: PA DEP-Certified Radon Tester in Perkiomenville, PA | Radon Roster"
-description: "Spotlight Home Inspection LLC (Perkiomenville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Spotlight Home Inspection: Radon Tester, Perkiomenville PA"
+description: "Spotlight Home Inspection LLC (Perkiomenville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/spotlight-home-inspection-llc-f3341/
 ---
 

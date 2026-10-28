@@ -1,6 +1,6 @@
 ---
-title: "Nathan Braden: PA DEP-Certified Radon Tester in Derry, PA | Radon Roster"
-description: "Nathan Braden (Derry, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Nathan Braden: Radon Tester in Derry, PA | Radon Roster"
+description: "Nathan Braden (Derry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/nathan-braden-f3455/
 ---
 

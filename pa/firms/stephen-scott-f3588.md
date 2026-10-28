@@ -1,6 +1,6 @@
 ---
-title: "Stephen Scott: PA DEP-Certified Radon Tester in Lake Ariel, PA | Radon Roster"
-description: "Stephen Scott (Lake Ariel, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Stephen Scott: Radon Tester in Lake Ariel, PA | Radon Roster"
+description: "Stephen Scott (Lake Ariel, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-scott-f3588/
 ---
 

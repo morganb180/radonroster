@@ -1,6 +1,6 @@
 ---
-title: "Douglas Risk: PA DEP-Certified Radon Tester in Peach Bottom, PA | Radon Roster"
-description: "Douglas Risk (Peach Bottom, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Douglas Risk: Radon Tester in Peach Bottom, PA"
+description: "Douglas Risk (Peach Bottom, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/douglas-risk-f3599/
 ---
 

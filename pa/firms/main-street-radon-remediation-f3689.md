@@ -1,6 +1,6 @@
 ---
-title: "Main Street Radon Remediation: PA DEP-Certified Radon Tester & Mitigator in Irwin, PA | Radon Roster"
-description: "Main Street Radon Remediation (Irwin, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Main Street Radon Remediation: Radon, Irwin PA"
+description: "Main Street Radon Remediation (Irwin, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/main-street-radon-remediation-f3689/
 ---
 

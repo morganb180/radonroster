@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Northumberland County, PA: 1 DEP-Certified Firm | Radon Roster"
-description: "1 PA DEP-certified radon firms in Northumberland County: 46% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Northumberland County, PA"
+description: "1 DEP-certified radon firm in Northumberland County, PA. 46% of 10,034 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/northumberland/
 ---
 
@@ -106,3 +106,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Northumberland County?**
+
+0 DEP-certified firms offering mitigation and 1 certified radon firms in total list a business address in Northumberland County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Northumberland County radon tests are high?**
+
+46% of 10,034 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 3.6 pCi/L.
+
+**How much does radon mitigation cost in Northumberland County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.

@@ -1,6 +1,6 @@
 ---
-title: "Oak Leaf Environmental: PA DEP-Certified Radon Tester & Mitigator in Centre Hall, PA | Radon Roster"
-description: "Oak Leaf Environmental (Centre Hall, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Oak Leaf Environmental: Radon, Centre Hall PA"
+description: "Oak Leaf Environmental (Centre Hall, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/oak-leaf-environmental-f3726/
 ---
 

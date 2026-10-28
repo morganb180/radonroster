@@ -1,6 +1,6 @@
 ---
-title: "Kyle Underwood: PA DEP-Certified Radon Tester in Norristown, PA | Radon Roster"
-description: "Kyle Underwood (Norristown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Kyle Underwood: Radon Tester in Norristown, PA"
+description: "Kyle Underwood (Norristown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/kyle-underwood-f3195/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Joshua Lindner: PA DEP-Certified Radon Tester in Springdale, PA | Radon Roster"
-description: "Joshua Lindner (Springdale, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joshua Lindner: Radon Tester in Springdale, PA"
+description: "Joshua Lindner (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-lindner-f3070/
 ---
 

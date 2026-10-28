@@ -1,6 +1,6 @@
 ---
-title: "David Yorgey: PA DEP-Certified Radon Mitigator in Conshohocken, PA | Radon Roster"
-description: "David Yorgey (Conshohocken, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "David Yorgey: Radon Mitigator in Conshohocken, PA"
+description: "David Yorgey (Conshohocken, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-yorgey-f3758/
 ---
 

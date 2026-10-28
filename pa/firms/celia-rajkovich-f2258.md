@@ -1,6 +1,6 @@
 ---
-title: "Celia Rajkovich: PA DEP-Certified Radon Lab & Tester in Derry, PA | Radon Roster"
-description: "Celia Rajkovich (Derry, PA) is on PA DEP's certified radon list for laboratory and testing. DEP cert IDs, contact details and a free quote request."
+title: "Celia Rajkovich: Radon Lab & Tester in Derry, PA"
+description: "Celia Rajkovich (Derry, PA) is on PA DEP's certified radon list for laboratory and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/celia-rajkovich-f2258/
 ---
 

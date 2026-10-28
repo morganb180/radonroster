@@ -1,6 +1,6 @@
 ---
-title: "Jon Knell: PA DEP-Certified Radon Tester in Aston, PA | Radon Roster"
-description: "Jon Knell (Aston, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jon Knell: Radon Tester in Aston, PA | Radon Roster"
+description: "Jon Knell (Aston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jon-knell-f3699/
 ---
 

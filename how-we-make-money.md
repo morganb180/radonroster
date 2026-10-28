@@ -1,6 +1,6 @@
 ---
-title: "How We Make Money & Advertising Disclosure | Radon Roster"
-description: "How Radon Roster is funded and how paid placements are labeled."
+title: "How We Make Money & Ad Disclosure | Radon Roster"
+description: "How Radon Roster is funded, how any paid placement is labeled \"Ad\", and why free listings are ordered by location and name, never by payment."
 canonical: https://radonroster.com/how-we-make-money/
 ---
 

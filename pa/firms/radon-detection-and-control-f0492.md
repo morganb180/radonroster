@@ -1,6 +1,6 @@
 ---
-title: "Radon Detection And Control: PA DEP-Certified Radon Tester & Mitigator in South Heights, PA | Radon Roster"
-description: "Radon Detection And Control (South Heights, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Radon Detection And Control: Radon, South Heights PA"
+description: "Radon Detection And Control (South Heights, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/radon-detection-and-control-f0492/
 ---
 

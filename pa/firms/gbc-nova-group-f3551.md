@@ -1,6 +1,6 @@
 ---
-title: "Gbc Nova Group: PA DEP-Certified Radon Tester in Shohola, PA | Radon Roster"
-description: "Gbc Nova Group (Shohola, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Gbc Nova Group: Radon Tester in Shohola, PA | Radon Roster"
+description: "Gbc Nova Group (Shohola, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/gbc-nova-group-f3551/
 ---
 

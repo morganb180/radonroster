@@ -1,6 +1,6 @@
 ---
-title: "Albert R. Morris: PA DEP-Certified Radon Tester in Easton, PA | Radon Roster"
-description: "Albert R. Morris (Easton, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Albert R. Morris: Radon Tester in Easton, PA | Radon Roster"
+description: "Albert R. Morris (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/albert-r-morris-f3523/
 ---
 

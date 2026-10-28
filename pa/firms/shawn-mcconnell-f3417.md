@@ -1,6 +1,6 @@
 ---
-title: "Shawn Mcconnell: PA DEP-Certified Radon Tester in Middlebury Cente, PA | Radon Roster"
-description: "Shawn Mcconnell (Middlebury Cente, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Shawn Mcconnell: Radon Tester in Middlebury Cente, PA"
+description: "Shawn Mcconnell (Middlebury Cente, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-mcconnell-f3417/
 ---
 

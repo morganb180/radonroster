@@ -1,6 +1,6 @@
 ---
-title: "Comfortspec Home: PA DEP-Certified Radon Tester in Brodheadsville, PA | Radon Roster"
-description: "Comfortspec Home (Brodheadsville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Comfortspec Home: Radon Tester in Brodheadsville, PA"
+description: "Comfortspec Home (Brodheadsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/comfortspec-home-f8780/
 ---
 

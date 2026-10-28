@@ -1,6 +1,6 @@
 ---
-title: "Thomas Duffy: PA DEP-Certified Radon Tester in Port Jervis, NY | Radon Roster"
-description: "Thomas Duffy (Port Jervis, NY) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Thomas Duffy: Radon Tester in Port Jervis, NY | Radon Roster"
+description: "Thomas Duffy (Port Jervis, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-duffy-f3730/
 ---
 

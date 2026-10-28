@@ -1,6 +1,6 @@
 ---
-title: "Eric Zigga: PA DEP-Certified Radon Mitigator in Throop, PA | Radon Roster"
-description: "Eric Zigga (Throop, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Eric Zigga: Radon Mitigator in Throop, PA | Radon Roster"
+description: "Eric Zigga (Throop, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-zigga-f2233/
 ---
 

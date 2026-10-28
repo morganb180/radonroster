@@ -1,6 +1,6 @@
 ---
-title: "Matthew Muehling: PA DEP-Certified Radon Tester in Elizabethtown, PA | Radon Roster"
-description: "Matthew Muehling (Elizabethtown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Matthew Muehling: Radon Tester in Elizabethtown, PA"
+description: "Matthew Muehling (Elizabethtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-muehling-f2795/
 ---
 

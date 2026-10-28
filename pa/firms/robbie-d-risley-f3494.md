@@ -1,6 +1,6 @@
 ---
-title: "Robbie D Risley: PA DEP-Certified Radon Tester in Bethel Park, PA | Radon Roster"
-description: "Robbie D Risley (Bethel Park, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Robbie D Risley: Radon Tester in Bethel Park, PA"
+description: "Robbie D Risley (Bethel Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/robbie-d-risley-f3494/
 ---
 

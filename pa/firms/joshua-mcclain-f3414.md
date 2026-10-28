@@ -1,6 +1,6 @@
 ---
-title: "Joshua Mcclain: PA DEP-Certified Radon Tester in Montoursville, PA | Radon Roster"
-description: "Joshua Mcclain (Montoursville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joshua Mcclain: Radon Tester in Montoursville, PA"
+description: "Joshua Mcclain (Montoursville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-mcclain-f3414/
 ---
 

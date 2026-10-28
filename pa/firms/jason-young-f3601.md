@@ -1,6 +1,6 @@
 ---
-title: "Jason Young: PA DEP-Certified Radon Tester in Waynesboro, PA | Radon Roster"
-description: "Jason Young (Waynesboro, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jason Young: Radon Tester in Waynesboro, PA | Radon Roster"
+description: "Jason Young (Waynesboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-young-f3601/
 ---
 

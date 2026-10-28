@@ -1,6 +1,6 @@
 ---
-title: "Spencer Conrad: PA DEP-Certified Radon Tester & Mitigator in Phoenixville, PA | Radon Roster"
-description: "Spencer Conrad (Phoenixville, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Spencer Conrad: Radon Tester/Mitigator in Phoenixville, PA"
+description: "Spencer Conrad (Phoenixville, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/spencer-conrad-f3020/
 ---
 

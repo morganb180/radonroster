@@ -1,6 +1,6 @@
 ---
-title: "Disaster Blaster Inc: PA DEP-Certified Radon Mitigator in Scranton, PA | Radon Roster"
-description: "Disaster Blaster Inc (Scranton, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Disaster Blaster Inc: Radon Mitigator in Scranton, PA"
+description: "Disaster Blaster Inc (Scranton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/disaster-blaster-inc-f2848/
 ---
 

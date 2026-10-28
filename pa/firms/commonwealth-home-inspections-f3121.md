@@ -1,6 +1,6 @@
 ---
-title: "Commonwealth Home Inspections: PA DEP-Certified Radon Tester in Myrtle Beach, SC | Radon Roster"
-description: "Commonwealth Home Inspections (Myrtle Beach, SC) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Commonwealth Home Inspections: Radon Tester, Myrtle Beach SC"
+description: "Commonwealth Home Inspections (Myrtle Beach, SC) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/commonwealth-home-inspections-f3121/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Air Quality Control, Inc.: PA DEP-Certified Radon Mitigator in King Of Prussia, PA | Radon Roster"
-description: "Air Quality Control, Inc. (King Of Prussia, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Air Quality Control: Radon Mitigator in King Of Prussia, PA"
+description: "Air Quality Control, Inc. (King Of Prussia, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/air-quality-control-inc-f1862/
 ---
 

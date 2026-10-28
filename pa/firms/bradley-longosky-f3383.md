@@ -1,6 +1,6 @@
 ---
-title: "Bradley Longosky: PA DEP-Certified Radon Tester in Newtown, PA | Radon Roster"
-description: "Bradley Longosky (Newtown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Bradley Longosky: Radon Tester in Newtown, PA | Radon Roster"
+description: "Bradley Longosky (Newtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/bradley-longosky-f3383/
 ---
 

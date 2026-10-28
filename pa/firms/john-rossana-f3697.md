@@ -1,6 +1,6 @@
 ---
-title: "John Rossana: PA DEP-Certified Radon Mitigator in Morgantown, WV | Radon Roster"
-description: "John Rossana (Morgantown, WV) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "John Rossana: Radon Mitigator in Morgantown, WV"
+description: "John Rossana (Morgantown, WV) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-rossana-f3697/
 ---
 

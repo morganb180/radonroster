@@ -1,6 +1,6 @@
 ---
-title: "Accustar / Air Chek: PA DEP-Certified Radon Laboratory in Mills River, NC | Radon Roster"
-description: "Accustar / Air Chek (Mills River, NC) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Accustar / Air Chek: Radon Lab in Mills River, NC"
+description: "Accustar / Air Chek (Mills River, NC) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/accustar-air-chek-f0007/
 ---
 

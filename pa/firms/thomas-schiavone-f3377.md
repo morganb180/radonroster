@@ -1,6 +1,6 @@
 ---
-title: "Thomas Schiavone: PA DEP-Certified Radon Tester in Stroudsburg, PA | Radon Roster"
-description: "Thomas Schiavone (Stroudsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Thomas Schiavone: Radon Tester in Stroudsburg, PA"
+description: "Thomas Schiavone (Stroudsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-schiavone-f3377/
 ---
 

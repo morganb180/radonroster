@@ -1,6 +1,6 @@
 ---
-title: "Cei/Housemaster Home Inspections: PA DEP-Certified Radon Tester in Cranberry Townsh, PA | Radon Roster"
-description: "Cei/Housemaster Home Inspections (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Cei/Housemaster Home Inspections: Radon, Cranberry Townsh PA"
+description: "Cei/Housemaster Home Inspections (Cranberry Townsh, PA): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/cei-housemaster-home-inspections-f1230/
 ---
 

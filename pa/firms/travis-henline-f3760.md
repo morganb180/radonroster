@@ -1,6 +1,6 @@
 ---
-title: "Travis Henline: PA DEP-Certified Radon Tester in Aspers, PA | Radon Roster"
-description: "Travis Henline (Aspers, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Travis Henline: Radon Tester in Aspers, PA | Radon Roster"
+description: "Travis Henline (Aspers, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/travis-henline-f3760/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "James Makara: PA DEP-Certified Radon Tester in Holland, PA | Radon Roster"
-description: "James Makara (Holland, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "James Makara: Radon Tester in Holland, PA | Radon Roster"
+description: "James Makara (Holland, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-makara-f2416/
 ---
 

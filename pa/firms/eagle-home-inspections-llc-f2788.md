@@ -1,6 +1,6 @@
 ---
-title: "Eagle Home Inspections, LLC: PA DEP-Certified Radon Tester in Jefferson Hills, PA | Radon Roster"
-description: "Eagle Home Inspections, LLC (Jefferson Hills, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Eagle Home Inspections: Radon Tester in Jefferson Hills, PA"
+description: "Eagle Home Inspections, LLC (Jefferson Hills, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/eagle-home-inspections-llc-f2788/
 ---
 

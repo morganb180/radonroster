@@ -1,6 +1,6 @@
 ---
-title: "Rick Aspinwall: PA DEP-Certified Radon Tester in Doylestown, PA | Radon Roster"
-description: "Rick Aspinwall (Doylestown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Rick Aspinwall: Radon Tester in Doylestown, PA"
+description: "Rick Aspinwall (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/rick-aspinwall-f2619/
 ---
 

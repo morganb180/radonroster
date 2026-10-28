@@ -1,6 +1,6 @@
 ---
-title: "Ronald Moraski: PA DEP-Certified Radon Tester in Tafton, PA | Radon Roster"
-description: "Ronald Moraski (Tafton, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Ronald Moraski: Radon Tester in Tafton, PA | Radon Roster"
+description: "Ronald Moraski (Tafton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-moraski-f3236/
 ---
 

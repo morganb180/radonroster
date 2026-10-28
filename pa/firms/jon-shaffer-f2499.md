@@ -1,6 +1,6 @@
 ---
-title: "Jon Shaffer: PA DEP-Certified Radon Mitigator in Pittsburgh, PA | Radon Roster"
-description: "Jon Shaffer (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Jon Shaffer: Radon Mitigator in Pittsburgh, PA"
+description: "Jon Shaffer (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jon-shaffer-f2499/
 ---
 

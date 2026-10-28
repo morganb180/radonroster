@@ -1,6 +1,6 @@
 ---
-title: "Ronald Phillips: PA DEP-Certified Radon Tester in New Castle, PA | Radon Roster"
-description: "Ronald Phillips (New Castle, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Ronald Phillips: Radon Tester in New Castle, PA"
+description: "Ronald Phillips (New Castle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-phillips-f3764/
 ---
 

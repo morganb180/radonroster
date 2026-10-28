@@ -1,6 +1,6 @@
 ---
-title: "Dan Hoffman: PA DEP-Certified Radon Tester in York, PA | Radon Roster"
-description: "Dan Hoffman (York, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Dan Hoffman: Radon Tester in York, PA | Radon Roster"
+description: "Dan Hoffman (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dan-hoffman-f3493/
 ---
 

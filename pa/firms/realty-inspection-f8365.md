@@ -1,6 +1,6 @@
 ---
-title: "Realty Inspection: PA DEP-Certified Radon Tester in Spring Brook Tow, PA | Radon Roster"
-description: "Realty Inspection (Spring Brook Tow, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Realty Inspection: Radon Tester in Spring Brook Tow, PA"
+description: "Realty Inspection (Spring Brook Tow, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/realty-inspection-f8365/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Eai Inc Executive Abatement Industr: PA DEP-Certified Radon Mitigator in Jersey City, NJ | Radon Roster"
-description: "Eai Inc Executive Abatement Industr (Jersey City, NJ) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Eai Inc Executive Abatement Industr: Radon, Jersey City NJ"
+description: "Eai Inc Executive Abatement Industr (Jersey City, NJ): PA DEP-certified for radon mitigation. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/eai-inc-executive-abatement-industr-f3744/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Jordan J. Porreca: PA DEP-Certified Radon Tester in Steubenville, OH | Radon Roster"
-description: "Jordan J. Porreca (Steubenville, OH) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jordan J. Porreca: Radon Tester in Steubenville, OH"
+description: "Jordan J. Porreca (Steubenville, OH) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jordan-j-porreca-f3544/
 ---
 

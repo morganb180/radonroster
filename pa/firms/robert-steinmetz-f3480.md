@@ -1,6 +1,6 @@
 ---
-title: "Robert Steinmetz: PA DEP-Certified Radon Tester in Saylorsburg, PA | Radon Roster"
-description: "Robert Steinmetz (Saylorsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Robert Steinmetz: Radon Tester in Saylorsburg, PA"
+description: "Robert Steinmetz (Saylorsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/robert-steinmetz-f3480/
 ---
 

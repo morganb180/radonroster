@@ -1,6 +1,6 @@
 ---
-title: "Ardinger, Ii, Clifford: PA DEP-Certified Radon Tester in Coraopolis, PA | Radon Roster"
-description: "Ardinger, Ii, Clifford (Coraopolis, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Ardinger, Ii, Clifford: Radon Tester in Coraopolis, PA"
+description: "Ardinger, Ii, Clifford (Coraopolis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/ardinger-ii-clifford-f2890/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Luis Cruz: PA DEP-Certified Radon Mitigator in Northampton, PA | Radon Roster"
-description: "Luis Cruz (Northampton, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Luis Cruz: Radon Mitigator in Northampton, PA | Radon Roster"
+description: "Luis Cruz (Northampton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/luis-cruz-f3712/
 ---
 

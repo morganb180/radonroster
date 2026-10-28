@@ -1,6 +1,6 @@
 ---
-title: "Eric Schuller: PA DEP-Certified Radon Tester in Johnstown, PA | Radon Roster"
-description: "Eric Schuller (Johnstown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Eric Schuller: Radon Tester in Johnstown, PA | Radon Roster"
+description: "Eric Schuller (Johnstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-schuller-f3708/
 ---
 

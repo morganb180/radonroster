@@ -1,6 +1,6 @@
 ---
-title: "Pro-Lab: PA DEP-Certified Radon Laboratory in Weston, FL | Radon Roster"
-description: "Pro-Lab (Weston, FL) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Pro-Lab: Radon Lab in Weston, FL | Radon Roster"
+description: "Pro-Lab (Weston, FL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/pro-lab-f2327/
 ---
 

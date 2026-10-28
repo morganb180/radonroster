@@ -1,6 +1,6 @@
 ---
-title: "William Whiting: PA DEP-Certified Radon Tester in Conneaut Lake, PA | Radon Roster"
-description: "William Whiting (Conneaut Lake, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "William Whiting: Radon Tester in Conneaut Lake, PA"
+description: "William Whiting (Conneaut Lake, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-whiting-f2630/
 ---
 

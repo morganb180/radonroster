@@ -1,6 +1,6 @@
 ---
-title: "Roger Weaver: PA DEP-Certified Radon Tester in Wilmington, DE | Radon Roster"
-description: "Roger Weaver (Wilmington, DE) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Roger Weaver: Radon Tester in Wilmington, DE | Radon Roster"
+description: "Roger Weaver (Wilmington, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/roger-weaver-f2953/
 ---
 

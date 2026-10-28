@@ -1,6 +1,6 @@
 ---
-title: "Dale Metzger: PA DEP-Certified Radon Mitigator in Macungie, PA | Radon Roster"
-description: "Dale Metzger (Macungie, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Dale Metzger: Radon Mitigator in Macungie, PA | Radon Roster"
+description: "Dale Metzger (Macungie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dale-metzger-f2921/
 ---
 

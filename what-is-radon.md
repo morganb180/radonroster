@@ -1,5 +1,5 @@
 ---
-title: "What Is Radon? A Pennsylvania Homeowner's Guide | Radon Roster"
+title: "What Is Radon? A PA Homeowner's Guide | Radon Roster"
 description: "Radon is a natural radioactive gas and a leading cause of lung cancer. Learn how it enters PA homes and what EPA and PA DEP recommend."
 canonical: https://radonroster.com/what-is-radon/
 ---

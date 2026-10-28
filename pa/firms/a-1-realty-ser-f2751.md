@@ -1,6 +1,6 @@
 ---
-title: "A-1 Realty Ser: PA DEP-Certified Radon Tester in Kutztown, PA | Radon Roster"
-description: "A-1 Realty Ser (Kutztown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "A-1 Realty Ser: Radon Tester in Kutztown, PA | Radon Roster"
+description: "A-1 Realty Ser (Kutztown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/a-1-realty-ser-f2751/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Prioritylab LLC: PA DEP-Certified Radon Laboratory in Carmel, IN | Radon Roster"
-description: "Prioritylab LLC (Carmel, IN) is on PA DEP's certified radon list for laboratory. DEP cert IDs, contact details and a free quote request."
+title: "Prioritylab LLC: Radon Lab in Carmel, IN | Radon Roster"
+description: "Prioritylab LLC (Carmel, IN) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/prioritylab-llc-f3452/
 ---
 

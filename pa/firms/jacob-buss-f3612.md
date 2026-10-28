@@ -1,6 +1,6 @@
 ---
-title: "Jacob Buss: PA DEP-Certified Radon Tester in Charlottesville, VA | Radon Roster"
-description: "Jacob Buss (Charlottesville, VA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jacob Buss: Radon Tester in Charlottesville, VA"
+description: "Jacob Buss (Charlottesville, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jacob-buss-f3612/
 ---
 

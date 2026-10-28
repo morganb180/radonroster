@@ -1,6 +1,6 @@
 ---
-title: "Meyer, Jr., Robert: PA DEP-Certified Radon Tester & Mitigator in Wellsville, PA | Radon Roster"
-description: "Meyer, Jr., Robert (Wellsville, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Meyer, Jr., Robert: Radon Tester/Mitigator in Wellsville, PA"
+description: "Meyer, Jr., Robert (Wellsville, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/meyer-jr-robert-f1800/
 ---
 

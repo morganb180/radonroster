@@ -1,6 +1,6 @@
 ---
-title: "The Radon Bros: PA DEP-Certified Radon Tester & Mitigator in Perkiomenville, PA | Radon Roster"
-description: "The Radon Bros (Perkiomenville, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "The Radon Bros: Radon Tester/Mitigator in Perkiomenville, PA"
+description: "The Radon Bros (Perkiomenville, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/the-radon-bros-f2749/
 ---
 

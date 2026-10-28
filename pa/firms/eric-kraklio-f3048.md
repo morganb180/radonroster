@@ -1,6 +1,6 @@
 ---
-title: "Eric Kraklio: PA DEP-Certified Radon Tester in Pittston, PA | Radon Roster"
-description: "Eric Kraklio (Pittston, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Eric Kraklio: Radon Tester in Pittston, PA | Radon Roster"
+description: "Eric Kraklio (Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-kraklio-f3048/
 ---
 

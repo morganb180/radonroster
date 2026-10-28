@@ -1,6 +1,6 @@
 ---
-title: "Protect Environmental, LLC: PA DEP-Certified Radon Tester & Mitigator in Louisville, KY | Radon Roster"
-description: "Protect Environmental, LLC (Louisville, KY) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Protect Environmental: Radon Tester/Mitigator, Louisville KY"
+description: "Protect Environmental, LLC (Louisville, KY): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/protect-environmental-llc-f3602/
 ---
 

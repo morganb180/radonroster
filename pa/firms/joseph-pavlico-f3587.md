@@ -1,6 +1,6 @@
 ---
-title: "Joseph Pavlico: PA DEP-Certified Radon Tester in White Haven, PA | Radon Roster"
-description: "Joseph Pavlico (White Haven, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joseph Pavlico: Radon Tester in White Haven, PA"
+description: "Joseph Pavlico (White Haven, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-pavlico-f3587/
 ---
 

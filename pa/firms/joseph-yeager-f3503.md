@@ -1,6 +1,6 @@
 ---
-title: "Joseph Yeager: PA DEP-Certified Radon Tester in Philadelphia, PA | Radon Roster"
-description: "Joseph Yeager (Philadelphia, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joseph Yeager: Radon Tester in Philadelphia, PA"
+description: "Joseph Yeager (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-yeager-f3503/
 ---
 

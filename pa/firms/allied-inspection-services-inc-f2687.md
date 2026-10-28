@@ -1,6 +1,6 @@
 ---
-title: "Allied Inspection Services, Inc.: PA DEP-Certified Radon Tester in Macungie, PA | Radon Roster"
-description: "Allied Inspection Services, Inc. (Macungie, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Allied Inspection Services, Inc.: Radon Tester, Macungie PA"
+description: "Allied Inspection Services, Inc. (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/allied-inspection-services-inc-f2687/
 ---
 

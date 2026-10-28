@@ -1,6 +1,6 @@
 ---
-title: "John H. Fleenor: PA DEP-Certified Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "John H. Fleenor (Pittsburgh, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "John H. Fleenor: Radon Tester in Pittsburgh, PA"
+description: "John H. Fleenor (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-h-fleenor-f2920/
 ---
 

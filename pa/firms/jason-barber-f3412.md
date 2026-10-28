@@ -1,6 +1,6 @@
 ---
-title: "Jason Barber: PA DEP-Certified Radon Tester in Baden, PA | Radon Roster"
-description: "Jason Barber (Baden, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jason Barber: Radon Tester in Baden, PA | Radon Roster"
+description: "Jason Barber (Baden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-barber-f3412/
 ---
 

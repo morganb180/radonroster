@@ -1,6 +1,6 @@
 ---
-title: "Rhis, Inc.: PA DEP-Certified Radon Tester & Mitigator in Wilmington, DE | Radon Roster"
-description: "Rhis, Inc. (Wilmington, DE) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Rhis, Inc.: Radon Testing & Mitigation in Wilmington, DE"
+description: "Rhis, Inc. (Wilmington, DE) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/rhis-inc-f1882/
 ---
 

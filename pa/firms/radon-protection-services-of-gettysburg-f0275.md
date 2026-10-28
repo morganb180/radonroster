@@ -1,6 +1,6 @@
 ---
-title: "Radon Protection Services Of Gettysburg: PA DEP-Certified Radon Tester & Mitigator in Gettysburg, PA | Radon Roster"
-description: "Radon Protection Services Of Gettysburg (Gettysburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Radon Protection Services Of Gettysburg - Gettysburg, PA"
+description: "Radon Protection Services Of Gettysburg (Gettysburg, PA): PA DEP-certified radon mitigation and testing. DEP cert IDs, contacts and free quotes."
 canonical: https://radonroster.com/pa/firms/radon-protection-services-of-gettysburg-f0275/
 ---
 

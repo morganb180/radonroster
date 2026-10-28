@@ -1,6 +1,6 @@
 ---
-title: "Daniel Keogh: PA DEP-Certified Radon Tester in Phoenixville, PA | Radon Roster"
-description: "Daniel Keogh (Phoenixville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Daniel Keogh: Radon Tester in Phoenixville, PA"
+description: "Daniel Keogh (Phoenixville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/daniel-keogh-f2109/
 ---
 

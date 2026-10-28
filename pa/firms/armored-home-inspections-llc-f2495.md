@@ -1,6 +1,6 @@
 ---
-title: "Armored Home Inspections, LLC: PA DEP-Certified Radon Tester in Pottstown, PA | Radon Roster"
-description: "Armored Home Inspections, LLC (Pottstown, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Armored Home Inspections, LLC: Radon Tester in Pottstown, PA"
+description: "Armored Home Inspections, LLC (Pottstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/armored-home-inspections-llc-f2495/
 ---
 

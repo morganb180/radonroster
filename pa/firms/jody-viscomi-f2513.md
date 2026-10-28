@@ -1,6 +1,6 @@
 ---
-title: "Jody Viscomi: PA DEP-Certified Radon Tester in Scranton, PA | Radon Roster"
-description: "Jody Viscomi (Scranton, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jody Viscomi: Radon Tester in Scranton, PA | Radon Roster"
+description: "Jody Viscomi (Scranton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jody-viscomi-f2513/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Andrew Fritsch: PA DEP-Certified Radon Mitigator in Ephrata, PA | Radon Roster"
-description: "Andrew Fritsch (Ephrata, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Andrew Fritsch: Radon Mitigator in Ephrata, PA"
+description: "Andrew Fritsch (Ephrata, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/andrew-fritsch-f3541/
 ---
 

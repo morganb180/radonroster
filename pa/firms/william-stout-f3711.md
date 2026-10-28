@@ -1,6 +1,6 @@
 ---
-title: "William Stout: PA DEP-Certified Radon Tester in Powhatan, VA | Radon Roster"
-description: "William Stout (Powhatan, VA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "William Stout: Radon Tester in Powhatan, VA | Radon Roster"
+description: "William Stout (Powhatan, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-stout-f3711/
 ---
 

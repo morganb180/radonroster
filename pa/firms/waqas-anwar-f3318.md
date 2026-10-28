@@ -1,6 +1,6 @@
 ---
-title: "Waqas Anwar: PA DEP-Certified Radon Mitigator in Allentown, PA | Radon Roster"
-description: "Waqas Anwar (Allentown, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Waqas Anwar: Radon Mitigator in Allentown, PA | Radon Roster"
+description: "Waqas Anwar (Allentown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/waqas-anwar-f3318/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stephen J. Fiorelli: PA DEP-Certified Radon Tester in Ridley Park, PA | Radon Roster"
-description: "Stephen J. Fiorelli (Ridley Park, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Stephen J. Fiorelli: Radon Tester in Ridley Park, PA"
+description: "Stephen J. Fiorelli (Ridley Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-j-fiorelli-f1609/
 ---
 

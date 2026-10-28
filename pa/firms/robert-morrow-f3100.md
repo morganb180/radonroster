@@ -1,6 +1,6 @@
 ---
-title: "Robert Morrow: PA DEP-Certified Radon Tester in Templeton, PA | Radon Roster"
-description: "Robert Morrow (Templeton, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Robert Morrow: Radon Tester in Templeton, PA | Radon Roster"
+description: "Robert Morrow (Templeton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/robert-morrow-f3100/
 ---
 

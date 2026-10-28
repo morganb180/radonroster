@@ -1,6 +1,6 @@
 ---
-title: "Pest Blaster LLC: PA DEP-Certified Radon Tester in Morrisville, PA | Radon Roster"
-description: "Pest Blaster LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Pest Blaster LLC: Radon Tester in Morrisville, PA"
+description: "Pest Blaster LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/pest-blaster-llc-f2875/
 ---
 

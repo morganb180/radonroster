@@ -1,6 +1,6 @@
 ---
 title: "About Our Data and Disclaimer | Radon Roster"
-description: "Where our radon contractor listings and radon level data come from, and how to request corrections."
+description: "Where Radon Roster's radon contractor listings and radon level data come from, what the disclaimer covers, and how to request a correction or removal."
 canonical: https://radonroster.com/about-our-data/
 ---
 

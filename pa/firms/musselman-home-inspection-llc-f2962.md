@@ -1,6 +1,6 @@
 ---
-title: "Musselman Home Inspection LLC: PA DEP-Certified Radon Tester in Harleysville, PA | Radon Roster"
-description: "Musselman Home Inspection LLC (Harleysville, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Musselman Home Inspection LLC: Radon Tester, Harleysville PA"
+description: "Musselman Home Inspection LLC (Harleysville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/musselman-home-inspection-llc-f2962/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Find a Radon Expert in Scranton, PA: Testing, Mitigation & Cost Guide | Radon Roster"
-description: "Scranton, PA radon guide: 20% of 9,215 basement tests at or above 4 pCi/L (median 1.8). How to verify DEP certification, questions to ask, typical costs and real estate tips."
+title: "Radon Expert in Scranton, PA: Hiring, Cost & Testing Guide"
+description: "Scranton, PA radon guide: 20% of 9,215 basement tests at or above 4 pCi/L (median 1.8). How to verify DEP certification, costs and real estate tips."
 canonical: https://radonroster.com/pa/city/scranton-pa/radon-guide/
 ---
 
@@ -222,3 +222,33 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**Do I need a radon test when buying a home in Pennsylvania?**
+
+It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
+
+**How long does a radon test take?**
+
+Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
+
+**How do I find a certified radon expert in Scranton, PA?**
+
+Use a firm on PA DEP's certified lists. Radon Roster lists 2 DEP-certified firms based in Scranton and 7 more in Lackawanna County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
+
+**Should I test if Scranton has lower radon than other PA towns?**
+
+Yes. Even here, 1,814 basement tests in DEP's records were at or above 4 pCi/L. EPA recommends every home be tested.
+
+**Is radon common in Scranton?**
+
+In PA DEP's test records, 20% of 9,215 basement tests with a Scranton address were at or above 4 pCi/L (median 1.8 pCi/L). Results vary house to house, so only a test tells you your level.
+
+**How much does radon mitigation cost in Scranton?**
+
+We don't have Scranton-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
+
+More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free and low-cost test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Radon mitigation in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
+
+Nearby city guides: [Norristown](https://radonroster.com/pa/city/norristown-pa/radon-guide/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/) · [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/radon-guide/)

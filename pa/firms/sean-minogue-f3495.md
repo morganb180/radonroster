@@ -1,6 +1,6 @@
 ---
-title: "Sean Minogue: PA DEP-Certified Radon Tester in Dingmans Ferry, PA | Radon Roster"
-description: "Sean Minogue (Dingmans Ferry, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Sean Minogue: Radon Tester in Dingmans Ferry, PA"
+description: "Sean Minogue (Dingmans Ferry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/sean-minogue-f3495/
 ---
 

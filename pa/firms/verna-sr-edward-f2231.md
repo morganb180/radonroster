@@ -1,6 +1,6 @@
 ---
-title: "Verna, Sr., Edward: PA DEP-Certified Radon Mitigator in Lebanon, PA | Radon Roster"
-description: "Verna, Sr., Edward (Lebanon, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Verna, Sr., Edward: Radon Mitigator in Lebanon, PA"
+description: "Verna, Sr., Edward (Lebanon, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/verna-sr-edward-f2231/
 ---
 

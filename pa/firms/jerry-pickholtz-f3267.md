@@ -1,6 +1,6 @@
 ---
-title: "Jerry Pickholtz: PA DEP-Certified Radon Tester in Westminster, MD | Radon Roster"
-description: "Jerry Pickholtz (Westminster, MD) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jerry Pickholtz: Radon Tester in Westminster, MD"
+description: "Jerry Pickholtz (Westminster, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jerry-pickholtz-f3267/
 ---
 

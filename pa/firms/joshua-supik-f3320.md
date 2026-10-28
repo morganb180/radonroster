@@ -1,6 +1,6 @@
 ---
-title: "Joshua Supik: PA DEP-Certified Radon Tester in Cabot, PA | Radon Roster"
-description: "Joshua Supik (Cabot, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joshua Supik: Radon Tester in Cabot, PA | Radon Roster"
+description: "Joshua Supik (Cabot, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-supik-f3320/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Accurate Radon Control Inc: PA DEP-Certified Radon Tester & Mitigator in Green Lane, PA | Radon Roster"
-description: "Accurate Radon Control Inc (Green Lane, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Accurate Radon Control: Radon, Green Lane PA"
+description: "Accurate Radon Control Inc (Green Lane, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/accurate-radon-control-inc-f2112/
 ---
 

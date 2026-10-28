@@ -1,6 +1,6 @@
 ---
-title: "Affordable Radon Mitigation: PA DEP-Certified Radon Mitigator in Scott Township, PA | Radon Roster"
-description: "Affordable Radon Mitigation (Scott Township, PA) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Affordable Radon Mitigation: Radon, Scott Township PA"
+description: "Affordable Radon Mitigation (Scott Township, PA): PA DEP-certified for radon mitigation. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/affordable-radon-mitigation-f1716/
 ---
 

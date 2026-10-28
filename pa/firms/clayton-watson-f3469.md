@@ -1,6 +1,6 @@
 ---
-title: "Clayton Watson: PA DEP-Certified Radon Tester in Alum Bank, PA | Radon Roster"
-description: "Clayton Watson (Alum Bank, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Clayton Watson: Radon Tester in Alum Bank, PA | Radon Roster"
+description: "Clayton Watson (Alum Bank, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/clayton-watson-f3469/
 ---
 

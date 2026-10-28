@@ -1,6 +1,6 @@
 ---
-title: "Alexander Martin: PA DEP-Certified Radon Tester & Mitigator in New Florence, PA | Radon Roster"
-description: "Alexander Martin (New Florence, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Alexander Martin: Radon Tester/Mitigator in New Florence, PA"
+description: "Alexander Martin (New Florence, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/alexander-martin-f3631/
 ---
 

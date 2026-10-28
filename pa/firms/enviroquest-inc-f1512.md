@@ -1,6 +1,6 @@
 ---
-title: "Enviroquest, Inc.: PA DEP-Certified Radon Tester & Mitigator in Harrisburg, PA | Radon Roster"
-description: "Enviroquest, Inc. (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Enviroquest, Inc.: Radon Tester/Mitigator in Harrisburg, PA"
+description: "Enviroquest, Inc. (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
 canonical: https://radonroster.com/pa/firms/enviroquest-inc-f1512/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Obar Systems, Inc.: PA DEP-Certified Radon Mitigator in Newfoundland, NJ | Radon Roster"
-description: "Obar Systems, Inc. (Newfoundland, NJ) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Obar Systems, Inc.: Radon Mitigator in Newfoundland, NJ"
+description: "Obar Systems, Inc. (Newfoundland, NJ) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/obar-systems-inc-f3648/
 ---
 

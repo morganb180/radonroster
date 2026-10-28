@@ -1,6 +1,6 @@
 ---
-title: "Heritage Home Inspectors: PA DEP-Certified Radon Tester in Canonsburg, PA | Radon Roster"
-description: "Heritage Home Inspectors (Canonsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Heritage Home Inspectors: Radon Tester in Canonsburg, PA"
+description: "Heritage Home Inspectors (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/heritage-home-inspectors-f3335/
 ---
 

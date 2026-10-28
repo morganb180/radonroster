@@ -1,6 +1,6 @@
 ---
-title: "Radon Shield LLC: PA DEP-Certified Radon Mitigator in Trenton, NJ | Radon Roster"
-description: "Radon Shield LLC (Trenton, NJ) is on PA DEP's certified radon list for mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Radon Shield LLC: Radon Mitigator in Trenton, NJ"
+description: "Radon Shield LLC (Trenton, NJ) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/radon-shield-llc-f3055/
 ---
 

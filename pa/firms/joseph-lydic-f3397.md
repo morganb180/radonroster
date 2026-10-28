@@ -1,6 +1,6 @@
 ---
-title: "Joseph Lydic: PA DEP-Certified Radon Tester in Canonsburg, PA | Radon Roster"
-description: "Joseph Lydic (Canonsburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Joseph Lydic: Radon Tester in Canonsburg, PA | Radon Roster"
+description: "Joseph Lydic (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-lydic-f3397/
 ---
 

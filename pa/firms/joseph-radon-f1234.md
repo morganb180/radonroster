@@ -1,6 +1,6 @@
 ---
-title: "Joseph Radon: PA DEP-Certified Radon Tester & Mitigator in Harrisburg, PA | Radon Roster"
-description: "Joseph Radon (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Joseph Radon: Radon Testing & Mitigation in Harrisburg, PA"
+description: "Joseph Radon (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-radon-f1234/
 ---
 

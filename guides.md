@@ -1,26 +1,28 @@
 ---
 title: "Radon Guides for Pennsylvania Homeowners | Radon Roster"
-description: "Plain-language radon guides: what radon is, testing vs mitigation, typical costs, real estate disclosure, and local hiring guides for Pennsylvania cities."
+description: "Radon guides for PA homeowners: what radon is, testing vs mitigation, mitigation cost, free test kits, a mitigation overview and local city hiring guides."
 canonical: https://radonroster.com/guides/
 ---
 
 # Radon guides
 
-[## What is radon?
+[What is radon?How radon gets into Pennsylvania homes and why it matters.](https://radonroster.com/what-is-radon/)
 
-How radon gets into Pennsylvania homes and why it matters.](https://radonroster.com/what-is-radon/)[## Radon testing vs mitigation
+[Radon testing vs mitigationShort-term vs long-term tests, and when to fix.](https://radonroster.com/testing-vs-mitigation/)
 
-Short-term vs long-term tests, and when to fix.](https://radonroster.com/testing-vs-mitigation/)[## Radon mitigation cost
+[Radon mitigation costPA DEP's typical range, EPA cost by method, and an estimate tool.](https://radonroster.com/radon-mitigation-cost/)
 
-Typical national ranges and an estimate tool.](https://radonroster.com/radon-mitigation-cost/)[## PA real estate radon disclosure
+[Radon mitigation in PennsylvaniaHow a system works, DEP certification and the follow-up test.](https://radonroster.com/radon-mitigation-pennsylvania/)
 
-What sellers disclose and how real estate tests work.](https://radonroster.com/pa/real-estate-radon-disclosure/)[## Radon levels by county
+[Free radon test kits in PennsylvaniaDEP and American Lung Association kits, plus low-cost options.](https://radonroster.com/free-radon-test-kit-pennsylvania/)
 
-PA DEP test statistics for all 67 counties.](https://radonroster.com/pa/radon-levels-by-county/)[## Pennsylvania radon map
+[PA real estate radon disclosureWhat sellers disclose and how real estate tests work.](https://radonroster.com/pa/real-estate-radon-disclosure/)
 
-Interactive county map of DEP test results. Free to embed.](https://radonroster.com/pa/radon-map/)[## 2026 radon data report
+[Radon levels by countyPA DEP test statistics for all 67 counties.](https://radonroster.com/pa/radon-levels-by-county/)
 
-Which Pennsylvania counties test highest for radon.](https://radonroster.com/pa/radon-data-report-2026/)
+[Pennsylvania radon mapInteractive county map of DEP test results. Free to embed.](https://radonroster.com/pa/radon-map/)
+
+[2026 radon data reportWhich Pennsylvania counties test highest for radon.](https://radonroster.com/pa/radon-data-report-2026/)
 
 ## Local hiring guides
 
@@ -29,19 +31,26 @@ Which Pennsylvania counties test highest for radon.](https://radonroster.com/pa/
 * [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/radon-guide/)
 * [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/radon-guide/)
 * [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/radon-guide/)
+* [Carlisle](https://radonroster.com/pa/city/carlisle-pa/radon-guide/)
 * [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/radon-guide/)
+* [Columbia](https://radonroster.com/pa/city/columbia-pa/radon-guide/)
 * [Cranberry Township](https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/)
+* [Downingtown](https://radonroster.com/pa/city/downingtown-pa/radon-guide/)
 * [Doylestown](https://radonroster.com/pa/city/doylestown-pa/radon-guide/)
 * [Easton](https://radonroster.com/pa/city/easton-pa/radon-guide/)
+* [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/radon-guide/)
+* [Ephrata](https://radonroster.com/pa/city/ephrata-pa/radon-guide/)
 * [Erie](https://radonroster.com/pa/city/erie-pa/radon-guide/)
 * [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/)
 * [Greensburg](https://radonroster.com/pa/city/greensburg-pa/radon-guide/)
+* [Hanover](https://radonroster.com/pa/city/hanover-pa/radon-guide/)
 * [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/radon-guide/)
 * [Hershey](https://radonroster.com/pa/city/hershey-pa/radon-guide/)
 * [Johnstown](https://radonroster.com/pa/city/johnstown-pa/radon-guide/)
 * [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/)
 * [Lancaster](https://radonroster.com/pa/city/lancaster-pa/radon-guide/)
 * [Lansdale](https://radonroster.com/pa/city/lansdale-pa/radon-guide/)
+* [Lebanon](https://radonroster.com/pa/city/lebanon-pa/radon-guide/)
 * [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/radon-guide/)
 * [Media](https://radonroster.com/pa/city/media-pa/radon-guide/)
 * [Norristown](https://radonroster.com/pa/city/norristown-pa/radon-guide/)

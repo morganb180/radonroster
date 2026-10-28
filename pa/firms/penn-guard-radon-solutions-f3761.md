@@ -1,6 +1,6 @@
 ---
-title: "Penn Guard Radon Solutions: PA DEP-Certified Radon Tester & Mitigator in Selinsgrove, PA | Radon Roster"
-description: "Penn Guard Radon Solutions (Selinsgrove, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Penn Guard Radon Solutions: Radon, Selinsgrove PA"
+description: "Penn Guard Radon Solutions (Selinsgrove, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
 canonical: https://radonroster.com/pa/firms/penn-guard-radon-solutions-f3761/
 ---
 

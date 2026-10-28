@@ -1,6 +1,6 @@
 ---
 title: "PA DEP-Certified Radon Badge for Your Website | Radon Roster"
-description: "Free badges for PA DEP-certified radon testers, mitigators and labs. They show your certification type and link to your listing so homeowners can verify it."
+description: "Free badges for PA DEP-certified radon testers, mitigators and labs. Each shows your certification type and links to your listing for homeowners to verify."
 canonical: https://radonroster.com/for-contractors/badge/
 ---
 

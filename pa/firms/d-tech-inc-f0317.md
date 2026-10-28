@@ -1,6 +1,6 @@
 ---
-title: "D-Tech, Inc.: PA DEP-Certified Radon Tester in Blue Bell, PA | Radon Roster"
-description: "D-Tech, Inc. (Blue Bell, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "D-Tech, Inc.: Radon Tester in Blue Bell, PA | Radon Roster"
+description: "D-Tech, Inc. (Blue Bell, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/d-tech-inc-f0317/
 ---
 

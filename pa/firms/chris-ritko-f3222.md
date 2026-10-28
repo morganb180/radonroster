@@ -1,6 +1,6 @@
 ---
-title: "Chris Ritko: PA DEP-Certified Radon Tester in Winter Garden, FL | Radon Roster"
-description: "Chris Ritko (Winter Garden, FL) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Chris Ritko: Radon Tester in Winter Garden, FL"
+description: "Chris Ritko (Winter Garden, FL) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/chris-ritko-f3222/
 ---
 

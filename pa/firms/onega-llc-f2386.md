@@ -1,6 +1,6 @@
 ---
-title: "Onega LLC: PA DEP-Certified Radon Tester in Harmony, PA | Radon Roster"
-description: "Onega LLC (Harmony, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Onega LLC (F2386): Radon Tester in Harmony, PA"
+description: "Onega LLC (100 Rylie Dr, Harmony, PA, F2386) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/onega-llc-f2386/
 ---
 

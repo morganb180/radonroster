@@ -1,6 +1,6 @@
 ---
-title: "Dewey Kerns: PA DEP-Certified Radon Tester in Effort, PA | Radon Roster"
-description: "Dewey Kerns (Effort, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Dewey Kerns: Radon Tester in Effort, PA | Radon Roster"
+description: "Dewey Kerns (Effort, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/dewey-kerns-f3005/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Alan Shirley: PA DEP-Certified Radon Tester in Shippensburg, PA | Radon Roster"
-description: "Alan Shirley (Shippensburg, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Alan Shirley: Radon Tester in Shippensburg, PA"
+description: "Alan Shirley (Shippensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/alan-shirley-f3462/
 ---
 

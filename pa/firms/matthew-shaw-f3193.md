@@ -1,6 +1,6 @@
 ---
-title: "Matthew Shaw: PA DEP-Certified Radon Tester & Mitigator in Pittsfield, PA | Radon Roster"
-description: "Matthew Shaw (Pittsfield, PA) is on PA DEP's certified radon list for mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Matthew Shaw: Radon Testing & Mitigation in Pittsfield, PA"
+description: "Matthew Shaw (Pittsfield, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-shaw-f3193/
 ---
 

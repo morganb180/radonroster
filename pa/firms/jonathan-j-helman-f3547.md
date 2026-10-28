@@ -1,6 +1,6 @@
 ---
-title: "Jonathan J Helman: PA DEP-Certified Radon Tester in Rostraver Twp, PA | Radon Roster"
-description: "Jonathan J Helman (Rostraver Twp, PA) is on PA DEP's certified radon list for testing. DEP cert IDs, contact details and a free quote request."
+title: "Jonathan J Helman: Radon Tester in Rostraver Twp, PA"
+description: "Jonathan J Helman (Rostraver Twp, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
 canonical: https://radonroster.com/pa/firms/jonathan-j-helman-f3547/
 ---
 

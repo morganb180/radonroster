@@ -1,6 +1,6 @@
 ---
-title: "Radon Mitigation & Testing in Bedford County, PA: 1 DEP-Certified Firm | Radon Roster"
-description: "1 PA DEP-certified radon firms in Bedford County: 55% of basement tests at or above 4 pCi/L. Contacts, DEP cert IDs and local data."
+title: "Radon Testing & Mitigation in Bedford County, PA"
+description: "1 DEP-certified radon firm in Bedford County, PA. 55% of 4,040 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
 canonical: https://radonroster.com/pa/county/bedford/
 ---
 
@@ -106,3 +106,17 @@ $800–$1,200
 PA DEP: most installs. No local price data; quotes vary by foundation type.
 
 [Estimate your cost →](https://radonroster.com/radon-mitigation-cost/)
+
+## Frequently asked questions (added 2026-10-28)
+
+**How many certified radon mitigation firms are in Bedford County?**
+
+0 DEP-certified firms offering mitigation and 1 certified radon firms in total list a business address in Bedford County (PA DEP lists dated 10/01/2026). Firms from neighboring counties may also serve the area.
+
+**What share of Bedford County radon tests are high?**
+
+55% of 4,040 basement tests in PA DEP's records were at or above EPA's 4 pCi/L action level, with a median of 4.7 pCi/L.
+
+**How much does radon mitigation cost in Bedford County?**
+
+We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.
