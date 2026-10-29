@@ -1,0 +1,1041 @@
+{
+  "$comment": "Agent-facing feeds for Radon Roster",
+  "site": "radon",
+  "name": "Radon Roster",
+  "url": "https://radonroster.com/",
+  "description": "Public listing data for PA DEP-certified radon testers, mitigators and labs.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-11",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf",
+        "agency": "Pennsylvania Department of Environmental Protection (PA DEP)",
+        "retrieved": "2026-10-11",
+        "firms": 100
+      },
+      {
+        "url": "https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf",
+        "agency": "Pennsylvania Department of Environmental Protection (PA DEP)",
+        "retrieved": "2026-10-11",
+        "firms": 331
+      },
+      {
+        "url": "https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf",
+        "agency": "Pennsylvania Department of Environmental Protection (PA DEP)",
+        "retrieved": "2026-10-11",
+        "firms": 29
+      },
+      {
+        "url": "https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf",
+        "agency": "Pennsylvania Department of Environmental Protection (PA DEP)",
+        "retrieved": "2026-10-11",
+        "firms": 18
+      }
+    ]
+  },
+  "attribution": "Listing data from Radon Roster (https://radonroster.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 413,
+    "counties": 67,
+    "cities": 40,
+    "states": 0
+  },
+  "services": [
+    {
+      "code": "testing",
+      "label": "Radon testing"
+    },
+    {
+      "code": "mitigation",
+      "label": "Radon mitigation"
+    },
+    {
+      "code": "lab",
+      "label": "Radon laboratory"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://radonroster.com/api/firms.json",
+    "county": "https://radonroster.com/api/county/{slug}.json",
+    "city": "https://radonroster.com/api/city/{slug}.json",
+    "state": null,
+    "search": "https://leads.radonroster.com/api/firms?site=radon",
+    "quote": "https://leads.radonroster.com/api/agent/quote?site=radon",
+    "mcp": "https://leads.radonroster.com/mcp?site=radon",
+    "openapi": "https://radonroster.com/openapi.json",
+    "api_catalog": "https://radonroster.com/.well-known/api-catalog"
+  },
+  "search_by_zip": true,
+  "quote_requests": true,
+  "states": [],
+  "counties": [
+    {
+      "slug": "adams",
+      "name": "Radon testing & mitigation in Adams County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/adams/",
+      "feed": "https://radonroster.com/api/county/adams.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "allegheny",
+      "name": "Radon testing & mitigation in Allegheny County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/allegheny/",
+      "feed": "https://radonroster.com/api/county/allegheny.json",
+      "count": 44,
+      "local_count": 44
+    },
+    {
+      "slug": "armstrong",
+      "name": "Radon testing & mitigation in Armstrong County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/armstrong/",
+      "feed": "https://radonroster.com/api/county/armstrong.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "beaver",
+      "name": "Radon testing & mitigation in Beaver County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/beaver/",
+      "feed": "https://radonroster.com/api/county/beaver.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "bedford",
+      "name": "Radon testing & mitigation in Bedford County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/bedford/",
+      "feed": "https://radonroster.com/api/county/bedford.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "berks",
+      "name": "Radon testing & mitigation in Berks County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/berks/",
+      "feed": "https://radonroster.com/api/county/berks.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "blair",
+      "name": "Radon testing & mitigation in Blair County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/blair/",
+      "feed": "https://radonroster.com/api/county/blair.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "bradford",
+      "name": "Radon testing & mitigation in Bradford County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/bradford/",
+      "feed": "https://radonroster.com/api/county/bradford.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "bucks",
+      "name": "Radon testing & mitigation in Bucks County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/bucks/",
+      "feed": "https://radonroster.com/api/county/bucks.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "butler",
+      "name": "Radon testing & mitigation in Butler County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/butler/",
+      "feed": "https://radonroster.com/api/county/butler.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "cambria",
+      "name": "Radon testing & mitigation in Cambria County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/cambria/",
+      "feed": "https://radonroster.com/api/county/cambria.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "cameron",
+      "name": "Radon testing & mitigation in Cameron County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/cameron/",
+      "feed": "https://radonroster.com/api/county/cameron.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "carbon",
+      "name": "Radon testing & mitigation in Carbon County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/carbon/",
+      "feed": "https://radonroster.com/api/county/carbon.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "centre",
+      "name": "Radon testing & mitigation in Centre County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/centre/",
+      "feed": "https://radonroster.com/api/county/centre.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "chester",
+      "name": "Radon testing & mitigation in Chester County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/chester/",
+      "feed": "https://radonroster.com/api/county/chester.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "clarion",
+      "name": "Radon testing & mitigation in Clarion County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/clarion/",
+      "feed": "https://radonroster.com/api/county/clarion.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "clearfield",
+      "name": "Radon testing & mitigation in Clearfield County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/clearfield/",
+      "feed": "https://radonroster.com/api/county/clearfield.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "clinton",
+      "name": "Radon testing & mitigation in Clinton County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/clinton/",
+      "feed": "https://radonroster.com/api/county/clinton.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "columbia",
+      "name": "Radon testing & mitigation in Columbia County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/columbia/",
+      "feed": "https://radonroster.com/api/county/columbia.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "crawford",
+      "name": "Radon testing & mitigation in Crawford County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/crawford/",
+      "feed": "https://radonroster.com/api/county/crawford.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "cumberland",
+      "name": "Radon testing & mitigation in Cumberland County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/cumberland/",
+      "feed": "https://radonroster.com/api/county/cumberland.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "dauphin",
+      "name": "Radon testing & mitigation in Dauphin County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/dauphin/",
+      "feed": "https://radonroster.com/api/county/dauphin.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "delaware",
+      "name": "Radon testing & mitigation in Delaware County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/delaware/",
+      "feed": "https://radonroster.com/api/county/delaware.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "elk",
+      "name": "Radon testing & mitigation in Elk County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/elk/",
+      "feed": "https://radonroster.com/api/county/elk.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "erie",
+      "name": "Radon testing & mitigation in Erie County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/erie/",
+      "feed": "https://radonroster.com/api/county/erie.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fayette",
+      "name": "Radon testing & mitigation in Fayette County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/fayette/",
+      "feed": "https://radonroster.com/api/county/fayette.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "forest",
+      "name": "Radon testing & mitigation in Forest County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/forest/",
+      "feed": "https://radonroster.com/api/county/forest.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "franklin",
+      "name": "Radon testing & mitigation in Franklin County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/franklin/",
+      "feed": "https://radonroster.com/api/county/franklin.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fulton",
+      "name": "Radon testing & mitigation in Fulton County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/fulton/",
+      "feed": "https://radonroster.com/api/county/fulton.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "greene",
+      "name": "Radon testing & mitigation in Greene County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/greene/",
+      "feed": "https://radonroster.com/api/county/greene.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "huntingdon",
+      "name": "Radon testing & mitigation in Huntingdon County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/huntingdon/",
+      "feed": "https://radonroster.com/api/county/huntingdon.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "indiana",
+      "name": "Radon testing & mitigation in Indiana County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/indiana/",
+      "feed": "https://radonroster.com/api/county/indiana.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "jefferson",
+      "name": "Radon testing & mitigation in Jefferson County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/jefferson/",
+      "feed": "https://radonroster.com/api/county/jefferson.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "juniata",
+      "name": "Radon testing & mitigation in Juniata County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/juniata/",
+      "feed": "https://radonroster.com/api/county/juniata.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "lackawanna",
+      "name": "Radon testing & mitigation in Lackawanna County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lackawanna/",
+      "feed": "https://radonroster.com/api/county/lackawanna.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "lancaster",
+      "name": "Radon testing & mitigation in Lancaster County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lancaster/",
+      "feed": "https://radonroster.com/api/county/lancaster.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "lawrence",
+      "name": "Radon testing & mitigation in Lawrence County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lawrence/",
+      "feed": "https://radonroster.com/api/county/lawrence.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "lebanon",
+      "name": "Radon testing & mitigation in Lebanon County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lebanon/",
+      "feed": "https://radonroster.com/api/county/lebanon.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "lehigh",
+      "name": "Radon testing & mitigation in Lehigh County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lehigh/",
+      "feed": "https://radonroster.com/api/county/lehigh.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "luzerne",
+      "name": "Radon testing & mitigation in Luzerne County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/luzerne/",
+      "feed": "https://radonroster.com/api/county/luzerne.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "lycoming",
+      "name": "Radon testing & mitigation in Lycoming County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/lycoming/",
+      "feed": "https://radonroster.com/api/county/lycoming.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "mckean",
+      "name": "Radon testing & mitigation in McKean County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/mckean/",
+      "feed": "https://radonroster.com/api/county/mckean.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "mercer",
+      "name": "Radon testing & mitigation in Mercer County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/mercer/",
+      "feed": "https://radonroster.com/api/county/mercer.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "mifflin",
+      "name": "Radon testing & mitigation in Mifflin County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/mifflin/",
+      "feed": "https://radonroster.com/api/county/mifflin.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "monroe",
+      "name": "Radon testing & mitigation in Monroe County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/monroe/",
+      "feed": "https://radonroster.com/api/county/monroe.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "montgomery",
+      "name": "Radon testing & mitigation in Montgomery County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/montgomery/",
+      "feed": "https://radonroster.com/api/county/montgomery.json",
+      "count": 29,
+      "local_count": 29
+    },
+    {
+      "slug": "montour",
+      "name": "Radon testing & mitigation in Montour County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/montour/",
+      "feed": "https://radonroster.com/api/county/montour.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "northampton",
+      "name": "Radon testing & mitigation in Northampton County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/northampton/",
+      "feed": "https://radonroster.com/api/county/northampton.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "northumberland",
+      "name": "Radon testing & mitigation in Northumberland County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/northumberland/",
+      "feed": "https://radonroster.com/api/county/northumberland.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "perry",
+      "name": "Radon testing & mitigation in Perry County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/perry/",
+      "feed": "https://radonroster.com/api/county/perry.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "philadelphia",
+      "name": "Radon testing & mitigation in Philadelphia County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/philadelphia/",
+      "feed": "https://radonroster.com/api/county/philadelphia.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "pike",
+      "name": "Radon testing & mitigation in Pike County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/pike/",
+      "feed": "https://radonroster.com/api/county/pike.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "potter",
+      "name": "Radon testing & mitigation in Potter County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/potter/",
+      "feed": "https://radonroster.com/api/county/potter.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "schuylkill",
+      "name": "Radon testing & mitigation in Schuylkill County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/schuylkill/",
+      "feed": "https://radonroster.com/api/county/schuylkill.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "snyder",
+      "name": "Radon testing & mitigation in Snyder County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/snyder/",
+      "feed": "https://radonroster.com/api/county/snyder.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "somerset",
+      "name": "Radon testing & mitigation in Somerset County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/somerset/",
+      "feed": "https://radonroster.com/api/county/somerset.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "sullivan",
+      "name": "Radon testing & mitigation in Sullivan County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/sullivan/",
+      "feed": "https://radonroster.com/api/county/sullivan.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "susquehanna",
+      "name": "Radon testing & mitigation in Susquehanna County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/susquehanna/",
+      "feed": "https://radonroster.com/api/county/susquehanna.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tioga",
+      "name": "Radon testing & mitigation in Tioga County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/tioga/",
+      "feed": "https://radonroster.com/api/county/tioga.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "union",
+      "name": "Radon testing & mitigation in Union County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/union/",
+      "feed": "https://radonroster.com/api/county/union.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "venango",
+      "name": "Radon testing & mitigation in Venango County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/venango/",
+      "feed": "https://radonroster.com/api/county/venango.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "warren",
+      "name": "Radon testing & mitigation in Warren County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/warren/",
+      "feed": "https://radonroster.com/api/county/warren.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "washington",
+      "name": "Radon testing & mitigation in Washington County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/washington/",
+      "feed": "https://radonroster.com/api/county/washington.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "wayne",
+      "name": "Radon testing & mitigation in Wayne County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/wayne/",
+      "feed": "https://radonroster.com/api/county/wayne.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "westmoreland",
+      "name": "Radon testing & mitigation in Westmoreland County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/westmoreland/",
+      "feed": "https://radonroster.com/api/county/westmoreland.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "wyoming",
+      "name": "Radon testing & mitigation in Wyoming County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/wyoming/",
+      "feed": "https://radonroster.com/api/county/wyoming.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "york",
+      "name": "Radon testing & mitigation in York County, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/county/york/",
+      "feed": "https://radonroster.com/api/county/york.json",
+      "count": 8,
+      "local_count": 8
+    }
+  ],
+  "cities": [
+    {
+      "slug": "allentown-pa",
+      "name": "Radon testing & mitigation in Allentown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/allentown-pa/",
+      "feed": "https://radonroster.com/api/city/allentown-pa.json",
+      "count": 29,
+      "local_count": 4
+    },
+    {
+      "slug": "altoona-pa",
+      "name": "Radon testing & mitigation in Altoona, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/altoona-pa/",
+      "feed": "https://radonroster.com/api/city/altoona-pa.json",
+      "count": 7,
+      "local_count": 1
+    },
+    {
+      "slug": "bethlehem-pa",
+      "name": "Radon testing & mitigation in Bethlehem, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/bethlehem-pa/",
+      "feed": "https://radonroster.com/api/city/bethlehem-pa.json",
+      "count": 18,
+      "local_count": 1
+    },
+    {
+      "slug": "camp-hill-pa",
+      "name": "Radon testing & mitigation in Camp Hill, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/camp-hill-pa/",
+      "feed": "https://radonroster.com/api/city/camp-hill-pa.json",
+      "count": 14,
+      "local_count": 1
+    },
+    {
+      "slug": "canonsburg-pa",
+      "name": "Radon testing & mitigation in Canonsburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/canonsburg-pa/",
+      "feed": "https://radonroster.com/api/city/canonsburg-pa.json",
+      "count": 19,
+      "local_count": 4
+    },
+    {
+      "slug": "carlisle-pa",
+      "name": "Radon testing & mitigation in Carlisle, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/carlisle-pa/",
+      "feed": "https://radonroster.com/api/city/carlisle-pa.json",
+      "count": 14,
+      "local_count": 1
+    },
+    {
+      "slug": "chambersburg-pa",
+      "name": "Radon testing & mitigation in Chambersburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/chambersburg-pa/",
+      "feed": "https://radonroster.com/api/city/chambersburg-pa.json",
+      "count": 10,
+      "local_count": 2
+    },
+    {
+      "slug": "columbia-pa",
+      "name": "Radon testing & mitigation in Columbia, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/columbia-pa/",
+      "feed": "https://radonroster.com/api/city/columbia-pa.json",
+      "count": 21,
+      "local_count": 0
+    },
+    {
+      "slug": "cranberry-township-pa",
+      "name": "Radon testing & mitigation in Cranberry Township, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/cranberry-township-pa/",
+      "feed": "https://radonroster.com/api/city/cranberry-township-pa.json",
+      "count": 19,
+      "local_count": 0
+    },
+    {
+      "slug": "downingtown-pa",
+      "name": "Radon testing & mitigation in Downingtown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/downingtown-pa/",
+      "feed": "https://radonroster.com/api/city/downingtown-pa.json",
+      "count": 30,
+      "local_count": 3
+    },
+    {
+      "slug": "doylestown-pa",
+      "name": "Radon testing & mitigation in Doylestown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/doylestown-pa/",
+      "feed": "https://radonroster.com/api/city/doylestown-pa.json",
+      "count": 34,
+      "local_count": 4
+    },
+    {
+      "slug": "easton-pa",
+      "name": "Radon testing & mitigation in Easton, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/easton-pa/",
+      "feed": "https://radonroster.com/api/city/easton-pa.json",
+      "count": 18,
+      "local_count": 3
+    },
+    {
+      "slug": "elizabethtown-pa",
+      "name": "Radon testing & mitigation in Elizabethtown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/elizabethtown-pa/",
+      "feed": "https://radonroster.com/api/city/elizabethtown-pa.json",
+      "count": 21,
+      "local_count": 1
+    },
+    {
+      "slug": "ephrata-pa",
+      "name": "Radon testing & mitigation in Ephrata, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/ephrata-pa/",
+      "feed": "https://radonroster.com/api/city/ephrata-pa.json",
+      "count": 21,
+      "local_count": 1
+    },
+    {
+      "slug": "erie-pa",
+      "name": "Radon testing & mitigation in Erie, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/erie-pa/",
+      "feed": "https://radonroster.com/api/city/erie-pa.json",
+      "count": 7,
+      "local_count": 5
+    },
+    {
+      "slug": "gettysburg-pa",
+      "name": "Radon testing & mitigation in Gettysburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/gettysburg-pa/",
+      "feed": "https://radonroster.com/api/city/gettysburg-pa.json",
+      "count": 13,
+      "local_count": 3
+    },
+    {
+      "slug": "greensburg-pa",
+      "name": "Radon testing & mitigation in Greensburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/greensburg-pa/",
+      "feed": "https://radonroster.com/api/city/greensburg-pa.json",
+      "count": 23,
+      "local_count": 3
+    },
+    {
+      "slug": "hanover-pa",
+      "name": "Radon testing & mitigation in Hanover, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/hanover-pa/",
+      "feed": "https://radonroster.com/api/city/hanover-pa.json",
+      "count": 20,
+      "local_count": 0
+    },
+    {
+      "slug": "harrisburg-pa",
+      "name": "Radon testing & mitigation in Harrisburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/harrisburg-pa/",
+      "feed": "https://radonroster.com/api/city/harrisburg-pa.json",
+      "count": 21,
+      "local_count": 5
+    },
+    {
+      "slug": "hershey-pa",
+      "name": "Radon testing & mitigation in Hershey, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/hershey-pa/",
+      "feed": "https://radonroster.com/api/city/hershey-pa.json",
+      "count": 21,
+      "local_count": 1
+    },
+    {
+      "slug": "johnstown-pa",
+      "name": "Radon testing & mitigation in Johnstown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/johnstown-pa/",
+      "feed": "https://radonroster.com/api/city/johnstown-pa.json",
+      "count": 10,
+      "local_count": 2
+    },
+    {
+      "slug": "king-of-prussia-pa",
+      "name": "Radon testing & mitigation in King of Prussia, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/king-of-prussia-pa/",
+      "feed": "https://radonroster.com/api/city/king-of-prussia-pa.json",
+      "count": 47,
+      "local_count": 1
+    },
+    {
+      "slug": "lancaster-pa",
+      "name": "Radon testing & mitigation in Lancaster, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/lancaster-pa/",
+      "feed": "https://radonroster.com/api/city/lancaster-pa.json",
+      "count": 25,
+      "local_count": 1
+    },
+    {
+      "slug": "lansdale-pa",
+      "name": "Radon testing & mitigation in Lansdale, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/lansdale-pa/",
+      "feed": "https://radonroster.com/api/city/lansdale-pa.json",
+      "count": 47,
+      "local_count": 3
+    },
+    {
+      "slug": "lebanon-pa",
+      "name": "Radon testing & mitigation in Lebanon, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/lebanon-pa/",
+      "feed": "https://radonroster.com/api/city/lebanon-pa.json",
+      "count": 16,
+      "local_count": 2
+    },
+    {
+      "slug": "mechanicsburg-pa",
+      "name": "Radon testing & mitigation in Mechanicsburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/mechanicsburg-pa/",
+      "feed": "https://radonroster.com/api/city/mechanicsburg-pa.json",
+      "count": 14,
+      "local_count": 3
+    },
+    {
+      "slug": "media-pa",
+      "name": "Radon testing & mitigation in Media, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/media-pa/",
+      "feed": "https://radonroster.com/api/city/media-pa.json",
+      "count": 25,
+      "local_count": 3
+    },
+    {
+      "slug": "norristown-pa",
+      "name": "Radon testing & mitigation in Norristown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/norristown-pa/",
+      "feed": "https://radonroster.com/api/city/norristown-pa.json",
+      "count": 47,
+      "local_count": 2
+    },
+    {
+      "slug": "philadelphia-pa",
+      "name": "Radon testing & mitigation in Philadelphia, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/philadelphia-pa/",
+      "feed": "https://radonroster.com/api/city/philadelphia-pa.json",
+      "count": 23,
+      "local_count": 10
+    },
+    {
+      "slug": "phoenixville-pa",
+      "name": "Radon testing & mitigation in Phoenixville, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/phoenixville-pa/",
+      "feed": "https://radonroster.com/api/city/phoenixville-pa.json",
+      "count": 34,
+      "local_count": 3
+    },
+    {
+      "slug": "pittsburgh-pa",
+      "name": "Radon testing & mitigation in Pittsburgh, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/pittsburgh-pa/",
+      "feed": "https://radonroster.com/api/city/pittsburgh-pa.json",
+      "count": 54,
+      "local_count": 28
+    },
+    {
+      "slug": "quakertown-pa",
+      "name": "Radon testing & mitigation in Quakertown, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/quakertown-pa/",
+      "feed": "https://radonroster.com/api/city/quakertown-pa.json",
+      "count": 34,
+      "local_count": 2
+    },
+    {
+      "slug": "reading-pa",
+      "name": "Radon testing & mitigation in Reading, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/reading-pa/",
+      "feed": "https://radonroster.com/api/city/reading-pa.json",
+      "count": 30,
+      "local_count": 2
+    },
+    {
+      "slug": "scranton-pa",
+      "name": "Radon testing & mitigation in Scranton, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/scranton-pa/",
+      "feed": "https://radonroster.com/api/city/scranton-pa.json",
+      "count": 14,
+      "local_count": 2
+    },
+    {
+      "slug": "state-college-pa",
+      "name": "Radon testing & mitigation in State College, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/state-college-pa/",
+      "feed": "https://radonroster.com/api/city/state-college-pa.json",
+      "count": 6,
+      "local_count": 1
+    },
+    {
+      "slug": "stroudsburg-pa",
+      "name": "Radon testing & mitigation in Stroudsburg, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/stroudsburg-pa/",
+      "feed": "https://radonroster.com/api/city/stroudsburg-pa.json",
+      "count": 19,
+      "local_count": 2
+    },
+    {
+      "slug": "west-chester-pa",
+      "name": "Radon testing & mitigation in West Chester, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/west-chester-pa/",
+      "feed": "https://radonroster.com/api/city/west-chester-pa.json",
+      "count": 34,
+      "local_count": 2
+    },
+    {
+      "slug": "wilkes-barre-pa",
+      "name": "Radon testing & mitigation in Wilkes-Barre, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/wilkes-barre-pa/",
+      "feed": "https://radonroster.com/api/city/wilkes-barre-pa.json",
+      "count": 22,
+      "local_count": 1
+    },
+    {
+      "slug": "williamsport-pa",
+      "name": "Radon testing & mitigation in Williamsport, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/williamsport-pa/",
+      "feed": "https://radonroster.com/api/city/williamsport-pa.json",
+      "count": 4,
+      "local_count": 1
+    },
+    {
+      "slug": "york-pa",
+      "name": "Radon testing & mitigation in York, PA",
+      "state": "PA",
+      "page": "https://radonroster.com/pa/city/york-pa/",
+      "feed": "https://radonroster.com/api/city/york-pa.json",
+      "count": 20,
+      "local_count": 5
+    }
+  ]
+}

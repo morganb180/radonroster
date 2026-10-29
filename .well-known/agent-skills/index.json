@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "radon-roster-find-firms",
+      "type": "skill-md",
+      "description": "Find PA DEP-certified radon testers, mitigators and labs on Radon Roster by ZIP, city or county, with credentials and links to each listing.",
+      "url": "https://radonroster.com/.well-known/agent-skills/radon-roster-find-firms/SKILL.md",
+      "digest": "sha256:7293f37724c9f0f1f24c35c7a7ec06d9c34e89ce5387377a8025ee7203220cfa"
+    },
+    {
+      "name": "radon-roster-request-quote",
+      "type": "skill-md",
+      "description": "Request quotes from PA DEP-certified radon testers, mitigators and labs for a homeowner via Radon Roster; the homeowner confirms by email before anything is sent.",
+      "url": "https://radonroster.com/.well-known/agent-skills/radon-roster-request-quote/SKILL.md",
+      "digest": "sha256:0c798ab95d48d499de021fb3fbcca495c43455fb9beb2caaf920865c9b27da17"
+    }
+  ]
+}

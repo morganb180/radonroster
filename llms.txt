@@ -37,5 +37,13 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [How we verify listings](https://radonroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://radonroster.com/sitemap.xml)
 
+## Agent API
+- [API catalog](https://radonroster.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://radonroster.com/openapi.json): search API and quote requests
+- [Feed index](https://radonroster.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://radonroster.com/api/firms.json)
+- [MCP server card](https://radonroster.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=radon
+- [Agent skills](https://radonroster.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://radonroster.com/llms-full.txt): full list of county, city and guide pages
