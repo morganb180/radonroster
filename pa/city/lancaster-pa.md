@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/lancaster-pa/
 
 # Radon testing & mitigation in Lancaster, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Lancaster, PA: 51% of 37,640 basement radon tests with a Lancaster address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lancaster result, 4.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Lancaster, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lancaster).
+
 Lancaster sits in Lancaster County. In the PA DEP test dataset, 37,640 basement radon tests carry a Lancaster address. Their median was **4.1 pCi/L**, and **51%** came in at or above EPA's 4 pCi/L action level. Across all of Lancaster County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Lancaster radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Lancaster, then 
 
 [**Read the Lancaster radon hiring guide →**](https://radonroster.com/pa/city/lancaster-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Lancaster (1)
+## Which certified radon firms are based in Lancaster, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Lancaster; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Lancaster, PA? (1 firm)
 
 ### Precise Inspecting
 
@@ -63,11 +67,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 808-5997](tel:7178085997)
 
-## Elsewhere in Lancaster County (8)
+## Which other certified radon firms are in Lancaster County? (8)
+
+Radon Roster lists 8 more PA DEP-certified firms elsewhere in Lancaster County. Certified pros often travel, so ask whether they cover your street in Lancaster.
 
 [Mitigation3](#county-mitigation)[Testing5](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who else installs radon mitigation systems in Lancaster County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -146,7 +152,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 464-0111](tel:7174640111)
 
-## Radon testing (5 firms)
+## Where else can I get radon testing in Lancaster County? (5 firms)
 
 ### Muehling, Matthew
 
@@ -264,7 +270,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 413-4582](tel:7174134582)
 
-## Mitigation firms in neighboring counties (17)
+## Which radon mitigation firms near Lancaster are in neighboring counties? (17)
+
+17 PA DEP-certified mitigation firms are based in counties next to Lancaster County. Ask each one whether it serves your address in Lancaster.
 
 ### Podolecki, Piotr
 
@@ -674,7 +682,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lancaster)
 
-## Nearby city pages
+## Which cities near Lancaster have radon pages?
 
 [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [Reading](https://radonroster.com/pa/city/reading-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/) · [York](https://radonroster.com/pa/city/york-pa/)
 
@@ -682,7 +690,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Lancaster
+## What should I check before hiring a radon pro in Lancaster?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

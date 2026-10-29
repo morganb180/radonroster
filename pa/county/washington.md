@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Washington County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -69,7 +69,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 584-0799](tel:4125840799)
 
-## Radon testing (6 firms)
+## Where can I get radon testing in Washington County, PA? (6 firms)
 
 ### Heritage Home Insp
 
@@ -215,17 +215,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 413-5522](tel:7244135522)
 
-## Neighboring counties
+## Which counties border Washington County, PA?
 
 [Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Greene](https://radonroster.com/pa/county/greene/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Washington County cities have Radon Roster hiring guides?
 
 [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/) ([guide](https://radonroster.com/pa/city/canonsburg-pa/radon-guide/))
 
-## Hiring a radon pro in Washington County: quick guide
+## How do I hire a radon pro in Washington County, PA?
 
 With 34% of 38,759 basement tests at or above 4 pCi/L (below the 37% statewide share), Washington County has 1 DEP-certified mitigation firm based locally.
 
@@ -255,7 +255,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Washington
+## What should I check before hiring a radon pro in Washington?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

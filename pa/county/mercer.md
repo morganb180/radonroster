@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in Mercer County.** 19 certified firms in the 4 neighboring counties below are listed on PA DEP's certified lists and may serve Mercer County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=mercer)
 
-## Certified radon firms near Mercer County
+## Which certified radon firms are near Mercer County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in Mercer County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -71,13 +73,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 * [Jason Dillion](https://radonroster.com/pa/firms/jason-dillion-f3659/) · Oil City · testing
 * [Dustin Shaw](https://radonroster.com/pa/firms/dustin-shaw-f3750/) · Seneca · testing
 
-## Neighboring counties
+## Which counties border Mercer County, PA?
 
 [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Lawrence](https://radonroster.com/pa/county/lawrence/) (2 firms) · [Venango](https://radonroster.com/pa/county/venango/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in Mercer County: quick guide
+## How do I hire a radon pro in Mercer County, PA?
 
 35% of 9,723 basement tests in Mercer County were at or above 4 pCi/L (below the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -107,7 +109,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Mercer
+## What should I check before hiring a radon pro in Mercer?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

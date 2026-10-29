@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Northampton County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 615-0706](tel:6106150706)
 
-## Radon testing (6 firms)
+## Where can I get radon testing in Northampton County, PA? (6 firms)
 
 ### Doll, Justin
 
@@ -206,17 +206,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (917) 273-0894](tel:9172730894)
 
-## Neighboring counties
+## Which counties border Northampton County, PA?
 
 [Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Northampton County cities have Radon Roster hiring guides?
 
 [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/) ([guide](https://radonroster.com/pa/city/bethlehem-pa/radon-guide/)) · [Easton](https://radonroster.com/pa/city/easton-pa/) ([guide](https://radonroster.com/pa/city/easton-pa/radon-guide/))
 
-## Hiring a radon pro in Northampton County: quick guide
+## How do I hire a radon pro in Northampton County, PA?
 
 With 48% of 78,045 basement tests at or above 4 pCi/L (above the 37% statewide share), Northampton County has 1 DEP-certified mitigation firm based locally.
 
@@ -246,7 +246,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Northampton
+## What should I check before hiring a radon pro in Northampton?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Armstrong County, PA? (2 firms)
 
 ### Wolfe, Jr., Jerry
 
@@ -81,13 +81,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 421-9100](tel:4124219100)
 
-## Neighboring counties
+## Which counties border Armstrong County, PA?
 
 [Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Armstrong County: quick guide
+## How do I hire a radon pro in Armstrong County, PA?
 
 With 53% of 4,627 basement tests at or above 4 pCi/L (above the 37% statewide share), Armstrong County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -115,7 +115,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Armstrong
+## What should I check before hiring a radon pro in Armstrong?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/wilkes-barre-pa/
 
 # Radon testing & mitigation in Wilkes-Barre, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Wilkes-Barre, PA: 18% of 6,150 basement radon tests with a Wilkes-Barre address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Luzerne County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Wilkes-Barre, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=wilkes-barre).
+
 Wilkes-Barre sits in Luzerne County. In the PA DEP test dataset, 6,150 basement radon tests carry a Wilkes-Barre address. Their median was **1.7 pCi/L**, and **18%** came in at or above EPA's 4 pCi/L action level. Across all of Luzerne County it was 31%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Wilkes-Barre radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Wilkes-Barre, th
 
 [**Read the Wilkes-Barre radon hiring guide →**](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Wilkes-Barre (1)
+## Which certified radon firms are based in Wilkes-Barre, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Wilkes-Barre; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Wilkes-Barre, PA? (1 firm)
 
 ### Sterling, William
 
@@ -61,11 +65,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 829-4200](tel:5708294200)
 
-## Elsewhere in Luzerne County (12)
+## Which other certified radon firms are in Luzerne County? (12)
+
+Radon Roster lists 12 more PA DEP-certified firms elsewhere in Luzerne County. Certified pros often travel, so ask whether they cover your street in Wilkes-Barre.
 
 [Mitigation1](#county-mitigation)[Testing11](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Luzerne County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -96,7 +102,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 747-2366](tel:5707472366)
 
-## Radon testing (11 firms)
+## Where else can I get radon testing in Luzerne County? (11 firms)
 
 ### Bukeavich, Paul
 
@@ -353,7 +359,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 574-4799](tel:5705744799)
 
-## Mitigation firms in neighboring counties (9)
+## Which radon mitigation firms near Wilkes-Barre are in neighboring counties? (9)
+
+9 PA DEP-certified mitigation firms are based in counties next to Luzerne County. Ask each one whether it serves your address in Wilkes-Barre.
 
 ### Ralston, Jeffrey
 
@@ -589,7 +597,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
 
-## Nearby city pages
+## Which cities near Wilkes-Barre have radon pages?
 
 [Scranton](https://radonroster.com/pa/city/scranton-pa/) · [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/)
 
@@ -597,7 +605,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Wilkes-Barre
+## What should I check before hiring a radon pro in Wilkes-Barre?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

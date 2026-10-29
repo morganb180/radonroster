@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Warren County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,13 +59,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 516-6368](tel:8145166368)
 
-## Neighboring counties
+## Which counties border Warren County, PA?
 
 [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Elk](https://radonroster.com/pa/county/elk/) (1 firms) · [Erie](https://radonroster.com/pa/county/erie/) (6 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [McKean](https://radonroster.com/pa/county/mckean/) (0 firms) · [Venango](https://radonroster.com/pa/county/venango/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Warren County: quick guide
+## How do I hire a radon pro in Warren County, PA?
 
 With 47% of 3,863 basement tests at or above 4 pCi/L (above the 37% statewide share), Warren County has 1 DEP-certified mitigation firm based locally.
 
@@ -93,7 +93,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Warren
+## What should I check before hiring a radon pro in Warren?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

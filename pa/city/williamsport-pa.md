@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/williamsport-pa/
 
 # Radon testing & mitigation in Williamsport, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Williamsport, PA: 39% of 6,668 basement radon tests with a Williamsport address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Lycoming County (46%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Williamsport, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=williamsport).
+
 Williamsport sits in Lycoming County. In the PA DEP test dataset, 6,668 basement radon tests carry a Williamsport address. Their median was **2.9 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Lycoming County it was 46%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Williamsport radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Williamsport, th
 
 [**Read the Williamsport radon hiring guide →**](https://radonroster.com/pa/city/williamsport-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Williamsport (1)
+## Which certified radon firms are based in Williamsport, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Williamsport; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Williamsport, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -63,11 +67,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 988-6800](tel:5709886800)
 
-## Elsewhere in Lycoming County (1)
+## Which other certified radon firms are in Lycoming County? (1)
+
+Radon Roster lists 1 more PA DEP-certified firm elsewhere in Lycoming County. Certified pros often travel, so ask whether they cover your street in Williamsport.
 
 Mitigation 0[Testing1](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where else can I get radon testing in Lycoming County? (1 firm)
 
 ### Mcclain, Joshua
 
@@ -93,7 +99,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 560-2773](tel:5705602773)
 
-## Mitigation firms in neighboring counties (2)
+## Which radon mitigation firms near Williamsport are in neighboring counties? (2)
+
+2 PA DEP-certified mitigation firms are based in counties next to Lycoming County. Ask each one whether it serves your address in Williamsport.
 
 ### Conklin, George, Iv
 
@@ -167,7 +175,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Williamsport
+## What should I check before hiring a radon pro in Williamsport?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

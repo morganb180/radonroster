@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/state-college-pa/
 
 # Radon testing & mitigation in State College, PA
 
+**Quick answer:** For homeowners, buyers and sellers in State College, PA: 55% of 23,460 basement radon tests with a State College address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Centre County (56%) and above the statewide 37%. The median State College result, 4.8 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in State College, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=state-college).
+
 State College sits in Centre County. In the PA DEP test dataset, 23,460 basement radon tests carry a State College address. Their median was **4.8 pCi/L**, and **55%** came in at or above EPA's 4 pCi/L action level. Across all of Centre County it was 56%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## State College radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in State College, t
 
 [**Read the State College radon hiring guide →**](https://radonroster.com/pa/city/state-college-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in State College (1)
+## Which certified radon firms are based in State College, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in State College; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in State College, PA? (1 firm)
 
 ### Todd Giddings & As
 
@@ -62,11 +66,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 238-5927](tel:8142385927)
 
-## Elsewhere in Centre County (3)
+## Which other certified radon firms are in Centre County? (3)
+
+Radon Roster lists 3 more PA DEP-certified firms elsewhere in Centre County. Certified pros often travel, so ask whether they cover your street in State College.
 
 [Mitigation3](#county-mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who else installs radon mitigation systems in Centre County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -142,7 +148,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 278-7751](tel:8142787751)
 
-## Mitigation firms in neighboring counties (2)
+## Which radon mitigation firms near State College are in neighboring counties? (2)
+
+2 PA DEP-certified mitigation firms are based in counties next to Centre County. Ask each one whether it serves your address in State College.
 
 ### Helping Solutions LLC
 
@@ -213,7 +221,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to State College mitigators[Request quotes](https://radonroster.com/get-quotes/?city=state-college)
 
-## Nearby city pages
+## Which cities near State College have radon pages?
 
 [Altoona](https://radonroster.com/pa/city/altoona-pa/)
 
@@ -221,7 +229,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in State College
+## What should I check before hiring a radon pro in State College?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

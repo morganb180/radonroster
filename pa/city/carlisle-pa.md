@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/carlisle-pa/
 
 # Radon testing & mitigation in Carlisle, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Carlisle, PA: 55% of 15,932 basement radon tests with a Carlisle address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Cumberland County (55%) and above the statewide 37%. The median Carlisle result, 4.8 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Carlisle, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=carlisle).
+
 Carlisle sits in Cumberland County. In the PA DEP test dataset, 15,932 basement radon tests carry a Carlisle address. Their median was **4.8 pCi/L**, and **55%** came in at or above EPA's 4 pCi/L action level. Across all of Cumberland County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Carlisle radon test data
@@ -44,18 +46,22 @@ Below are the PA DEP-certified firms with a business address in Carlisle, then o
 
 [**Read the Carlisle radon hiring guide →**](https://radonroster.com/pa/city/carlisle-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Carlisle (1)
+## Which certified radon firms are based in Carlisle, PA? (1)
 
-## Radon mitigation (reduction systems) (1 firm)
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Carlisle; 1 of them is certified for mitigation.
+
+## Who installs radon mitigation systems in Carlisle, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### [Ro, Jooik](https://radonroster.com/pa/firms/jooik-ro-f2760/)
 Carlisle 1 certified person
 
-## Elsewhere in Cumberland County (5)
+## Which other certified radon firms are in Cumberland County? (5)
 
-## Radon mitigation (reduction systems) (3 firms)
+Radon Roster lists 5 more PA DEP-certified firms elsewhere in Cumberland County. Certified pros often travel, so ask whether they cover your street in Carlisle.
+
+## Who else installs radon mitigation systems in Cumberland County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -68,7 +74,7 @@ Enola 1 certified person
 ### [Precision Inspections & Radon Solutions](https://radonroster.com/pa/firms/precision-inspections-and-radon-solutions-f2404/)
 Mechanicsburg 4 certified people
 
-## Radon testing (2 firms)
+## Where else can I get radon testing in Cumberland County? (2 firms)
 
 ### [Cline, Jr., Joseph](https://radonroster.com/pa/firms/cline-jr-joseph-f2282/)
 Mechanicsburg 1 certified person
@@ -76,7 +82,9 @@ Mechanicsburg 1 certified person
 ### [Heintzelman, David C.](https://radonroster.com/pa/firms/david-c-heintzelman-f3532/)
 Mechanicsburg 1 certified person
 
-## Mitigation firms in neighboring counties (8)
+## Which radon mitigation firms near Carlisle are in neighboring counties? (8)
+
+8 PA DEP-certified mitigation firms are based in counties next to Cumberland County. Ask each one whether it serves your address in Carlisle.
 
 ### [Radon Protection Services Of Gettysburg](https://radonroster.com/pa/firms/radon-protection-services-of-gettysburg-f0275/)
 Gettysburg 5 certified people
@@ -156,7 +164,7 @@ We don't have Carlisle-specific price data. PA DEP says most radon mitigation sy
 
 More guides: [Carlisle radon hiring guide](https://radonroster.com/pa/city/carlisle-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Carlisle have radon pages?
 
 [Hanover](https://radonroster.com/pa/city/hanover-pa/) · [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) · [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/)
 
@@ -164,7 +172,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Carlisle
+## What should I check before hiring a radon pro in Carlisle?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

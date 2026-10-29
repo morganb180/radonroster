@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/greensburg-pa/
 
 # Radon testing & mitigation in Greensburg, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Greensburg, PA: 39% of 15,223 basement radon tests with a Greensburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Westmoreland County (40%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Greensburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=greensburg).
+
 Greensburg sits in Westmoreland County. In the PA DEP test dataset, 15,223 basement radon tests carry a Greensburg address. Their median was **3.1 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Westmoreland County it was 40%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Greensburg radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Greensburg, then
 
 [**Read the Greensburg radon hiring guide →**](https://radonroster.com/pa/city/greensburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Greensburg (3)
+## Which certified radon firms are based in Greensburg, PA? (3)
+
+Radon Roster lists 3 PA DEP-certified radon firms with a business address in Greensburg; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Greensburg, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -63,7 +67,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 289-8632](tel:7242898632)
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Greensburg, PA? (2 firms)
 
 ### Joseph, Andrew
 
@@ -111,11 +115,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 836-0328](tel:7248360328)
 
-## Elsewhere in Westmoreland County (14)
+## Which other certified radon firms are in Westmoreland County? (14)
+
+Radon Roster lists 14 more PA DEP-certified firms elsewhere in Westmoreland County. Certified pros often travel, so ask whether they cover your street in Greensburg.
 
 [Mitigation4](#county-mitigation)[Testing10](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who else installs radon mitigation systems in Westmoreland County? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -216,7 +222,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 515-9414](tel:7245159414)
 
-## Radon testing (10 firms)
+## Where else can I get radon testing in Westmoreland County? (10 firms)
 
 ### Braden, Nathan
 
@@ -453,7 +459,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (833) 279-1758](tel:8332791758)
 
-## Mitigation firms in neighboring counties (6)
+## Which radon mitigation firms near Greensburg are in neighboring counties? (6)
+
+6 PA DEP-certified mitigation firms are based in counties next to Westmoreland County. Ask each one whether it serves your address in Greensburg.
 
 ### Bacchus, Brian C.
 
@@ -626,7 +634,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Greensburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)
 
-## Nearby city pages
+## Which cities near Greensburg have radon pages?
 
 [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/) · [Johnstown](https://radonroster.com/pa/city/johnstown-pa/) · [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/)
 
@@ -634,7 +642,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Greensburg
+## What should I check before hiring a radon pro in Greensburg?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

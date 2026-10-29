@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/hershey-pa/
 
 # Radon testing & mitigation in Hershey, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Hershey, PA: 41% of 8,814 basement radon tests with a Hershey address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Dauphin County (51%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Hershey, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=hershey).
+
 Hershey sits in Dauphin County. In the PA DEP test dataset, 8,814 basement radon tests carry a Hershey address. Their median was **2.8 pCi/L**, and **41%** came in at or above EPA's 4 pCi/L action level. Across all of Dauphin County it was 51%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Hershey radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Hershey, then ot
 
 [**Read the Hershey radon hiring guide →**](https://radonroster.com/pa/city/hershey-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Hershey (1)
+## Which certified radon firms are based in Hershey, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Hershey; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Hershey, PA? (1 firm)
 
 ### Matteson, Chris
 
@@ -62,11 +66,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 583-2914](tel:7175832914)
 
-## Elsewhere in Dauphin County (8)
+## Which other certified radon firms are in Dauphin County? (8)
+
+Radon Roster lists 8 more PA DEP-certified firms elsewhere in Dauphin County. Certified pros often travel, so ask whether they cover your street in Hershey.
 
 [Mitigation5](#county-mitigation)[Testing2](#county-testing)[Labs1](#county-lab)Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who else installs radon mitigation systems in Dauphin County? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -165,7 +171,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-5365](tel:7174255365)
 
-## Radon testing (2 firms)
+## Where else can I get radon testing in Dauphin County? (2 firms)
 
 ### Wentz, Brian
 
@@ -213,7 +219,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 364-0060](tel:7173640060)
 
-## Radon laboratories (1 firm)
+## Which other radon labs are in Dauphin County? (1 firm)
 
 ### Accustar Labs
 
@@ -241,7 +247,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 274-8310](tel:7172748310)
 
-## Mitigation firms in neighboring counties (13)
+## Which radon mitigation firms near Hershey are in neighboring counties? (13)
+
+13 PA DEP-certified mitigation firms are based in counties next to Dauphin County. Ask each one whether it serves your address in Hershey.
 
 ### American Radon Solutions, Inc.
 
@@ -582,7 +590,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/get-quotes/?city=hershey)
 
-## Nearby city pages
+## Which cities near Hershey have radon pages?
 
 [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) · [York](https://radonroster.com/pa/city/york-pa/)
 
@@ -590,7 +598,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Hershey
+## What should I check before hiring a radon pro in Hershey?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

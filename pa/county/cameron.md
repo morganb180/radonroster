@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in Cameron County.** 4 certified firms in the 3 neighboring counties below are listed on PA DEP's certified lists and may serve Cameron County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=cameron)
 
-## Certified radon firms near Cameron County
+## Which certified radon firms are near Cameron County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in Cameron County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -57,13 +59,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 
 * [Michael Gelsick](https://radonroster.com/pa/firms/michael-gelsick-f2809/) · Saint Marys · testing & mitigation
 
-## Neighboring counties
+## Which counties border Cameron County, PA?
 
 [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firm) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Elk](https://radonroster.com/pa/county/elk/) (1 firm) · [McKean](https://radonroster.com/pa/county/mckean/) (0 firms) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in Cameron County: quick guide
+## How do I hire a radon pro in Cameron County, PA?
 
 49% of 439 basement tests in Cameron County were at or above 4 pCi/L (above the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -93,7 +95,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Cameron
+## What should I check before hiring a radon pro in Cameron?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

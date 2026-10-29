@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Fayette County, PA? (3 firms)
 
 ### Alpha Detect & Control
 
@@ -105,13 +105,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 570-6196](tel:7245706196)
 
-## Neighboring counties
+## Which counties border Fayette County, PA?
 
 [Greene](https://radonroster.com/pa/county/greene/) (0 firms) · [Somerset](https://radonroster.com/pa/county/somerset/) (1 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Fayette County: quick guide
+## How do I hire a radon pro in Fayette County, PA?
 
 With 34% of 7,625 basement tests at or above 4 pCi/L (below the 37% statewide share), Fayette County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -139,7 +139,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Fayette
+## What should I check before hiring a radon pro in Fayette?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

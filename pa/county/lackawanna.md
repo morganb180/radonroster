@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation4](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Lackawanna County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -132,7 +132,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 383-2363](tel:5703832363)
 
-## Radon testing (5 firms)
+## Where can I get radon testing in Lackawanna County, PA? (5 firms)
 
 ### Harvey Home Inspections
 
@@ -254,17 +254,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 848-2772](tel:5708482772)
 
-## Neighboring counties
+## Which counties border Lackawanna County, PA?
 
 [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Susquehanna](https://radonroster.com/pa/county/susquehanna/) (1 firms) · [Wayne](https://radonroster.com/pa/county/wayne/) (4 firms) · [Wyoming](https://radonroster.com/pa/county/wyoming/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Lackawanna County cities have Radon Roster hiring guides?
 
 [Scranton](https://radonroster.com/pa/city/scranton-pa/) ([guide](https://radonroster.com/pa/city/scranton-pa/radon-guide/))
 
-## Hiring a radon pro in Lackawanna County: quick guide
+## How do I hire a radon pro in Lackawanna County, PA?
 
 With 28% of 36,863 basement tests at or above 4 pCi/L (below the 37% statewide share), Lackawanna County has 4 DEP-certified mitigation firms based locally.
 
@@ -294,7 +294,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Lackawanna
+## What should I check before hiring a radon pro in Lackawanna?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

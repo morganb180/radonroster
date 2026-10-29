@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in Greene County.** 10 certified firms in the 2 neighboring counties below are listed on PA DEP's certified lists and may serve Greene County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=greene)
 
-## Certified radon firms near Greene County
+## Which certified radon firms are near Greene County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in Greene County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -61,13 +63,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 * [David Dowling](https://radonroster.com/pa/firms/david-dowling-f3296/) · Uniontown · testing
 * [Shadyside Home Inspections, LLC](https://radonroster.com/pa/firms/shadyside-home-inspections-llc-f3679/) · Uniontown · testing
 
-## Neighboring counties
+## Which counties border Greene County, PA?
 
 [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in Greene County: quick guide
+## How do I hire a radon pro in Greene County, PA?
 
 34% of 1,562 basement tests in Greene County were at or above 4 pCi/L (below the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -97,7 +99,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Greene
+## What should I check before hiring a radon pro in Greene?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

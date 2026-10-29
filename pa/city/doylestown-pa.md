@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/doylestown-pa/
 
 # Radon testing & mitigation in Doylestown, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Doylestown, PA: 34% of 27,330 basement radon tests with a Doylestown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Bucks County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Doylestown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=doylestown).
+
 Doylestown sits in Bucks County. In the PA DEP test dataset, 27,330 basement radon tests carry a Doylestown address. Their median was **2.6 pCi/L**, and **34%** came in at or above EPA's 4 pCi/L action level. Across all of Bucks County it was 31%, and statewide 37%. That is above the county share, so testing matters here.
 
 ## Doylestown radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Doylestown, then
 
 [**Read the Doylestown radon hiring guide →**](https://radonroster.com/pa/city/doylestown-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Doylestown (4)
+## Which certified radon firms are based in Doylestown, PA? (4)
+
+Radon Roster lists 4 PA DEP-certified radon firms with a business address in Doylestown; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Doylestown, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -64,7 +68,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 674-1808](tel:2156741808)
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Doylestown, PA? (3 firms)
 
 ### A- Stat Inspec
 
@@ -140,11 +144,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 208-8365](tel:2152088365)
 
-## Elsewhere in Bucks County (15)
+## Which other certified radon firms are in Bucks County? (15)
+
+Radon Roster lists 15 more PA DEP-certified firms elsewhere in Bucks County. Certified pros often travel, so ask whether they cover your street in Doylestown.
 
 [Mitigation3](#county-mitigation)[Testing12](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who else installs radon mitigation systems in Bucks County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -220,7 +226,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (484) 460-9697](tel:4844609697)
 
-## Radon testing (12 firms)
+## Where else can I get radon testing in Bucks County? (12 firms)
 
 ### Eagle Inspections LLC
 
@@ -533,7 +539,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 514-6889](tel:2155146889)
 
-## Mitigation firms in neighboring counties (15)
+## Which radon mitigation firms near Doylestown are in neighboring counties? (15)
+
+15 PA DEP-certified mitigation firms are based in counties next to Bucks County. Ask each one whether it serves your address in Doylestown.
 
 ### Anwar, Waqas
 
@@ -934,7 +942,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=doylestown)
 
-## Nearby city pages
+## Which cities near Doylestown have radon pages?
 
 [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/) · [Easton](https://radonroster.com/pa/city/easton-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/)
 
@@ -942,7 +950,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Doylestown
+## What should I check before hiring a radon pro in Doylestown?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

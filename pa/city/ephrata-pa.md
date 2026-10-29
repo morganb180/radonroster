@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/ephrata-pa/
 
 # Radon testing & mitigation in Ephrata, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Ephrata, PA: 56% of 5,904 basement radon tests with a Ephrata address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Lancaster County (55%) and above the statewide 37%. The median Ephrata result, 5.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Ephrata, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=ephrata).
+
 Ephrata sits in Lancaster County. In the PA DEP test dataset, 5,904 basement radon tests carry a Ephrata address. Their median was **5.0 pCi/L**, and **56%** came in at or above EPA's 4 pCi/L action level. Across all of Lancaster County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Ephrata radon test data
@@ -44,18 +46,22 @@ Below are the PA DEP-certified firms with a business address in Ephrata, then ot
 
 [**Read the Ephrata radon hiring guide →**](https://radonroster.com/pa/city/ephrata-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Ephrata (1)
+## Which certified radon firms are based in Ephrata, PA? (1)
 
-## Radon mitigation (reduction systems) (1 firm)
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Ephrata; 1 of them is certified for mitigation.
+
+## Who installs radon mitigation systems in Ephrata, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
 ### [Fritsch, Andrew](https://radonroster.com/pa/firms/andrew-fritsch-f3541/)
 Ephrata 1 certified person
 
-## Elsewhere in Lancaster County (8)
+## Which other certified radon firms are in Lancaster County? (8)
 
-## Radon mitigation (reduction systems) (2 firms)
+Radon Roster lists 8 more PA DEP-certified firms elsewhere in Lancaster County. Certified pros often travel, so ask whether they cover your street in Ephrata.
+
+## Who else installs radon mitigation systems in Lancaster County? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -65,7 +71,7 @@ Akron 2 certified people
 ### [Jk Mechanical Inc](https://radonroster.com/pa/firms/jk-mechanical-inc-f3747/)
 Willow Street 3 certified people
 
-## Radon testing (6 firms)
+## Where else can I get radon testing in Lancaster County? (6 firms)
 
 ### [Muehling, Matthew](https://radonroster.com/pa/firms/matthew-muehling-f2795/)
 Elizabethtown 1 certified person
@@ -85,7 +91,9 @@ Quarryville 1 certified person
 ### [Angelucci, Thomas](https://radonroster.com/pa/firms/thomas-angelucci-f3283/)
 Stevens 1 certified person
 
-## Mitigation firms in neighboring counties (16)
+## Which radon mitigation firms near Ephrata are in neighboring counties? (16)
+
+16 PA DEP-certified mitigation firms are based in counties next to Lancaster County. Ask each one whether it serves your address in Ephrata.
 
 ### [Podolecki, Piotr](https://radonroster.com/pa/firms/piotr-podolecki-f2885/)
 Alburtis 1 certified person
@@ -179,7 +187,7 @@ We don't have Ephrata-specific price data. PA DEP says most radon mitigation sys
 
 More guides: [Ephrata radon hiring guide](https://radonroster.com/pa/city/ephrata-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Ephrata have radon pages?
 
 [Columbia](https://radonroster.com/pa/city/columbia-pa/) · [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/) · [Downingtown](https://radonroster.com/pa/city/downingtown-pa/) · [Hanover](https://radonroster.com/pa/city/hanover-pa/) · [Lebanon](https://radonroster.com/pa/city/lebanon-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/)
 
@@ -187,7 +195,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Ephrata
+## What should I check before hiring a radon pro in Ephrata?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

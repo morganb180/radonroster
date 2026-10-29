@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Columbia County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 384-3574](tel:5703843574)
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Columbia County, PA? (1 firm)
 
 ### Devries, Walter
 
@@ -85,13 +85,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 380-9110](tel:5703809110)
 
-## Neighboring counties
+## Which counties border Columbia County, PA?
 
 [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Sullivan](https://radonroster.com/pa/county/sullivan/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Columbia County: quick guide
+## How do I hire a radon pro in Columbia County, PA?
 
 With 51% of 10,285 basement tests at or above 4 pCi/L (above the 37% statewide share), Columbia County has 1 DEP-certified mitigation firm based locally.
 
@@ -119,7 +119,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Columbia
+## What should I check before hiring a radon pro in Columbia?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

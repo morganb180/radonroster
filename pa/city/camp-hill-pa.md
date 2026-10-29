@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/camp-hill-pa/
 
 # Radon testing & mitigation in Camp Hill, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Camp Hill, PA: 58% of 12,590 basement radon tests with a Camp Hill address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Cumberland County (55%) and above the statewide 37%. The median Camp Hill result, 5.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Camp Hill, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=camp-hill).
+
 Camp Hill sits in Cumberland County. In the PA DEP test dataset, 12,590 basement radon tests carry a Camp Hill address. Their median was **5.1 pCi/L**, and **58%** came in at or above EPA's 4 pCi/L action level. Across all of Cumberland County it was 55%, and statewide 37%. That is above the county share, so testing matters here.
 
 ## Camp Hill radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Camp Hill, then 
 
 [**Read the Camp Hill radon hiring guide →**](https://radonroster.com/pa/city/camp-hill-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Camp Hill (1)
+## Which certified radon firms are based in Camp Hill, PA? (1)
+
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Camp Hill; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Camp Hill, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -64,11 +68,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 795-9367](tel:7177959367)
 
-## Elsewhere in Cumberland County (5)
+## Which other certified radon firms are in Cumberland County? (5)
+
+Radon Roster lists 5 more PA DEP-certified firms elsewhere in Cumberland County. Certified pros often travel, so ask whether they cover your street in Camp Hill.
 
 [Mitigation3](#county-mitigation)[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who else installs radon mitigation systems in Cumberland County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -146,7 +152,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 763-1373](tel:7177631373)
 
-## Radon testing (2 firms)
+## Where else can I get radon testing in Cumberland County? (2 firms)
 
 ### Cline, Jr., Joseph
 
@@ -195,7 +201,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 480-3357](tel:7174803357)
 
-## Mitigation firms in neighboring counties (9)
+## Which radon mitigation firms near Camp Hill are in neighboring counties? (9)
+
+9 PA DEP-certified mitigation firms are based in counties next to Cumberland County. Ask each one whether it serves your address in Camp Hill.
 
 ### Radon Protection Services Of Gettysburg
 
@@ -413,7 +421,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/get-quotes/?city=camp-hill)
 
-## Nearby city pages
+## Which cities near Camp Hill have radon pages?
 
 [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/) · [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) · [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) · [York](https://radonroster.com/pa/city/york-pa/)
 
@@ -421,7 +429,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Camp Hill
+## What should I check before hiring a radon pro in Camp Hill?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

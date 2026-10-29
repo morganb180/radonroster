@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing4](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Schuylkill County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 345-6515](tel:5703456515)
 
-## Radon testing (4 firms)
+## Where can I get radon testing in Schuylkill County, PA? (4 firms)
 
 ### Reichert, Ryan
 
@@ -155,13 +155,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 443-3457](tel:7174433457)
 
-## Neighboring counties
+## Which counties border Schuylkill County, PA?
 
 [Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Schuylkill County: quick guide
+## How do I hire a radon pro in Schuylkill County, PA?
 
 With 56% of 18,758 basement tests at or above 4 pCi/L (above the 37% statewide share), Schuylkill County has 1 DEP-certified mitigation firm based locally.
 
@@ -189,7 +189,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Schuylkill
+## What should I check before hiring a radon pro in Schuylkill?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

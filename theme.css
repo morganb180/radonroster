@@ -148,3 +148,17 @@ body:has(#i-res:checked) .frow .pci{display:block}
 .btnrow{display:flex;flex-wrap:wrap;align-items:center;gap:var(--s3) var(--s4)}
 /* footer legal links: small text */
 .foot .legal,.foot p.legal{font-size:.7rem;opacity:.8}.foot .legal a{padding-block:0}
+
+/* AEO 2026-10-29: quick-answer block, on-page ToC, direct answers */
+.answer{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:0 var(--r) var(--r) 0;padding:var(--s3) var(--s4);margin:var(--s3) 0 var(--s4);max-width:640px}
+.answer p{margin:0;font-size:.98rem;line-height:1.55;color:var(--ink)}
+.answer strong{color:var(--acc-ink)}
+.toc{background:var(--paper2);border:1px solid var(--line);border-radius:var(--r);padding:var(--s3) var(--s4);margin:0 0 var(--s5);font-size:.9rem}
+.toc .toc-h{font:700 .74rem/1.2 var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--acc);margin:0 0 var(--s2)}
+.toc ol{margin:0;padding-left:1.2rem;columns:2 260px;column-gap:var(--s6)}
+.toc li{margin:0 0 .3rem;break-inside:avoid}
+.toc a{color:var(--ink2);text-decoration:none}
+.toc a:hover{color:var(--acc);text-decoration:underline}
+p.direct{font-weight:500;color:var(--ink)}
+main h2[id]{scroll-margin-top:64px}
+@media (max-width:640px){.toc ol{columns:1}}

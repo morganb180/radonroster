@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/downingtown-pa/radon-guide/
 
 # How to find a radon expert in Downingtown, PA
 
+**Quick answer:** This guide is for Downingtown homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 35% of 27,571 basement tests in Downingtown were at or above 4 pCi/L, higher than Chester County's 31%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=downingtown).
+
 About **35%** of basement tests in Downingtown, about one in 3, came back at or above EPA's 4 pCi/L action level. That's out of 27,571 tests in PA DEP's records. That's above Chester County as a whole (31%) and close to the statewide share (37%). The median Downingtown result (2.6 pCi/L) is below the 4 pCi/L line, but a large share of tests still came in high. The Chester County median is 2.4 pCi/L.
 
 Source: computed 2026-10-28 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Downingtown municipality/mailing name in Chester County. Counts tests, not homes, and includes repeat and post-mitigation tests.
@@ -42,13 +44,13 @@ firms based here
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=downingtown) [Browse all Downingtown radon firms](https://radonroster.com/pa/city/downingtown-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
 
-## Downingtown compared with Chester County and Pennsylvania
+## How does radon in Downingtown compare with Chester County and Pennsylvania?
 
 About 9,713 Downingtown basement tests in DEP's records were at or above 4 pCi/L, 35% of the total. For Chester County as a whole the share is 31%, and statewide it is 37%. Most homes in a high-share area won't know their number until they test, so ask a certified tester to start there.
 
 Nearby city guides: [Columbia](https://radonroster.com/pa/city/columbia-pa/radon-guide/) · [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/radon-guide/) · [Ephrata](https://radonroster.com/pa/city/ephrata-pa/radon-guide/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/radon-guide/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/radon-guide/)
 
-## Questions to ask a mitigator before you sign
+## What should I ask a radon mitigator in Downingtown before I sign?
 
 * Is a system monitor (manometer or alarm) included so I can see the fan is working?
 * Do you carry liability insurance, and will you put the full scope in writing?
@@ -57,11 +59,11 @@ Nearby city guides: [Columbia](https://radonroster.com/pa/city/columbia-pa/radon
 * Where will the pipe run (inside or outside), and where will the fan and exhaust go?
 * What post-mitigation level do you guarantee, and what happens if the retest is high?
 
-## What a typical Pennsylvania radon system install involves
+## What does a typical Pennsylvania radon system install involve?
 
 Most systems use **active soil depressurization** ([EPA Consumer's Guide to Radon Reduction](https://www.epa.gov/radon/consumers-guide-radon-reduction-how-fix-your-home)). The installer drills a suction point through the basement slab (or seals a crawlspace with a membrane), runs PVC pipe to an inline fan, and vents the exhaust above the roofline. Then they seal major openings and add a pressure gauge. A follow-up test should confirm the level dropped. PA DEP describes the confirm-then-mitigate steps on [PA DEP: Radon in the Home](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home).
 
-## Nearest certified radon firms
+## Who are the nearest certified radon firms to Downingtown?
 
 Nearest DEP-certified firms: **3** based in Downingtown (0 mitigation), **15** elsewhere in Chester County (3 mitigation), and **16** mitigation firms in neighboring counties.
 
@@ -76,7 +78,9 @@ Downingtown 1 certified person
 
 [See all firms near Downingtown →](https://radonroster.com/pa/city/downingtown-pa/)
 
-## Radon mitigation cost: what Downingtown homeowners can expect
+## How much does radon mitigation cost in Downingtown, PA?
+
+PA DEP says a typical radon mitigation system costs $800 to $1,200. Radon Roster has no Downingtown-specific price data, so get written quotes from DEP-certified mitigators.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -85,7 +89,9 @@ Downingtown 1 certified person
 
 Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/). These are national figures, not local quotes. Prices depend on foundation type, the number of suction points and pipe routing. Try the [estimate tool](https://radonroster.com/radon-mitigation-cost/).
 
-## Buying or selling in Downingtown? Radon timing tips
+## When should I test for radon when buying or selling a home in Downingtown?
+
+Many buyers order a radon test during the inspection period, and PA DEP says to hire a DEP-certified tester when buying or selling a home.
 
 * Pennsylvania sellers must give buyers a property disclosure statement before an agreement of sale is signed. The Real Estate Commission's minimum form asks whether the seller knows of hazardous substances "including... radon" and whether the property has been tested ([49 Pa. Code § 35.335a](https://www.pacodeandbulletin.gov/secure/pacode/data/049/chapter35/s35.335a.html); [68 Pa.C.S. Chapter 73](https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/68/00.073..HTM)).
 * Sellers aren't required to test, but must not hide known defects (68 Pa.C.S. § 7308).
@@ -94,7 +100,7 @@ Source: [HomeAdvisor cost guide](https://www.homeadvisor.com/cost/environmental-
 
 General information, not legal advice.
 
-## How to verify a Downingtown radon contractor's PA DEP certification
+## How do I verify a Downingtown radon contractor's PA DEP certification?
 
 1. Check the name against DEP's current certified mitigation and testing lists in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory). The lists are updated periodically, and ours were retrieved 2026-10-11.
 2. Ask for the DEP certification number and photo ID. Pennsylvania requires anyone doing radon testing, mitigation or lab work for the public to be DEP-certified ([25 Pa. Code Chapter 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)).
@@ -132,7 +138,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 Our advice
 
-## Before you hire in Downingtown
+## What should I check before hiring a radon pro in Downingtown?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

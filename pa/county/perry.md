@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Perry County, PA? (1 firm)
 
 ### Alpha Home Inspections
 
@@ -59,13 +59,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 914-1600](tel:7179141600)
 
-## Neighboring counties
+## Which counties border Perry County, PA?
 
 [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Perry County: quick guide
+## How do I hire a radon pro in Perry County, PA?
 
 With 61% of 5,953 basement tests at or above 4 pCi/L (above the 37% statewide share), Perry County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -93,7 +93,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Perry
+## What should I check before hiring a radon pro in Perry?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/philadelphia-pa/
 
 # Radon testing & mitigation in Philadelphia, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Philadelphia, PA: 12% of 144,527 basement radon tests with a Philadelphia address in PA DEP's records were at or above EPA's 4 pCi/L action level and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 10 certified firms based in Philadelphia, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=philadelphia).
+
 Philadelphia sits in Philadelphia County. In the PA DEP test dataset, 144,527 basement radon tests carry a Philadelphia address. Their median was **1.6 pCi/L**, and **12%** came in at or above EPA's 4 pCi/L action level. Across all of Philadelphia County it was 12%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Philadelphia radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Philadelphia, th
 
 [**Read the Philadelphia radon hiring guide →**](https://radonroster.com/pa/city/philadelphia-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Philadelphia (10)
+## Which certified radon firms are based in Philadelphia, PA? (10)
+
+Radon Roster lists 10 PA DEP-certified radon firms with a business address in Philadelphia; 2 of them are certified for mitigation.
 
 [Mitigation2](#local-mitigation)[Testing8](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who installs radon mitigation systems in Philadelphia, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -90,7 +94,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (267) 269-5573](tel:2672695573)
 
-## Radon testing (8 firms)
+## Where can I get radon testing in Philadelphia, PA? (8 firms)
 
 ### Borkowski, Patrick
 
@@ -283,7 +287,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 205-4453](tel:2152054453)
 
-## Mitigation firms in neighboring counties (13)
+## Which radon mitigation firms near Philadelphia are in neighboring counties? (13)
+
+13 PA DEP-certified mitigation firms are based in counties next to Philadelphia County. Ask each one whether it serves your address in Philadelphia.
 
 ### Indoor Air Surgeons, LLC
 
@@ -624,7 +630,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=philadelphia)
 
-## Nearby city pages
+## Which cities near Philadelphia have radon pages?
 
 [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Quakertown](https://radonroster.com/pa/city/quakertown-pa/)
 
@@ -632,7 +638,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Philadelphia
+## What should I check before hiring a radon pro in Philadelphia?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

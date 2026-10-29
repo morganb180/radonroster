@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (5 firms)
+## Where can I get radon testing in Franklin County, PA? (5 firms)
 
 ### Baxter Environmental
 
@@ -152,17 +152,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 248-0825](tel:6102480825)
 
-## Neighboring counties
+## Which counties border Franklin County, PA?
 
 [Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Franklin County cities have Radon Roster hiring guides?
 
 [Chambersburg](https://radonroster.com/pa/city/chambersburg-pa/) ([guide](https://radonroster.com/pa/city/chambersburg-pa/radon-guide/))
 
-## Hiring a radon pro in Franklin County: quick guide
+## How do I hire a radon pro in Franklin County, PA?
 
 With 59% of 20,850 basement tests at or above 4 pCi/L (above the 37% statewide share), Franklin County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -192,7 +192,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Franklin
+## What should I check before hiring a radon pro in Franklin?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

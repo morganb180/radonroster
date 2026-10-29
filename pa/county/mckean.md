@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in McKean County.** 2 certified firms in the 2 neighboring counties below are listed on PA DEP's certified lists and may serve McKean County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=mckean)
 
-## Certified radon firms near McKean County
+## Which certified radon firms are near McKean County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in McKean County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -52,13 +54,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 
 * [Matthew Shaw](https://radonroster.com/pa/firms/matthew-shaw-f3193/) · Pittsfield · testing & mitigation
 
-## Neighboring counties
+## Which counties border McKean County, PA?
 
 [Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Elk](https://radonroster.com/pa/county/elk/) (1 firm) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firm). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in McKean County: quick guide
+## How do I hire a radon pro in McKean County, PA?
 
 27% of 1,583 basement tests in McKean County were at or above 4 pCi/L (below the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -88,7 +90,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in McKean
+## What should I check before hiring a radon pro in McKean?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

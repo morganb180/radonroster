@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Carbon County, PA? (2 firms)
 
 ### Hontz, Ammon
 
@@ -80,13 +80,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 681-4012](tel:6106814012)
 
-## Neighboring counties
+## Which counties border Carbon County, PA?
 
 [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Northampton](https://radonroster.com/pa/county/northampton/) (7 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Carbon County: quick guide
+## How do I hire a radon pro in Carbon County, PA?
 
 With 53% of 9,429 basement tests at or above 4 pCi/L (above the 37% statewide share), Carbon County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -114,7 +114,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Carbon
+## What should I check before hiring a radon pro in Carbon?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing12](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Luzerne County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -63,7 +63,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 747-2366](tel:5707472366)
 
-## Radon testing (12 firms)
+## Where can I get radon testing in Luzerne County, PA? (12 firms)
 
 ### Bukeavich, Paul
 
@@ -343,17 +343,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 829-4200](tel:5708294200)
 
-## Neighboring counties
+## Which counties border Luzerne County, PA?
 
 [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Lackawanna](https://radonroster.com/pa/county/lackawanna/) (9 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Sullivan](https://radonroster.com/pa/county/sullivan/) (0 firms) · [Wyoming](https://radonroster.com/pa/county/wyoming/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Luzerne County cities have Radon Roster hiring guides?
 
 [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/) ([guide](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/))
 
-## Hiring a radon pro in Luzerne County: quick guide
+## How do I hire a radon pro in Luzerne County, PA?
 
 With 31% of 55,278 basement tests at or above 4 pCi/L (below the 37% statewide share), Luzerne County has 1 DEP-certified mitigation firm based locally.
 
@@ -383,7 +383,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Luzerne
+## What should I check before hiring a radon pro in Luzerne?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

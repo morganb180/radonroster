@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in Sullivan County.** 18 certified firms in the 4 neighboring counties below are listed on PA DEP's certified lists and may serve Sullivan County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=sullivan)
 
-## Certified radon firms near Sullivan County
+## Which certified radon firms are near Sullivan County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in Sullivan County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -69,13 +71,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 
 * [Thomas Bennett](https://radonroster.com/pa/firms/thomas-bennett-f3509/) · Sayre · testing
 
-## Neighboring counties
+## Which counties border Sullivan County, PA?
 
 [Bradford](https://radonroster.com/pa/county/bradford/) (1 firm) · [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Wyoming](https://radonroster.com/pa/county/wyoming/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in Sullivan County: quick guide
+## How do I hire a radon pro in Sullivan County, PA?
 
 39% of 622 basement tests in Sullivan County were at or above 4 pCi/L (above the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -105,7 +107,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Sullivan
+## What should I check before hiring a radon pro in Sullivan?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

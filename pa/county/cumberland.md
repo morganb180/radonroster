@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation4](#mitigation)[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Cumberland County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -134,7 +134,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 763-1373](tel:7177631373)
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Cumberland County, PA? (2 firms)
 
 ### Cline, Jr., Joseph
 
@@ -183,17 +183,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 480-3357](tel:7174803357)
 
-## Neighboring counties
+## Which counties border Cumberland County, PA?
 
 [Adams](https://radonroster.com/pa/county/adams/) (6 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Cumberland County cities have Radon Roster hiring guides?
 
 [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) ([guide](https://radonroster.com/pa/city/camp-hill-pa/radon-guide/)) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) ([guide](https://radonroster.com/pa/city/mechanicsburg-pa/radon-guide/))
 
-## Hiring a radon pro in Cumberland County: quick guide
+## How do I hire a radon pro in Cumberland County, PA?
 
 With 55% of 76,621 basement tests at or above 4 pCi/L (above the 37% statewide share), Cumberland County has 4 DEP-certified mitigation firms based locally.
 
@@ -223,7 +223,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Cumberland
+## What should I check before hiring a radon pro in Cumberland?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

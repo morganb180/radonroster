@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Bradford County, PA? (1 firm)
 
 ### Bennett, Thomas
 
@@ -57,13 +57,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (607) 483-2690](tel:6074832690)
 
-## Neighboring counties
+## Which counties border Bradford County, PA?
 
 [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Sullivan](https://radonroster.com/pa/county/sullivan/) (0 firms) · [Susquehanna](https://radonroster.com/pa/county/susquehanna/) (1 firms) · [Tioga](https://radonroster.com/pa/county/tioga/) (1 firms) · [Wyoming](https://radonroster.com/pa/county/wyoming/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Bradford County: quick guide
+## How do I hire a radon pro in Bradford County, PA?
 
 With 49% of 4,704 basement tests at or above 4 pCi/L (above the 37% statewide share), Bradford County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -91,7 +91,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Bradford
+## What should I check before hiring a radon pro in Bradford?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

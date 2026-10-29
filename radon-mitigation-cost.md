@@ -17,7 +17,9 @@ typical national ranges from a third-party cost guide
 
 **Short answer:** PA DEP says a typical radon reduction system costs **$800 to $1,200** ([PA DEP, 2026](https://www.pa.gov/agencies/dep/newsroom/2026-01-12-dep-encourages-pennsylvanians-to-test-their-homes-for-radon-during-radon-action-month)). Your price depends on your home, and one national cost guide reports a wider $395 to $2,453 range. The older EPA guide below breaks cost out by method. Tested at 4 pCi/L or higher? See [how mitigation works in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/).
 
-## Cost by mitigation method (EPA, 2010)
+## How much does each radon mitigation method cost? (EPA, 2010)
+
+In EPA's 2010 guide, subslab suction (the most common method) cost $800 to $2,500 to install, and block-wall suction cost $1,500 to $3,000. PA DEP's current typical range for a system is $800 to $1,200.
 
 These figures come from EPA's January 2010
 Consumer's Guide to Radon Reduction
@@ -43,14 +45,14 @@ older than the DEP figure above
 | Basement pressurization | 50 to 99% | $500 to $1,500 | $150 to $500 |
 | Heat recovery ventilator (HRV) | varies | $1,200 to $2,500 | $75 to $500 |
 
-## Other costs to expect
+## What other radon mitigation costs should I expect?
 
 * **Fan replacement:** EPA's 2010 guide put it at about $200 to $350 including parts and labor. EPA says fans may last five years or more, and manufacturer warranties tend not to exceed five years.
 * **Operating cost:** $50 to $200 a year for a typical subslab system per the same EPA table, mostly fan electricity and conditioned air that escapes.
 * **Follow-up testing:** PA DEP says the installer should test after the system has run at least 24 hours, and you should retest every two years. A DIY kit costs about $20 to $30; see [free and low-cost test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/).
 * **Optional extras:** EPA says options such as an extended warranty, service plan or improved appearance can add to the up-front price.
 
-## Estimate tool
+## How can I estimate my radon mitigation cost?
 
 **Estimate only.** Uses only the national cost-guide figures cited above (HomeAdvisor). It isn't a quote, and Pennsylvania prices may differ.
 
@@ -60,7 +62,7 @@ Professional radon test before or after (typical $150-$800)
 
 Show the full reported range for mitigation ($395-$2,453)
 
-## What affects the price
+## What affects the price of radon mitigation?
 
 * Foundation type (basement, slab, crawlspace or a mix)
 * How easily soil gas moves under the slab, and how many suction points are needed
@@ -70,7 +72,7 @@ Show the full reported range for mitigation ($395-$2,453)
 
 Ask each contractor for their DEP certification number. It's shown on every listing here.
 
-## How to compare quotes
+## How do I compare radon mitigation quotes?
 
 EPA advises weighing what you get for the money: a cheaper system may cost more to operate and maintain, and the quality of materials affects how long it lasts. Ask each contractor whether the quote includes:
 
@@ -86,7 +88,9 @@ Source: [EPA Consumer's Guide to Radon Reduction](https://www.epa.gov/radon/cons
 
 [Get free quotes](https://radonroster.com/get-quotes/)
 
-## Get quotes near you
+## Where can I get radon mitigation quotes near me?
+
+Request free quotes through [Radon Roster](https://radonroster.com/get-quotes/), or browse PA DEP-certified mitigators by county below.
 
 Browse certified mitigators by county: [Montgomery County](https://radonroster.com/pa/county/montgomery/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/) · [Berks County](https://radonroster.com/pa/county/berks/) · [Bucks County](https://radonroster.com/pa/county/bucks/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/) · [all 67 counties](https://radonroster.com/pa/counties/). Or by city: [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/) · [Quakertown](https://radonroster.com/pa/city/quakertown-pa/) · [Reading](https://radonroster.com/pa/city/reading-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/) · [all cities](https://radonroster.com/pa/cities/).
 

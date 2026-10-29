@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Elk County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -60,13 +60,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 590-9754](tel:8145909754)
 
-## Neighboring counties
+## Which counties border Elk County, PA?
 
 [Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Jefferson](https://radonroster.com/pa/county/jefferson/) (0 firms) · [McKean](https://radonroster.com/pa/county/mckean/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Elk County: quick guide
+## How do I hire a radon pro in Elk County, PA?
 
 With 48% of 3,519 basement tests at or above 4 pCi/L (above the 37% statewide share), Elk County has 1 DEP-certified mitigation firm based locally.
 
@@ -94,7 +94,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Elk
+## What should I check before hiring a radon pro in Elk?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

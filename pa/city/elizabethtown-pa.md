@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/elizabethtown-pa/
 
 # Radon testing & mitigation in Elizabethtown, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Elizabethtown, PA: 50% of 6,382 basement radon tests with a Elizabethtown address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Lancaster County (55%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Elizabethtown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=elizabethtown).
+
 Elizabethtown sits in Lancaster County. In the PA DEP test dataset, 6,382 basement radon tests carry a Elizabethtown address. Their median was **3.9 pCi/L**, and **50%** came in at or above EPA's 4 pCi/L action level. Across all of Lancaster County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Elizabethtown radon test data
@@ -44,16 +46,20 @@ Below are the PA DEP-certified firms with a business address in Elizabethtown, t
 
 [**Read the Elizabethtown radon hiring guide →**](https://radonroster.com/pa/city/elizabethtown-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Elizabethtown (1)
+## Which certified radon firms are based in Elizabethtown, PA? (1)
 
-## Radon testing (1 firm)
+Radon Roster lists 1 PA DEP-certified radon firm with a business address in Elizabethtown; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
+
+## Where can I get radon testing in Elizabethtown, PA? (1 firm)
 
 ### [Muehling, Matthew](https://radonroster.com/pa/firms/matthew-muehling-f2795/)
 Elizabethtown 1 certified person
 
-## Elsewhere in Lancaster County (8)
+## Which other certified radon firms are in Lancaster County? (8)
 
-## Radon mitigation (reduction systems) (3 firms)
+Radon Roster lists 8 more PA DEP-certified firms elsewhere in Lancaster County. Certified pros often travel, so ask whether they cover your street in Elizabethtown.
+
+## Who else installs radon mitigation systems in Lancaster County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -66,7 +72,7 @@ Ephrata 1 certified person
 ### [Jk Mechanical Inc](https://radonroster.com/pa/firms/jk-mechanical-inc-f3747/)
 Willow Street 3 certified people
 
-## Radon testing (5 firms)
+## Where else can I get radon testing in Lancaster County? (5 firms)
 
 ### [Precise Inspecting](https://radonroster.com/pa/firms/precise-inspecting-f3295/)
 Lancaster 2 certified people
@@ -83,7 +89,9 @@ Quarryville 1 certified person
 ### [Angelucci, Thomas](https://radonroster.com/pa/firms/thomas-angelucci-f3283/)
 Stevens 1 certified person
 
-## Mitigation firms in neighboring counties (16)
+## Which radon mitigation firms near Elizabethtown are in neighboring counties? (16)
+
+16 PA DEP-certified mitigation firms are based in counties next to Lancaster County. Ask each one whether it serves your address in Elizabethtown.
 
 ### [Podolecki, Piotr](https://radonroster.com/pa/firms/piotr-podolecki-f2885/)
 Alburtis 1 certified person
@@ -177,7 +185,7 @@ We don't have Elizabethtown-specific price data. PA DEP says most radon mitigati
 
 More guides: [Elizabethtown radon hiring guide](https://radonroster.com/pa/city/elizabethtown-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Elizabethtown have radon pages?
 
 [Columbia](https://radonroster.com/pa/city/columbia-pa/) · [Ephrata](https://radonroster.com/pa/city/ephrata-pa/) · [Downingtown](https://radonroster.com/pa/city/downingtown-pa/) · [Hanover](https://radonroster.com/pa/city/hanover-pa/) · [Lebanon](https://radonroster.com/pa/city/lebanon-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/)
 
@@ -185,7 +193,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Elizabethtown
+## What should I check before hiring a radon pro in Elizabethtown?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

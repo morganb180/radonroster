@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation2](#mitigation)[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who installs radon mitigation systems in Lebanon County, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -86,7 +86,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 274-2541](tel:7172742541)
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Lebanon County, PA? (2 firms)
 
 ### Myers, Sean D.
 
@@ -135,13 +135,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 745-5545](tel:7177455545)
 
-## Neighboring counties
+## Which counties border Lebanon County, PA?
 
 [Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Lebanon County: quick guide
+## How do I hire a radon pro in Lebanon County, PA?
 
 With 60% of 26,763 basement tests at or above 4 pCi/L (above the 37% statewide share), Lebanon County has 2 DEP-certified mitigation firms based locally.
 
@@ -169,7 +169,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Lebanon
+## What should I check before hiring a radon pro in Lebanon?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

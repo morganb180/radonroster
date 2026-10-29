@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/pittsburgh-pa/
 
 # Radon testing & mitigation in Pittsburgh, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Pittsburgh, PA: 31% of 157,738 basement radon tests with a Pittsburgh address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Allegheny County (34%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 28 certified firms based in Pittsburgh, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=pittsburgh).
+
 Pittsburgh sits in Allegheny County. In the PA DEP test dataset, 157,738 basement radon tests carry a Pittsburgh address. Their median was **2.6 pCi/L**, and **31%** came in at or above EPA's 4 pCi/L action level. Across all of Allegheny County it was 34%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Pittsburgh radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Pittsburgh, then
 
 [**Read the Pittsburgh radon hiring guide →**](https://radonroster.com/pa/city/pittsburgh-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Pittsburgh (28)
+## Which certified radon firms are based in Pittsburgh, PA? (28)
+
+Radon Roster lists 28 PA DEP-certified radon firms with a business address in Pittsburgh; 3 of them are certified for mitigation.
 
 [Mitigation3](#local-mitigation)[Testing25](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Pittsburgh, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -110,7 +114,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 851-4231](tel:4128514231)
 
-## Radon testing (25 firms)
+## Where can I get radon testing in Pittsburgh, PA? (25 firms)
 
 ### Absolute Safeguard Ho
 
@@ -711,11 +715,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 325-0020](tel:7243250020)
 
-## Elsewhere in Allegheny County (16)
+## Which other certified radon firms are in Allegheny County? (16)
+
+Radon Roster lists 16 more PA DEP-certified firms elsewhere in Allegheny County. Certified pros often travel, so ask whether they cover your street in Pittsburgh.
 
 [Mitigation1](#county-mitigation)[Testing15](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Allegheny County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -742,7 +748,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 940-3366](tel:7249403366)
 
-## Radon testing (15 firms)
+## Where else can I get radon testing in Allegheny County? (15 firms)
 
 ### Certified Radon Inc.
 
@@ -1116,7 +1122,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 284-3630](tel:4122843630)
 
-## Mitigation firms in neighboring counties (10)
+## Which radon mitigation firms near Pittsburgh are in neighboring counties? (10)
+
+10 PA DEP-certified mitigation firms are based in counties next to Allegheny County. Ask each one whether it serves your address in Pittsburgh.
 
 ### Alpha Radon, LLC
 
@@ -1405,7 +1413,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Pittsburgh mitigators[Request quotes](https://radonroster.com/get-quotes/?city=pittsburgh)
 
-## Nearby city pages
+## Which cities near Pittsburgh have radon pages?
 
 [Canonsburg](https://radonroster.com/pa/city/canonsburg-pa/) · [Cranberry Township](https://radonroster.com/pa/city/cranberry-township-pa/) · [Greensburg](https://radonroster.com/pa/city/greensburg-pa/)
 
@@ -1413,7 +1421,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Pittsburgh
+## What should I check before hiring a radon pro in Pittsburgh?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

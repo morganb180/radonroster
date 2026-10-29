@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation8](#mitigation)[Testing21](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (8 firms)
+## Who installs radon mitigation systems in Montgomery County, PA? (8 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -234,7 +234,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 495-2810](tel:6104952810)
 
-## Radon testing (21 firms)
+## Where can I get radon testing in Montgomery County, PA? (21 firms)
 
 ### Clerkin, Diane
 
@@ -758,17 +758,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 277-4953](tel:6102774953)
 
-## Neighboring counties
+## Which counties border Montgomery County, PA?
 
 [Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Delaware](https://radonroster.com/pa/county/delaware/) (12 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Philadelphia](https://radonroster.com/pa/county/philadelphia/) (10 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Montgomery County cities have Radon Roster hiring guides?
 
 [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) ([guide](https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/)) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) ([guide](https://radonroster.com/pa/city/lansdale-pa/radon-guide/)) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) ([guide](https://radonroster.com/pa/city/norristown-pa/radon-guide/))
 
-## Hiring a radon pro in Montgomery County: quick guide
+## How do I hire a radon pro in Montgomery County, PA?
 
 With 28% of 296,621 basement tests at or above 4 pCi/L (below the 37% statewide share), Montgomery County has 8 DEP-certified mitigation firms based locally.
 
@@ -798,7 +798,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Montgomery
+## What should I check before hiring a radon pro in Montgomery?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

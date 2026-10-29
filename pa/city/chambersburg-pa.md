@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/chambersburg-pa/
 
 # Radon testing & mitigation in Chambersburg, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Chambersburg, PA: 59% of 9,035 basement radon tests with a Chambersburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Franklin County (59%) and above the statewide 37%. The median Chambersburg result, 5.4 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Chambersburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=chambersburg).
+
 Chambersburg sits in Franklin County. In the PA DEP test dataset, 9,035 basement radon tests carry a Chambersburg address. Their median was **5.4 pCi/L**, and **59%** came in at or above EPA's 4 pCi/L action level. Across all of Franklin County it was 59%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Chambersburg radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Chambersburg, th
 
 [**Read the Chambersburg radon hiring guide →**](https://radonroster.com/pa/city/chambersburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Chambersburg (2)
+## Which certified radon firms are based in Chambersburg, PA? (2)
+
+Radon Roster lists 2 PA DEP-certified radon firms with a business address in Chambersburg; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Chambersburg, PA? (2 firms)
 
 ### Baxter Environmental
 
@@ -85,11 +89,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (800) 791-7920](tel:8007917920)
 
-## Elsewhere in Franklin County (3)
+## Which other certified radon firms are in Franklin County? (3)
+
+Radon Roster lists 3 more PA DEP-certified firms elsewhere in Franklin County. Certified pros often travel, so ask whether they cover your street in Chambersburg.
 
 Mitigation 0[Testing3](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where else can I get radon testing in Franklin County? (3 firms)
 
 ### Shirley, Alan
 
@@ -162,7 +168,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 248-0825](tel:6102480825)
 
-## Mitigation firms in neighboring counties (5)
+## Which radon mitigation firms near Chambersburg are in neighboring counties? (5)
+
+5 PA DEP-certified mitigation firms are based in counties next to Franklin County. Ask each one whether it serves your address in Chambersburg.
 
 ### Radon Protection Services Of Gettysburg
 
@@ -312,7 +320,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=chambersburg)
 
-## Nearby city pages
+## Which cities near Chambersburg have radon pages?
 
 [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/)
 
@@ -320,7 +328,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Chambersburg
+## What should I check before hiring a radon pro in Chambersburg?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

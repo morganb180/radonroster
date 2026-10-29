@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/canonsburg-pa/
 
 # Radon testing & mitigation in Canonsburg, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Canonsburg, PA: 29% of 9,725 basement radon tests with a Canonsburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Washington County (34%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Canonsburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=canonsburg).
+
 Canonsburg sits in Washington County. In the PA DEP test dataset, 9,725 basement radon tests carry a Canonsburg address. Their median was **2.6 pCi/L**, and **29%** came in at or above EPA's 4 pCi/L action level. Across all of Washington County it was 34%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Canonsburg radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Canonsburg, then
 
 [**Read the Canonsburg radon hiring guide →**](https://radonroster.com/pa/city/canonsburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Canonsburg (4)
+## Which certified radon firms are based in Canonsburg, PA? (4)
+
+Radon Roster lists 4 PA DEP-certified radon firms with a business address in Canonsburg; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing4](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (4 firms)
+## Where can I get radon testing in Canonsburg, PA? (4 firms)
 
 ### Heritage Home Insp
 
@@ -135,11 +139,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 912-8686](tel:4129128686)
 
-## Elsewhere in Washington County (3)
+## Which other certified radon firms are in Washington County? (3)
+
+Radon Roster lists 3 more PA DEP-certified firms elsewhere in Washington County. Certified pros often travel, so ask whether they cover your street in Canonsburg.
 
 [Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Washington County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -176,7 +182,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 584-0799](tel:4125840799)
 
-## Radon testing (2 firms)
+## Where else can I get radon testing in Washington County? (2 firms)
 
 ### Tayzak Inc
 
@@ -225,7 +231,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 413-5522](tel:7244135522)
 
-## Mitigation firms in neighboring counties (12)
+## Which radon mitigation firms near Canonsburg are in neighboring counties? (12)
+
+12 PA DEP-certified mitigation firms are based in counties next to Washington County. Ask each one whether it serves your address in Canonsburg.
 
 ### Bacchus, Brian C.
 
@@ -547,7 +555,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=canonsburg)
 
-## Nearby city pages
+## Which cities near Canonsburg have radon pages?
 
 [Greensburg](https://radonroster.com/pa/city/greensburg-pa/) · [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/)
 
@@ -555,7 +563,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Canonsburg
+## What should I check before hiring a radon pro in Canonsburg?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

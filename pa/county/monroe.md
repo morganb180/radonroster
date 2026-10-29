@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation3](#mitigation)[Testing8](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Monroe County, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -106,7 +106,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 402-1916](tel:5704021916)
 
-## Radon testing (8 firms)
+## Where can I get radon testing in Monroe County, PA? (8 firms)
 
 ### Comfortspec Home
 
@@ -303,17 +303,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 595-6092](tel:5705956092)
 
-## Neighboring counties
+## Which counties border Monroe County, PA?
 
 [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Lackawanna](https://radonroster.com/pa/county/lackawanna/) (9 firms) · [Luzerne](https://radonroster.com/pa/county/luzerne/) (13 firms) · [Northampton](https://radonroster.com/pa/county/northampton/) (7 firms) · [Pike](https://radonroster.com/pa/county/pike/) (7 firms) · [Wayne](https://radonroster.com/pa/county/wayne/) (4 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Monroe County cities have Radon Roster hiring guides?
 
 [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/) ([guide](https://radonroster.com/pa/city/stroudsburg-pa/radon-guide/))
 
-## Hiring a radon pro in Monroe County: quick guide
+## How do I hire a radon pro in Monroe County, PA?
 
 With 46% of 39,824 basement tests at or above 4 pCi/L (above the 37% statewide share), Monroe County has 3 DEP-certified mitigation firms based locally.
 
@@ -343,7 +343,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Monroe
+## What should I check before hiring a radon pro in Monroe?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

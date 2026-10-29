@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation2](#mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who installs radon mitigation systems in Snyder County, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -84,13 +84,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 496-9810](tel:6104969810)
 
-## Neighboring counties
+## Which counties border Snyder County, PA?
 
 [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Snyder County: quick guide
+## How do I hire a radon pro in Snyder County, PA?
 
 With 50% of 4,749 basement tests at or above 4 pCi/L (above the 37% statewide share), Snyder County has 2 DEP-certified mitigation firms based locally.
 
@@ -118,7 +118,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Snyder
+## What should I check before hiring a radon pro in Snyder?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

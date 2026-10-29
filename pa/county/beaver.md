@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation3](#mitigation)[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Beaver County, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -121,7 +121,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 375-1700](tel:7243751700)
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Beaver County, PA? (3 firms)
 
 ### Barber, Jason
 
@@ -194,13 +194,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 495-2331](tel:7244952331)
 
-## Neighboring counties
+## Which counties border Beaver County, PA?
 
 [Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Lawrence](https://radonroster.com/pa/county/lawrence/) (2 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Beaver County: quick guide
+## How do I hire a radon pro in Beaver County, PA?
 
 With 48% of 30,533 basement tests at or above 4 pCi/L (above the 37% statewide share), Beaver County has 3 DEP-certified mitigation firms based locally.
 
@@ -228,7 +228,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Beaver
+## What should I check before hiring a radon pro in Beaver?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

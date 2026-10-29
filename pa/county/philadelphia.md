@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation2](#mitigation)[Testing8](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who installs radon mitigation systems in Philadelphia County, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -86,7 +86,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (267) 269-5573](tel:2672695573)
 
-## Radon testing (8 firms)
+## Where can I get radon testing in Philadelphia County, PA? (8 firms)
 
 ### Borkowski, Patrick
 
@@ -279,17 +279,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 205-4453](tel:2152054453)
 
-## Neighboring counties
+## Which counties border Philadelphia County, PA?
 
 [Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Delaware](https://radonroster.com/pa/county/delaware/) (12 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Philadelphia County cities have Radon Roster hiring guides?
 
 [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/) ([guide](https://radonroster.com/pa/city/philadelphia-pa/radon-guide/))
 
-## Hiring a radon pro in Philadelphia County: quick guide
+## How do I hire a radon pro in Philadelphia County, PA?
 
 With 12% of 155,445 basement tests at or above 4 pCi/L (below the 37% statewide share), Philadelphia County has 2 DEP-certified mitigation firms based locally.
 
@@ -319,7 +319,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Philadelphia
+## What should I check before hiring a radon pro in Philadelphia?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

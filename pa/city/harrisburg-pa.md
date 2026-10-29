@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/harrisburg-pa/
 
 # Radon testing & mitigation in Harrisburg, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Harrisburg, PA: 52% of 38,427 basement radon tests with a Harrisburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Dauphin County (51%) and above the statewide 37%. The median Harrisburg result, 4.3 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 6 certified firms based in Harrisburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=harrisburg).
+
 Harrisburg sits in Dauphin County. In the PA DEP test dataset, 38,427 basement radon tests carry a Harrisburg address. Their median was **4.3 pCi/L**, and **52%** came in at or above EPA's 4 pCi/L action level. Across all of Dauphin County it was 51%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Harrisburg radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Harrisburg, then
 
 [**Read the Harrisburg radon hiring guide →**](https://radonroster.com/pa/city/harrisburg-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Harrisburg (6)
+## Which certified radon firms are based in Harrisburg, PA? (6)
+
+Radon Roster lists 6 PA DEP-certified radon firms with a business address in Harrisburg; 3 of them are certified for mitigation.
 
 [Mitigation4](#local-mitigation)[Testing1](#local-testing)[Labs1](#local-lab)Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Harrisburg, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -112,7 +116,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-5365](tel:7174255365)
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Harrisburg, PA? (1 firm)
 
 ### Wentz, Brian
 
@@ -137,7 +141,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 540-5970](tel:7175405970)
 
-## Radon laboratories (1 firm)
+## Which radon labs are in Harrisburg, PA? (1 firm)
 
 ### Accustar Labs
 
@@ -165,11 +169,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 274-8310](tel:7172748310)
 
-## Elsewhere in Dauphin County (3)
+## Which other certified radon firms are in Dauphin County? (3)
+
+Radon Roster lists 3 more PA DEP-certified firms elsewhere in Dauphin County. Certified pros often travel, so ask whether they cover your street in Harrisburg.
 
 [Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Dauphin County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -196,7 +202,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-0989](tel:7174250989)
 
-## Radon testing (2 firms)
+## Where else can I get radon testing in Dauphin County? (2 firms)
 
 ### Matteson, Chris
 
@@ -245,7 +251,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 364-0060](tel:7173640060)
 
-## Mitigation firms in neighboring counties (13)
+## Which radon mitigation firms near Harrisburg are in neighboring counties? (13)
+
+13 PA DEP-certified mitigation firms are based in counties next to Dauphin County. Ask each one whether it serves your address in Harrisburg.
 
 ### American Radon Solutions, Inc.
 
@@ -586,7 +594,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=harrisburg)
 
-## Nearby city pages
+## Which cities near Harrisburg have radon pages?
 
 [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/) · [York](https://radonroster.com/pa/city/york-pa/)
 
@@ -594,7 +602,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Harrisburg
+## What should I check before hiring a radon pro in Harrisburg?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

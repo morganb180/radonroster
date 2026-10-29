@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Wayne County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -62,7 +62,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 647-4995](tel:5706474995)
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Wayne County, PA? (3 firms)
 
 ### Frederici, Daniel
 
@@ -136,13 +136,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 251-1052](tel:5702511052)
 
-## Neighboring counties
+## Which counties border Wayne County, PA?
 
 [Lackawanna](https://radonroster.com/pa/county/lackawanna/) (9 firms) · [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Pike](https://radonroster.com/pa/county/pike/) (7 firms) · [Susquehanna](https://radonroster.com/pa/county/susquehanna/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Wayne County: quick guide
+## How do I hire a radon pro in Wayne County, PA?
 
 With 29% of 14,704 basement tests at or above 4 pCi/L (below the 37% statewide share), Wayne County has 1 DEP-certified mitigation firm based locally.
 
@@ -170,7 +170,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Wayne
+## What should I check before hiring a radon pro in Wayne?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

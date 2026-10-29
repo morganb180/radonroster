@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Clinton County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 433-8210](tel:5704338210)
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Clinton County, PA? (1 firm)
 
 ### Hancock, Gregory
 
@@ -85,13 +85,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 769-6365](tel:5707696365)
 
-## Neighboring counties
+## Which counties border Clinton County, PA?
 
 [Cameron](https://radonroster.com/pa/county/cameron/) (0 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Clinton County: quick guide
+## How do I hire a radon pro in Clinton County, PA?
 
 With 46% of 4,724 basement tests at or above 4 pCi/L (above the 37% statewide share), Clinton County has 1 DEP-certified mitigation firm based locally.
 
@@ -119,7 +119,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Clinton
+## What should I check before hiring a radon pro in Clinton?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

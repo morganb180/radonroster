@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Somerset County, PA? (1 firm)
 
 ### Hill, Stephen
 
@@ -58,13 +58,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (833) 445-5776](tel:8334455776)
 
-## Neighboring counties
+## Which counties border Somerset County, PA?
 
 [Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Somerset County: quick guide
+## How do I hire a radon pro in Somerset County, PA?
 
 With 44% of 5,585 basement tests at or above 4 pCi/L (above the 37% statewide share), Somerset County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -92,7 +92,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Somerset
+## What should I check before hiring a radon pro in Somerset?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

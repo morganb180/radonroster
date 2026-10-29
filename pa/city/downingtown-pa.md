@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/downingtown-pa/
 
 # Radon testing & mitigation in Downingtown, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Downingtown, PA: 35% of 27,571 basement radon tests with a Downingtown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Chester County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Downingtown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=downingtown).
+
 Downingtown sits in Chester County. In the PA DEP test dataset, 27,571 basement radon tests carry a Downingtown address. Their median was **2.6 pCi/L**, and **35%** came in at or above EPA's 4 pCi/L action level. Across all of Chester County it was 31%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Downingtown radon test data
@@ -44,9 +46,11 @@ Below are the PA DEP-certified firms with a business address in Downingtown, the
 
 [**Read the Downingtown radon hiring guide →**](https://radonroster.com/pa/city/downingtown-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Downingtown (3)
+## Which certified radon firms are based in Downingtown, PA? (3)
 
-## Radon testing (3 firms)
+Radon Roster lists 3 PA DEP-certified radon firms with a business address in Downingtown; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
+
+## Where can I get radon testing in Downingtown, PA? (3 firms)
 
 ### [Labar, James](https://radonroster.com/pa/firms/james-labar-f3756/)
 Downingtown 1 certified person
@@ -57,9 +61,11 @@ Downingtown 1 certified person
 ### [Stumm, Brian](https://radonroster.com/pa/firms/brian-stumm-f3181/)
 Downingtown 1 certified person
 
-## Elsewhere in Chester County (15)
+## Which other certified radon firms are in Chester County? (15)
 
-## Radon mitigation (reduction systems) (3 firms)
+Radon Roster lists 15 more PA DEP-certified firms elsewhere in Chester County. Certified pros often travel, so ask whether they cover your street in Downingtown.
+
+## Who else installs radon mitigation systems in Chester County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -72,7 +78,7 @@ Pottstown 1 certified person
 ### [Safe Shelter Environmental](https://radonroster.com/pa/firms/safe-shelter-environmental-f0207/)
 West Chester 6 certified people
 
-## Radon testing (11 firms)
+## Where else can I get radon testing in Chester County? (11 firms)
 
 ### [Homer Inspection Services](https://radonroster.com/pa/firms/homer-inspection-services-f3196/)
 Atglen 4 certified people
@@ -107,12 +113,14 @@ Unionville 2 certified people
 ### [Inspection Service](https://radonroster.com/pa/firms/inspection-service-f8877/)
 West Chester 1 certified person
 
-## Radon laboratories (1 firm)
+## Which other radon labs are in Chester County? (1 firm)
 
 ### [Gordon, Margie L.](https://radonroster.com/pa/firms/margie-l-gordon-f1627/)
 Coatesville 1 certified person
 
-## Mitigation firms in neighboring counties (16)
+## Which radon mitigation firms near Downingtown are in neighboring counties? (16)
+
+16 PA DEP-certified mitigation firms are based in counties next to Chester County. Ask each one whether it serves your address in Downingtown.
 
 ### [Rjh Radon Mitigation Inc](https://radonroster.com/pa/firms/rjh-radon-mitigation-inc-f0565/)
 Akron 2 certified people
@@ -206,7 +214,7 @@ We don't have Downingtown-specific price data. PA DEP says most radon mitigation
 
 More guides: [Downingtown radon hiring guide](https://radonroster.com/pa/city/downingtown-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Downingtown have radon pages?
 
 [Columbia](https://radonroster.com/pa/city/columbia-pa/) · [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/) · [Ephrata](https://radonroster.com/pa/city/ephrata-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/)
 
@@ -214,7 +222,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Downingtown
+## What should I check before hiring a radon pro in Downingtown?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

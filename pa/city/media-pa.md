@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/media-pa/
 
 # Radon testing & mitigation in Media, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Media, PA: 28% of 14,007 basement radon tests with a Media address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Delaware County (20%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Media, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=media).
+
 Media sits in Delaware County. In the PA DEP test dataset, 14,007 basement radon tests carry a Media address. Their median was **2.4 pCi/L**, and **28%** came in at or above EPA's 4 pCi/L action level. Across all of Delaware County it was 20%, and statewide 37%. That is above the county share, so testing matters here.
 
 ## Media radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Media, then othe
 
 [**Read the Media radon hiring guide →**](https://radonroster.com/pa/city/media-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Media (3)
+## Which certified radon firms are based in Media, PA? (3)
+
+Radon Roster lists 3 PA DEP-certified radon firms with a business address in Media; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Media, PA? (3 firms)
 
 ### House Inspect, Inc
 
@@ -109,11 +113,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 891-6611](tel:6108916611)
 
-## Elsewhere in Delaware County (9)
+## Which other certified radon firms are in Delaware County? (9)
+
+Radon Roster lists 9 more PA DEP-certified firms elsewhere in Delaware County. Certified pros often travel, so ask whether they cover your street in Media.
 
 [Mitigation1](#county-mitigation)[Testing8](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Delaware County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -140,7 +146,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 909-4356](tel:6109094356)
 
-## Radon testing (8 firms)
+## Where else can I get radon testing in Delaware County? (8 firms)
 
 ### Knell, Jon
 
@@ -333,7 +339,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 604-9996](tel:6106049996)
 
-## Mitigation firms in neighboring counties (13)
+## Which radon mitigation firms near Media are in neighboring counties? (13)
+
+13 PA DEP-certified mitigation firms are based in counties next to Delaware County. Ask each one whether it serves your address in Media.
 
 ### Conrad, Spencer
 
@@ -681,7 +689,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/get-quotes/?city=media)
 
-## Nearby city pages
+## Which cities near Media have radon pages?
 
 [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/)
 
@@ -689,7 +697,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Media
+## What should I check before hiring a radon pro in Media?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

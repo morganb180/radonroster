@@ -82,7 +82,7 @@ The web version is an interactive choropleth map (SVG) of the 67 counties, shade
 
 Source: Radon Roster analysis of PA DEP's [Radon Test Results, September 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (PA Open Data Portal, public domain), retrieved 2026-10-11. Counts tests reported to DEP, not homes; repeat and post-mitigation tests are included. Boundaries: U.S. Census Bureau cartographic boundary file (2023), simplified.
 
-## Embed this map
+## How do I embed this Pennsylvania radon map?
 
 Free to embed with the credit line:
 

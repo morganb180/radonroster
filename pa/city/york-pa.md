@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/york-pa/
 
 # Radon testing & mitigation in York, PA
 
+**Quick answer:** For homeowners, buyers and sellers in York, PA: 58% of 28,440 basement radon tests with a York address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median York result, 5.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 5 certified firms based in York, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=york).
+
 York sits in York County. In the PA DEP test dataset, 28,440 basement radon tests carry a York address. Their median was **5.0 pCi/L**, and **58%** came in at or above EPA's 4 pCi/L action level. Across all of York County it was 56%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## York radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in York, then other
 
 [**Read the York radon hiring guide →**](https://radonroster.com/pa/city/york-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in York (5)
+## Which certified radon firms are based in York, PA? (5)
+
+Radon Roster lists 5 PA DEP-certified radon firms with a business address in York; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)[Testing4](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in York, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -65,7 +69,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 755-5398](tel:7177555398)
 
-## Radon testing (4 firms)
+## Where can I get radon testing in York, PA? (4 firms)
 
 ### Hoffman, Dan
 
@@ -164,11 +168,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (410) 357-1124](tel:4103571124)
 
-## Elsewhere in York County (3)
+## Which other certified radon firms are in York County? (3)
+
+Radon Roster lists 3 more PA DEP-certified firms elsewhere in York County. Certified pros often travel, so ask whether they cover your street in York.
 
 [Mitigation2](#county-mitigation)[Testing1](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who else installs radon mitigation systems in York County? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -218,7 +224,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 432-9575](tel:7174329575)
 
-## Radon testing (1 firm)
+## Where else can I get radon testing in York County? (1 firm)
 
 ### Haney, Shawn
 
@@ -243,7 +249,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 808-2551](tel:7178082551)
 
-## Mitigation firms in neighboring counties (13)
+## Which radon mitigation firms near York are in neighboring counties? (13)
+
+13 PA DEP-certified mitigation firms are based in counties next to York County. Ask each one whether it serves your address in York.
 
 ### Radon Protection Services Of Gettysburg
 
@@ -563,7 +571,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?city=york)
 
-## Nearby city pages
+## Which cities near York have radon pages?
 
 [Camp Hill](https://radonroster.com/pa/city/camp-hill-pa/) · [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) · [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Mechanicsburg](https://radonroster.com/pa/city/mechanicsburg-pa/)
 
@@ -571,7 +579,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in York
+## What should I check before hiring a radon pro in York?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

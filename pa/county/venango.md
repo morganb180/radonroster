@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing2](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Venango County, PA? (2 firms)
 
 ### Dillion, Jason
 
@@ -80,13 +80,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 758-3022](tel:8147583022)
 
-## Neighboring counties
+## Which counties border Venango County, PA?
 
 [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Clarion](https://radonroster.com/pa/county/clarion/) (0 firms) · [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Forest](https://radonroster.com/pa/county/forest/) (0 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Venango County: quick guide
+## How do I hire a radon pro in Venango County, PA?
 
 With 46% of 5,018 basement tests at or above 4 pCi/L (above the 37% statewide share), Venango County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -114,7 +114,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Venango
+## What should I check before hiring a radon pro in Venango?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

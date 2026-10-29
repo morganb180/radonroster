@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation2](#mitigation)[Testing4](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (2 firms)
+## Who installs radon mitigation systems in Erie County, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -82,7 +82,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 873-4900](tel:8148734900)
 
-## Radon testing (4 firms)
+## Where can I get radon testing in Erie County, PA? (4 firms)
 
 ### Banister, Joseph
 
@@ -177,17 +177,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 920-4171](tel:8149204171)
 
-## Neighboring counties
+## Which counties border Erie County, PA?
 
 [Crawford](https://radonroster.com/pa/county/crawford/) (3 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Erie County cities have Radon Roster hiring guides?
 
 [Erie](https://radonroster.com/pa/city/erie-pa/) ([guide](https://radonroster.com/pa/city/erie-pa/radon-guide/))
 
-## Hiring a radon pro in Erie County: quick guide
+## How do I hire a radon pro in Erie County, PA?
 
 With 28% of 41,146 basement tests at or above 4 pCi/L (below the 37% statewide share), Erie County has 2 DEP-certified mitigation firms based locally.
 
@@ -217,7 +217,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Erie
+## What should I check before hiring a radon pro in Erie?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

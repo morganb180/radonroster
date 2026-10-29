@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing11](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Delaware County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 909-4356](tel:6109094356)
 
-## Radon testing (11 firms)
+## Where can I get radon testing in Delaware County, PA? (11 firms)
 
 ### Knell, Jon
 
@@ -323,17 +323,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 604-9996](tel:6106049996)
 
-## Neighboring counties
+## Which counties border Delaware County, PA?
 
 [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms) · [Philadelphia](https://radonroster.com/pa/county/philadelphia/) (10 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Delaware County cities have Radon Roster hiring guides?
 
 [Media](https://radonroster.com/pa/city/media-pa/) ([guide](https://radonroster.com/pa/city/media-pa/radon-guide/))
 
-## Hiring a radon pro in Delaware County: quick guide
+## How do I hire a radon pro in Delaware County, PA?
 
 With 20% of 151,566 basement tests at or above 4 pCi/L (below the 37% statewide share), Delaware County has 1 DEP-certified mitigation firm based locally.
 
@@ -363,7 +363,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Delaware
+## What should I check before hiring a radon pro in Delaware?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

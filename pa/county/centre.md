@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation3](#mitigation)[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Centre County, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -108,7 +108,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 278-7751](tel:8142787751)
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Centre County, PA? (1 firm)
 
 ### Todd Giddings & As
 
@@ -134,17 +134,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 238-5927](tel:8142385927)
 
-## Neighboring counties
+## Which counties border Centre County, PA?
 
 [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Clinton](https://radonroster.com/pa/county/clinton/) (2 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Centre County cities have Radon Roster hiring guides?
 
 [State College](https://radonroster.com/pa/city/state-college-pa/) ([guide](https://radonroster.com/pa/city/state-college-pa/radon-guide/))
 
-## Hiring a radon pro in Centre County: quick guide
+## How do I hire a radon pro in Centre County, PA?
 
 With 56% of 39,814 basement tests at or above 4 pCi/L (above the 37% statewide share), Centre County has 3 DEP-certified mitigation firms based locally.
 
@@ -174,7 +174,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Centre
+## What should I check before hiring a radon pro in Centre?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/lansdale-pa/
 
 # Radon testing & mitigation in Lansdale, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Lansdale, PA: 25% of 19,617 basement radon tests with a Lansdale address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Lansdale, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lansdale).
+
 Lansdale sits in Montgomery County. In the PA DEP test dataset, 19,617 basement radon tests carry a Lansdale address. Their median was **2.2 pCi/L**, and **25%** came in at or above EPA's 4 pCi/L action level. Across all of Montgomery County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Lansdale radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Lansdale, then o
 
 [**Read the Lansdale radon hiring guide →**](https://radonroster.com/pa/city/lansdale-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Lansdale (3)
+## Which certified radon firms are based in Lansdale, PA? (3)
+
+Radon Roster lists 3 PA DEP-certified radon firms with a business address in Lansdale; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Lansdale, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -66,7 +70,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 247-6869](tel:2152476869)
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Lansdale, PA? (2 firms)
 
 ### Eslinger, Christopher
 
@@ -120,11 +124,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (215) 362-1234](tel:2153621234)
 
-## Elsewhere in Montgomery County (26)
+## Which other certified radon firms are in Montgomery County? (26)
+
+Radon Roster lists 26 more PA DEP-certified firms elsewhere in Montgomery County. Certified pros often travel, so ask whether they cover your street in Lansdale.
 
 [Mitigation7](#county-mitigation)[Testing19](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (7 firms)
+## Who else installs radon mitigation systems in Montgomery County? (7 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -300,7 +306,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 495-2810](tel:6104952810)
 
-## Radon testing (19 firms)
+## Where else can I get radon testing in Montgomery County? (19 firms)
 
 ### Clerkin, Diane
 
@@ -772,7 +778,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 277-4953](tel:6102774953)
 
-## Mitigation firms in neighboring counties (18)
+## Which radon mitigation firms near Lansdale are in neighboring counties? (18)
+
+18 PA DEP-certified mitigation firms are based in counties next to Montgomery County. Ask each one whether it serves your address in Lansdale.
 
 ### Podolecki, Piotr
 
@@ -1241,7 +1249,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lansdale)
 
-## Nearby city pages
+## Which cities near Lansdale have radon pages?
 
 [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/)
 
@@ -1249,7 +1257,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Lansdale
+## What should I check before hiring a radon pro in Lansdale?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

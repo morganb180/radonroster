@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation4](#mitigation)[Testing40](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Allegheny County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -129,7 +129,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 940-3366](tel:7249403366)
 
-## Radon testing (40 firms)
+## Where can I get radon testing in Allegheny County, PA? (40 firms)
 
 ### Certified Radon Inc.
 
@@ -1102,17 +1102,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (412) 284-3630](tel:4122843630)
 
-## Neighboring counties
+## Which counties border Allegheny County, PA?
 
 [Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Beaver](https://radonroster.com/pa/county/beaver/) (6 firms) · [Butler](https://radonroster.com/pa/county/butler/) (12 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Allegheny County cities have Radon Roster hiring guides?
 
 [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/) ([guide](https://radonroster.com/pa/city/pittsburgh-pa/radon-guide/))
 
-## Hiring a radon pro in Allegheny County: quick guide
+## How do I hire a radon pro in Allegheny County, PA?
 
 With 34% of 311,850 basement tests at or above 4 pCi/L (below the 37% statewide share), Allegheny County has 4 DEP-certified mitigation firms based locally.
 
@@ -1142,7 +1142,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Allegheny
+## What should I check before hiring a radon pro in Allegheny?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

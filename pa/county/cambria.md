@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Cambria County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 525-0895](tel:8145250895)
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Cambria County, PA? (3 firms)
 
 ### Smith, Jeffrey
 
@@ -131,17 +131,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 826-1123](tel:8148261123)
 
-## Neighboring counties
+## Which counties border Cambria County, PA?
 
 [Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Clearfield](https://radonroster.com/pa/county/clearfield/) (1 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Somerset](https://radonroster.com/pa/county/somerset/) (1 firms) · [Westmoreland](https://radonroster.com/pa/county/westmoreland/) (17 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Cambria County cities have Radon Roster hiring guides?
 
 [Johnstown](https://radonroster.com/pa/city/johnstown-pa/) ([guide](https://radonroster.com/pa/city/johnstown-pa/radon-guide/))
 
-## Hiring a radon pro in Cambria County: quick guide
+## How do I hire a radon pro in Cambria County, PA?
 
 With 43% of 16,349 basement tests at or above 4 pCi/L (above the 37% statewide share), Cambria County has 1 DEP-certified mitigation firm based locally.
 
@@ -171,7 +171,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Cambria
+## What should I check before hiring a radon pro in Cambria?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/lebanon-pa/
 
 # Radon testing & mitigation in Lebanon, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Lebanon, PA: 60% of 10,794 basement radon tests with a Lebanon address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lebanon result, 6.6 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Lebanon, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lebanon).
+
 Lebanon sits in Lebanon County. In the PA DEP test dataset, 10,794 basement radon tests carry a Lebanon address. Their median was **6.6 pCi/L**, and **60%** came in at or above EPA's 4 pCi/L action level. Across all of Lebanon County it was 60%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Lebanon radon test data
@@ -44,9 +46,11 @@ Below are the PA DEP-certified firms with a business address in Lebanon, then ot
 
 [**Read the Lebanon radon hiring guide →**](https://radonroster.com/pa/city/lebanon-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Lebanon (2)
+## Which certified radon firms are based in Lebanon, PA? (2)
 
-## Radon mitigation (reduction systems) (2 firms)
+Radon Roster lists 2 PA DEP-certified radon firms with a business address in Lebanon; 2 of them are certified for mitigation.
+
+## Who installs radon mitigation systems in Lebanon, PA? (2 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -56,9 +60,11 @@ Lebanon 3 certified people
 ### [Verna, Sr., Edward](https://radonroster.com/pa/firms/verna-sr-edward-f2231/)
 Lebanon 1 certified person
 
-## Elsewhere in Lebanon County (2)
+## Which other certified radon firms are in Lebanon County? (2)
 
-## Radon testing (2 firms)
+Radon Roster lists 2 more PA DEP-certified firms elsewhere in Lebanon County. Certified pros often travel, so ask whether they cover your street in Lebanon.
+
+## Where else can I get radon testing in Lebanon County? (2 firms)
 
 ### [Myers, Sean D.](https://radonroster.com/pa/firms/sean-d-myers-f3460/)
 Myerstown 1 certified person
@@ -66,7 +72,9 @@ Myerstown 1 certified person
 ### [Pearsall, Derek](https://radonroster.com/pa/firms/derek-pearsall-f3626/)
 Richland 1 certified person
 
-## Mitigation firms in neighboring counties (12)
+## Which radon mitigation firms near Lebanon are in neighboring counties? (12)
+
+12 PA DEP-certified mitigation firms are based in counties next to Lebanon County. Ask each one whether it serves your address in Lebanon.
 
 ### [Rjh Radon Mitigation Inc](https://radonroster.com/pa/firms/rjh-radon-mitigation-inc-f0565/)
 Akron 2 certified people
@@ -158,7 +166,7 @@ We don't have Lebanon-specific price data. PA DEP says most radon mitigation sys
 
 More guides: [Lebanon radon hiring guide](https://radonroster.com/pa/city/lebanon-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Lebanon have radon pages?
 
 [Columbia](https://radonroster.com/pa/city/columbia-pa/) · [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/) · [Ephrata](https://radonroster.com/pa/city/ephrata-pa/) · [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/)
 
@@ -166,7 +174,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Lebanon
+## What should I check before hiring a radon pro in Lebanon?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

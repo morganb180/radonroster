@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation3](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who installs radon mitigation systems in Lancaster County, PA? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -111,7 +111,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 464-0111](tel:7174640111)
 
-## Radon testing (6 firms)
+## Where can I get radon testing in Lancaster County, PA? (6 firms)
 
 ### Muehling, Matthew
 
@@ -254,17 +254,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 413-4582](tel:7174134582)
 
-## Neighboring counties
+## Which counties border Lancaster County, PA?
 
 [Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Lancaster County cities have Radon Roster hiring guides?
 
 [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) ([guide](https://radonroster.com/pa/city/lancaster-pa/radon-guide/))
 
-## Hiring a radon pro in Lancaster County: quick guide
+## How do I hire a radon pro in Lancaster County, PA?
 
 With 55% of 109,372 basement tests at or above 4 pCi/L (above the 37% statewide share), Lancaster County has 3 DEP-certified mitigation firms based locally.
 
@@ -294,7 +294,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Lancaster
+## What should I check before hiring a radon pro in Lancaster?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

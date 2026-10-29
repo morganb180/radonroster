@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/scranton-pa/radon-guide/
 
 # How to find a radon expert in Scranton, PA
 
+**Quick answer:** This guide is for Scranton homeowners, buyers and sellers who need a radon test or a mitigation system. Scranton ranks #31 of 33 Radon Roster guide cities for high tests: 20% of 9,215 basement tests were at or above 4 pCi/L (Lackawanna County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=scranton).
+
 Scranton tests lower than much of Pennsylvania, with **20%** of 9,215 basement tests at or above 4 pCi/L. That still leaves 1,814 tests over the action level, so a low average doesn't clear any single house. That's below Lackawanna County as a whole (28%) and below the statewide share (37%). The median Scranton result (1.8 pCi/L) is below the 4 pCi/L line. The Lackawanna County median is 2.3 pCi/L.
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain), using tests with a Scranton municipality/mailing name. Counts tests, not homes, and includes repeat and post-mitigation tests.
@@ -30,13 +32,15 @@ Share of basement tests ≥ 4 pCi/L
 
 [Get free quotes](https://radonroster.com/get-quotes/?city=scranton) [Browse all Scranton radon firms](https://radonroster.com/pa/city/scranton-pa/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/)
 
-## Scranton compared with other PA cities
+## How does radon in Scranton compare with other PA cities?
 
 Among the 33 Pennsylvania cities with guides on Radon Roster, Scranton ranks **#31** by share of basement tests at or above 4 pCi/L. About 1,814 Scranton basement tests in DEP's records were at or above 4 pCi/L. A DIY or certified test is cheap insurance even where the average is low.
 
 Nearby city guides: [Norristown](https://radonroster.com/pa/city/norristown-pa/radon-guide/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/) · [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/) · [Philadelphia](https://radonroster.com/pa/city/philadelphia-pa/radon-guide/)
 
-## Buying or selling in Scranton? Radon timing tips
+## When should I test for radon when buying or selling a home in Scranton?
+
+Many buyers order a radon test during the inspection period, and PA DEP says to hire a DEP-certified tester when buying or selling a home.
 
 * Pennsylvania sellers must give buyers a property disclosure statement before an agreement of sale is signed. The Real Estate Commission's minimum form asks whether the seller knows of hazardous substances "including... radon" and whether the property has been tested ([49 Pa. Code § 35.335a](https://www.pacodeandbulletin.gov/secure/pacode/data/049/chapter35/s35.335a.html); [68 Pa.C.S. Chapter 73](https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/68/00.073..HTM)).
 * Sellers aren't required to test, but must not hide known defects (68 Pa.C.S. § 7308).
@@ -45,7 +49,7 @@ Nearby city guides: [Norristown](https://radonroster.com/pa/city/norristown-pa/r
 
 General information, not legal advice.
 
-## How to verify a Scranton radon contractor's PA DEP certification
+## How do I verify a Scranton radon contractor's PA DEP certification?
 
 1. Check the name against DEP's current certified mitigation and testing lists in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory). The lists are updated periodically, and ours were retrieved 2026-10-11.
 2. Ask for the DEP certification number and photo ID. Pennsylvania requires anyone doing radon testing, mitigation or lab work for the public to be DEP-certified ([25 Pa. Code Chapter 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)).
@@ -53,7 +57,7 @@ General information, not legal advice.
 
 Every firm listed for Scranton on Radon Roster shows its DEP IDs and a link to the source list.
 
-## Nearest certified radon firms
+## Who are the nearest certified radon firms to Scranton?
 
 Nearest DEP-certified firms: **2** based in Scranton (1 mitigation), **7** elsewhere in Lackawanna County (3 mitigation), and **5** mitigation firms in neighboring counties.
 
@@ -155,7 +159,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [See all firms near Scranton →](https://radonroster.com/pa/city/scranton-pa/)
 
-## Questions to ask a mitigator before you sign
+## What should I ask a radon mitigator in Scranton before I sign?
 
 * Will you do diagnostic (sub-slab suction) testing before choosing fan size and suction points?
 * Where will the pipe run (inside or outside), and where will the fan and exhaust go?
@@ -164,11 +168,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 * What warranty covers the fan and the work, and is it transferable if I sell?
 * Will you seal the sump, cracks or floor-wall joints, and is that in the quote?
 
-## What a typical Pennsylvania radon system install involves
+## What does a typical Pennsylvania radon system install involve?
 
 Most systems use **active soil depressurization** ([EPA Consumer's Guide to Radon Reduction](https://www.epa.gov/radon/consumers-guide-radon-reduction-how-fix-your-home)). The installer drills a suction point through the basement slab (or seals a crawlspace with a membrane), runs PVC pipe to an inline fan, and vents the exhaust above the roofline. Then they seal major openings and add a pressure gauge. A follow-up test should confirm the level dropped. PA DEP describes the confirm-then-mitigate steps on [PA DEP: Radon in the Home](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home).
 
-## Radon mitigation cost: what Scranton homeowners can expect
+## How much does radon mitigation cost in Scranton, PA?
+
+PA DEP says a typical radon mitigation system costs $800 to $1,200. Radon Roster has no Scranton-specific price data, so get written quotes from DEP-certified mitigators.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -207,7 +213,7 @@ We don't have Scranton-specific price data. PA DEP says most systems cost $800-$
 
 Our advice
 
-## Before you hire in Scranton
+## What should I check before hiring a radon pro in Scranton?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

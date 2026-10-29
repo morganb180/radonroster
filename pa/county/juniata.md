@@ -40,7 +40,9 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **No DEP-certified radon firm lists a business address in Juniata County.** 21 certified firms in the 7 neighboring counties below are listed on PA DEP's certified lists and may serve Juniata County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=juniata)
 
-## Certified radon firms near Juniata County
+## Which certified radon firms are near Juniata County?
+
+No PA DEP-certified radon firm on Radon Roster has a business address in Juniata County, so these firms are based in adjacent counties. Ask each one whether it serves your address.
 
 Firms with a business address in an adjacent county. Mitigation firms are listed first.
 
@@ -86,13 +88,13 @@ Firms with a business address in an adjacent county. Mitigation firms are listed
 
 * [Alpha Home Inspections](https://radonroster.com/pa/firms/alpha-home-inspections-f3483/) · Duncannon · testing
 
-## Neighboring counties
+## Which counties border Juniata County, PA?
 
 [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Huntingdon](https://radonroster.com/pa/county/huntingdon/) (3 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firm) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firm) · [Perry](https://radonroster.com/pa/county/perry/) (1 firm) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro for a home in Juniata County: quick guide
+## How do I hire a radon pro in Juniata County, PA?
 
 62% of 1,802 basement tests in Juniata County were at or above 4 pCi/L (above the 37% statewide share), so testing is the first step. No certified firm is based in the county, so look at the nearby counties listed above.
 
@@ -122,7 +124,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Juniata
+## What should I check before hiring a radon pro in Juniata?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

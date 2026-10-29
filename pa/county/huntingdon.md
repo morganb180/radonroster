@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Huntingdon County, PA? (3 firms)
 
 ### Kuntz, Ronald
 
@@ -105,13 +105,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 632-9224](tel:8146329224)
 
-## Neighboring counties
+## Which counties border Huntingdon County, PA?
 
 [Bedford](https://radonroster.com/pa/county/bedford/) (1 firms) · [Blair](https://radonroster.com/pa/county/blair/) (3 firms) · [Centre](https://radonroster.com/pa/county/centre/) (4 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [Fulton](https://radonroster.com/pa/county/fulton/) (0 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Mifflin](https://radonroster.com/pa/county/mifflin/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Huntingdon County: quick guide
+## How do I hire a radon pro in Huntingdon County, PA?
 
 With 53% of 3,984 basement tests at or above 4 pCi/L (above the 37% statewide share), Huntingdon County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -139,7 +139,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Huntingdon
+## What should I check before hiring a radon pro in Huntingdon?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

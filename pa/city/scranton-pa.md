@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/scranton-pa/
 
 # Radon testing & mitigation in Scranton, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Scranton, PA: 20% of 9,215 basement radon tests with a Scranton address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Lackawanna County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Scranton, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=scranton).
+
 Scranton sits in Lackawanna County. In the PA DEP test dataset, 9,215 basement radon tests carry a Scranton address. Their median was **1.8 pCi/L**, and **20%** came in at or above EPA's 4 pCi/L action level. Across all of Lackawanna County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Scranton radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Scranton, then o
 
 [**Read the Scranton radon hiring guide →**](https://radonroster.com/pa/city/scranton-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Scranton (2)
+## Which certified radon firms are based in Scranton, PA? (2)
+
+Radon Roster lists 2 PA DEP-certified radon firms with a business address in Scranton; 1 of them is certified for mitigation.
 
 [Mitigation1](#local-mitigation)[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Scranton, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -67,7 +71,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 963-1123](tel:5709631123)
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Scranton, PA? (1 firm)
 
 ### Viscomi, Jody
 
@@ -92,11 +96,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 983-6649](tel:5709836649)
 
-## Elsewhere in Lackawanna County (7)
+## Which other certified radon firms are in Lackawanna County? (7)
+
+Radon Roster lists 7 more PA DEP-certified firms elsewhere in Lackawanna County. Certified pros often travel, so ask whether they cover your street in Scranton.
 
 [Mitigation3](#county-mitigation)[Testing4](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (3 firms)
+## Who else installs radon mitigation systems in Lackawanna County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -169,7 +175,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 383-2363](tel:5703832363)
 
-## Radon testing (4 firms)
+## Where else can I get radon testing in Lackawanna County? (4 firms)
 
 ### Harvey Home Inspections
 
@@ -268,7 +274,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 848-2772](tel:5708482772)
 
-## Mitigation firms in neighboring counties (5)
+## Which radon mitigation firms near Scranton are in neighboring counties? (5)
+
+5 PA DEP-certified mitigation firms are based in counties next to Lackawanna County. Ask each one whether it serves your address in Scranton.
 
 ### Crestwood Radon And Environmental
 
@@ -415,7 +423,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=scranton)
 
-## Nearby city pages
+## Which cities near Scranton have radon pages?
 
 [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/) · [Wilkes-Barre](https://radonroster.com/pa/city/wilkes-barre-pa/)
 
@@ -423,7 +431,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Scranton
+## What should I check before hiring a radon pro in Scranton?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

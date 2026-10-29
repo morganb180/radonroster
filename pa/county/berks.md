@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation4](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Berks County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -130,7 +130,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 575-2775](tel:6105752775)
 
-## Radon testing (5 firms)
+## Where can I get radon testing in Berks County, PA? (5 firms)
 
 ### A-1 Realty Ser
 
@@ -260,17 +260,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 929-1154](tel:6109291154)
 
-## Neighboring counties
+## Which counties border Berks County, PA?
 
 [Chester](https://radonroster.com/pa/county/chester/) (18 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Lehigh](https://radonroster.com/pa/county/lehigh/) (11 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Berks County cities have Radon Roster hiring guides?
 
 [Reading](https://radonroster.com/pa/city/reading-pa/) ([guide](https://radonroster.com/pa/city/reading-pa/radon-guide/))
 
-## Hiring a radon pro in Berks County: quick guide
+## How do I hire a radon pro in Berks County, PA?
 
 With 51% of 78,443 basement tests at or above 4 pCi/L (above the 37% statewide share), Berks County has 4 DEP-certified mitigation firms based locally.
 
@@ -300,7 +300,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Berks
+## What should I check before hiring a radon pro in Berks?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

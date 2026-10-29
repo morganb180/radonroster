@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation5](#mitigation)[Testing3](#testing)[Labs1](#lab)Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Dauphin County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -131,7 +131,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 425-5365](tel:7174255365)
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Dauphin County, PA? (3 firms)
 
 ### Wentz, Brian
 
@@ -203,7 +203,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 364-0060](tel:7173640060)
 
-## Radon laboratories (1 firm)
+## Which radon labs are in Dauphin County, PA? (1 firm)
 
 ### Accustar Labs
 
@@ -231,17 +231,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 274-8310](tel:7172748310)
 
-## Neighboring counties
+## Which counties border Dauphin County, PA?
 
 [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Lancaster](https://radonroster.com/pa/county/lancaster/) (9 firms) · [Lebanon](https://radonroster.com/pa/county/lebanon/) (4 firms) · [Northumberland](https://radonroster.com/pa/county/northumberland/) (1 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Dauphin County cities have Radon Roster hiring guides?
 
 [Harrisburg](https://radonroster.com/pa/city/harrisburg-pa/) ([guide](https://radonroster.com/pa/city/harrisburg-pa/radon-guide/)) · [Hershey](https://radonroster.com/pa/city/hershey-pa/) ([guide](https://radonroster.com/pa/city/hershey-pa/radon-guide/))
 
-## Hiring a radon pro in Dauphin County: quick guide
+## How do I hire a radon pro in Dauphin County, PA?
 
 With 51% of 67,255 basement tests at or above 4 pCi/L (above the 37% statewide share), Dauphin County has 4 DEP-certified mitigation firms based locally.
 
@@ -271,7 +271,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Dauphin
+## What should I check before hiring a radon pro in Dauphin?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

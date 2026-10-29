@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/columbia-pa/
 
 # Radon testing & mitigation in Columbia, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Columbia, PA: 55% of 2,129 basement radon tests with a Columbia address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Lancaster County (55%) and above the statewide 37%. The median Columbia result, 4.8 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Columbia address, but Radon Roster lists firms elsewhere in Lancaster County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=columbia).
+
 Columbia sits in Lancaster County. In the PA DEP test dataset, 2,129 basement radon tests carry a Columbia address. Their median was **4.8 pCi/L**, and **55%** came in at or above EPA's 4 pCi/L action level. Across all of Lancaster County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Columbia radon test data
@@ -44,9 +46,11 @@ No DEP-certified firm lists a business address in Columbia. Below are the firms 
 
 [**Read the Columbia radon hiring guide →**](https://radonroster.com/pa/city/columbia-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Elsewhere in Lancaster County (9)
+## Which other certified radon firms are in Lancaster County? (9)
 
-## Radon mitigation (reduction systems) (3 firms)
+Radon Roster lists 9 more PA DEP-certified firms elsewhere in Lancaster County. Certified pros often travel, so ask whether they cover your street in Columbia.
+
+## Who else installs radon mitigation systems in Lancaster County? (3 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +63,7 @@ Ephrata 1 certified person
 ### [Jk Mechanical Inc](https://radonroster.com/pa/firms/jk-mechanical-inc-f3747/)
 Willow Street 3 certified people
 
-## Radon testing (6 firms)
+## Where else can I get radon testing in Lancaster County? (6 firms)
 
 ### [Muehling, Matthew](https://radonroster.com/pa/firms/matthew-muehling-f2795/)
 Elizabethtown 1 certified person
@@ -79,7 +83,9 @@ Quarryville 1 certified person
 ### [Angelucci, Thomas](https://radonroster.com/pa/firms/thomas-angelucci-f3283/)
 Stevens 1 certified person
 
-## Mitigation firms in neighboring counties (16)
+## Which radon mitigation firms near Columbia are in neighboring counties? (16)
+
+16 PA DEP-certified mitigation firms are based in counties next to Lancaster County. Ask each one whether it serves your address in Columbia.
 
 ### [Podolecki, Piotr](https://radonroster.com/pa/firms/piotr-podolecki-f2885/)
 Alburtis 1 certified person
@@ -173,7 +179,7 @@ We don't have Columbia-specific price data. PA DEP says most radon mitigation sy
 
 More guides: [Columbia radon hiring guide](https://radonroster.com/pa/city/columbia-pa/radon-guide/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/) · [What is radon?](https://radonroster.com/what-is-radon/)
 
-## Nearby city pages
+## Which cities near Columbia have radon pages?
 
 [Elizabethtown](https://radonroster.com/pa/city/elizabethtown-pa/) · [Ephrata](https://radonroster.com/pa/city/ephrata-pa/) · [Downingtown](https://radonroster.com/pa/city/downingtown-pa/) · [Hanover](https://radonroster.com/pa/city/hanover-pa/) · [Lebanon](https://radonroster.com/pa/city/lebanon-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/)
 
@@ -181,7 +187,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Columbia
+## What should I check before hiring a radon pro in Columbia?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

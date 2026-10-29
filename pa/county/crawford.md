@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Crawford County, PA? (3 firms)
 
 ### Whiting, William
 
@@ -103,13 +103,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (814) 720-3053](tel:8147203053)
 
-## Neighboring counties
+## Which counties border Crawford County, PA?
 
 [Erie](https://radonroster.com/pa/county/erie/) (6 firms) · [Mercer](https://radonroster.com/pa/county/mercer/) (0 firms) · [Venango](https://radonroster.com/pa/county/venango/) (2 firms) · [Warren](https://radonroster.com/pa/county/warren/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Crawford County: quick guide
+## How do I hire a radon pro in Crawford County, PA?
 
 With 35% of 5,647 basement tests at or above 4 pCi/L (below the 37% statewide share), Crawford County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -137,7 +137,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Crawford
+## What should I check before hiring a radon pro in Crawford?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

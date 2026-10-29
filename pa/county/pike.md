@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Pike County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -59,7 +59,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 828-2790](tel:5708282790)
 
-## Radon testing (6 firms)
+## Where can I get radon testing in Pike County, PA? (6 firms)
 
 ### Minogue, Sean
 
@@ -206,13 +206,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 290-7629](tel:5702907629)
 
-## Neighboring counties
+## Which counties border Pike County, PA?
 
 [Monroe](https://radonroster.com/pa/county/monroe/) (11 firms) · [Wayne](https://radonroster.com/pa/county/wayne/) (4 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Pike County: quick guide
+## How do I hire a radon pro in Pike County, PA?
 
 With 38% of 21,604 basement tests at or above 4 pCi/L (near the 37% statewide share), Pike County has 1 DEP-certified mitigation firm based locally.
 
@@ -240,7 +240,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Pike
+## What should I check before hiring a radon pro in Pike?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

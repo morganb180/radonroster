@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Tioga County, PA? (1 firm)
 
 ### Mcconnell, Shawn
 
@@ -57,13 +57,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 787-0422](tel:5707870422)
 
-## Neighboring counties
+## Which counties border Tioga County, PA?
 
 [Bradford](https://radonroster.com/pa/county/bradford/) (1 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Potter](https://radonroster.com/pa/county/potter/) (0 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Tioga County: quick guide
+## How do I hire a radon pro in Tioga County, PA?
 
 With 42% of 3,242 basement tests at or above 4 pCi/L (above the 37% statewide share), Tioga County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -91,7 +91,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Tioga
+## What should I check before hiring a radon pro in Tioga?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/reading-pa/
 
 # Radon testing & mitigation in Reading, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Reading, PA: 49% of 21,235 basement radon tests with a Reading address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Berks County (51%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Reading, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=reading).
+
 Reading sits in Berks County. In the PA DEP test dataset, 21,235 basement radon tests carry a Reading address. Their median was **3.8 pCi/L**, and **49%** came in at or above EPA's 4 pCi/L action level. Across all of Berks County it was 51%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Reading radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Reading, then ot
 
 [**Read the Reading radon hiring guide →**](https://radonroster.com/pa/city/reading-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Reading (2)
+## Which certified radon firms are based in Reading, PA? (2)
+
+Radon Roster lists 2 PA DEP-certified radon firms with a business address in Reading; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (2 firms)
+## Where can I get radon testing in Reading, PA? (2 firms)
 
 ### Artigliere, David
 
@@ -85,11 +89,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (484) 388-9696](tel:4843889696)
 
-## Elsewhere in Berks County (7)
+## Which other certified radon firms are in Berks County? (7)
+
+Radon Roster lists 7 more PA DEP-certified firms elsewhere in Berks County. Certified pros often travel, so ask whether they cover your street in Reading.
 
 [Mitigation4](#county-mitigation)[Testing3](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who else installs radon mitigation systems in Berks County? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -187,7 +193,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 575-2775](tel:6105752775)
 
-## Radon testing (3 firms)
+## Where else can I get radon testing in Berks County? (3 firms)
 
 ### A-1 Realty Ser
 
@@ -270,7 +276,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 929-1154](tel:6109291154)
 
-## Mitigation firms in neighboring counties (21)
+## Which radon mitigation firms near Reading are in neighboring counties? (21)
+
+21 PA DEP-certified mitigation firms are based in counties next to Berks County. Ask each one whether it serves your address in Reading.
 
 ### Conrad, Spencer
 
@@ -822,7 +830,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Reading mitigators[Request quotes](https://radonroster.com/get-quotes/?city=reading)
 
-## Nearby city pages
+## Which cities near Reading have radon pages?
 
 [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/)
 
@@ -830,7 +838,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Reading
+## What should I check before hiring a radon pro in Reading?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

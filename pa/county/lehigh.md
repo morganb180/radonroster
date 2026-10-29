@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation4](#mitigation)[Testing7](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (4 firms)
+## Who installs radon mitigation systems in Lehigh County, PA? (4 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -142,7 +142,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (484) 903-1182](tel:4849031182)
 
-## Radon testing (7 firms)
+## Where can I get radon testing in Lehigh County, PA? (7 firms)
 
 ### Werst, Michael
 
@@ -315,17 +315,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (484) 788-2811](tel:4847882811)
 
-## Neighboring counties
+## Which counties border Lehigh County, PA?
 
 [Berks](https://radonroster.com/pa/county/berks/) (9 firms) · [Bucks](https://radonroster.com/pa/county/bucks/) (19 firms) · [Carbon](https://radonroster.com/pa/county/carbon/) (2 firms) · [Montgomery](https://radonroster.com/pa/county/montgomery/) (29 firms) · [Northampton](https://radonroster.com/pa/county/northampton/) (7 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Lehigh County cities have Radon Roster hiring guides?
 
 [Allentown](https://radonroster.com/pa/city/allentown-pa/) ([guide](https://radonroster.com/pa/city/allentown-pa/radon-guide/))
 
-## Hiring a radon pro in Lehigh County: quick guide
+## How do I hire a radon pro in Lehigh County, PA?
 
 With 47% of 85,538 basement tests at or above 4 pCi/L (above the 37% statewide share), Lehigh County has 4 DEP-certified mitigation firms based locally.
 
@@ -355,7 +355,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Lehigh
+## What should I check before hiring a radon pro in Lehigh?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

@@ -8,15 +8,15 @@ canonical: https://radonroster.com/what-is-radon/
 
 Radon is a radioactive gas that comes from the natural breakdown of uranium in soil and rock. You can't see, smell or taste it. It moves up through the ground and can enter homes through cracks in foundations, gaps around pipes, sumps and other openings, and it can build up indoors.
 
-## Why it matters
+## Why does radon matter?
 
 EPA identifies radon as the leading cause of lung cancer among non-smokers and estimates it causes about 21,000 lung cancer deaths in the U.S. each year ([EPA: Health Risk of Radon](https://www.epa.gov/radon/health-risk-radon)).
 
-## Radon in Pennsylvania
+## How common is high radon in Pennsylvania?
 
 PA DEP says Pennsylvania has one of the most serious radon problems in the country, with an estimated 40% of homes tested above EPA's action guideline of 4 picocuries per liter (pCi/L) ([PA DEP Radon Division](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division)). See [radon test data for your county](https://radonroster.com/pa/radon-levels-by-county/).
 
-## What to do
+## What should I do about radon?
 
 1. Test your home (DIY kit or a [DEP-certified tester](https://radonroster.com/pa/counties/)).
 2. If results are 4 pCi/L or higher, confirm with a second test as PA DEP describes on its [Radon in the Home](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home) page.

@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation1](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who installs radon mitigation systems in Adams County, PA? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -64,7 +64,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 334-3435](tel:7173343435)
 
-## Radon testing (5 firms)
+## Where can I get radon testing in Adams County, PA? (5 firms)
 
 ### Henline, Travis
 
@@ -186,17 +186,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (717) 495-3600](tel:7174953600)
 
-## Neighboring counties
+## Which counties border Adams County, PA?
 
 [Cumberland](https://radonroster.com/pa/county/cumberland/) (6 firms) · [Franklin](https://radonroster.com/pa/county/franklin/) (5 firms) · [York](https://radonroster.com/pa/county/york/) (8 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Adams County cities have Radon Roster hiring guides?
 
 [Gettysburg](https://radonroster.com/pa/city/gettysburg-pa/) ([guide](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/))
 
-## Hiring a radon pro in Adams County: quick guide
+## How do I hire a radon pro in Adams County, PA?
 
 With 44% of 16,668 basement tests at or above 4 pCi/L (above the 37% statewide share), Adams County has 1 DEP-certified mitigation firm based locally.
 
@@ -226,7 +226,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Adams
+## What should I check before hiring a radon pro in Adams?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

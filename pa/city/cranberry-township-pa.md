@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/cranberry-township-pa/
 
 # Radon testing & mitigation in Cranberry Township, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Cranberry Township, PA: 38% of 10,735 basement radon tests with a Cranberry Township address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Butler County (47%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Cranberry Township address, but Radon Roster lists firms elsewhere in Butler County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=cranberry-township).
+
 Cranberry Township sits in Butler County. In the PA DEP test dataset, 10,735 basement radon tests carry a Cranberry Township address. Their median was **2.9 pCi/L**, and **38%** came in at or above EPA's 4 pCi/L action level. Across all of Butler County it was 47%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Cranberry Township radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Cranberry Townsh
 
 [**Read the Cranberry Township radon hiring guide →**](https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Elsewhere in Butler County (12)
+## Which other certified radon firms are in Butler County? (12)
+
+Radon Roster lists 12 more PA DEP-certified firms elsewhere in Butler County. Certified pros often travel, so ask whether they cover your street in Cranberry Township.
 
 [Mitigation1](#county-mitigation)[Testing11](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Butler County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -67,7 +71,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 898-2587](tel:7248982587)
 
-## Radon testing (11 firms)
+## Where else can I get radon testing in Butler County? (11 firms)
 
 ### Supik, Joshua
 
@@ -340,7 +344,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 504-2746](tel:7245042746)
 
-## Mitigation firms in neighboring counties (7)
+## Which radon mitigation firms near Cranberry Township are in neighboring counties? (7)
+
+7 PA DEP-certified mitigation firms are based in counties next to Butler County. Ask each one whether it serves your address in Cranberry Township.
 
 ### Bacchus, Brian C.
 
@@ -542,7 +548,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/get-quotes/?city=cranberry-township)
 
-## Nearby city pages
+## Which cities near Cranberry Township have radon pages?
 
 [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/)
 
@@ -550,7 +556,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Cranberry Township
+## What should I check before hiring a radon pro in Cranberry Township?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

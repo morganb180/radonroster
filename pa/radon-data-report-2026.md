@@ -20,7 +20,7 @@ Quotable findings (Radon Roster analysis of PA DEP radon test data, retrieved 20
 
 Suggested credit: "Radon Roster analysis of PA DEP radon test data" with a link to https://radonroster.com/pa/radon-data-report-2026/. Media contact: hello@radonroster.com. Embeddable map: https://radonroster.com/pa/radon-map/. CSV: https://radonroster.com/pa/radon-data-report-2026/pa-radon-by-county-2026.csv
 
-## The 10 Pennsylvania counties with the highest radon test results
+## Which 10 Pennsylvania counties have the highest radon test results?
 
 | Rank | County | % basement ≥ 4 | Basement tests | Median (pCi/L) | % first floor ≥ 4 | Certified firms based in county |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ Suggested credit: "Radon Roster analysis of PA DEP radon test data" with a link 
 | 9 | [Jefferson](https://radonroster.com/pa/county/jefferson/) | 56% | 4,562 | 4.7 | 28% | 0 |
 | 10 | [Schuylkill](https://radonroster.com/pa/county/schuylkill/) | 56% | 18,758 | 4.9 | 30% | 5 |
 
-## Where results were lowest
+## Which Pennsylvania counties had the lowest radon test results?
 
 | Rank | County | % basement ≥ 4 | Basement tests | Median (pCi/L) |
 | --- | --- | --- | --- | --- |

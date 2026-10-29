@@ -8,6 +8,8 @@ canonical: https://radonroster.com/pa/city/easton-pa/
 
 # Radon testing & mitigation in Easton, PA
 
+**Quick answer:** For homeowners, buyers and sellers in Easton, PA: 47% of 22,144 basement radon tests with a Easton address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Northampton County (48%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Easton, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=easton).
+
 Easton sits in Northampton County. In the PA DEP test dataset, 22,144 basement radon tests carry a Easton address. Their median was **3.6 pCi/L**, and **47%** came in at or above EPA's 4 pCi/L action level. Across all of Northampton County it was 48%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
 ## Easton radon test data
@@ -32,11 +34,13 @@ Below are the PA DEP-certified firms with a business address in Easton, then oth
 
 [**Read the Easton radon hiring guide →**](https://radonroster.com/pa/city/easton-pa/radon-guide/) (how to verify certification, questions to ask, costs, FAQ)
 
-## Firms based in Easton (3)
+## Which certified radon firms are based in Easton, PA? (3)
+
+Radon Roster lists 3 PA DEP-certified radon firms with a business address in Easton; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
 Mitigation 0[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (3 firms)
+## Where can I get radon testing in Easton, PA? (3 firms)
 
 ### Bpg Inspection, LLC
 
@@ -114,11 +118,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (732) 239-1704](tel:7322391704)
 
-## Elsewhere in Northampton County (4)
+## Which other certified radon firms are in Northampton County? (4)
+
+Radon Roster lists 4 more PA DEP-certified firms elsewhere in Northampton County. Certified pros often travel, so ask whether they cover your street in Easton.
 
 [Mitigation1](#county-mitigation)[Testing3](#county-testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (1 firm)
+## Who else installs radon mitigation systems in Northampton County? (1 firm)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -145,7 +151,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (610) 615-0706](tel:6106150706)
 
-## Radon testing (3 firms)
+## Where else can I get radon testing in Northampton County? (3 firms)
 
 ### Doll, Justin
 
@@ -216,7 +222,9 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (917) 273-0894](tel:9172730894)
 
-## Mitigation firms in neighboring counties (11)
+## Which radon mitigation firms near Easton are in neighboring counties? (11)
+
+11 PA DEP-certified mitigation firms are based in counties next to Northampton County. Ask each one whether it serves your address in Easton.
 
 ### Indoor Air Surgeons, LLC
 
@@ -512,7 +520,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Easton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=easton)
 
-## Nearby city pages
+## Which cities near Easton have radon pages?
 
 [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Bethlehem](https://radonroster.com/pa/city/bethlehem-pa/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [Quakertown](https://radonroster.com/pa/city/quakertown-pa/) · [Stroudsburg](https://radonroster.com/pa/city/stroudsburg-pa/)
 
@@ -520,7 +528,7 @@ Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/0
 
 Our advice
 
-## Before you hire in Easton
+## What should I check before hiring a radon pro in Easton?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

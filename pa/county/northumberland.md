@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon testing (1 firm)
+## Where can I get radon testing in Northumberland County, PA? (1 firm)
 
 ### Barclay, Gary
 
@@ -57,13 +57,13 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (570) 538-1490](tel:5705381490)
 
-## Neighboring counties
+## Which counties border Northumberland County, PA?
 
 [Columbia](https://radonroster.com/pa/county/columbia/) (2 firms) · [Dauphin](https://radonroster.com/pa/county/dauphin/) (8 firms) · [Juniata](https://radonroster.com/pa/county/juniata/) (0 firms) · [Lycoming](https://radonroster.com/pa/county/lycoming/) (2 firms) · [Montour](https://radonroster.com/pa/county/montour/) (0 firms) · [Perry](https://radonroster.com/pa/county/perry/) (1 firms) · [Schuylkill](https://radonroster.com/pa/county/schuylkill/) (5 firms) · [Snyder](https://radonroster.com/pa/county/snyder/) (2 firms) · [Union](https://radonroster.com/pa/county/union/) (1 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## Hiring a radon pro in Northumberland County: quick guide
+## How do I hire a radon pro in Northumberland County, PA?
 
 With 46% of 10,034 basement tests at or above 4 pCi/L (above the 37% statewide share), Northumberland County has no locally based mitigation firm, so look at the neighboring counties listed below.
 
@@ -91,7 +91,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Northumberland
+## What should I check before hiring a radon pro in Northumberland?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.

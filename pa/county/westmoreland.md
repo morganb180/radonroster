@@ -32,7 +32,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [Mitigation5](#mitigation)[Testing12](#testing)Labs 0Ordered by town, then name · never by payment
 
-## Radon mitigation (reduction systems) (5 firms)
+## Who installs radon mitigation systems in Westmoreland County, PA? (5 firms)
 
 Firms certified to install radon reduction systems. Firms that also test are shown here once.
 
@@ -156,7 +156,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (724) 515-9414](tel:7245159414)
 
-## Radon testing (12 firms)
+## Where can I get radon testing in Westmoreland County, PA? (12 firms)
 
 ### Braden, Nathan
 
@@ -439,17 +439,17 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 [**Call** (833) 279-1758](tel:8332791758)
 
-## Neighboring counties
+## Which counties border Westmoreland County, PA?
 
 [Allegheny](https://radonroster.com/pa/county/allegheny/) (44 firms) · [Armstrong](https://radonroster.com/pa/county/armstrong/) (2 firms) · [Cambria](https://radonroster.com/pa/county/cambria/) (4 firms) · [Fayette](https://radonroster.com/pa/county/fayette/) (3 firms) · [Indiana](https://radonroster.com/pa/county/indiana/) (2 firms) · [Somerset](https://radonroster.com/pa/county/somerset/) (1 firms) · [Washington](https://radonroster.com/pa/county/washington/) (7 firms). Firms often serve across county lines.
 
 Adjacency from U.S. Census Bureau county adjacency file.
 
-## City pages & guides
+## Which Westmoreland County cities have Radon Roster hiring guides?
 
 [Greensburg](https://radonroster.com/pa/city/greensburg-pa/) ([guide](https://radonroster.com/pa/city/greensburg-pa/radon-guide/))
 
-## Hiring a radon pro in Westmoreland County: quick guide
+## How do I hire a radon pro in Westmoreland County, PA?
 
 With 40% of 66,800 basement tests at or above 4 pCi/L (above the 37% statewide share), Westmoreland County has 5 DEP-certified mitigation firms based locally.
 
@@ -479,7 +479,7 @@ Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/202
 
 Our advice
 
-## Before you hire in Westmoreland
+## What should I check before hiring a radon pro in Westmoreland?
 
 1. Ask for the DEP cert ID and match it to the listing.
 2. Get at least two written quotes for mitigation.
