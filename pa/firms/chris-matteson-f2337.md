@@ -14,7 +14,7 @@ Listed on Google as Accurate Home & Termite Inspections
 
 Hershey, PA · Dauphin County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2337): your request goes to Chris Matteson and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2337): your request goes to Chris Matteson and up to 2 other nearby certified pros.
 
 ## Google rating
 

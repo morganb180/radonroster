@@ -12,7 +12,7 @@ Listed by PA DEP as Goldsworthy Jr., John
 
 Furlong, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2290): your request goes to John Goldsworthy Jr. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2290): your request goes to John Goldsworthy Jr. and up to 2 other nearby certified pros.
 
 ## Contact
 

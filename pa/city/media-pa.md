@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/media-pa/
 
 # Radon testing & mitigation in Media, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Media, PA: 28% of 14,007 basement radon tests with a Media address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Delaware County (20%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Media, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=media).
+**Quick answer:** For homeowners, buyers and sellers in Media, PA: 28% of 14,007 basement radon tests with a Media address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Delaware County (20%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Media, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=media).
 
 Media sits in Delaware County. In the PA DEP test dataset, 14,007 basement radon tests carry a Media address. Their median was **2.4 pCi/L**, and **28%** came in at or above EPA's 4 pCi/L action level. Across all of Delaware County it was 20%, and statewide 37%. That is above the county share, so testing matters here.
 
@@ -687,7 +687,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Delaware County listings →](https://radonroster.com/pa/county/delaware/) · [Media radon guide](https://radonroster.com/pa/city/media-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/get-quotes/?city=media)
+**Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/quotes/?city=media)
 
 ## Which cities near Media have radon pages?
 

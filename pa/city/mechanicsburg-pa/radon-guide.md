@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/mechanicsburg-pa/radon-guide/
 
 # How to find a radon expert in Mechanicsburg, PA
 
-**Quick answer:** This guide is for Mechanicsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Mechanicsburg ranks #5 of 33 Radon Roster guide cities for high tests: 54% of 30,556 basement tests were at or above 4 pCi/L (Cumberland County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=mechanicsburg).
+**Quick answer:** This guide is for Mechanicsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Mechanicsburg ranks #5 of 33 Radon Roster guide cities for high tests: 54% of 30,556 basement tests were at or above 4 pCi/L (Cumberland County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=mechanicsburg).
 
 About **54%** of basement tests in Mechanicsburg, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 30,556 tests in PA DEP's records. That's close to Cumberland County as a whole (55%) and above the statewide share (37%). The median Mechanicsburg result (4.8 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Cumberland County median is 4.8 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#5**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=mechanicsburg) [Browse all Mechanicsburg radon firms](https://radonroster.com/pa/city/mechanicsburg-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
+[Get free quotes](https://radonroster.com/quotes/?city=mechanicsburg) [Browse all Mechanicsburg radon firms](https://radonroster.com/pa/city/mechanicsburg-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
 
 ## How does radon in Mechanicsburg compare with other PA cities?
 
@@ -208,7 +208,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Mechanicsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=mechanicsburg)
+**Want firms to contact you?**One request to Mechanicsburg mitigators[Request quotes](https://radonroster.com/quotes/?city=mechanicsburg)
 
 Our advice
 

@@ -33,7 +33,7 @@ Store kits run about $20 to $30 per PA DEP. Kits can also be bought by mail from
 
 * **Below 4 pCi/L:** below EPA's action level of 4 pCi/L. DEP says to test again every five years, and after renovations or additions ([PA DEP](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home); see [what is radon](https://radonroster.com/what-is-radon/) for EPA's health information).
 * **4 pCi/L or higher:** do a second test to confirm. If the first result is 4 to 8 pCi/L, DEP says you can do a long-term (365-day) test or another short-term test. If it is still 4 or higher, take action ([PA DEP](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home)).
-* **Confirmed high:** read [radon mitigation in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/) and the [mitigation cost guide](https://radonroster.com/radon-mitigation-cost/), then [request quotes](https://radonroster.com/get-quotes/) from DEP-certified mitigators.
+* **Confirmed high:** read [radon mitigation in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/) and the [mitigation cost guide](https://radonroster.com/radon-mitigation-cost/), then [request quotes](https://radonroster.com/quotes/) from DEP-certified mitigators.
 
 ## When should I retest my home for radon?
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/reading-pa/radon-guide/
 
 # How to find a radon expert in Reading, PA
 
-**Quick answer:** This guide is for Reading homeowners, buyers and sellers who need a radon test or a mitigation system. Reading ranks #8 of 33 Radon Roster guide cities for high tests: 49% of 21,235 basement tests were at or above 4 pCi/L (Berks County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=reading).
+**Quick answer:** This guide is for Reading homeowners, buyers and sellers who need a radon test or a mitigation system. Reading ranks #8 of 33 Radon Roster guide cities for high tests: 49% of 21,235 basement tests were at or above 4 pCi/L (Berks County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=reading).
 
 In Reading, 21,235 basement radon tests in PA DEP's records give a median of **3.8 pCi/L**, and **49%** were at or above 4 pCi/L. That's close to Berks County as a whole (51%) and above the statewide share (37%). The median Reading result (3.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Berks County median is 4.0 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#8**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=reading) [Browse all Reading radon firms](https://radonroster.com/pa/city/reading-pa/) · [Berks County](https://radonroster.com/pa/county/berks/)
+[Get free quotes](https://radonroster.com/quotes/?city=reading) [Browse all Reading radon firms](https://radonroster.com/pa/city/reading-pa/) · [Berks County](https://radonroster.com/pa/county/berks/)
 
 ## How does radon in Reading compare with other PA cities?
 
@@ -204,7 +204,7 @@ In PA DEP's test records, 49% of 21,235 basement tests with a Reading address we
 
 We don't have Reading-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Reading mitigators[Request quotes](https://radonroster.com/get-quotes/?city=reading)
+**Want firms to contact you?**One request to Reading mitigators[Request quotes](https://radonroster.com/quotes/?city=reading)
 
 Our advice
 

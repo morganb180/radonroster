@@ -14,7 +14,7 @@ Listed on Google as ARTI Home Inspections LLC
 
 Reading, PA · Berks County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2398): your request goes to David Artigliere and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2398): your request goes to David Artigliere and up to 2 other nearby certified pros.
 
 ## Google rating
 

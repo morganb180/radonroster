@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/precise-inspecting-f3295/
 
 Lancaster, PA · Lancaster County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3295): your request goes to Precise Inspecting and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3295): your request goes to Precise Inspecting and up to 2 other nearby certified pros.
 
 ## Google rating
 

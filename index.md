@@ -190,4 +190,4 @@ PA DEP estimates about 40% of Pennsylvania homes tested have radon above EPA's 4
 * [Typical costs + estimate tool](https://radonroster.com/radon-mitigation-cost/)
 * [PA real estate radon disclosure basics](https://radonroster.com/pa/real-estate-radon-disclosure/)
 
-[Get free quotes](https://radonroster.com/get-quotes/)
+[Get free quotes](https://radonroster.com/quotes/)

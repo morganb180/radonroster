@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/chambersburg-pa/
 
 # Radon testing & mitigation in Chambersburg, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Chambersburg, PA: 59% of 9,035 basement radon tests with a Chambersburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Franklin County (59%) and above the statewide 37%. The median Chambersburg result, 5.4 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Chambersburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=chambersburg).
+**Quick answer:** For homeowners, buyers and sellers in Chambersburg, PA: 59% of 9,035 basement radon tests with a Chambersburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Franklin County (59%) and above the statewide 37%. The median Chambersburg result, 5.4 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Chambersburg, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=chambersburg).
 
 Chambersburg sits in Franklin County. In the PA DEP test dataset, 9,035 basement radon tests carry a Chambersburg address. Their median was **5.4 pCi/L**, and **59%** came in at or above EPA's 4 pCi/L action level. Across all of Franklin County it was 59%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -318,7 +318,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Franklin County listings →](https://radonroster.com/pa/county/franklin/) · [Chambersburg radon guide](https://radonroster.com/pa/city/chambersburg-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=chambersburg)
+**Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/quotes/?city=chambersburg)
 
 ## Which cities near Chambersburg have radon pages?
 

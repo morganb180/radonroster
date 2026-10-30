@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/doylestown-pa/
 
 # Radon testing & mitigation in Doylestown, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Doylestown, PA: 34% of 27,330 basement radon tests with a Doylestown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Bucks County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Doylestown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=doylestown).
+**Quick answer:** For homeowners, buyers and sellers in Doylestown, PA: 34% of 27,330 basement radon tests with a Doylestown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Bucks County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Doylestown, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=doylestown).
 
 Doylestown sits in Bucks County. In the PA DEP test dataset, 27,330 basement radon tests carry a Doylestown address. Their median was **2.6 pCi/L**, and **34%** came in at or above EPA's 4 pCi/L action level. Across all of Bucks County it was 31%, and statewide 37%. That is above the county share, so testing matters here.
 
@@ -940,7 +940,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Bucks County listings →](https://radonroster.com/pa/county/bucks/) · [Doylestown radon guide](https://radonroster.com/pa/city/doylestown-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=doylestown)
+**Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/quotes/?city=doylestown)
 
 ## Which cities near Doylestown have radon pages?
 

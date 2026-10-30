@@ -12,7 +12,7 @@ Listed by PA DEP as Errington, Scott
 
 Phoenixville, PA · Chester County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3479): your request goes to Scott Errington and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3479): your request goes to Scott Errington and up to 2 other nearby certified pros.
 
 ## Contact
 

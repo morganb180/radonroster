@@ -12,7 +12,7 @@ Listed by PA DEP as Nova Group, Gbc
 
 Shohola, PA · Pike County · 6 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3551): your request goes to Gbc Nova Group and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3551): your request goes to Gbc Nova Group and up to 2 other nearby certified pros.
 
 ## Contact
 

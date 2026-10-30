@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/all-in-one-home-inspections-inc-f324
 
 Honesdale, PA · Wayne County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3248): your request goes to All In One Home Inspections, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3248): your request goes to All In One Home Inspections, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

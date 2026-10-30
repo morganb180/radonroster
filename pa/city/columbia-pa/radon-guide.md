@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/columbia-pa/radon-guide/
 
 # How to find a radon expert in Columbia, PA
 
-**Quick answer:** This guide is for Columbia homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 55% of 2,129 basement tests in Columbia were at or above 4 pCi/L, about the same as Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=columbia).
+**Quick answer:** This guide is for Columbia homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 55% of 2,129 basement tests in Columbia were at or above 4 pCi/L, about the same as Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=columbia).
 
 About **55%** of basement tests in Columbia, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 2,129 tests in PA DEP's records. That's close to Lancaster County as a whole (55%) and above the statewide share (37%). The median Columbia result (4.8 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Lancaster County median is 4.7 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=columbia) [Browse all Columbia radon firms](https://radonroster.com/pa/city/columbia-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
+[Get free quotes](https://radonroster.com/quotes/?city=columbia) [Browse all Columbia radon firms](https://radonroster.com/pa/city/columbia-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
 
 ## How does radon in Columbia compare with Lancaster County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Columbia mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=columbia)
+[Request quotes](https://radonroster.com/quotes/?city=columbia)
 
 Our advice
 

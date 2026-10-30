@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/newman-s-home-llc-f1996/
 
 Morrisville, PA · Bucks County · 26 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1996): your request goes to Newman'S Home LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1996): your request goes to Newman'S Home LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

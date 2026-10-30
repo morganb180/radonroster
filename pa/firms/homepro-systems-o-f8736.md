@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/homepro-systems-o-f8736/
 
 Brookhaven, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8736): your request goes to Homepro Systems O and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8736): your request goes to Homepro Systems O and up to 2 other nearby certified pros.
 
 ## Contact
 

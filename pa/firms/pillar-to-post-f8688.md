@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/pillar-to-post-f8688/
 
 Morrisville, PA · Bucks County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8688): your request goes to Pillar To Post and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8688): your request goes to Pillar To Post and up to 2 other nearby certified pros.
 
 ## Google rating
 

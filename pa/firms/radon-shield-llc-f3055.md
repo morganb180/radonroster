@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-shield-llc-f3055/
 
 Trenton, NJ · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3055): your request goes to Radon Shield LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3055): your request goes to Radon Shield LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

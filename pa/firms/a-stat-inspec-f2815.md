@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/a-stat-inspec-f2815/
 
 Doylestown, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2815): your request goes to A- Stat Inspec and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2815): your request goes to A- Stat Inspec and up to 2 other nearby certified pros.
 
 ## Contact
 

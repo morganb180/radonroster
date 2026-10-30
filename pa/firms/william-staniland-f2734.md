@@ -14,7 +14,7 @@ Listed on Google as A-PRO Home Inspection Service
 
 Cranberry Townsh, PA · Butler County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2734): your request goes to William Staniland and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2734): your request goes to William Staniland and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/eagle-inspections-llc-f3285/
 
 Croydon, PA · Bucks County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3285): your request goes to Eagle Inspections LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3285): your request goes to Eagle Inspections LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

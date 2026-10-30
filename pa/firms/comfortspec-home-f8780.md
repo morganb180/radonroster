@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/comfortspec-home-f8780/
 
 Brodheadsville, PA · Monroe County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8780): your request goes to Comfortspec Home and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8780): your request goes to Comfortspec Home and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Mcgrady, Ryan
 
 Dunmore, PA · Lackawanna County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3240): your request goes to Ryan Mcgrady and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3240): your request goes to Ryan Mcgrady and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -14,7 +14,7 @@ Listed on Google as HOMEWELL PROPERTY INSPECTIONS,LLC
 
 Edinboro, PA · Erie County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3354): your request goes to Joseph Banister and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3354): your request goes to Joseph Banister and up to 2 other nearby certified pros.
 
 ## Google rating
 

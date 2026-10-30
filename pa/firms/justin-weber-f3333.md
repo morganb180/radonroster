@@ -14,7 +14,7 @@ Listed on Google as Mountain To Valley Home Inspections, LLC.
 
 Mountain Top, PA · Luzerne County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3333): your request goes to Justin Weber and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3333): your request goes to Justin Weber and up to 2 other nearby certified pros.
 
 ## Google rating
 

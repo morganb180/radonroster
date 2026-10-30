@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/kennihan-plumbing-and-heating-inc-f3
 
 Valencia, PA · Butler County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3535): your request goes to Kennihan Plumbing And Heating Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3535): your request goes to Kennihan Plumbing And Heating Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

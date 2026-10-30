@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/york-pa/
 
 # Radon testing & mitigation in York, PA
 
-**Quick answer:** For homeowners, buyers and sellers in York, PA: 58% of 28,440 basement radon tests with a York address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median York result, 5.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 5 certified firms based in York, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=york).
+**Quick answer:** For homeowners, buyers and sellers in York, PA: 58% of 28,440 basement radon tests with a York address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median York result, 5.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 5 certified firms based in York, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=york).
 
 York sits in York County. In the PA DEP test dataset, 28,440 basement radon tests carry a York address. Their median was **5.0 pCi/L**, and **58%** came in at or above EPA's 4 pCi/L action level. Across all of York County it was 56%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -569,7 +569,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All York County listings →](https://radonroster.com/pa/county/york/) · [York radon guide](https://radonroster.com/pa/city/york-pa/radon-guide/)
 
-**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?city=york)
+**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/quotes/?city=york)
 
 ## Which cities near York have radon pages?
 

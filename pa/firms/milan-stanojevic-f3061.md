@@ -12,7 +12,7 @@ Listed by PA DEP as Stanojevic, Milan
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3061): your request goes to Milan Stanojevic and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3061): your request goes to Milan Stanojevic and up to 2 other nearby certified pros.
 
 ## Contact
 

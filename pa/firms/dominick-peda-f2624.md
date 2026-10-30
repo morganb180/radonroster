@@ -12,7 +12,7 @@ Listed by PA DEP as Peda, Dominick
 
 Media, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2624): your request goes to Dominick Peda and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2624): your request goes to Dominick Peda and up to 2 other nearby certified pros.
 
 ## Contact
 

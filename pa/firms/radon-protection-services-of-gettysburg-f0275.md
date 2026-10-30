@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-protection-services-of-gettysb
 
 Gettysburg, PA · Adams County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0275): your request goes to Radon Protection Services Of Gettysburg and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0275): your request goes to Radon Protection Services Of Gettysburg and up to 2 other nearby certified pros.
 
 ## Google rating
 

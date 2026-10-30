@@ -14,7 +14,7 @@ Listed on Google as Gene’s Property Analysis (Home Inspection)
 
 Pottsville, PA · Schuylkill County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3358): your request goes to Gene Heffner and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3358): your request goes to Gene Heffner and up to 2 other nearby certified pros.
 
 ## Google rating
 

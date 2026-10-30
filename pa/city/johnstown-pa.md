@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/johnstown-pa/
 
 # Radon testing & mitigation in Johnstown, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Johnstown, PA: 43% of 10,172 basement radon tests with a Johnstown address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Cambria County (43%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Johnstown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=johnstown).
+**Quick answer:** For homeowners, buyers and sellers in Johnstown, PA: 43% of 10,172 basement radon tests with a Johnstown address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Cambria County (43%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Johnstown, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=johnstown).
 
 Johnstown sits in Cambria County. In the PA DEP test dataset, 10,172 basement radon tests carry a Johnstown address. Their median was **3.5 pCi/L**, and **43%** came in at or above EPA's 4 pCi/L action level. Across all of Cambria County it was 43%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -315,7 +315,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Cambria County listings →](https://radonroster.com/pa/county/cambria/) · [Johnstown radon guide](https://radonroster.com/pa/city/johnstown-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Johnstown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=johnstown)
+**Want firms to contact you?**One request to Johnstown mitigators[Request quotes](https://radonroster.com/quotes/?city=johnstown)
 
 ## Which cities near Johnstown have radon pages?
 

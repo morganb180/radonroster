@@ -14,7 +14,7 @@ Listed on Google as Lennox Design Studios
 
 Trooper, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2771): your request goes to Craig Lennox and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2771): your request goes to Craig Lennox and up to 2 other nearby certified pros.
 
 ## Google rating
 

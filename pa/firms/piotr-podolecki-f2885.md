@@ -14,7 +14,7 @@ Listed on Google as radon gone inc
 
 Alburtis, PA · Berks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2885): your request goes to Piotr Podolecki and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2885): your request goes to Piotr Podolecki and up to 2 other nearby certified pros.
 
 ## Google rating
 

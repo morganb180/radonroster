@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/enviroquest-inc-f1512/
 
 Harrisburg, PA · Dauphin County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1512): your request goes to Enviroquest, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1512): your request goes to Enviroquest, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

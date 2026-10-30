@@ -14,7 +14,7 @@ Listed on Google as SEDA-Council of Governments
 
 Union, PA · Union County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3683): your request goes to Seth Kerstetter and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3683): your request goes to Seth Kerstetter and up to 2 other nearby certified pros.
 
 ## Google rating
 

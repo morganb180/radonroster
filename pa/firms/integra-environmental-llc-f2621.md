@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/integra-environmental-llc-f2621/
 
 Allentown, PA · Lehigh County · 6 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2621): your request goes to Integra Environmental LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2621): your request goes to Integra Environmental LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

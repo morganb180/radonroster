@@ -12,7 +12,7 @@ Listed by PA DEP as Hoverter, Travis
 
 Chambersburg, PA · Franklin County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2706): your request goes to Travis Hoverter and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2706): your request goes to Travis Hoverter and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -41,11 +41,11 @@ Source: [EPA Consumer's Guide to Radon Reduction, 2010](https://archive.epa.gov/
 * Get written quotes from more than one firm. EPA suggests comparing diagnostic testing, a warning device for the fan, post-installation testing, liability insurance and any guarantee to reach 4 pCi/L or below.
 * Read the contract: total cost including taxes and permit fees, deposit, timeline, and the guarantee terms ([EPA](https://www.epa.gov/radon/consumers-guide-radon-reduction-how-fix-your-home)).
 
-[Get free quotes](https://radonroster.com/get-quotes/)
+[Get free quotes](https://radonroster.com/quotes/)
 
 ## Where can I find a certified radon mitigator near me?
 
-Radon Roster lists PA DEP-certified mitigators by county and city, each with its DEP certification IDs. You can browse below or [request free quotes](https://radonroster.com/get-quotes/).
+Radon Roster lists PA DEP-certified mitigators by county and city, each with its DEP certification IDs. You can browse below or [request free quotes](https://radonroster.com/quotes/).
 
 Counties with the most certified mitigators: [Montgomery County](https://radonroster.com/pa/county/montgomery/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/) · [Berks County](https://radonroster.com/pa/county/berks/) · [Bucks County](https://radonroster.com/pa/county/bucks/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/). [All 67 counties](https://radonroster.com/pa/counties/).
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Ralston, Jeffrey
 
 Bloomsburg, PA · Columbia County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3163): your request goes to Jeffrey Ralston and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3163): your request goes to Jeffrey Ralston and up to 2 other nearby certified pros.
 
 ## Contact
 

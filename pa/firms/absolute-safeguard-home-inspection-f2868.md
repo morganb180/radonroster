@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/absolute-safeguard-home-inspection-f
 
 Carnegie, PA · Allegheny County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2868): your request goes to Absolute Safeguard Home Inspection and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2868): your request goes to Absolute Safeguard Home Inspection and up to 2 other nearby certified pros.
 
 ## Google rating
 

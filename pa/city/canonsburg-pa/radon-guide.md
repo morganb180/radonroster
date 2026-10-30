@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/canonsburg-pa/radon-guide/
 
 # How to find a radon expert in Canonsburg, PA
 
-**Quick answer:** This guide is for Canonsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Canonsburg ranks #23 of 33 Radon Roster guide cities for high tests: 29% of 9,725 basement tests were at or above 4 pCi/L (Washington County: 34%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=canonsburg).
+**Quick answer:** This guide is for Canonsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Canonsburg ranks #23 of 33 Radon Roster guide cities for high tests: 29% of 9,725 basement tests were at or above 4 pCi/L (Washington County: 34%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=canonsburg).
 
 Canonsburg tests lower than much of Pennsylvania, with **29%** of 9,725 basement tests at or above 4 pCi/L. That still leaves 2,823 tests over the action level, so a low average doesn't clear any single house. That's below Washington County as a whole (34%) and below the statewide share (37%). The median Canonsburg result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Washington County median is 2.9 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#23**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=canonsburg) [Browse all Canonsburg radon firms](https://radonroster.com/pa/city/canonsburg-pa/) · [Washington County](https://radonroster.com/pa/county/washington/)
+[Get free quotes](https://radonroster.com/quotes/?city=canonsburg) [Browse all Canonsburg radon firms](https://radonroster.com/pa/city/canonsburg-pa/) · [Washington County](https://radonroster.com/pa/county/washington/)
 
 ## How does radon in Canonsburg compare with other PA cities?
 
@@ -146,7 +146,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=canonsburg)
+**Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/quotes/?city=canonsburg)
 
 Our advice
 

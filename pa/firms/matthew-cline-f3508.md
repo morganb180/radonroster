@@ -12,7 +12,7 @@ Listed by PA DEP as Cline, Matthew
 
 Matamoras, PA · Pike County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3508): your request goes to Matthew Cline and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3508): your request goes to Matthew Cline and up to 2 other nearby certified pros.
 
 ## Contact
 

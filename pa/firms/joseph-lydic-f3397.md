@@ -12,7 +12,7 @@ Listed by PA DEP as Lydic, Joseph
 
 Canonsburg, PA · Washington County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3397): your request goes to Joseph Lydic and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3397): your request goes to Joseph Lydic and up to 2 other nearby certified pros.
 
 ## Contact
 

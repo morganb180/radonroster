@@ -14,7 +14,7 @@ Listed on Google as SIS Environmental Inspection and Testing
 
 Downingtown, PA · Chester County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3589): your request goes to Mary Ann Saenz and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3589): your request goes to Mary Ann Saenz and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/media-pa/radon-guide/
 
 # How to find a radon expert in Media, PA
 
-**Quick answer:** This guide is for Media homeowners, buyers and sellers who need a radon test or a mitigation system. Media ranks #24 of 33 Radon Roster guide cities for high tests: 28% of 14,007 basement tests were at or above 4 pCi/L (Delaware County: 20%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=media).
+**Quick answer:** This guide is for Media homeowners, buyers and sellers who need a radon test or a mitigation system. Media ranks #24 of 33 Radon Roster guide cities for high tests: 28% of 14,007 basement tests were at or above 4 pCi/L (Delaware County: 20%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=media).
 
 Media tests lower than much of Pennsylvania, with **28%** of 14,007 basement tests at or above 4 pCi/L. That still leaves 3,936 tests over the action level, so a low average doesn't clear any single house. That's above Delaware County as a whole (20%) and below the statewide share (37%). The median Media result (2.4 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Delaware County median is 2.0 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#24**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=media) [Browse all Media radon firms](https://radonroster.com/pa/city/media-pa/) · [Delaware County](https://radonroster.com/pa/county/delaware/)
+[Get free quotes](https://radonroster.com/quotes/?city=media) [Browse all Media radon firms](https://radonroster.com/pa/city/media-pa/) · [Delaware County](https://radonroster.com/pa/county/delaware/)
 
 ## How does radon in Media compare with other PA cities?
 
@@ -135,7 +135,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/get-quotes/?city=media)
+**Want firms to contact you?**One request to Media mitigators[Request quotes](https://radonroster.com/quotes/?city=media)
 
 Our advice
 

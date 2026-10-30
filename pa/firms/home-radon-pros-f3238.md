@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/home-radon-pros-f3238/
 
 Venetia, PA · Washington County · 9 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3238): your request goes to Home Radon Pros and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3238): your request goes to Home Radon Pros and up to 2 other nearby certified pros.
 
 ## Google rating
 

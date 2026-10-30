@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/conklin-george-iv-f2769/
 
 Loganton, PA · Clinton County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2769): your request goes to Conklin, George, Iv and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2769): your request goes to Conklin, George, Iv and up to 2 other nearby certified pros.
 
 ## Contact
 

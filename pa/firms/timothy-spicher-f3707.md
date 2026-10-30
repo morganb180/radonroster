@@ -14,7 +14,7 @@ Listed on Google as New Chapter Home Inspections, LLC
 
 Nanty Glo, PA · Cambria County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3707): your request goes to Timothy Spicher and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3707): your request goes to Timothy Spicher and up to 2 other nearby certified pros.
 
 ## Google rating
 

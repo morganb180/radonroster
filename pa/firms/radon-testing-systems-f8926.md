@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/radon-testing-systems-f8926/
 
 Newtown, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8926): your request goes to Radon Testing Systems and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8926): your request goes to Radon Testing Systems and up to 2 other nearby certified pros.
 
 ## Google rating
 

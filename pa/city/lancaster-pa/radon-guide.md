@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lancaster-pa/radon-guide/
 
 # How to find a radon expert in Lancaster, PA
 
-**Quick answer:** This guide is for Lancaster homeowners, buyers and sellers who need a radon test or a mitigation system. Lancaster ranks #7 of 33 Radon Roster guide cities for high tests: 51% of 37,640 basement tests were at or above 4 pCi/L (Lancaster County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lancaster).
+**Quick answer:** This guide is for Lancaster homeowners, buyers and sellers who need a radon test or a mitigation system. Lancaster ranks #7 of 33 Radon Roster guide cities for high tests: 51% of 37,640 basement tests were at or above 4 pCi/L (Lancaster County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=lancaster).
 
 About **51%** of basement tests in Lancaster, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 37,640 tests in PA DEP's records. That's below Lancaster County as a whole (55%) and above the statewide share (37%). The median Lancaster result (4.1 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Lancaster County median is 4.7 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#7**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=lancaster) [Browse all Lancaster radon firms](https://radonroster.com/pa/city/lancaster-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
+[Get free quotes](https://radonroster.com/quotes/?city=lancaster) [Browse all Lancaster radon firms](https://radonroster.com/pa/city/lancaster-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
 
 ## How does radon in Lancaster compare with other PA cities?
 
@@ -185,7 +185,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lancaster)
+**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/quotes/?city=lancaster)
 
 Our advice
 

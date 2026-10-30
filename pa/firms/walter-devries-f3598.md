@@ -14,7 +14,7 @@ Listed on Google as Rock House Inspections
 
 Millville, PA · Columbia County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3598): your request goes to Walter Devries and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3598): your request goes to Walter Devries and up to 2 other nearby certified pros.
 
 ## Google rating
 

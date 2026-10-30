@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/homer-inspection-services-f3196/
 
 Atglen, PA · Chester County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3196): your request goes to Homer Inspection Services and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3196): your request goes to Homer Inspection Services and up to 2 other nearby certified pros.
 
 ## Contact
 

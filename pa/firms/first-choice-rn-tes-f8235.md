@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/first-choice-rn-tes-f8235/
 
 Huntingdon Valle, PA · Montgomery County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8235): your request goes to First Choice Rn Tes and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8235): your request goes to First Choice Rn Tes and up to 2 other nearby certified pros.
 
 ## Google rating
 

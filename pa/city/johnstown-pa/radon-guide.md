@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/johnstown-pa/radon-guide/
 
 # How to find a radon expert in Johnstown, PA
 
-**Quick answer:** This guide is for Johnstown homeowners, buyers and sellers who need a radon test or a mitigation system. Johnstown ranks #13 of 33 Radon Roster guide cities for high tests: 43% of 10,172 basement tests were at or above 4 pCi/L (Cambria County: 43%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=johnstown).
+**Quick answer:** This guide is for Johnstown homeowners, buyers and sellers who need a radon test or a mitigation system. Johnstown ranks #13 of 33 Radon Roster guide cities for high tests: 43% of 10,172 basement tests were at or above 4 pCi/L (Cambria County: 43%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=johnstown).
 
 In Johnstown, 10,172 basement radon tests in PA DEP's records give a median of **3.5 pCi/L**, and **43%** were at or above 4 pCi/L. That's close to Cambria County as a whole (43%) and above the statewide share (37%). The median Johnstown result (3.5 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Cambria County median is 3.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#13**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=johnstown) [Browse all Johnstown radon firms](https://radonroster.com/pa/city/johnstown-pa/) · [Cambria County](https://radonroster.com/pa/county/cambria/)
+[Get free quotes](https://radonroster.com/quotes/?city=johnstown) [Browse all Johnstown radon firms](https://radonroster.com/pa/city/johnstown-pa/) · [Cambria County](https://radonroster.com/pa/county/cambria/)
 
 ## How does radon in Johnstown compare with other PA cities?
 
@@ -132,7 +132,7 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 2 DEP-certified firms
 
 In PA DEP's test records, 43% of 10,172 basement tests with a Johnstown address were at or above 4 pCi/L (median 3.5 pCi/L). Results vary house to house, so only a test tells you your level.
 
-**Want firms to contact you?**One request to Johnstown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=johnstown)
+**Want firms to contact you?**One request to Johnstown mitigators[Request quotes](https://radonroster.com/quotes/?city=johnstown)
 
 Our advice
 

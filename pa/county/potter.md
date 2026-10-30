@@ -38,7 +38,7 @@ First floor: **20%** of 465 tests ≥ 4 pCi/L, median 1.4
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
-**No DEP-certified radon firm lists a business address in Potter County.** 5 certified firms in the 3 neighboring counties below are listed on PA DEP's certified lists and may serve Potter County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/get-quotes/?county=potter)
+**No DEP-certified radon firm lists a business address in Potter County.** 5 certified firms in the 3 neighboring counties below are listed on PA DEP's certified lists and may serve Potter County homes. Ask each one whether it covers your address. [Get free quotes](https://radonroster.com/quotes/?county=potter)
 
 ## Which certified radon firms are near Potter County?
 
@@ -90,7 +90,7 @@ We don't have county-specific price data. PA DEP says most systems cost $800-$1,
 
 **Want firms to contact you?**One request to Potter mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?county=potter)
+[Request quotes](https://radonroster.com/quotes/?county=potter)
 
 Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/) · [Free test kits](https://radonroster.com/free-radon-test-kit-pennsylvania/) · [Mitigation in PA](https://radonroster.com/radon-mitigation-pennsylvania/)
 

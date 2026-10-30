@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/air-quality-control-inc-f1862/
 
 King Of Prussia, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1862): your request goes to Air Quality Control, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1862): your request goes to Air Quality Control, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

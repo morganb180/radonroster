@@ -12,7 +12,7 @@ Listed by PA DEP as Imperial, Michael
 
 Jamison, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2872): your request goes to Michael Imperial and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2872): your request goes to Michael Imperial and up to 2 other nearby certified pros.
 
 ## Contact
 

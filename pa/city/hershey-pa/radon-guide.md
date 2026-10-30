@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/hershey-pa/radon-guide/
 
 # How to find a radon expert in Hershey, PA
 
-**Quick answer:** This guide is for Hershey homeowners, buyers and sellers who need a radon test or a mitigation system. Hershey ranks #14 of 33 Radon Roster guide cities for high tests: 41% of 8,814 basement tests were at or above 4 pCi/L (Dauphin County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=hershey).
+**Quick answer:** This guide is for Hershey homeowners, buyers and sellers who need a radon test or a mitigation system. Hershey ranks #14 of 33 Radon Roster guide cities for high tests: 41% of 8,814 basement tests were at or above 4 pCi/L (Dauphin County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=hershey).
 
 In Hershey, 8,814 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **41%** were at or above 4 pCi/L. That's below Dauphin County as a whole (51%) and above the statewide share (37%). The median Hershey result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Dauphin County median is 4.1 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#14**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=hershey) [Browse all Hershey radon firms](https://radonroster.com/pa/city/hershey-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
+[Get free quotes](https://radonroster.com/quotes/?city=hershey) [Browse all Hershey radon firms](https://radonroster.com/pa/city/hershey-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
 
 ## How does radon in Hershey compare with other PA cities?
 
@@ -204,7 +204,7 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Hershey and 7 more in Dauphin County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
 
-**Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/get-quotes/?city=hershey)
+**Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/quotes/?city=hershey)
 
 Our advice
 

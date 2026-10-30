@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/casciato-jr-daniel-f3224/
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3224): your request goes to Casciato, Jr., Daniel and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3224): your request goes to Casciato, Jr., Daniel and up to 2 other nearby certified pros.
 
 ## Contact
 

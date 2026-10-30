@@ -12,7 +12,7 @@ Listed by PA DEP as Cortez, James
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2836): your request goes to James Cortez and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2836): your request goes to James Cortez and up to 2 other nearby certified pros.
 
 ## Contact
 

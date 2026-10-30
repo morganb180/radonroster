@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/williamsport-pa/radon-guide/
 
 # How to find a radon expert in Williamsport, PA
 
-**Quick answer:** This guide is for Williamsport homeowners, buyers and sellers who need a radon test or a mitigation system. Williamsport ranks #17 of 33 Radon Roster guide cities for high tests: 39% of 6,668 basement tests were at or above 4 pCi/L (Lycoming County: 46%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=williamsport).
+**Quick answer:** This guide is for Williamsport homeowners, buyers and sellers who need a radon test or a mitigation system. Williamsport ranks #17 of 33 Radon Roster guide cities for high tests: 39% of 6,668 basement tests were at or above 4 pCi/L (Lycoming County: 46%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=williamsport).
 
 In Williamsport, 6,668 basement radon tests in PA DEP's records give a median of **2.9 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Lycoming County as a whole (46%) and about level with the statewide share (37%). The median Williamsport result (2.9 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Lycoming County median is 3.6 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#17**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=williamsport) [Browse all Williamsport radon firms](https://radonroster.com/pa/city/williamsport-pa/) · [Lycoming County](https://radonroster.com/pa/county/lycoming/)
+[Get free quotes](https://radonroster.com/quotes/?city=williamsport) [Browse all Williamsport radon firms](https://radonroster.com/pa/city/williamsport-pa/) · [Lycoming County](https://radonroster.com/pa/county/lycoming/)
 
 ## How does radon in Williamsport compare with other PA cities?
 
@@ -132,7 +132,7 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms
 
 In PA DEP's test records, 39% of 6,668 basement tests with a Williamsport address were at or above 4 pCi/L (median 2.9 pCi/L). Results vary house to house, so only a test tells you your level.
 
-**Want firms to contact you?**One request to Williamsport mitigators[Request quotes](https://radonroster.com/get-quotes/?city=williamsport)
+**Want firms to contact you?**One request to Williamsport mitigators[Request quotes](https://radonroster.com/quotes/?city=williamsport)
 
 Our advice
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Fiorelli, Stephen J.
 
 Ridley Park, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1609): your request goes to Stephen J. Fiorelli and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1609): your request goes to Stephen J. Fiorelli and up to 2 other nearby certified pros.
 
 ## Contact
 

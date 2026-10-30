@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/accurate-radon-control-inc-f2112/
 
 Green Lane, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2112): your request goes to Accurate Radon Control Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2112): your request goes to Accurate Radon Control Inc and up to 2 other nearby certified pros.
 
 ## Contact
 

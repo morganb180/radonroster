@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/clarity-home-inspection-f3663/
 
 Moon Township, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3663): your request goes to Clarity Home Inspection and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3663): your request goes to Clarity Home Inspection and up to 2 other nearby certified pros.
 
 ## Google rating
 

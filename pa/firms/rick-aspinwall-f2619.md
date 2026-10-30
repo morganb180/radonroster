@@ -12,7 +12,7 @@ Listed by PA DEP as Aspinwall, Rick
 
 Doylestown, PA · Bucks County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2619): your request goes to Rick Aspinwall and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2619): your request goes to Rick Aspinwall and up to 2 other nearby certified pros.
 
 ## Contact
 

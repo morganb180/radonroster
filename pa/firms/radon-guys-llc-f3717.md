@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-guys-llc-f3717/
 
 Middleburg, PA · Snyder County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3717): your request goes to Radon Guys, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3717): your request goes to Radon Guys, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

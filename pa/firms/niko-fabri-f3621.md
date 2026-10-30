@@ -12,7 +12,7 @@ Listed by PA DEP as Fabri, Niko
 
 Norristown, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3621): your request goes to Niko Fabri and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3621): your request goes to Niko Fabri and up to 2 other nearby certified pros.
 
 ## Contact
 

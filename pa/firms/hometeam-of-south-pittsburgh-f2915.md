@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/hometeam-of-south-pittsburgh-f2915/
 
 Springdale, PA · Allegheny County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2915): your request goes to Hometeam Of South Pittsburgh and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2915): your request goes to Hometeam Of South Pittsburgh and up to 2 other nearby certified pros.
 
 ## Contact
 

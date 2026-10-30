@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lansdale-pa/
 
 # Radon testing & mitigation in Lansdale, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Lansdale, PA: 25% of 19,617 basement radon tests with a Lansdale address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Lansdale, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lansdale).
+**Quick answer:** For homeowners, buyers and sellers in Lansdale, PA: 25% of 19,617 basement radon tests with a Lansdale address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Lansdale, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=lansdale).
 
 Lansdale sits in Montgomery County. In the PA DEP test dataset, 19,617 basement radon tests carry a Lansdale address. Their median was **2.2 pCi/L**, and **25%** came in at or above EPA's 4 pCi/L action level. Across all of Montgomery County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -1247,7 +1247,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Montgomery County listings →](https://radonroster.com/pa/county/montgomery/) · [Lansdale radon guide](https://radonroster.com/pa/city/lansdale-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lansdale)
+**Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/quotes/?city=lansdale)
 
 ## Which cities near Lansdale have radon pages?
 

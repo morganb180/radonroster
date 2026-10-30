@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/cranberry-township-pa/
 
 # Radon testing & mitigation in Cranberry Township, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Cranberry Township, PA: 38% of 10,735 basement radon tests with a Cranberry Township address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Butler County (47%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Cranberry Township address, but Radon Roster lists firms elsewhere in Butler County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=cranberry-township).
+**Quick answer:** For homeowners, buyers and sellers in Cranberry Township, PA: 38% of 10,735 basement radon tests with a Cranberry Township address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Butler County (47%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Cranberry Township address, but Radon Roster lists firms elsewhere in Butler County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=cranberry-township).
 
 Cranberry Township sits in Butler County. In the PA DEP test dataset, 10,735 basement radon tests carry a Cranberry Township address. Their median was **2.9 pCi/L**, and **38%** came in at or above EPA's 4 pCi/L action level. Across all of Butler County it was 47%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -546,7 +546,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Butler County listings →](https://radonroster.com/pa/county/butler/) · [Cranberry Township radon guide](https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/get-quotes/?city=cranberry-township)
+**Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/quotes/?city=cranberry-township)
 
 ## Which cities near Cranberry Township have radon pages?
 

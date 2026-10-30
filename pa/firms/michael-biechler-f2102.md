@@ -12,7 +12,7 @@ Listed by PA DEP as Biechler, Michael
 
 Middletown, PA · Dauphin County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2102): your request goes to Michael Biechler and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2102): your request goes to Michael Biechler and up to 2 other nearby certified pros.
 
 ## Contact
 

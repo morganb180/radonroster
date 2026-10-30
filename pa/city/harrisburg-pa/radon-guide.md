@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/harrisburg-pa/radon-guide/
 
 # How to find a radon expert in Harrisburg, PA
 
-**Quick answer:** This guide is for Harrisburg homeowners, buyers and sellers who need a radon test or a mitigation system. Harrisburg ranks #6 of 33 Radon Roster guide cities for high tests: 52% of 38,427 basement tests were at or above 4 pCi/L (Dauphin County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=harrisburg).
+**Quick answer:** This guide is for Harrisburg homeowners, buyers and sellers who need a radon test or a mitigation system. Harrisburg ranks #6 of 33 Radon Roster guide cities for high tests: 52% of 38,427 basement tests were at or above 4 pCi/L (Dauphin County: 51%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=harrisburg).
 
 About **52%** of basement tests in Harrisburg, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 38,427 tests in PA DEP's records. That's close to Dauphin County as a whole (51%) and above the statewide share (37%). The median Harrisburg result (4.3 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Dauphin County median is 4.1 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#6**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=harrisburg) [Browse all Harrisburg radon firms](https://radonroster.com/pa/city/harrisburg-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
+[Get free quotes](https://radonroster.com/quotes/?city=harrisburg) [Browse all Harrisburg radon firms](https://radonroster.com/pa/city/harrisburg-pa/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/)
 
 ## How does radon in Harrisburg compare with other PA cities?
 
@@ -203,7 +203,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=harrisburg)
+**Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/quotes/?city=harrisburg)
 
 Our advice
 

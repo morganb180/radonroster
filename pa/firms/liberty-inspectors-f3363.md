@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/liberty-inspectors-f3363/
 
 North Huntingdon, PA · Westmoreland County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3363): your request goes to Liberty Inspectors and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3363): your request goes to Liberty Inspectors and up to 2 other nearby certified pros.
 
 ## Google rating
 

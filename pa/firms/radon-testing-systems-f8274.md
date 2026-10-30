@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/radon-testing-systems-f8274/
 
 Collegeville, PA · Montgomery County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8274): your request goes to Radon Testing Systems and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8274): your request goes to Radon Testing Systems and up to 2 other nearby certified pros.
 
 ## Google rating
 

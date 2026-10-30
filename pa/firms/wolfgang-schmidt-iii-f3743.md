@@ -12,7 +12,7 @@ Listed by PA DEP as Schmidt Iii, Wolfgang
 
 Quarryville, PA · Lancaster County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3743): your request goes to Wolfgang Schmidt Iii and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3743): your request goes to Wolfgang Schmidt Iii and up to 2 other nearby certified pros.
 
 ## Contact
 

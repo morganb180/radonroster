@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/accustar-labs-f1935/
 
 Harrisburg, PA · Dauphin County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1935): your request goes to Accustar Labs and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1935): your request goes to Accustar Labs and up to 2 other nearby certified pros.
 
 ## Google rating
 

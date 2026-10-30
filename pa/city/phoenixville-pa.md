@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/phoenixville-pa/
 
 # Radon testing & mitigation in Phoenixville, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Phoenixville, PA: 27% of 16,364 basement radon tests with a Phoenixville address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Chester County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Phoenixville, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=phoenixville).
+**Quick answer:** For homeowners, buyers and sellers in Phoenixville, PA: 27% of 16,364 basement radon tests with a Phoenixville address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Chester County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Phoenixville, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=phoenixville).
 
 Phoenixville sits in Chester County. In the PA DEP test dataset, 16,364 basement radon tests carry a Phoenixville address. Their median was **2.2 pCi/L**, and **27%** came in at or above EPA's 4 pCi/L action level. Across all of Chester County it was 31%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -905,7 +905,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Chester County listings →](https://radonroster.com/pa/county/chester/) · [Phoenixville radon guide](https://radonroster.com/pa/city/phoenixville-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Phoenixville mitigators[Request quotes](https://radonroster.com/get-quotes/?city=phoenixville)
+**Want firms to contact you?**One request to Phoenixville mitigators[Request quotes](https://radonroster.com/quotes/?city=phoenixville)
 
 ## Which cities near Phoenixville have radon pages?
 

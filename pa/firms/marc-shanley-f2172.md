@@ -14,7 +14,7 @@ Listed on Google as Trinity Inspection, Inc.
 
 Kunkletown, PA · Carbon County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2172): your request goes to Marc Shanley and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2172): your request goes to Marc Shanley and up to 2 other nearby certified pros.
 
 ## Google rating
 

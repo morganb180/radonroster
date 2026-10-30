@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/altoona-pa/
 
 # Radon testing & mitigation in Altoona, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Altoona, PA: 39% of 7,523 basement radon tests with a Altoona address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Blair County (43%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Altoona, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=altoona).
+**Quick answer:** For homeowners, buyers and sellers in Altoona, PA: 39% of 7,523 basement radon tests with a Altoona address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Blair County (43%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Altoona, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=altoona).
 
 Altoona sits in Blair County. In the PA DEP test dataset, 7,523 basement radon tests carry a Altoona address. Their median was **2.8 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Blair County it was 43%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -242,7 +242,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Blair County listings →](https://radonroster.com/pa/county/blair/) · [Altoona radon guide](https://radonroster.com/pa/city/altoona-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Altoona mitigators[Request quotes](https://radonroster.com/get-quotes/?city=altoona)
+**Want firms to contact you?**One request to Altoona mitigators[Request quotes](https://radonroster.com/quotes/?city=altoona)
 
 ## Which cities near Altoona have radon pages?
 

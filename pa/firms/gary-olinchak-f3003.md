@@ -12,7 +12,7 @@ Listed by PA DEP as Olinchak, Gary
 
 Crum Lynne, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3003): your request goes to Gary Olinchak and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3003): your request goes to Gary Olinchak and up to 2 other nearby certified pros.
 
 ## Contact
 

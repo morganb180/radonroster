@@ -86,11 +86,11 @@ EPA advises weighing what you get for the money: a cheaper system may cost more 
 
 Source: [EPA Consumer's Guide to Radon Reduction](https://www.epa.gov/radon/consumers-guide-radon-reduction-how-fix-your-home).
 
-[Get free quotes](https://radonroster.com/get-quotes/)
+[Get free quotes](https://radonroster.com/quotes/)
 
 ## Where can I get radon mitigation quotes near me?
 
-Request free quotes through [Radon Roster](https://radonroster.com/get-quotes/), or browse PA DEP-certified mitigators by county below.
+Request free quotes through [Radon Roster](https://radonroster.com/quotes/), or browse PA DEP-certified mitigators by county below.
 
 Browse certified mitigators by county: [Montgomery County](https://radonroster.com/pa/county/montgomery/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/) · [Berks County](https://radonroster.com/pa/county/berks/) · [Bucks County](https://radonroster.com/pa/county/bucks/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/) · [Dauphin County](https://radonroster.com/pa/county/dauphin/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/) · [all 67 counties](https://radonroster.com/pa/counties/). Or by city: [Allentown](https://radonroster.com/pa/city/allentown-pa/) · [Doylestown](https://radonroster.com/pa/city/doylestown-pa/) · [King of Prussia](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Lancaster](https://radonroster.com/pa/city/lancaster-pa/) · [Lansdale](https://radonroster.com/pa/city/lansdale-pa/) · [Media](https://radonroster.com/pa/city/media-pa/) · [Norristown](https://radonroster.com/pa/city/norristown-pa/) · [Phoenixville](https://radonroster.com/pa/city/phoenixville-pa/) · [Pittsburgh](https://radonroster.com/pa/city/pittsburgh-pa/) · [Quakertown](https://radonroster.com/pa/city/quakertown-pa/) · [Reading](https://radonroster.com/pa/city/reading-pa/) · [West Chester](https://radonroster.com/pa/city/west-chester-pa/) · [all cities](https://radonroster.com/pa/cities/).
 

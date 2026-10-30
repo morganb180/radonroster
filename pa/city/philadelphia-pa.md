@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/philadelphia-pa/
 
 # Radon testing & mitigation in Philadelphia, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Philadelphia, PA: 12% of 144,527 basement radon tests with a Philadelphia address in PA DEP's records were at or above EPA's 4 pCi/L action level and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 10 certified firms based in Philadelphia, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=philadelphia).
+**Quick answer:** For homeowners, buyers and sellers in Philadelphia, PA: 12% of 144,527 basement radon tests with a Philadelphia address in PA DEP's records were at or above EPA's 4 pCi/L action level and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 10 certified firms based in Philadelphia, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=philadelphia).
 
 Philadelphia sits in Philadelphia County. In the PA DEP test dataset, 144,527 basement radon tests carry a Philadelphia address. Their median was **1.6 pCi/L**, and **12%** came in at or above EPA's 4 pCi/L action level. Across all of Philadelphia County it was 12%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -628,7 +628,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Philadelphia County listings →](https://radonroster.com/pa/county/philadelphia/) · [Philadelphia radon guide](https://radonroster.com/pa/city/philadelphia-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=philadelphia)
+**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/quotes/?city=philadelphia)
 
 ## Which cities near Philadelphia have radon pages?
 

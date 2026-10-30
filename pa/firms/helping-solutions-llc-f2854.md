@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/helping-solutions-llc-f2854/
 
 Altoona, PA · Blair County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2854): your request goes to Helping Solutions LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2854): your request goes to Helping Solutions LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

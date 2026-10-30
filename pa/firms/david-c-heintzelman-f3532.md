@@ -12,7 +12,7 @@ Listed by PA DEP as Heintzelman, David C.
 
 Mechanicsburg, PA · Cumberland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3532): your request goes to David C. Heintzelman and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3532): your request goes to David C. Heintzelman and up to 2 other nearby certified pros.
 
 ## Contact
 

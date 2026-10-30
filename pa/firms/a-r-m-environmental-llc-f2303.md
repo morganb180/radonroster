@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a-r-m-environmental-llc-f2303/
 
 Tannersville, PA · Monroe County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2303): your request goes to A R M Environmental LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2303): your request goes to A R M Environmental LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

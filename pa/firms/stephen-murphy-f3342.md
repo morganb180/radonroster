@@ -12,7 +12,7 @@ Listed by PA DEP as Murphy, Stephen
 
 Lincoln Universi, PA · Chester County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3342): your request goes to Stephen Murphy and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3342): your request goes to Stephen Murphy and up to 2 other nearby certified pros.
 
 ## Contact
 

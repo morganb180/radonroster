@@ -12,7 +12,7 @@ Listed by PA DEP as Bennett, Thomas
 
 Sayre, PA · Bradford County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3509): your request goes to Thomas Bennett and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3509): your request goes to Thomas Bennett and up to 2 other nearby certified pros.
 
 ## Contact
 

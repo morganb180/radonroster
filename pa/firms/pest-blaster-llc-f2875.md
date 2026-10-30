@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/pest-blaster-llc-f2875/
 
 Morrisville, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2875): your request goes to Pest Blaster LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2875): your request goes to Pest Blaster LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

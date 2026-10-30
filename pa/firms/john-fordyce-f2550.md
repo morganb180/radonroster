@@ -14,7 +14,7 @@ Listed on Google as Safe-Buy Home Inspection LLC.: John R. Fordyce
 
 Indiana, PA · Indiana County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2550): your request goes to John Fordyce and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2550): your request goes to John Fordyce and up to 2 other nearby certified pros.
 
 ## Google rating
 

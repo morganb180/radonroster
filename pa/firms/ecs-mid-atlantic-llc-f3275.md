@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/ecs-mid-atlantic-llc-f3275/
 
 Cranberry Townsh, PA · Butler County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3275): your request goes to Ecs Mid-Atlantic LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3275): your request goes to Ecs Mid-Atlantic LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

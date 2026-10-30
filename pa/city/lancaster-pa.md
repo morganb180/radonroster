@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lancaster-pa/
 
 # Radon testing & mitigation in Lancaster, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Lancaster, PA: 51% of 37,640 basement radon tests with a Lancaster address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lancaster result, 4.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Lancaster, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lancaster).
+**Quick answer:** For homeowners, buyers and sellers in Lancaster, PA: 51% of 37,640 basement radon tests with a Lancaster address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lancaster result, 4.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Lancaster, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=lancaster).
 
 Lancaster sits in Lancaster County. In the PA DEP test dataset, 37,640 basement radon tests carry a Lancaster address. Their median was **4.1 pCi/L**, and **51%** came in at or above EPA's 4 pCi/L action level. Across all of Lancaster County it was 55%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -680,7 +680,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Lancaster County listings →](https://radonroster.com/pa/county/lancaster/) · [Lancaster radon guide](https://radonroster.com/pa/city/lancaster-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lancaster)
+**Want firms to contact you?**One request to Lancaster mitigators[Request quotes](https://radonroster.com/quotes/?city=lancaster)
 
 ## Which cities near Lancaster have radon pages?
 

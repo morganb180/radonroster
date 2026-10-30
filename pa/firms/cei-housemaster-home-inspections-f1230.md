@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/cei-housemaster-home-inspections-f12
 
 Cranberry Townsh, PA · Butler County · 8 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1230): your request goes to Cei/Housemaster Home Inspections and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1230): your request goes to Cei/Housemaster Home Inspections and up to 2 other nearby certified pros.
 
 ## Contact
 

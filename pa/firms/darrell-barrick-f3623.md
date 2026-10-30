@@ -12,7 +12,7 @@ Listed by PA DEP as Barrick, Darrell
 
 Hanover, PA · Adams County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3623): your request goes to Darrell Barrick and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3623): your request goes to Darrell Barrick and up to 2 other nearby certified pros.
 
 ## Contact
 

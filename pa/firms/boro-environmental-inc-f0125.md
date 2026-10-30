@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/boro-environmental-inc-f0125/
 
 Glenolden, PA · Delaware County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0125): your request goes to Boro Environmental, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0125): your request goes to Boro Environmental, Inc. and up to 2 other nearby certified pros.
 
 ## Contact
 

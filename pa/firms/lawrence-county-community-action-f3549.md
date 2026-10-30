@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/lawrence-county-community-action-f35
 
 New Castle, PA · Lawrence County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3549): your request goes to Lawrence County Community Action and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3549): your request goes to Lawrence County Community Action and up to 2 other nearby certified pros.
 
 ## Google rating
 

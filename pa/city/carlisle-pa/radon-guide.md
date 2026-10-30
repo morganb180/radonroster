@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/carlisle-pa/radon-guide/
 
 # How to find a radon expert in Carlisle, PA
 
-**Quick answer:** This guide is for Carlisle homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 55% of 15,932 basement tests in Carlisle were at or above 4 pCi/L, about the same as Cumberland County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=carlisle).
+**Quick answer:** This guide is for Carlisle homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 55% of 15,932 basement tests in Carlisle were at or above 4 pCi/L, about the same as Cumberland County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=carlisle).
 
 About **55%** of basement tests in Carlisle, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 15,932 tests in PA DEP's records. That's close to Cumberland County as a whole (55%) and above the statewide share (37%). The median Carlisle result (4.8 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Cumberland County median is 4.8 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=carlisle) [Browse all Carlisle radon firms](https://radonroster.com/pa/city/carlisle-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
+[Get free quotes](https://radonroster.com/quotes/?city=carlisle) [Browse all Carlisle radon firms](https://radonroster.com/pa/city/carlisle-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
 
 ## How does radon in Carlisle compare with Cumberland County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Carlisle mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=carlisle)
+[Request quotes](https://radonroster.com/quotes/?city=carlisle)
 
 Our advice
 

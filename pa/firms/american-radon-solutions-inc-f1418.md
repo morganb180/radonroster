@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/american-radon-solutions-inc-f1418/
 
 Camp Hill, PA · Cumberland County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1418): your request goes to American Radon Solutions, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1418): your request goes to American Radon Solutions, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

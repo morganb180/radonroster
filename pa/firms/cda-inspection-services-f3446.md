@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/cda-inspection-services-f3446/
 
 Emmaus, PA · Lehigh County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3446): your request goes to Cda Inspection Services and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3446): your request goes to Cda Inspection Services and up to 2 other nearby certified pros.
 
 ## Google rating
 

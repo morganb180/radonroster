@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/altoona-pa/radon-guide/
 
 # How to find a radon expert in Altoona, PA
 
-**Quick answer:** This guide is for Altoona homeowners, buyers and sellers who need a radon test or a mitigation system. Altoona ranks #15 of 33 Radon Roster guide cities for high tests: 39% of 7,523 basement tests were at or above 4 pCi/L (Blair County: 43%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=altoona).
+**Quick answer:** This guide is for Altoona homeowners, buyers and sellers who need a radon test or a mitigation system. Altoona ranks #15 of 33 Radon Roster guide cities for high tests: 39% of 7,523 basement tests were at or above 4 pCi/L (Blair County: 43%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=altoona).
 
 In Altoona, 7,523 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Blair County as a whole (43%) and about level with the statewide share (37%). The median Altoona result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Blair County median is 3.2 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#15**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=altoona) [Browse all Altoona radon firms](https://radonroster.com/pa/city/altoona-pa/) · [Blair County](https://radonroster.com/pa/county/blair/)
+[Get free quotes](https://radonroster.com/quotes/?city=altoona) [Browse all Altoona radon firms](https://radonroster.com/pa/city/altoona-pa/) · [Blair County](https://radonroster.com/pa/county/blair/)
 
 ## How does radon in Altoona compare with other PA cities?
 
@@ -133,7 +133,7 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 1 DEP-certified firms based in Altoona and 2 more in Blair County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
 
-**Want firms to contact you?**One request to Altoona mitigators[Request quotes](https://radonroster.com/get-quotes/?city=altoona)
+**Want firms to contact you?**One request to Altoona mitigators[Request quotes](https://radonroster.com/quotes/?city=altoona)
 
 Our advice
 

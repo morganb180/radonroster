@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/penn-guard-radon-solutions-f3761/
 
 Selinsgrove, PA · Snyder County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3761): your request goes to Penn Guard Radon Solutions and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3761): your request goes to Penn Guard Radon Solutions and up to 2 other nearby certified pros.
 
 ## Contact
 

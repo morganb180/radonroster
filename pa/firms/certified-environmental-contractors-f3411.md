@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/certified-environmental-contractors-
 
 Freehold, NJ · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3411): your request goes to Certified Environmental Contractors and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3411): your request goes to Certified Environmental Contractors and up to 2 other nearby certified pros.
 
 ## Contact
 

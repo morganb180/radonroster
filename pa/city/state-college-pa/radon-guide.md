@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/state-college-pa/radon-guide/
 
 # How to find a radon expert in State College, PA
 
-**Quick answer:** This guide is for State College homeowners, buyers and sellers who need a radon test or a mitigation system. State College ranks #4 of 33 Radon Roster guide cities for high tests: 55% of 23,460 basement tests were at or above 4 pCi/L (Centre County: 56%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=state-college).
+**Quick answer:** This guide is for State College homeowners, buyers and sellers who need a radon test or a mitigation system. State College ranks #4 of 33 Radon Roster guide cities for high tests: 55% of 23,460 basement tests were at or above 4 pCi/L (Centre County: 56%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=state-college).
 
 About **55%** of basement tests in State College, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 23,460 tests in PA DEP's records. That's close to Centre County as a whole (56%) and above the statewide share (37%). The median State College result (4.8 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Centre County median is 5.2 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#4**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=state-college) [Browse all State College radon firms](https://radonroster.com/pa/city/state-college-pa/) · [Centre County](https://radonroster.com/pa/county/centre/)
+[Get free quotes](https://radonroster.com/quotes/?city=state-college) [Browse all State College radon firms](https://radonroster.com/pa/city/state-college-pa/) · [Centre County](https://radonroster.com/pa/county/centre/)
 
 ## How does radon in State College compare with other PA cities?
 
@@ -182,7 +182,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to State College mitigators[Request quotes](https://radonroster.com/get-quotes/?city=state-college)
+**Want firms to contact you?**One request to State College mitigators[Request quotes](https://radonroster.com/quotes/?city=state-college)
 
 Our advice
 

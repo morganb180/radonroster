@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rssi-f1246/
 
 Morton Grove, IL · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1246): your request goes to Rssi and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1246): your request goes to Rssi and up to 2 other nearby certified pros.
 
 ## Google rating
 

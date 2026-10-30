@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/richard-d-malin-f1948/
 
 Monroeville, PA · Allegheny County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1948): your request goes to Richard D. Malin and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1948): your request goes to Richard D. Malin and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a-z-solutions-inc-f3312/
 
 North Canton, OH · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3312): your request goes to A-Z Solutions, Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3312): your request goes to A-Z Solutions, Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

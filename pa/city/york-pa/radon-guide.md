@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/york-pa/radon-guide/
 
 # How to find a radon expert in York, PA
 
-**Quick answer:** This guide is for York homeowners, buyers and sellers who need a radon test or a mitigation system. York ranks #3 of 33 Radon Roster guide cities for high tests: 58% of 28,440 basement tests were at or above 4 pCi/L (York County: 56%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=york).
+**Quick answer:** This guide is for York homeowners, buyers and sellers who need a radon test or a mitigation system. York ranks #3 of 33 Radon Roster guide cities for high tests: 58% of 28,440 basement tests were at or above 4 pCi/L (York County: 56%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=york).
 
 About **58%** of basement tests in York, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 28,440 tests in PA DEP's records. That's close to York County as a whole (56%) and above the statewide share (37%). The median York result (5.0 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The York County median is 4.9 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#3**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=york) [Browse all York radon firms](https://radonroster.com/pa/city/york-pa/) · [York County](https://radonroster.com/pa/county/york/)
+[Get free quotes](https://radonroster.com/quotes/?city=york) [Browse all York radon firms](https://radonroster.com/pa/city/york-pa/) · [York County](https://radonroster.com/pa/county/york/)
 
 ## How does radon in York compare with other PA cities?
 
@@ -180,7 +180,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/get-quotes/?city=york)
+**Want firms to contact you?**One request to York mitigators[Request quotes](https://radonroster.com/quotes/?city=york)
 
 Our advice
 

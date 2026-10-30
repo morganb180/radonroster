@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/spotlight-home-inspection-llc-f3341/
 
 Perkiomenville, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3341): your request goes to Spotlight Home Inspection LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3341): your request goes to Spotlight Home Inspection LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

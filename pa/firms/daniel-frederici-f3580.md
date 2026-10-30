@@ -14,7 +14,7 @@ Listed on Google as Brace Brook Home Inspections LLC
 
 Forest City, PA · Wayne County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3580): your request goes to Daniel Frederici and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3580): your request goes to Daniel Frederici and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/
 
 # How to find a radon expert in King of Prussia, PA
 
-**Quick answer:** This guide is for King of Prussia homeowners, buyers and sellers who need a radon test or a mitigation system. King of Prussia ranks #30 of 33 Radon Roster guide cities for high tests: 21% of 6,855 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=king-of-prussia).
+**Quick answer:** This guide is for King of Prussia homeowners, buyers and sellers who need a radon test or a mitigation system. King of Prussia ranks #30 of 33 Radon Roster guide cities for high tests: 21% of 6,855 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=king-of-prussia).
 
 King of Prussia tests lower than much of Pennsylvania, with **21%** of 6,855 basement tests at or above 4 pCi/L. That still leaves 1,408 tests over the action level, so a low average doesn't clear any single house. That's below Montgomery County as a whole (28%) and below the statewide share (37%). The median King of Prussia result (1.9 pCi/L) is below the 4 pCi/L line. The Montgomery County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#30**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=king-of-prussia) [Browse all King of Prussia radon firms](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
+[Get free quotes](https://radonroster.com/quotes/?city=king-of-prussia) [Browse all King of Prussia radon firms](https://radonroster.com/pa/city/king-of-prussia-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
 
 ## How does radon in King of Prussia compare with other PA cities?
 
@@ -263,7 +263,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to King of Prussia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=king-of-prussia)
+**Want firms to contact you?**One request to King of Prussia mitigators[Request quotes](https://radonroster.com/quotes/?city=king-of-prussia)
 
 Our advice
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/steel-city-radon-f2002/
 
 Pittsburgh, PA · Allegheny County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2002): your request goes to Steel City Radon and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2002): your request goes to Steel City Radon and up to 2 other nearby certified pros.
 
 ## Contact
 

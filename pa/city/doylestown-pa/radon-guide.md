@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/doylestown-pa/radon-guide/
 
 # How to find a radon expert in Doylestown, PA
 
-**Quick answer:** This guide is for Doylestown homeowners, buyers and sellers who need a radon test or a mitigation system. Doylestown ranks #21 of 33 Radon Roster guide cities for high tests: 34% of 27,330 basement tests were at or above 4 pCi/L (Bucks County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=doylestown).
+**Quick answer:** This guide is for Doylestown homeowners, buyers and sellers who need a radon test or a mitigation system. Doylestown ranks #21 of 33 Radon Roster guide cities for high tests: 34% of 27,330 basement tests were at or above 4 pCi/L (Bucks County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=doylestown).
 
 In Doylestown, 27,330 basement radon tests in PA DEP's records give a median of **2.6 pCi/L**, and **34%** were at or above 4 pCi/L. That's above Bucks County as a whole (31%) and below the statewide share (37%). The median Doylestown result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Bucks County median is 2.5 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#21**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=doylestown) [Browse all Doylestown radon firms](https://radonroster.com/pa/city/doylestown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
+[Get free quotes](https://radonroster.com/quotes/?city=doylestown) [Browse all Doylestown radon firms](https://radonroster.com/pa/city/doylestown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
 
 ## How does radon in Doylestown compare with other PA cities?
 
@@ -204,7 +204,7 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 4 DEP-certified firms
 
 In PA DEP's test records, 34% of 27,330 basement tests with a Doylestown address were at or above 4 pCi/L (median 2.6 pCi/L). Results vary house to house, so only a test tells you your level.
 
-**Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=doylestown)
+**Want firms to contact you?**One request to Doylestown mitigators[Request quotes](https://radonroster.com/quotes/?city=doylestown)
 
 Our advice
 

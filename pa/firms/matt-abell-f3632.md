@@ -12,7 +12,7 @@ Listed by PA DEP as Abell, Matt
 
 Stroudsburg, PA · Monroe County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3632): your request goes to Matt Abell and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3632): your request goes to Matt Abell and up to 2 other nearby certified pros.
 
 ## Contact
 

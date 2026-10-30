@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/chambersburg-pa/radon-guide/
 
 # How to find a radon expert in Chambersburg, PA
 
-**Quick answer:** This guide is for Chambersburg homeowners, buyers and sellers who need a radon test or a mitigation system. Chambersburg ranks #1 of 33 Radon Roster guide cities for high tests: 59% of 9,035 basement tests were at or above 4 pCi/L (Franklin County: 59%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=chambersburg).
+**Quick answer:** This guide is for Chambersburg homeowners, buyers and sellers who need a radon test or a mitigation system. Chambersburg ranks #1 of 33 Radon Roster guide cities for high tests: 59% of 9,035 basement tests were at or above 4 pCi/L (Franklin County: 59%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=chambersburg).
 
 About **59%** of basement tests in Chambersburg, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 9,035 tests in PA DEP's records. That's close to Franklin County as a whole (59%) and above the statewide share (37%). The median Chambersburg result (5.4 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Franklin County median is 5.2 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#1**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=chambersburg) [Browse all Chambersburg radon firms](https://radonroster.com/pa/city/chambersburg-pa/) · [Franklin County](https://radonroster.com/pa/county/franklin/)
+[Get free quotes](https://radonroster.com/quotes/?city=chambersburg) [Browse all Chambersburg radon firms](https://radonroster.com/pa/city/chambersburg-pa/) · [Franklin County](https://radonroster.com/pa/county/franklin/)
 
 ## How does radon in Chambersburg compare with other PA cities?
 
@@ -110,7 +110,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=chambersburg)
+**Want firms to contact you?**One request to Chambersburg mitigators[Request quotes](https://radonroster.com/quotes/?city=chambersburg)
 
 Our advice
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/armored-home-inspections-llc-f2495/
 
 Pottstown, PA · Montgomery County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2495): your request goes to Armored Home Inspections, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2495): your request goes to Armored Home Inspections, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

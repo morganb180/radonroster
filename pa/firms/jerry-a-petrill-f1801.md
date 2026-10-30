@@ -12,7 +12,7 @@ Listed by PA DEP as Petrill, Jerry A.
 
 Greensburg, PA · Westmoreland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1801): your request goes to Jerry A. Petrill and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1801): your request goes to Jerry A. Petrill and up to 2 other nearby certified pros.
 
 ## Contact
 

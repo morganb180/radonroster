@@ -12,7 +12,7 @@ Listed on Google as Precision Home Inspections Inc
 
 Connellsville, PA · Fayette County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1703): your request goes to Alpha Detect & Control and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1703): your request goes to Alpha Detect & Control and up to 2 other nearby certified pros.
 
 ## Google rating
 

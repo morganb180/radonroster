@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/stroudsburg-pa/radon-guide/
 
 # How to find a radon expert in Stroudsburg, PA
 
-**Quick answer:** This guide is for Stroudsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Stroudsburg ranks #9 of 33 Radon Roster guide cities for high tests: 49% of 7,508 basement tests were at or above 4 pCi/L (Monroe County: 46%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=stroudsburg).
+**Quick answer:** This guide is for Stroudsburg homeowners, buyers and sellers who need a radon test or a mitigation system. Stroudsburg ranks #9 of 33 Radon Roster guide cities for high tests: 49% of 7,508 basement tests were at or above 4 pCi/L (Monroe County: 46%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=stroudsburg).
 
 In Stroudsburg, 7,508 basement radon tests in PA DEP's records give a median of **3.8 pCi/L**, and **49%** were at or above 4 pCi/L. That's above Monroe County as a whole (46%) and above the statewide share (37%). The median Stroudsburg result (3.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Monroe County median is 3.6 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#9**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=stroudsburg) [Browse all Stroudsburg radon firms](https://radonroster.com/pa/city/stroudsburg-pa/) · [Monroe County](https://radonroster.com/pa/county/monroe/)
+[Get free quotes](https://radonroster.com/quotes/?city=stroudsburg) [Browse all Stroudsburg radon firms](https://radonroster.com/pa/city/stroudsburg-pa/) · [Monroe County](https://radonroster.com/pa/county/monroe/)
 
 ## How does radon in Stroudsburg compare with other PA cities?
 
@@ -179,7 +179,7 @@ In PA DEP's test records, 49% of 7,508 basement tests with a Stroudsburg address
 
 We don't have Stroudsburg-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Stroudsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=stroudsburg)
+**Want firms to contact you?**One request to Stroudsburg mitigators[Request quotes](https://radonroster.com/quotes/?city=stroudsburg)
 
 Our advice
 

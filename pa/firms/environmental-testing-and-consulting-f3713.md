@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/environmental-testing-and-consulting
 
 Romulus, MI · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3713): your request goes to Environmental Testing & Consulting and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3713): your request goes to Environmental Testing & Consulting and up to 2 other nearby certified pros.
 
 ## Google rating
 

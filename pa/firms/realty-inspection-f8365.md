@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/realty-inspection-f8365/
 
 Spring Brook Tow, PA · Lackawanna County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8365): your request goes to Realty Inspection and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8365): your request goes to Realty Inspection and up to 2 other nearby certified pros.
 
 ## Contact
 

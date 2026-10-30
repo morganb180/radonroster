@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lebanon-pa/radon-guide/
 
 # How to find a radon expert in Lebanon, PA
 
-**Quick answer:** This guide is for Lebanon homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 60% of 10,794 basement tests in Lebanon were at or above 4 pCi/L, about the same as Lebanon County's 60%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lebanon).
+**Quick answer:** This guide is for Lebanon homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 60% of 10,794 basement tests in Lebanon were at or above 4 pCi/L, about the same as Lebanon County's 60%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=lebanon).
 
 About **60%** of basement tests in Lebanon, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 10,794 tests in PA DEP's records. That's close to Lebanon County as a whole (60%) and above the statewide share (37%). The median Lebanon result (6.6 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Lebanon County median is 6.3 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=lebanon) [Browse all Lebanon radon firms](https://radonroster.com/pa/city/lebanon-pa/) · [Lebanon County](https://radonroster.com/pa/county/lebanon/)
+[Get free quotes](https://radonroster.com/quotes/?city=lebanon) [Browse all Lebanon radon firms](https://radonroster.com/pa/city/lebanon-pa/) · [Lebanon County](https://radonroster.com/pa/county/lebanon/)
 
 ## How does radon in Lebanon compare with Lebanon County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Lebanon mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=lebanon)
+[Request quotes](https://radonroster.com/quotes/?city=lebanon)
 
 Our advice
 

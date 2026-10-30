@@ -12,7 +12,7 @@ Listed by PA DEP as Moran, Edward
 
 Pottsville, PA · Schuylkill County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2562): your request goes to Edward Moran and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2562): your request goes to Edward Moran and up to 2 other nearby certified pros.
 
 ## Contact
 

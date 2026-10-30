@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/spy-inspection-services-inc-f2042/
 
 Lansdale, PA · Montgomery County · 6 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2042): your request goes to Spy Inspection Services, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2042): your request goes to Spy Inspection Services, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

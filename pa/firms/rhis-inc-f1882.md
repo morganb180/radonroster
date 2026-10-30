@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rhis-inc-f1882/
 
 Wilmington, DE · 8 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1882): your request goes to Rhis, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1882): your request goes to Rhis, Inc. and up to 2 other nearby certified pros.
 
 ## Contact
 

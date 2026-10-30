@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/j-l-camp-inspection-f8337/
 
 Monaca, PA · Beaver County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8337): your request goes to J.L. Camp Inspection and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8337): your request goes to J.L. Camp Inspection and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/ephrata-pa/radon-guide/
 
 # How to find a radon expert in Ephrata, PA
 
-**Quick answer:** This guide is for Ephrata homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 56% of 5,904 basement tests in Ephrata were at or above 4 pCi/L, about the same as Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=ephrata).
+**Quick answer:** This guide is for Ephrata homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 56% of 5,904 basement tests in Ephrata were at or above 4 pCi/L, about the same as Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=ephrata).
 
 About **56%** of basement tests in Ephrata, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 5,904 tests in PA DEP's records. That's close to Lancaster County as a whole (55%) and above the statewide share (37%). The median Ephrata result (5.0 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Lancaster County median is 4.7 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=ephrata) [Browse all Ephrata radon firms](https://radonroster.com/pa/city/ephrata-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
+[Get free quotes](https://radonroster.com/quotes/?city=ephrata) [Browse all Ephrata radon firms](https://radonroster.com/pa/city/ephrata-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
 
 ## How does radon in Ephrata compare with Lancaster County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Ephrata mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=ephrata)
+[Request quotes](https://radonroster.com/quotes/?city=ephrata)
 
 Our advice
 

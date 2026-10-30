@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/downingtown-pa/radon-guide/
 
 # How to find a radon expert in Downingtown, PA
 
-**Quick answer:** This guide is for Downingtown homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 35% of 27,571 basement tests in Downingtown were at or above 4 pCi/L, higher than Chester County's 31%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=downingtown).
+**Quick answer:** This guide is for Downingtown homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 35% of 27,571 basement tests in Downingtown were at or above 4 pCi/L, higher than Chester County's 31%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=downingtown).
 
 About **35%** of basement tests in Downingtown, about one in 3, came back at or above EPA's 4 pCi/L action level. That's out of 27,571 tests in PA DEP's records. That's above Chester County as a whole (31%) and close to the statewide share (37%). The median Downingtown result (2.6 pCi/L) is below the 4 pCi/L line, but a large share of tests still came in high. The Chester County median is 2.4 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=downingtown) [Browse all Downingtown radon firms](https://radonroster.com/pa/city/downingtown-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
+[Get free quotes](https://radonroster.com/quotes/?city=downingtown) [Browse all Downingtown radon firms](https://radonroster.com/pa/city/downingtown-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
 
 ## How does radon in Downingtown compare with Chester County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Downingtown mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=downingtown)
+[Request quotes](https://radonroster.com/quotes/?city=downingtown)
 
 Our advice
 

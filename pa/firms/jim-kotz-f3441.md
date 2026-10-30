@@ -14,7 +14,7 @@ Listed on Google as Attack Radon Mitigation
 
 Clarks Summit, PA · Lackawanna County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3441): your request goes to Jim Kotz and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3441): your request goes to Jim Kotz and up to 2 other nearby certified pros.
 
 ## Google rating
 

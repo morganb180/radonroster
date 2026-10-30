@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a1-house-prep-llc-f2427/
 
 Harleysville, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2427): your request goes to A1 House Prep, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2427): your request goes to A1 House Prep, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

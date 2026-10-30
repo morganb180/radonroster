@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rvs-radon-mitigation-llc-f3458/
 
 Philadelphia, PA · Philadelphia County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3458): your request goes to Rvs Radon Mitigation, LLC. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3458): your request goes to Rvs Radon Mitigation, LLC. and up to 2 other nearby certified pros.
 
 ## Google rating
 

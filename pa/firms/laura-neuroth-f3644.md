@@ -12,7 +12,7 @@ Listed by PA DEP as Neuroth, Laura
 
 Palmyra, VA · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3644): your request goes to Laura Neuroth and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3644): your request goes to Laura Neuroth and up to 2 other nearby certified pros.
 
 ## Contact
 

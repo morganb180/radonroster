@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/phoenixville-pa/radon-guide/
 
 # How to find a radon expert in Phoenixville, PA
 
-**Quick answer:** This guide is for Phoenixville homeowners, buyers and sellers who need a radon test or a mitigation system. Phoenixville ranks #25 of 33 Radon Roster guide cities for high tests: 27% of 16,364 basement tests were at or above 4 pCi/L (Chester County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=phoenixville).
+**Quick answer:** This guide is for Phoenixville homeowners, buyers and sellers who need a radon test or a mitigation system. Phoenixville ranks #25 of 33 Radon Roster guide cities for high tests: 27% of 16,364 basement tests were at or above 4 pCi/L (Chester County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=phoenixville).
 
 Phoenixville tests lower than much of Pennsylvania, with **27%** of 16,364 basement tests at or above 4 pCi/L. That still leaves 4,487 tests over the action level, so a low average doesn't clear any single house. That's below Chester County as a whole (31%) and below the statewide share (37%). The median Phoenixville result (2.2 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Chester County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#25**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=phoenixville) [Browse all Phoenixville radon firms](https://radonroster.com/pa/city/phoenixville-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
+[Get free quotes](https://radonroster.com/quotes/?city=phoenixville) [Browse all Phoenixville radon firms](https://radonroster.com/pa/city/phoenixville-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
 
 ## How does radon in Phoenixville compare with other PA cities?
 
@@ -189,7 +189,7 @@ We don't have Phoenixville-specific price data. PA DEP says most systems cost $8
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
 
-**Want firms to contact you?**One request to Phoenixville mitigators[Request quotes](https://radonroster.com/get-quotes/?city=phoenixville)
+**Want firms to contact you?**One request to Phoenixville mitigators[Request quotes](https://radonroster.com/quotes/?city=phoenixville)
 
 Our advice
 

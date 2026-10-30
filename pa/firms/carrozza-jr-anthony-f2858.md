@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/carrozza-jr-anthony-f2858/
 
 Mount Joy, PA · Lancaster County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2858): your request goes to Carrozza, Jr., Anthony and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2858): your request goes to Carrozza, Jr., Anthony and up to 2 other nearby certified pros.
 
 ## Contact
 

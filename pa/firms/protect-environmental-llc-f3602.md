@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/protect-environmental-llc-f3602/
 
 Louisville, KY · 12 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3602): your request goes to Protect Environmental, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3602): your request goes to Protect Environmental, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

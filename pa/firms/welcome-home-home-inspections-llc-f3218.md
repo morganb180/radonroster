@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/welcome-home-home-inspections-llc-f3
 
 Pittsburgh, PA · Allegheny County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3218): your request goes to Welcome Home, Home Inspections LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3218): your request goes to Welcome Home, Home Inspections LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/philadelphia-pa/radon-guide/
 
 # How to find a radon expert in Philadelphia, PA
 
-**Quick answer:** This guide is for Philadelphia homeowners, buyers and sellers who need a radon test or a mitigation system. Philadelphia ranks #33 of 33 Radon Roster guide cities for high tests: 12% of 144,527 basement tests were at or above 4 pCi/L (Philadelphia County: 12%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=philadelphia).
+**Quick answer:** This guide is for Philadelphia homeowners, buyers and sellers who need a radon test or a mitigation system. Philadelphia ranks #33 of 33 Radon Roster guide cities for high tests: 12% of 144,527 basement tests were at or above 4 pCi/L (Philadelphia County: 12%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=philadelphia).
 
 Philadelphia tests lower than much of Pennsylvania, with **12%** of 144,527 basement tests at or above 4 pCi/L. That still leaves 17,576 tests over the action level, so a low average doesn't clear any single house. That's close to Philadelphia County as a whole (12%) and below the statewide share (37%). The median Philadelphia result (1.6 pCi/L) is below the 4 pCi/L line. The Philadelphia County median is 1.7 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#33**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=philadelphia) [Browse all Philadelphia radon firms](https://radonroster.com/pa/city/philadelphia-pa/) · [Philadelphia County](https://radonroster.com/pa/county/philadelphia/)
+[Get free quotes](https://radonroster.com/quotes/?city=philadelphia) [Browse all Philadelphia radon firms](https://radonroster.com/pa/city/philadelphia-pa/) · [Philadelphia County](https://radonroster.com/pa/county/philadelphia/)
 
 ## How does radon in Philadelphia compare with other PA cities?
 
@@ -164,7 +164,7 @@ In PA DEP's test records, 12% of 144,527 basement tests with a Philadelphia addr
 
 We don't have Philadelphia-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=philadelphia)
+**Want firms to contact you?**One request to Philadelphia mitigators[Request quotes](https://radonroster.com/quotes/?city=philadelphia)
 
 Our advice
 

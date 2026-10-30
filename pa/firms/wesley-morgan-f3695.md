@@ -12,7 +12,7 @@ Listed by PA DEP as Morgan, Wesley
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3695): your request goes to Wesley Morgan and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3695): your request goes to Wesley Morgan and up to 2 other nearby certified pros.
 
 ## Contact
 

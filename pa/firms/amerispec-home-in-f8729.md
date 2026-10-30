@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/amerispec-home-in-f8729/
 
 Harmony, PA · Butler County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8729): your request goes to Amerispec Home In and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8729): your request goes to Amerispec Home In and up to 2 other nearby certified pros.
 
 ## Contact
 

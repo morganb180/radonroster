@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/
 
 # How to find a radon expert in Wilkes-Barre, PA
 
-**Quick answer:** This guide is for Wilkes-Barre homeowners, buyers and sellers who need a radon test or a mitigation system. Wilkes-Barre ranks #32 of 33 Radon Roster guide cities for high tests: 18% of 6,150 basement tests were at or above 4 pCi/L (Luzerne County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=wilkes-barre).
+**Quick answer:** This guide is for Wilkes-Barre homeowners, buyers and sellers who need a radon test or a mitigation system. Wilkes-Barre ranks #32 of 33 Radon Roster guide cities for high tests: 18% of 6,150 basement tests were at or above 4 pCi/L (Luzerne County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=wilkes-barre).
 
 Wilkes-Barre tests lower than much of Pennsylvania, with **18%** of 6,150 basement tests at or above 4 pCi/L. That still leaves 1,079 tests over the action level, so a low average doesn't clear any single house. That's below Luzerne County as a whole (31%) and below the statewide share (37%). The median Wilkes-Barre result (1.7 pCi/L) is below the 4 pCi/L line. The Luzerne County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#32**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=wilkes-barre) [Browse all Wilkes-Barre radon firms](https://radonroster.com/pa/city/wilkes-barre-pa/) · [Luzerne County](https://radonroster.com/pa/county/luzerne/)
+[Get free quotes](https://radonroster.com/quotes/?city=wilkes-barre) [Browse all Wilkes-Barre radon firms](https://radonroster.com/pa/city/wilkes-barre-pa/) · [Luzerne County](https://radonroster.com/pa/county/luzerne/)
 
 ## How does radon in Wilkes-Barre compare with other PA cities?
 
@@ -139,7 +139,7 @@ In PA DEP's test records, 18% of 6,150 basement tests with a Wilkes-Barre addres
 
 We don't have Wilkes-Barre-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
+**Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/quotes/?city=wilkes-barre)
 
 Our advice
 

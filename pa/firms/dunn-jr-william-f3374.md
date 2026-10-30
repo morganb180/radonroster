@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/dunn-jr-william-f3374/
 
 Philadelphia, PA · Philadelphia County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3374): your request goes to Dunn, Jr., William and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3374): your request goes to Dunn, Jr., William and up to 2 other nearby certified pros.
 
 ## Contact
 

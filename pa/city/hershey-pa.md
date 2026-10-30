@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/hershey-pa/
 
 # Radon testing & mitigation in Hershey, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Hershey, PA: 41% of 8,814 basement radon tests with a Hershey address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Dauphin County (51%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Hershey, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=hershey).
+**Quick answer:** For homeowners, buyers and sellers in Hershey, PA: 41% of 8,814 basement radon tests with a Hershey address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Dauphin County (51%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Hershey, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=hershey).
 
 Hershey sits in Dauphin County. In the PA DEP test dataset, 8,814 basement radon tests carry a Hershey address. Their median was **2.8 pCi/L**, and **41%** came in at or above EPA's 4 pCi/L action level. Across all of Dauphin County it was 51%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -588,7 +588,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Dauphin County listings →](https://radonroster.com/pa/county/dauphin/) · [Hershey radon guide](https://radonroster.com/pa/city/hershey-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/get-quotes/?city=hershey)
+**Want firms to contact you?**One request to Hershey mitigators[Request quotes](https://radonroster.com/quotes/?city=hershey)
 
 ## Which cities near Hershey have radon pages?
 

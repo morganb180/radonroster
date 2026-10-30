@@ -12,7 +12,7 @@ Listed by PA DEP as Long, Tyler
 
 Pennsburg, PA · Montgomery County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3286): your request goes to Tyler Long and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3286): your request goes to Tyler Long and up to 2 other nearby certified pros.
 
 ## Contact
 

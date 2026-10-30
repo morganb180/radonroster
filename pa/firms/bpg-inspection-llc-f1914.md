@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/bpg-inspection-llc-f1914/
 
 Easton, PA · Northampton County · 8 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1914): your request goes to Bpg Inspection, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1914): your request goes to Bpg Inspection, LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

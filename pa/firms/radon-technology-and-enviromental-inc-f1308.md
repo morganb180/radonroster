@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-technology-and-enviromental-in
 
 Royersford, PA · Montgomery County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1308): your request goes to Radon Technology & Enviromental Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1308): your request goes to Radon Technology & Enviromental Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

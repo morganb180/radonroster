@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/musselman-home-inspection-llc-f2962/
 
 Harleysville, PA · Montgomery County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2962): your request goes to Musselman Home Inspection LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2962): your request goes to Musselman Home Inspection LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

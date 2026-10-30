@@ -12,7 +12,7 @@ Listed by PA DEP as Nicholls, Jeffrey
 
 Tannersville, PA · Monroe County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0256): your request goes to Jeffrey Nicholls and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0256): your request goes to Jeffrey Nicholls and up to 2 other nearby certified pros.
 
 ## Contact
 

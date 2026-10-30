@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/homechek-inc-f8760/
 
 York, PA · York County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8760): your request goes to Homechek Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8760): your request goes to Homechek Inc and up to 2 other nearby certified pros.
 
 ## Contact
 

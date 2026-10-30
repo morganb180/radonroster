@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/high-touch-home-inspections-llc-f375
 
 Mcdonald, PA · Allegheny County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3753): your request goes to High Touch Home Inspections LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3753): your request goes to High Touch Home Inspections LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

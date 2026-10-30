@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/hanover-pa/radon-guide/
 
 # How to find a radon expert in Hanover, PA
 
-**Quick answer:** This guide is for Hanover homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 50% of 10,025 basement tests in Hanover were at or above 4 pCi/L, lower than York County's 56%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=hanover).
+**Quick answer:** This guide is for Hanover homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 50% of 10,025 basement tests in Hanover were at or above 4 pCi/L, lower than York County's 56%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=hanover).
 
 About **50%** of basement tests in Hanover, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 10,025 tests in PA DEP's records. That's below York County as a whole (56%) and above the statewide share (37%). The median Hanover result (4.0 pCi/L) is right at the 4 pCi/L line, so about half of the basement tests here called for action. The York County median is 4.9 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=hanover) [Browse all Hanover radon firms](https://radonroster.com/pa/city/hanover-pa/) · [York County](https://radonroster.com/pa/county/york/)
+[Get free quotes](https://radonroster.com/quotes/?city=hanover) [Browse all Hanover radon firms](https://radonroster.com/pa/city/hanover-pa/) · [York County](https://radonroster.com/pa/county/york/)
 
 ## How does radon in Hanover compare with York County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Hanover mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=hanover)
+[Request quotes](https://radonroster.com/quotes/?city=hanover)
 
 Our advice
 

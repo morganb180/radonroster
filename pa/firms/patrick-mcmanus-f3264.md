@@ -14,7 +14,7 @@ Listed on Google as A Close Look Home Inspections
 
 North Huntingdon, PA · Westmoreland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3264): your request goes to Patrick Mcmanus and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3264): your request goes to Patrick Mcmanus and up to 2 other nearby certified pros.
 
 ## Google rating
 

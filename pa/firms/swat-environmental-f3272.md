@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/swat-environmental-f3272/
 
 Allentown, PA · Lehigh County · 8 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3272): your request goes to SWAT Environmental and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3272): your request goes to SWAT Environmental and up to 2 other nearby certified pros.
 
 ## Contact
 

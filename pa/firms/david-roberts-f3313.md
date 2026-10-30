@@ -12,7 +12,7 @@ Listed by PA DEP as Roberts, David
 
 Courtdale, PA · Luzerne County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3313): your request goes to David Roberts and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3313): your request goes to David Roberts and up to 2 other nearby certified pros.
 
 ## Contact
 

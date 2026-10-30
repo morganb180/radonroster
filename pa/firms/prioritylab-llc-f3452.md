@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/prioritylab-llc-f3452/
 
 Carmel, IN · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3452): your request goes to Prioritylab LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3452): your request goes to Prioritylab LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

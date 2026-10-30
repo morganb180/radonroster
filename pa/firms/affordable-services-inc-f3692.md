@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/affordable-services-inc-f3692/
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3692): your request goes to Affordable Services, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3692): your request goes to Affordable Services, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

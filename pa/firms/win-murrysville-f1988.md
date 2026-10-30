@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/win-murrysville-f1988/
 
 Pittsburgh, PA · Allegheny County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1988): your request goes to Win - Murrysville and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1988): your request goes to Win - Murrysville and up to 2 other nearby certified pros.
 
 ## Contact
 

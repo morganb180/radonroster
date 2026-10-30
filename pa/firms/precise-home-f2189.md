@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/precise-home-f2189/
 
 Hawley, PA · Pike County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2189): your request goes to Precise Home and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2189): your request goes to Precise Home and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/stroudsburg-pa/
 
 # Radon testing & mitigation in Stroudsburg, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Stroudsburg, PA: 49% of 7,508 basement radon tests with a Stroudsburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Monroe County (46%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Stroudsburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=stroudsburg).
+**Quick answer:** For homeowners, buyers and sellers in Stroudsburg, PA: 49% of 7,508 basement radon tests with a Stroudsburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Monroe County (46%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Stroudsburg, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=stroudsburg).
 
 Stroudsburg sits in Monroe County. In the PA DEP test dataset, 7,508 basement radon tests carry a Stroudsburg address. Their median was **3.8 pCi/L**, and **49%** came in at or above EPA's 4 pCi/L action level. Across all of Monroe County it was 46%, and statewide 37%. That is above the county share, so testing matters here.
 
@@ -542,7 +542,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Monroe County listings →](https://radonroster.com/pa/county/monroe/) · [Stroudsburg radon guide](https://radonroster.com/pa/city/stroudsburg-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Stroudsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=stroudsburg)
+**Want firms to contact you?**One request to Stroudsburg mitigators[Request quotes](https://radonroster.com/quotes/?city=stroudsburg)
 
 ## Which cities near Stroudsburg have radon pages?
 

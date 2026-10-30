@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rapid-radon-readings-f3734/
 
 Wexford, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3734): your request goes to Rapid Radon Readings and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3734): your request goes to Rapid Radon Readings and up to 2 other nearby certified pros.
 
 ## Contact
 

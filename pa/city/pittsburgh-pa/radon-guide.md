@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/pittsburgh-pa/radon-guide/
 
 # How to find a radon expert in Pittsburgh, PA
 
-**Quick answer:** This guide is for Pittsburgh homeowners, buyers and sellers who need a radon test or a mitigation system. Pittsburgh ranks #22 of 33 Radon Roster guide cities for high tests: 31% of 157,738 basement tests were at or above 4 pCi/L (Allegheny County: 34%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=pittsburgh).
+**Quick answer:** This guide is for Pittsburgh homeowners, buyers and sellers who need a radon test or a mitigation system. Pittsburgh ranks #22 of 33 Radon Roster guide cities for high tests: 31% of 157,738 basement tests were at or above 4 pCi/L (Allegheny County: 34%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=pittsburgh).
 
 In Pittsburgh, 157,738 basement radon tests in PA DEP's records give a median of **2.6 pCi/L**, and **31%** were at or above 4 pCi/L. That's below Allegheny County as a whole (34%) and below the statewide share (37%). The median Pittsburgh result (2.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Allegheny County median is 2.7 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#22**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=pittsburgh) [Browse all Pittsburgh radon firms](https://radonroster.com/pa/city/pittsburgh-pa/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/)
+[Get free quotes](https://radonroster.com/quotes/?city=pittsburgh) [Browse all Pittsburgh radon firms](https://radonroster.com/pa/city/pittsburgh-pa/) · [Allegheny County](https://radonroster.com/pa/county/allegheny/)
 
 ## How does radon in Pittsburgh compare with other PA cities?
 
@@ -203,7 +203,7 @@ Use a firm on PA DEP's certified lists. Radon Roster lists 28 DEP-certified firm
 
 In PA DEP's test records, 31% of 157,738 basement tests with a Pittsburgh address were at or above 4 pCi/L (median 2.6 pCi/L). Results vary house to house, so only a test tells you your level.
 
-**Want firms to contact you?**One request to Pittsburgh mitigators[Request quotes](https://radonroster.com/get-quotes/?city=pittsburgh)
+**Want firms to contact you?**One request to Pittsburgh mitigators[Request quotes](https://radonroster.com/quotes/?city=pittsburgh)
 
 Our advice
 

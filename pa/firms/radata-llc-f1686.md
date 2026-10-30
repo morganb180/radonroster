@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radata-llc-f1686/
 
 Flanders, NJ · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1686): your request goes to Radata, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1686): your request goes to Radata, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

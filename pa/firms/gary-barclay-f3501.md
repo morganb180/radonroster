@@ -14,7 +14,7 @@ Listed on Google as Barclay Home & Building Inspections, LLC
 
 Watsontown, PA · Northumberland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3501): your request goes to Gary Barclay and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3501): your request goes to Gary Barclay and up to 2 other nearby certified pros.
 
 ## Google rating
 

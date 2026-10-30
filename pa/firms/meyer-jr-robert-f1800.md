@@ -12,7 +12,7 @@ Listed on Google as Central Penn Radon
 
 Wellsville, PA · York County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1800): your request goes to Meyer, Jr., Robert and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1800): your request goes to Meyer, Jr., Robert and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/restoration-contracting-services-in-
 
 New Kensington, PA · Westmoreland County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3219): your request goes to Restoration Contracting Services In and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3219): your request goes to Restoration Contracting Services In and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/allentown-pa/radon-guide/
 
 # How to find a radon expert in Allentown, PA
 
-**Quick answer:** This guide is for Allentown homeowners, buyers and sellers who need a radon test or a mitigation system. Allentown ranks #12 of 33 Radon Roster guide cities for high tests: 47% of 29,724 basement tests were at or above 4 pCi/L (Lehigh County: 47%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=allentown).
+**Quick answer:** This guide is for Allentown homeowners, buyers and sellers who need a radon test or a mitigation system. Allentown ranks #12 of 33 Radon Roster guide cities for high tests: 47% of 29,724 basement tests were at or above 4 pCi/L (Lehigh County: 47%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=allentown).
 
 In Allentown, 29,724 basement radon tests in PA DEP's records give a median of **3.6 pCi/L**, and **47%** were at or above 4 pCi/L. That's close to Lehigh County as a whole (47%) and above the statewide share (37%). The median Allentown result (3.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Lehigh County median is 3.6 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#12**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=allentown) [Browse all Allentown radon firms](https://radonroster.com/pa/city/allentown-pa/) · [Lehigh County](https://radonroster.com/pa/county/lehigh/)
+[Get free quotes](https://radonroster.com/quotes/?city=allentown) [Browse all Allentown radon firms](https://radonroster.com/pa/city/allentown-pa/) · [Lehigh County](https://radonroster.com/pa/county/lehigh/)
 
 ## How does radon in Allentown compare with other PA cities?
 
@@ -216,7 +216,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Allentown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=allentown)
+**Want firms to contact you?**One request to Allentown mitigators[Request quotes](https://radonroster.com/quotes/?city=allentown)
 
 Our advice
 

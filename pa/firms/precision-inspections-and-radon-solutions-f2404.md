@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/precision-inspections-and-radon-solu
 
 Mechanicsburg, PA · Cumberland County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2404): your request goes to Precision Inspections & Radon Solutions and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2404): your request goes to Precision Inspections & Radon Solutions and up to 2 other nearby certified pros.
 
 ## Google rating
 

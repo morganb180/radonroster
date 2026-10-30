@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/heritage-home-inspectors-f3335/
 
 Canonsburg, PA · Washington County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3335): your request goes to Heritage Home Inspectors and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3335): your request goes to Heritage Home Inspectors and up to 2 other nearby certified pros.
 
 ## Google rating
 

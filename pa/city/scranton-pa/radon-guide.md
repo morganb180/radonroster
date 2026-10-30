@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/scranton-pa/radon-guide/
 
 # How to find a radon expert in Scranton, PA
 
-**Quick answer:** This guide is for Scranton homeowners, buyers and sellers who need a radon test or a mitigation system. Scranton ranks #31 of 33 Radon Roster guide cities for high tests: 20% of 9,215 basement tests were at or above 4 pCi/L (Lackawanna County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=scranton).
+**Quick answer:** This guide is for Scranton homeowners, buyers and sellers who need a radon test or a mitigation system. Scranton ranks #31 of 33 Radon Roster guide cities for high tests: 20% of 9,215 basement tests were at or above 4 pCi/L (Lackawanna County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=scranton).
 
 Scranton tests lower than much of Pennsylvania, with **20%** of 9,215 basement tests at or above 4 pCi/L. That still leaves 1,814 tests over the action level, so a low average doesn't clear any single house. That's below Lackawanna County as a whole (28%) and below the statewide share (37%). The median Scranton result (1.8 pCi/L) is below the 4 pCi/L line. The Lackawanna County median is 2.3 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#31**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=scranton) [Browse all Scranton radon firms](https://radonroster.com/pa/city/scranton-pa/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/)
+[Get free quotes](https://radonroster.com/quotes/?city=scranton) [Browse all Scranton radon firms](https://radonroster.com/pa/city/scranton-pa/) · [Lackawanna County](https://radonroster.com/pa/county/lackawanna/)
 
 ## How does radon in Scranton compare with other PA cities?
 
@@ -209,7 +209,7 @@ In PA DEP's test records, 20% of 9,215 basement tests with a Scranton address we
 
 We don't have Scranton-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=scranton)
+**Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/quotes/?city=scranton)
 
 Our advice
 

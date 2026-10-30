@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/king-of-prussia-pa/
 
 # Radon testing & mitigation in King of Prussia, PA
 
-**Quick answer:** For homeowners, buyers and sellers in King of Prussia, PA: 21% of 6,855 basement radon tests with a King of Prussia address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in King of Prussia, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=king-of-prussia).
+**Quick answer:** For homeowners, buyers and sellers in King of Prussia, PA: 21% of 6,855 basement radon tests with a King of Prussia address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in King of Prussia, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=king-of-prussia).
 
 King of Prussia sits in Montgomery County. In the PA DEP test dataset, 6,855 basement radon tests carry a King of Prussia address. Their median was **1.9 pCi/L**, and **21%** came in at or above EPA's 4 pCi/L action level. Across all of Montgomery County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -1245,7 +1245,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Montgomery County listings →](https://radonroster.com/pa/county/montgomery/) · [King of Prussia radon guide](https://radonroster.com/pa/city/king-of-prussia-pa/radon-guide/)
 
-**Want firms to contact you?**One request to King of Prussia mitigators[Request quotes](https://radonroster.com/get-quotes/?city=king-of-prussia)
+**Want firms to contact you?**One request to King of Prussia mitigators[Request quotes](https://radonroster.com/quotes/?city=king-of-prussia)
 
 ## Which cities near King of Prussia have radon pages?
 

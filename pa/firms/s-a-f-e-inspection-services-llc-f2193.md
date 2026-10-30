@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/s-a-f-e-inspection-services-llc-f219
 
 East Berlin, PA · Adams County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2193): your request goes to S.A.F.E. Inspection Services, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2193): your request goes to S.A.F.E. Inspection Services, LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

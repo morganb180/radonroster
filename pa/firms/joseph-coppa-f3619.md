@@ -12,7 +12,7 @@ Listed by PA DEP as Coppa, Joseph
 
 Conshohocken, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3619): your request goes to Joseph Coppa and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3619): your request goes to Joseph Coppa and up to 2 other nearby certified pros.
 
 ## Contact
 

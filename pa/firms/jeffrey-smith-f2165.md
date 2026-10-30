@@ -14,7 +14,7 @@ Listed on Google as Jeff Smith Inspection Service
 
 Ebensburg, PA · Cambria County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2165): your request goes to Jeffrey Smith and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2165): your request goes to Jeffrey Smith and up to 2 other nearby certified pros.
 
 ## Google rating
 

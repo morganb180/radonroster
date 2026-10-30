@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/suburban-property-f8392/
 
 Temple, PA · Berks County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8392): your request goes to Suburban Property and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8392): your request goes to Suburban Property and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/alpha-home-inspections-f3483/
 
 Duncannon, PA · Perry County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3483): your request goes to Alpha Home Inspections and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3483): your request goes to Alpha Home Inspections and up to 2 other nearby certified pros.
 
 ## Google rating
 

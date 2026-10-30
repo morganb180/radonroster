@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/gettysburg-pa/radon-guide/
 
 # How to find a radon expert in Gettysburg, PA
 
-**Quick answer:** This guide is for Gettysburg homeowners, buyers and sellers who need a radon test or a mitigation system. Gettysburg ranks #16 of 33 Radon Roster guide cities for high tests: 39% of 5,585 basement tests were at or above 4 pCi/L (Adams County: 44%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=gettysburg).
+**Quick answer:** This guide is for Gettysburg homeowners, buyers and sellers who need a radon test or a mitigation system. Gettysburg ranks #16 of 33 Radon Roster guide cities for high tests: 39% of 5,585 basement tests were at or above 4 pCi/L (Adams County: 44%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=gettysburg).
 
 In Gettysburg, 5,585 basement radon tests in PA DEP's records give a median of **3.0 pCi/L**, and **39%** were at or above 4 pCi/L. That's below Adams County as a whole (44%) and about level with the statewide share (37%). The median Gettysburg result (3.0 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Adams County median is 3.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#16**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=gettysburg) [Browse all Gettysburg radon firms](https://radonroster.com/pa/city/gettysburg-pa/) · [Adams County](https://radonroster.com/pa/county/adams/)
+[Get free quotes](https://radonroster.com/quotes/?city=gettysburg) [Browse all Gettysburg radon firms](https://radonroster.com/pa/city/gettysburg-pa/) · [Adams County](https://radonroster.com/pa/county/adams/)
 
 ## How does radon in Gettysburg compare with other PA cities?
 
@@ -137,7 +137,7 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 3 DEP-certified firms based in Gettysburg and 3 more in Adams County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
 
-**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)
+**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/quotes/?city=gettysburg)
 
 Our advice
 

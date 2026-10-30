@@ -14,7 +14,7 @@ Listed on Google as ROUND TUIT Home Inspection
 
 Beaver Falls, PA · Beaver County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2980): your request goes to Erik Funkhouser and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2980): your request goes to Erik Funkhouser and up to 2 other nearby certified pros.
 
 ## Google rating
 

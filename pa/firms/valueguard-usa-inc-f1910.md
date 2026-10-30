@@ -12,7 +12,7 @@ Listed on Google as ValueGuard Home Inspections
 
 Philadelphia, PA · Philadelphia County · 6 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1910): your request goes to Valueguard Usa, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1910): your request goes to Valueguard Usa, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

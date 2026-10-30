@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/hanover-pa/
 
 # Radon testing & mitigation in Hanover, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Hanover, PA: 50% of 10,025 basement radon tests with a Hanover address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than York County (56%) and above the statewide 37%. The median Hanover result, 4.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Hanover address, but Radon Roster lists firms elsewhere in York County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=hanover).
+**Quick answer:** For homeowners, buyers and sellers in Hanover, PA: 50% of 10,025 basement radon tests with a Hanover address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than York County (56%) and above the statewide 37%. The median Hanover result, 4.0 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. No certified firms list a Hanover address, but Radon Roster lists firms elsewhere in York County and next door, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=hanover).
 
 Hanover sits in York County. In the PA DEP test dataset, 10,025 basement radon tests carry a Hanover address. Their median was **4.0 pCi/L**, and **50%** came in at or above EPA's 4 pCi/L action level. Across all of York County it was 56%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -152,7 +152,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Hanover mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=hanover)
+[Request quotes](https://radonroster.com/quotes/?city=hanover)
 
 ## Radon in Hanover: frequently asked questions
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Melchior, Ronald
 
 Nottingham, MD · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3736): your request goes to Ronald Melchior and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3736): your request goes to Ronald Melchior and up to 2 other nearby certified pros.
 
 ## Contact
 

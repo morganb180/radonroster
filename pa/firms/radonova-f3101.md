@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radonova-f3101/
 
 Uppsala, FC · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3101): your request goes to Radonova and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3101): your request goes to Radonova and up to 2 other nearby certified pros.
 
 ## Contact
 

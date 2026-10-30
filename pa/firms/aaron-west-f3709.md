@@ -12,7 +12,7 @@ Listed by PA DEP as West, Aaron
 
 Cranberry Townsh, PA · Butler County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3709): your request goes to Aaron West and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3709): your request goes to Aaron West and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -14,7 +14,7 @@ Listed on Google as Millstone Home Inspections
 
 Dubois, PA · Clearfield County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3167): your request goes to Troy Baughman and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3167): your request goes to Troy Baughman and up to 2 other nearby certified pros.
 
 ## Google rating
 

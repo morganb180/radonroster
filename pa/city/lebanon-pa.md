@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lebanon-pa/
 
 # Radon testing & mitigation in Lebanon, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Lebanon, PA: 60% of 10,794 basement radon tests with a Lebanon address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lebanon result, 6.6 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Lebanon, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lebanon).
+**Quick answer:** For homeowners, buyers and sellers in Lebanon, PA: 60% of 10,794 basement radon tests with a Lebanon address in PA DEP's records were at or above EPA's 4 pCi/L action level and above the statewide 37%. The median Lebanon result, 6.6 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Lebanon, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=lebanon).
 
 Lebanon sits in Lebanon County. In the PA DEP test dataset, 10,794 basement radon tests carry a Lebanon address. Their median was **6.6 pCi/L**, and **60%** came in at or above EPA's 4 pCi/L action level. Across all of Lebanon County it was 60%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -144,7 +144,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **Want firms to contact you?**One request to Lebanon mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=lebanon)
+[Request quotes](https://radonroster.com/quotes/?city=lebanon)
 
 ## Radon in Lebanon: frequently asked questions
 

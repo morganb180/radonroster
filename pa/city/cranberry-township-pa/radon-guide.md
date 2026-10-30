@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/cranberry-township-pa/radon-guide/
 
 # How to find a radon expert in Cranberry Township, PA
 
-**Quick answer:** This guide is for Cranberry Township homeowners, buyers and sellers who need a radon test or a mitigation system. Cranberry Township ranks #19 of 33 Radon Roster guide cities for high tests: 38% of 10,735 basement tests were at or above 4 pCi/L (Butler County: 47%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=cranberry-township).
+**Quick answer:** This guide is for Cranberry Township homeowners, buyers and sellers who need a radon test or a mitigation system. Cranberry Township ranks #19 of 33 Radon Roster guide cities for high tests: 38% of 10,735 basement tests were at or above 4 pCi/L (Butler County: 47%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=cranberry-township).
 
 In Cranberry Township, 10,735 basement radon tests in PA DEP's records give a median of **2.9 pCi/L**, and **38%** were at or above 4 pCi/L. That's below Butler County as a whole (47%) and about level with the statewide share (37%). The median Cranberry Township result (2.9 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Butler County median is 3.6 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#19**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=cranberry-township) [Browse all Cranberry Township radon firms](https://radonroster.com/pa/city/cranberry-township-pa/) · [Butler County](https://radonroster.com/pa/county/butler/)
+[Get free quotes](https://radonroster.com/quotes/?city=cranberry-township) [Browse all Cranberry Township radon firms](https://radonroster.com/pa/city/cranberry-township-pa/) · [Butler County](https://radonroster.com/pa/county/butler/)
 
 ## How does radon in Cranberry Township compare with other PA cities?
 
@@ -135,7 +135,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/get-quotes/?city=cranberry-township)
+**Want firms to contact you?**One request to Cranberry Township mitigators[Request quotes](https://radonroster.com/quotes/?city=cranberry-township)
 
 Our advice
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Ritenour, Shelbi
 
 Saxonburg, PA · Butler County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3562): your request goes to Shelbi Ritenour and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3562): your request goes to Shelbi Ritenour and up to 2 other nearby certified pros.
 
 ## Contact
 

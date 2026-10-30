@@ -12,7 +12,7 @@ Listed by PA DEP as Shaw, Dustin
 
 Seneca, PA · Venango County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3750): your request goes to Dustin Shaw and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3750): your request goes to Dustin Shaw and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -28,7 +28,7 @@ First floor: **16%** of 833 tests ≥ 4 pCi/L, median 1.5
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
-**3 DEP-certified firms** have a business address in Fayette County (0 offer mitigation), with 4 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=fayette)
+**3 DEP-certified firms** have a business address in Fayette County (0 offer mitigation), with 4 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=fayette)
 
 Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
 
@@ -133,7 +133,7 @@ With 34% of 7,625 basement tests at or above 4 pCi/L (below the 37% statewide sh
 
 We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.
 
-**Want firms to contact you?**One request to Fayette mitigators[Request quotes](https://radonroster.com/get-quotes/?county=fayette)
+**Want firms to contact you?**One request to Fayette mitigators[Request quotes](https://radonroster.com/quotes/?county=fayette)
 
 Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
 

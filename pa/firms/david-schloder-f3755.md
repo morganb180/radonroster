@@ -14,7 +14,7 @@ Listed on Google as E.S. Home Inspection Services, LLC
 
 Mc Intyre, PA · Indiana County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3755): your request goes to David Schloder and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3755): your request goes to David Schloder and up to 2 other nearby certified pros.
 
 ## Google rating
 

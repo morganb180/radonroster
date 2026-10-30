@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/pro-spect-inspection-services-inc-f3
 
 Dover, DE · 11 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3402): your request goes to Pro-Spect Inspection Services Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3402): your request goes to Pro-Spect Inspection Services Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

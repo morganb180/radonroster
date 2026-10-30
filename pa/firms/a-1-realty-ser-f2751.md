@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/a-1-realty-ser-f2751/
 
 Kutztown, PA · Berks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2751): your request goes to A-1 Realty Ser and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2751): your request goes to A-1 Realty Ser and up to 2 other nearby certified pros.
 
 ## Contact
 

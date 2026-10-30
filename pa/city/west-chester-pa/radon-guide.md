@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/west-chester-pa/radon-guide/
 
 # How to find a radon expert in West Chester, PA
 
-**Quick answer:** This guide is for West Chester homeowners, buyers and sellers who need a radon test or a mitigation system. West Chester ranks #27 of 33 Radon Roster guide cities for high tests: 24% of 45,366 basement tests were at or above 4 pCi/L (Chester County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=west-chester).
+**Quick answer:** This guide is for West Chester homeowners, buyers and sellers who need a radon test or a mitigation system. West Chester ranks #27 of 33 Radon Roster guide cities for high tests: 24% of 45,366 basement tests were at or above 4 pCi/L (Chester County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=west-chester).
 
 West Chester tests lower than much of Pennsylvania, with **24%** of 45,366 basement tests at or above 4 pCi/L. That still leaves 10,723 tests over the action level, so a low average doesn't clear any single house. That's below Chester County as a whole (31%) and below the statewide share (37%). The median West Chester result (1.9 pCi/L) is below the 4 pCi/L line. The Chester County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#27**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=west-chester) [Browse all West Chester radon firms](https://radonroster.com/pa/city/west-chester-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
+[Get free quotes](https://radonroster.com/quotes/?city=west-chester) [Browse all West Chester radon firms](https://radonroster.com/pa/city/west-chester-pa/) · [Chester County](https://radonroster.com/pa/county/chester/)
 
 ## How does radon in West Chester compare with other PA cities?
 
@@ -188,7 +188,7 @@ We don't have West Chester-specific price data. PA DEP says most systems cost $8
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
 
-**Want firms to contact you?**One request to West Chester mitigators[Request quotes](https://radonroster.com/get-quotes/?city=west-chester)
+**Want firms to contact you?**One request to West Chester mitigators[Request quotes](https://radonroster.com/quotes/?city=west-chester)
 
 Our advice
 

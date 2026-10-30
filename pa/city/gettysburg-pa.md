@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/gettysburg-pa/
 
 # Radon testing & mitigation in Gettysburg, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Gettysburg, PA: 39% of 5,585 basement radon tests with a Gettysburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Adams County (44%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Gettysburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=gettysburg).
+**Quick answer:** For homeowners, buyers and sellers in Gettysburg, PA: 39% of 5,585 basement radon tests with a Gettysburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Adams County (44%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Gettysburg, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=gettysburg).
 
 Gettysburg sits in Adams County. In the PA DEP test dataset, 5,585 basement radon tests carry a Gettysburg address. Their median was **3.0 pCi/L**, and **39%** came in at or above EPA's 4 pCi/L action level. Across all of Adams County it was 44%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -395,7 +395,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Adams County listings →](https://radonroster.com/pa/county/adams/) · [Gettysburg radon guide](https://radonroster.com/pa/city/gettysburg-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=gettysburg)
+**Want firms to contact you?**One request to Gettysburg mitigators[Request quotes](https://radonroster.com/quotes/?city=gettysburg)
 
 ## Which cities near Gettysburg have radon pages?
 

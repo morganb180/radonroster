@@ -12,7 +12,7 @@ Listed by PA DEP as Labar, John
 
 Pottstown, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3178): your request goes to John Labar and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3178): your request goes to John Labar and up to 2 other nearby certified pros.
 
 ## Contact
 

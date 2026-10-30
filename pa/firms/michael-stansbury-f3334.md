@@ -14,7 +14,7 @@ Listed on Google as Belson Construction, LLC
 
 Emmitsburg, MD · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3334): your request goes to Michael Stansbury and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3334): your request goes to Michael Stansbury and up to 2 other nearby certified pros.
 
 ## Google rating
 

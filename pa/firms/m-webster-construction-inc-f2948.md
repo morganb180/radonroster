@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/m-webster-construction-inc-f2948/
 
 Lebanon, PA · Lebanon County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2948): your request goes to M Webster Construction Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2948): your request goes to M Webster Construction Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

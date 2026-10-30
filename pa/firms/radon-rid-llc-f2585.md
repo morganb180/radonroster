@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/radon-rid-llc-f2585/
 
 Phoenixville, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2585): your request goes to Radon-Rid LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2585): your request goes to Radon-Rid LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

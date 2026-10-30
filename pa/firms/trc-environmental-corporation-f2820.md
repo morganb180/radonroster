@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/trc-environmental-corporation-f2820/
 
 Windsor, CT · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2820): your request goes to Trc Environmental Corporation and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2820): your request goes to Trc Environmental Corporation and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Borkowski, Patrick
 
 Philadelphia, PA · Philadelphia County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2497): your request goes to Patrick Borkowski and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2497): your request goes to Patrick Borkowski and up to 2 other nearby certified pros.
 
 ## Contact
 

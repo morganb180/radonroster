@@ -12,7 +12,7 @@ Listed by PA DEP as Baker, Kimberly
 
 Warriors Mark, PA · Huntingdon County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2160): your request goes to Kimberly Baker and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2160): your request goes to Kimberly Baker and up to 2 other nearby certified pros.
 
 ## Contact
 

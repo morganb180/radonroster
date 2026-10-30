@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/allentown-pa/
 
 # Radon testing & mitigation in Allentown, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Allentown, PA: 47% of 29,724 basement radon tests with a Allentown address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Lehigh County (47%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Allentown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=allentown).
+**Quick answer:** For homeowners, buyers and sellers in Allentown, PA: 47% of 29,724 basement radon tests with a Allentown address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Lehigh County (47%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Allentown, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=allentown).
 
 Allentown sits in Lehigh County. In the PA DEP test dataset, 29,724 basement radon tests carry a Allentown address. Their median was **3.6 pCi/L**, and **47%** came in at or above EPA's 4 pCi/L action level. Across all of Lehigh County it was 47%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -793,7 +793,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Lehigh County listings →](https://radonroster.com/pa/county/lehigh/) · [Allentown radon guide](https://radonroster.com/pa/city/allentown-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Allentown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=allentown)
+**Want firms to contact you?**One request to Allentown mitigators[Request quotes](https://radonroster.com/quotes/?city=allentown)
 
 ## Which cities near Allentown have radon pages?
 

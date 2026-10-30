@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/camp-hill-pa/radon-guide/
 
 # How to find a radon expert in Camp Hill, PA
 
-**Quick answer:** This guide is for Camp Hill homeowners, buyers and sellers who need a radon test or a mitigation system. Camp Hill ranks #2 of 33 Radon Roster guide cities for high tests: 58% of 12,590 basement tests were at or above 4 pCi/L (Cumberland County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=camp-hill).
+**Quick answer:** This guide is for Camp Hill homeowners, buyers and sellers who need a radon test or a mitigation system. Camp Hill ranks #2 of 33 Radon Roster guide cities for high tests: 58% of 12,590 basement tests were at or above 4 pCi/L (Cumberland County: 55%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=camp-hill).
 
 About **58%** of basement tests in Camp Hill, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 12,590 tests in PA DEP's records. That's above Cumberland County as a whole (55%) and above the statewide share (37%). The median Camp Hill result (5.1 pCi/L) is above the 4 pCi/L line, so a typical basement test here would call for action. The Cumberland County median is 4.8 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#2**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=camp-hill) [Browse all Camp Hill radon firms](https://radonroster.com/pa/city/camp-hill-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
+[Get free quotes](https://radonroster.com/quotes/?city=camp-hill) [Browse all Camp Hill radon firms](https://radonroster.com/pa/city/camp-hill-pa/) · [Cumberland County](https://radonroster.com/pa/county/cumberland/)
 
 ## How does radon in Camp Hill compare with other PA cities?
 
@@ -208,7 +208,7 @@ It isn't required by state law. The seller's disclosure form asks about known ra
 
 Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP suggests confirming a high short-term result before deciding on mitigation.
 
-**Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/get-quotes/?city=camp-hill)
+**Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/quotes/?city=camp-hill)
 
 Our advice
 

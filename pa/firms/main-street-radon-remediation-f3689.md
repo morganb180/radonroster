@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/main-street-radon-remediation-f3689/
 
 Irwin, PA · Westmoreland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3689): your request goes to Main Street Radon Remediation and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3689): your request goes to Main Street Radon Remediation and up to 2 other nearby certified pros.
 
 ## Contact
 

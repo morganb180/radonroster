@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a-harmony-home-inspection-llc-f1842/
 
 Allison Park, PA · Allegheny County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1842): your request goes to A Harmony Home Inspection, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1842): your request goes to A Harmony Home Inspection, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

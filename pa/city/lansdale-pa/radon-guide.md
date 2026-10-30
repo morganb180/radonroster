@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/lansdale-pa/radon-guide/
 
 # How to find a radon expert in Lansdale, PA
 
-**Quick answer:** This guide is for Lansdale homeowners, buyers and sellers who need a radon test or a mitigation system. Lansdale ranks #26 of 33 Radon Roster guide cities for high tests: 25% of 19,617 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=lansdale).
+**Quick answer:** This guide is for Lansdale homeowners, buyers and sellers who need a radon test or a mitigation system. Lansdale ranks #26 of 33 Radon Roster guide cities for high tests: 25% of 19,617 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=lansdale).
 
 Lansdale tests lower than much of Pennsylvania, with **25%** of 19,617 basement tests at or above 4 pCi/L. That still leaves 4,826 tests over the action level, so a low average doesn't clear any single house. That's below Montgomery County as a whole (28%) and below the statewide share (37%). The median Lansdale result (2.2 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Montgomery County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#26**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=lansdale) [Browse all Lansdale radon firms](https://radonroster.com/pa/city/lansdale-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
+[Get free quotes](https://radonroster.com/quotes/?city=lansdale) [Browse all Lansdale radon firms](https://radonroster.com/pa/city/lansdale-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
 
 ## How does radon in Lansdale compare with other PA cities?
 
@@ -262,7 +262,7 @@ We don't have Lansdale-specific price data. PA DEP says most systems cost $800-$
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
 
-**Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/get-quotes/?city=lansdale)
+**Want firms to contact you?**One request to Lansdale mitigators[Request quotes](https://radonroster.com/quotes/?city=lansdale)
 
 Our advice
 

@@ -14,7 +14,7 @@ Listed on Google as Ed Lampl Environmental and Home Inspections
 
 Pittsburgh, PA · Allegheny County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2569): your request goes to Edward S. Lampl and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2569): your request goes to Edward S. Lampl and up to 2 other nearby certified pros.
 
 ## Google rating
 

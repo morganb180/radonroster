@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/canonsburg-pa/
 
 # Radon testing & mitigation in Canonsburg, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Canonsburg, PA: 29% of 9,725 basement radon tests with a Canonsburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Washington County (34%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Canonsburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=canonsburg).
+**Quick answer:** For homeowners, buyers and sellers in Canonsburg, PA: 29% of 9,725 basement radon tests with a Canonsburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Washington County (34%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 4 certified firms based in Canonsburg, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=canonsburg).
 
 Canonsburg sits in Washington County. In the PA DEP test dataset, 9,725 basement radon tests carry a Canonsburg address. Their median was **2.6 pCi/L**, and **29%** came in at or above EPA's 4 pCi/L action level. Across all of Washington County it was 34%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -553,7 +553,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Washington County listings →](https://radonroster.com/pa/county/washington/) · [Canonsburg radon guide](https://radonroster.com/pa/city/canonsburg-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=canonsburg)
+**Want firms to contact you?**One request to Canonsburg mitigators[Request quotes](https://radonroster.com/quotes/?city=canonsburg)
 
 ## Which cities near Canonsburg have radon pages?
 

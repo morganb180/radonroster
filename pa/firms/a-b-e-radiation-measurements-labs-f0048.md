@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/a-b-e-radiation-measurements-labs-f0
 
 Lenhartsville, PA · Berks County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0048): your request goes to A.B.E. Radiation Measurements Labs and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0048): your request goes to A.B.E. Radiation Measurements Labs and up to 2 other nearby certified pros.
 
 ## Contact
 

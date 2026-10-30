@@ -12,7 +12,7 @@ Listed by PA DEP as Pavlico, Joseph
 
 White Haven, PA · Luzerne County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3587): your request goes to Joseph Pavlico and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3587): your request goes to Joseph Pavlico and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/mason-dixon-home-f8304/
 
 Gettysburg, PA · Adams County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8304): your request goes to Mason Dixon Home and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8304): your request goes to Mason Dixon Home and up to 2 other nearby certified pros.
 
 ## Google rating
 

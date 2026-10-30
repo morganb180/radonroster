@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/erie-pa/
 
 # Radon testing & mitigation in Erie, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Erie, PA: 24% of 28,022 basement radon tests with a Erie address in PA DEP's records were at or above EPA's 4 pCi/L action level and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 5 certified firms based in Erie, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=erie).
+**Quick answer:** For homeowners, buyers and sellers in Erie, PA: 24% of 28,022 basement radon tests with a Erie address in PA DEP's records were at or above EPA's 4 pCi/L action level and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 5 certified firms based in Erie, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=erie).
 
 Erie sits in Erie County. In the PA DEP test dataset, 28,022 basement radon tests carry a Erie address. Their median was **2.0 pCi/L**, and **24%** came in at or above EPA's 4 pCi/L action level. Across all of Erie County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -240,7 +240,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Erie County listings →](https://radonroster.com/pa/county/erie/) · [Erie radon guide](https://radonroster.com/pa/city/erie-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/get-quotes/?city=erie)
+**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/quotes/?city=erie)
 
 Firm data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026; test statistics computed 2026-10-11 from PA DEP's Radon Test Results.
 

@@ -14,7 +14,7 @@ Listed on Google as Protect PT
 
 Harrison City, PA · Westmoreland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3660): your request goes to Yvonne Sorovacu and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3660): your request goes to Yvonne Sorovacu and up to 2 other nearby certified pros.
 
 ## Google rating
 

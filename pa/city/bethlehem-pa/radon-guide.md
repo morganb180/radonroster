@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/bethlehem-pa/radon-guide/
 
 # How to find a radon expert in Bethlehem, PA
 
-**Quick answer:** This guide is for Bethlehem homeowners, buyers and sellers who need a radon test or a mitigation system. Bethlehem ranks #11 of 33 Radon Roster guide cities for high tests: 47% of 26,107 basement tests were at or above 4 pCi/L (Northampton County: 48%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=bethlehem).
+**Quick answer:** This guide is for Bethlehem homeowners, buyers and sellers who need a radon test or a mitigation system. Bethlehem ranks #11 of 33 Radon Roster guide cities for high tests: 47% of 26,107 basement tests were at or above 4 pCi/L (Northampton County: 48%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=bethlehem).
 
 In Bethlehem, 26,107 basement radon tests in PA DEP's records give a median of **3.6 pCi/L**, and **47%** were at or above 4 pCi/L. That's close to Northampton County as a whole (48%) and above the statewide share (37%). The median Bethlehem result (3.6 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Northampton County median is 3.7 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#11**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=bethlehem) [Browse all Bethlehem radon firms](https://radonroster.com/pa/city/bethlehem-pa/) · [Northampton County](https://radonroster.com/pa/county/northampton/)
+[Get free quotes](https://radonroster.com/quotes/?city=bethlehem) [Browse all Bethlehem radon firms](https://radonroster.com/pa/city/bethlehem-pa/) · [Northampton County](https://radonroster.com/pa/county/northampton/)
 
 ## How does radon in Bethlehem compare with other PA cities?
 
@@ -133,7 +133,7 @@ In PA DEP's test records, 47% of 26,107 basement tests with a Bethlehem address 
 
 We don't have Bethlehem-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Bethlehem mitigators[Request quotes](https://radonroster.com/get-quotes/?city=bethlehem)
+**Want firms to contact you?**One request to Bethlehem mitigators[Request quotes](https://radonroster.com/quotes/?city=bethlehem)
 
 Our advice
 

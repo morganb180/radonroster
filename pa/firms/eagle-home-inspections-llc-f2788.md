@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/eagle-home-inspections-llc-f2788/
 
 Jefferson Hills, PA · Allegheny County · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2788): your request goes to Eagle Home Inspections, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2788): your request goes to Eagle Home Inspections, LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

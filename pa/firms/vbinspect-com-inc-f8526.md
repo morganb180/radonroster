@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/vbinspect-com-inc-f8526/
 
 Pittsburgh, PA · Allegheny County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8526): your request goes to Vbinspect.Com, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8526): your request goes to Vbinspect.Com, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

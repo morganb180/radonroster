@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/the-radon-bros-f2749/
 
 Perkiomenville, PA · Montgomery County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2749): your request goes to The Radon Bros and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2749): your request goes to The Radon Bros and up to 2 other nearby certified pros.
 
 ## Contact
 

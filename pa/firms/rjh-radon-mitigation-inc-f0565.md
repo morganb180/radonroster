@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/rjh-radon-mitigation-inc-f0565/
 
 Akron, PA · Lancaster County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0565): your request goes to Rjh Radon Mitigation Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0565): your request goes to Rjh Radon Mitigation Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

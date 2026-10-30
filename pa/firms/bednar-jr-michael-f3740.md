@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/bednar-jr-michael-f3740/
 
 Springfield, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3740): your request goes to Bednar, Jr., Michael and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3740): your request goes to Bednar, Jr., Michael and up to 2 other nearby certified pros.
 
 ## Contact
 

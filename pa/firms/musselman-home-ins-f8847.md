@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/musselman-home-ins-f8847/
 
 Harleysville, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8847): your request goes to Musselman Home Ins and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8847): your request goes to Musselman Home Ins and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Risley, Robbie D
 
 Bethel Park, PA · Allegheny County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3494): your request goes to Robbie D Risley and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3494): your request goes to Robbie D Risley and up to 2 other nearby certified pros.
 
 ## Contact
 

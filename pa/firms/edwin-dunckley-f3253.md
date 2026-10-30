@@ -14,7 +14,7 @@ Listed on Google as Chester County Home Inspections
 
 Chester Springs, PA · Chester County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3253): your request goes to Edwin Dunckley and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3253): your request goes to Edwin Dunckley and up to 2 other nearby certified pros.
 
 ## Google rating
 

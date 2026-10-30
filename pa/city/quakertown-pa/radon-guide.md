@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/quakertown-pa/radon-guide/
 
 # How to find a radon expert in Quakertown, PA
 
-**Quick answer:** This guide is for Quakertown homeowners, buyers and sellers who need a radon test or a mitigation system. Quakertown ranks #20 of 33 Radon Roster guide cities for high tests: 35% of 7,479 basement tests were at or above 4 pCi/L (Bucks County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=quakertown).
+**Quick answer:** This guide is for Quakertown homeowners, buyers and sellers who need a radon test or a mitigation system. Quakertown ranks #20 of 33 Radon Roster guide cities for high tests: 35% of 7,479 basement tests were at or above 4 pCi/L (Bucks County: 31%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=quakertown).
 
 In Quakertown, 7,479 basement radon tests in PA DEP's records give a median of **2.8 pCi/L**, and **35%** were at or above 4 pCi/L. That's above Bucks County as a whole (31%) and about level with the statewide share (37%). The median Quakertown result (2.8 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Bucks County median is 2.5 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#20**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=quakertown) [Browse all Quakertown radon firms](https://radonroster.com/pa/city/quakertown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
+[Get free quotes](https://radonroster.com/quotes/?city=quakertown) [Browse all Quakertown radon firms](https://radonroster.com/pa/city/quakertown-pa/) · [Bucks County](https://radonroster.com/pa/county/bucks/)
 
 ## How does radon in Quakertown compare with other PA cities?
 
@@ -204,7 +204,7 @@ Short-term tests run 2 to 7 days. Long-term tests run more than 90 days. PA DEP 
 
 Use a firm on PA DEP's certified lists. Radon Roster lists 2 DEP-certified firms based in Quakertown and 17 more in Bucks County. Confirm any name in the [PA DEP Radon Services Directory](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory) or call 800-237-2366.
 
-**Want firms to contact you?**One request to Quakertown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=quakertown)
+**Want firms to contact you?**One request to Quakertown mitigators[Request quotes](https://radonroster.com/quotes/?city=quakertown)
 
 Our advice
 

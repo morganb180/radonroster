@@ -14,7 +14,7 @@ Listed on Google as Elemental Environmental Testing & Consulting LLC
 
 Waynesboro, PA · Franklin County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3601): your request goes to Jason Young and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3601): your request goes to Jason Young and up to 2 other nearby certified pros.
 
 ## Google rating
 

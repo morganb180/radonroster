@@ -12,7 +12,7 @@ Listed by PA DEP as King, Shawn
 
 Meadville, PA · Crawford County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3591): your request goes to Shawn King and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3591): your request goes to Shawn King and up to 2 other nearby certified pros.
 
 ## Contact
 

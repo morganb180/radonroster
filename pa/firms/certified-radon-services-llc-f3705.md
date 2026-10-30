@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/certified-radon-services-llc-f3705/
 
 Boston, NY · 4 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3705): your request goes to Certified Radon Services, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3705): your request goes to Certified Radon Services, LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

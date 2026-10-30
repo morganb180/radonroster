@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/out-of-state/
 
 Firms with a business address outside Pennsylvania that hold PA DEP radon certification.
 
-**61 DEP-certified firms** have a business address in Out-of-state firms certified in PA (17 offer mitigation), with 139 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=out-of-state)
+**61 DEP-certified firms** have a business address in Out-of-state firms certified in PA (17 offer mitigation), with 139 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=out-of-state)
 
 ## Radon mitigation (reduction systems) (17 firms)
 
@@ -205,7 +205,7 @@ Windsor 1 certified person
 
 **Want firms to contact you?**One request to Pennsylvania mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?county=out-of-state)
+[Request quotes](https://radonroster.com/quotes/?county=out-of-state)
 
 Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
 

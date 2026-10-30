@@ -14,7 +14,7 @@ Listed on Google as PennJersey Inspections Inc.
 
 Easton, PA · Northampton County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2825): your request goes to Bernard Catanzareti and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2825): your request goes to Bernard Catanzareti and up to 2 other nearby certified pros.
 
 ## Google rating
 

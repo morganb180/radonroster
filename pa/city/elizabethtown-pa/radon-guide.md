@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/elizabethtown-pa/radon-guide/
 
 # How to find a radon expert in Elizabethtown, PA
 
-**Quick answer:** This guide is for Elizabethtown homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 50% of 6,382 basement tests in Elizabethtown were at or above 4 pCi/L, lower than Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=elizabethtown).
+**Quick answer:** This guide is for Elizabethtown homeowners, buyers and sellers who need a radon test or a mitigation system. In PA DEP's records, 50% of 6,382 basement tests in Elizabethtown were at or above 4 pCi/L, lower than Lancaster County's 55%. Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=elizabethtown).
 
 About **50%** of basement tests in Elizabethtown, about one in 2, came back at or above EPA's 4 pCi/L action level. That's out of 6,382 tests in PA DEP's records. That's below Lancaster County as a whole (55%) and above the statewide share (37%). The median Elizabethtown result (3.9 pCi/L) is below the 4 pCi/L line, but a large share of tests still came in high. The Lancaster County median is 4.7 pCi/L.
 
@@ -42,7 +42,7 @@ tests on record
 
 firms based here
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=elizabethtown) [Browse all Elizabethtown radon firms](https://radonroster.com/pa/city/elizabethtown-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
+[Get free quotes](https://radonroster.com/quotes/?city=elizabethtown) [Browse all Elizabethtown radon firms](https://radonroster.com/pa/city/elizabethtown-pa/) · [Lancaster County](https://radonroster.com/pa/county/lancaster/)
 
 ## How does radon in Elizabethtown compare with Lancaster County and Pennsylvania?
 
@@ -134,7 +134,7 @@ More guides: [Radon mitigation cost](https://radonroster.com/radon-mitigation-co
 
 **Want firms to contact you?**One request to Elizabethtown mitigators
 
-[Request quotes](https://radonroster.com/get-quotes/?city=elizabethtown)
+[Request quotes](https://radonroster.com/quotes/?city=elizabethtown)
 
 Our advice
 

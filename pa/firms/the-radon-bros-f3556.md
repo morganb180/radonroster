@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/the-radon-bros-f3556/
 
 Quakertown, PA · Bucks County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3556): your request goes to The Radon Bros and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3556): your request goes to The Radon Bros and up to 2 other nearby certified pros.
 
 ## Contact
 

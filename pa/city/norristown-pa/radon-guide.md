@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/norristown-pa/radon-guide/
 
 # How to find a radon expert in Norristown, PA
 
-**Quick answer:** This guide is for Norristown homeowners, buyers and sellers who need a radon test or a mitigation system. Norristown ranks #29 of 33 Radon Roster guide cities for high tests: 21% of 16,035 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=norristown).
+**Quick answer:** This guide is for Norristown homeowners, buyers and sellers who need a radon test or a mitigation system. Norristown ranks #29 of 33 Radon Roster guide cities for high tests: 21% of 16,035 basement tests were at or above 4 pCi/L (Montgomery County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=norristown).
 
 Norristown tests lower than much of Pennsylvania, with **21%** of 16,035 basement tests at or above 4 pCi/L. That still leaves 3,410 tests over the action level, so a low average doesn't clear any single house. That's below Montgomery County as a whole (28%) and below the statewide share (37%). The median Norristown result (1.9 pCi/L) is below the 4 pCi/L line. The Montgomery County median is 2.4 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#29**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=norristown) [Browse all Norristown radon firms](https://radonroster.com/pa/city/norristown-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
+[Get free quotes](https://radonroster.com/quotes/?city=norristown) [Browse all Norristown radon firms](https://radonroster.com/pa/city/norristown-pa/) · [Montgomery County](https://radonroster.com/pa/county/montgomery/)
 
 ## How does radon in Norristown compare with other PA cities?
 
@@ -262,7 +262,7 @@ In PA DEP's test records, 21% of 16,035 basement tests with a Norristown address
 
 We don't have Norristown-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from certified local mitigators.
 
-**Want firms to contact you?**One request to Norristown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=norristown)
+**Want firms to contact you?**One request to Norristown mitigators[Request quotes](https://radonroster.com/quotes/?city=norristown)
 
 Our advice
 

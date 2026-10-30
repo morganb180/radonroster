@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/scranton-pa/
 
 # Radon testing & mitigation in Scranton, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Scranton, PA: 20% of 9,215 basement radon tests with a Scranton address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Lackawanna County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Scranton, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=scranton).
+**Quick answer:** For homeowners, buyers and sellers in Scranton, PA: 20% of 9,215 basement radon tests with a Scranton address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Lackawanna County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Scranton, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=scranton).
 
 Scranton sits in Lackawanna County. In the PA DEP test dataset, 9,215 basement radon tests carry a Scranton address. Their median was **1.8 pCi/L**, and **20%** came in at or above EPA's 4 pCi/L action level. Across all of Lackawanna County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -421,7 +421,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Lackawanna County listings →](https://radonroster.com/pa/county/lackawanna/) · [Scranton radon guide](https://radonroster.com/pa/city/scranton-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=scranton)
+**Want firms to contact you?**One request to Scranton mitigators[Request quotes](https://radonroster.com/quotes/?city=scranton)
 
 ## Which cities near Scranton have radon pages?
 

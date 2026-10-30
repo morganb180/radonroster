@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/onega-llc-f2522/
 
 Harmony, PA · Butler County · Certified firm
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2522): your request goes to Onega LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2522): your request goes to Onega LLC and up to 2 other nearby certified pros.
 
 ## Contact
 

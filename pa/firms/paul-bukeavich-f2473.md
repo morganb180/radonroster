@@ -14,7 +14,7 @@ Listed on Google as Healthy Home Inspections
 
 Ashley, PA · Luzerne County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2473): your request goes to Paul Bukeavich and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2473): your request goes to Paul Bukeavich and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -12,7 +12,7 @@ Listed by PA DEP as Weaver, Roger
 
 Wilmington, DE · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2953): your request goes to Roger Weaver and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2953): your request goes to Roger Weaver and up to 2 other nearby certified pros.
 
 ## Contact
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/indoor-air-surgeons-llc-f3063/
 
 Bensalem, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3063): your request goes to Indoor Air Surgeons, LLC and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3063): your request goes to Indoor Air Surgeons, LLC and up to 2 other nearby certified pros.
 
 ## Google rating
 

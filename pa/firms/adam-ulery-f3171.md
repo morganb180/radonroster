@@ -14,7 +14,7 @@ Listed on Google as A&K Inspections
 
 Duncansville, PA · Blair County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3171): your request goes to Adam Ulery and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3171): your request goes to Adam Ulery and up to 2 other nearby certified pros.
 
 ## Google rating
 

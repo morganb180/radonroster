@@ -14,7 +14,7 @@ Listed on Google as HomeFront Inspection Service LLC
 
 Mars, PA · Butler County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2618): your request goes to Brian Kampi and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2618): your request goes to Brian Kampi and up to 2 other nearby certified pros.
 
 ## Google rating
 

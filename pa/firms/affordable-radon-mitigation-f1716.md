@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/affordable-radon-mitigation-f1716/
 
 Scott Township, PA · Lackawanna County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1716): your request goes to Affordable Radon Mitigation and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1716): your request goes to Affordable Radon Mitigation and up to 2 other nearby certified pros.
 
 ## Contact
 

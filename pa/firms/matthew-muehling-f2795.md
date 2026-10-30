@@ -12,7 +12,7 @@ Listed by PA DEP as Muehling, Matthew
 
 Elizabethtown, PA · Lancaster County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2795): your request goes to Matthew Muehling and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2795): your request goes to Matthew Muehling and up to 2 other nearby certified pros.
 
 ## Contact
 

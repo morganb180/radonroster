@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/s-j-watras-inc-f1056/
 
 Boyertown, PA · Berks County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1056): your request goes to S. J. Watras, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1056): your request goes to S. J. Watras, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

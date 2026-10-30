@@ -14,7 +14,7 @@ Listed on Google as Supik Home Inspections Services - Certified Professional Hom
 
 Cabot, PA · Butler County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3320): your request goes to Joshua Supik and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3320): your request goes to Joshua Supik and up to 2 other nearby certified pros.
 
 ## Google rating
 

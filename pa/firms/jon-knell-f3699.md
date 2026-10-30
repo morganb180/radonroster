@@ -12,7 +12,7 @@ Listed by PA DEP as Knell, Jon
 
 Aston, PA · Delaware County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3699): your request goes to Jon Knell and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3699): your request goes to Jon Knell and up to 2 other nearby certified pros.
 
 ## Contact
 

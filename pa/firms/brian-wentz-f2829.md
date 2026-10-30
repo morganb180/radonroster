@@ -12,7 +12,7 @@ Listed by PA DEP as Wentz, Brian
 
 Harrisburg, PA · Dauphin County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2829): your request goes to Brian Wentz and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2829): your request goes to Brian Wentz and up to 2 other nearby certified pros.
 
 ## Contact
 

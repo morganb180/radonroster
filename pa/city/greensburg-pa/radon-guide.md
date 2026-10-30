@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/greensburg-pa/radon-guide/
 
 # How to find a radon expert in Greensburg, PA
 
-**Quick answer:** This guide is for Greensburg homeowners, buyers and sellers who need a radon test or a mitigation system. Greensburg ranks #18 of 33 Radon Roster guide cities for high tests: 39% of 15,223 basement tests were at or above 4 pCi/L (Westmoreland County: 40%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=greensburg).
+**Quick answer:** This guide is for Greensburg homeowners, buyers and sellers who need a radon test or a mitigation system. Greensburg ranks #18 of 33 Radon Roster guide cities for high tests: 39% of 15,223 basement tests were at or above 4 pCi/L (Westmoreland County: 40%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=greensburg).
 
 In Greensburg, 15,223 basement radon tests in PA DEP's records give a median of **3.1 pCi/L**, and **39%** were at or above 4 pCi/L. That's close to Westmoreland County as a whole (40%) and about level with the statewide share (37%). The median Greensburg result (3.1 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Westmoreland County median is 3.2 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#18**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=greensburg) [Browse all Greensburg radon firms](https://radonroster.com/pa/city/greensburg-pa/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/)
+[Get free quotes](https://radonroster.com/quotes/?city=greensburg) [Browse all Greensburg radon firms](https://radonroster.com/pa/city/greensburg-pa/) · [Westmoreland County](https://radonroster.com/pa/county/westmoreland/)
 
 ## How does radon in Greensburg compare with other PA cities?
 
@@ -229,7 +229,7 @@ We don't have Greensburg-specific price data. PA DEP says most systems cost $800
 
 It isn't required by state law. The seller's disclosure form asks about known radon and past testing, and many buyers order a test during the inspection period. Real estate tests by certified testers follow DEP anti-tampering rules.
 
-**Want firms to contact you?**One request to Greensburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=greensburg)
+**Want firms to contact you?**One request to Greensburg mitigators[Request quotes](https://radonroster.com/quotes/?city=greensburg)
 
 Our advice
 

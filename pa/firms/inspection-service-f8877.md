@@ -12,7 +12,7 @@ canonical: https://radonroster.com/pa/firms/inspection-service-f8877/
 
 West Chester, PA · Chester County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F8877): your request goes to Inspection Service and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F8877): your request goes to Inspection Service and up to 2 other nearby certified pros.
 
 ## Contact
 

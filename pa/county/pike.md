@@ -28,7 +28,7 @@ First floor: **13%** of 6,846 tests ≥ 4 pCi/L, median 1.3
 
 Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Current](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (data.pa.gov, public domain). Counts tests, not homes: repeat and post-mitigation tests are included. Only a test tells you your home's level.
 
-**7 DEP-certified firms** have a business address in Pike County (1 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/get-quotes/?county=pike)
+**7 DEP-certified firms** have a business address in Pike County (1 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=pike)
 
 [Mitigation1](#mitigation)[Testing6](#testing)Labs 0Ordered by town, then name · never by payment
 
@@ -234,7 +234,7 @@ With 38% of 21,604 basement tests at or above 4 pCi/L (near the 37% statewide sh
 
 We don't have county-specific price data. PA DEP says most systems cost $800-$1,200. Get written quotes from DEP-certified mitigators.
 
-**Want firms to contact you?**One request to Pike mitigators[Request quotes](https://radonroster.com/get-quotes/?county=pike)
+**Want firms to contact you?**One request to Pike mitigators[Request quotes](https://radonroster.com/quotes/?county=pike)
 
 Data last verified 2026-10-11 against PA DEP certification lists dated 10/01/2026. Guides: [What is radon?](https://radonroster.com/what-is-radon/) · [Testing vs mitigation](https://radonroster.com/testing-vs-mitigation/) · [Mitigation cost](https://radonroster.com/radon-mitigation-cost/)
 

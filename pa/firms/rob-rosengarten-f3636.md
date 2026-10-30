@@ -12,7 +12,7 @@ Listed by PA DEP as Rosengarten, Rob
 
 Johns Island, SC · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3636): your request goes to Rob Rosengarten and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3636): your request goes to Rob Rosengarten and up to 2 other nearby certified pros.
 
 ## Contact
 

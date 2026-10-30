@@ -14,7 +14,7 @@ Listed on Google as Precision Home Inspection of the Twin Tiers, LLC
 
 Horseheads, NY · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3559): your request goes to Jason Muckey and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3559): your request goes to Jason Muckey and up to 2 other nearby certified pros.
 
 ## Google rating
 

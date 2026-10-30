@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/easton-pa/
 
 # Radon testing & mitigation in Easton, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Easton, PA: 47% of 22,144 basement radon tests with a Easton address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Northampton County (48%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Easton, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=easton).
+**Quick answer:** For homeowners, buyers and sellers in Easton, PA: 47% of 22,144 basement radon tests with a Easton address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Northampton County (48%) and above the statewide 37%. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 3 certified firms based in Easton, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=easton).
 
 Easton sits in Northampton County. In the PA DEP test dataset, 22,144 basement radon tests carry a Easton address. Their median was **3.6 pCi/L**, and **47%** came in at or above EPA's 4 pCi/L action level. Across all of Northampton County it was 48%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -518,7 +518,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Northampton County listings →](https://radonroster.com/pa/county/northampton/) · [Easton radon guide](https://radonroster.com/pa/city/easton-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Easton mitigators[Request quotes](https://radonroster.com/get-quotes/?city=easton)
+**Want firms to contact you?**One request to Easton mitigators[Request quotes](https://radonroster.com/quotes/?city=easton)
 
 ## Which cities near Easton have radon pages?
 

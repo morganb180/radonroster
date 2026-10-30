@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/jk-mechanical-inc-f3747/
 
 Willow Street, PA · Lancaster County · 3 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3747): your request goes to Jk Mechanical Inc and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3747): your request goes to Jk Mechanical Inc and up to 2 other nearby certified pros.
 
 ## Google rating
 

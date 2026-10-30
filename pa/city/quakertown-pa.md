@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/quakertown-pa/
 
 # Radon testing & mitigation in Quakertown, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Quakertown, PA: 35% of 7,479 basement radon tests with a Quakertown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Bucks County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Quakertown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=quakertown).
+**Quick answer:** For homeowners, buyers and sellers in Quakertown, PA: 35% of 7,479 basement radon tests with a Quakertown address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Bucks County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Quakertown, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=quakertown).
 
 Quakertown sits in Bucks County. In the PA DEP test dataset, 7,479 basement radon tests carry a Quakertown address. Their median was **2.8 pCi/L**, and **35%** came in at or above EPA's 4 pCi/L action level. Across all of Bucks County it was 31%, and statewide 37%. That is above the county share, so testing matters here.
 
@@ -938,7 +938,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Bucks County listings →](https://radonroster.com/pa/county/bucks/) · [Quakertown radon guide](https://radonroster.com/pa/city/quakertown-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Quakertown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=quakertown)
+**Want firms to contact you?**One request to Quakertown mitigators[Request quotes](https://radonroster.com/quotes/?city=quakertown)
 
 ## Which cities near Quakertown have radon pages?
 

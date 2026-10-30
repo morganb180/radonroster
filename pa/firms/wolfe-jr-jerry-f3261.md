@@ -12,7 +12,7 @@ Listed on Google as Wolfe Home Inspections LLC
 
 Freeport, PA · Armstrong County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3261): your request goes to Wolfe, Jr., Jerry and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3261): your request goes to Wolfe, Jr., Jerry and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/the-green-valley-group-f2736/
 
 Unionville, PA · Chester County · 2 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2736): your request goes to The Green Valley Group and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2736): your request goes to The Green Valley Group and up to 2 other nearby certified pros.
 
 ## Contact
 

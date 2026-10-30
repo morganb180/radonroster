@@ -14,7 +14,7 @@ Listed on Google as Jaworski Remodeling Inc
 
 Canonsburg, PA · Washington County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2935): your request goes to Mark Jaworski and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2935): your request goes to Mark Jaworski and up to 2 other nearby certified pros.
 
 ## Google rating
 

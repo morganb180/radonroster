@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/insight-property-services-f1990/
 
 Doylestown, PA · Bucks County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F1990): your request goes to Insight Property Services and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F1990): your request goes to Insight Property Services and up to 2 other nearby certified pros.
 
 ## Contact
 

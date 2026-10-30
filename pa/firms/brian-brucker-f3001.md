@@ -14,7 +14,7 @@ Listed on Google as Housing Inspection Services Inc.
 
 Export, PA · Westmoreland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3001): your request goes to Brian Brucker and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3001): your request goes to Brian Brucker and up to 2 other nearby certified pros.
 
 ## Google rating
 

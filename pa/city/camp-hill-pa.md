@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/camp-hill-pa/
 
 # Radon testing & mitigation in Camp Hill, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Camp Hill, PA: 58% of 12,590 basement radon tests with a Camp Hill address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Cumberland County (55%) and above the statewide 37%. The median Camp Hill result, 5.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Camp Hill, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=camp-hill).
+**Quick answer:** For homeowners, buyers and sellers in Camp Hill, PA: 58% of 12,590 basement radon tests with a Camp Hill address in PA DEP's records were at or above EPA's 4 pCi/L action level, higher than Cumberland County (55%) and above the statewide 37%. The median Camp Hill result, 5.1 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Camp Hill, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=camp-hill).
 
 Camp Hill sits in Cumberland County. In the PA DEP test dataset, 12,590 basement radon tests carry a Camp Hill address. Their median was **5.1 pCi/L**, and **58%** came in at or above EPA's 4 pCi/L action level. Across all of Cumberland County it was 55%, and statewide 37%. That is above the county share, so testing matters here.
 
@@ -419,7 +419,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Cumberland County listings →](https://radonroster.com/pa/county/cumberland/) · [Camp Hill radon guide](https://radonroster.com/pa/city/camp-hill-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/get-quotes/?city=camp-hill)
+**Want firms to contact you?**One request to Camp Hill mitigators[Request quotes](https://radonroster.com/quotes/?city=camp-hill)
 
 ## Which cities near Camp Hill have radon pages?
 

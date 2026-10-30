@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/harrisburg-pa/
 
 # Radon testing & mitigation in Harrisburg, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Harrisburg, PA: 52% of 38,427 basement radon tests with a Harrisburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Dauphin County (51%) and above the statewide 37%. The median Harrisburg result, 4.3 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 6 certified firms based in Harrisburg, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=harrisburg).
+**Quick answer:** For homeowners, buyers and sellers in Harrisburg, PA: 52% of 38,427 basement radon tests with a Harrisburg address in PA DEP's records were at or above EPA's 4 pCi/L action level, about the same as Dauphin County (51%) and above the statewide 37%. The median Harrisburg result, 4.3 pCi/L, is itself over the line. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 6 certified firms based in Harrisburg, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=harrisburg).
 
 Harrisburg sits in Dauphin County. In the PA DEP test dataset, 38,427 basement radon tests carry a Harrisburg address. Their median was **4.3 pCi/L**, and **52%** came in at or above EPA's 4 pCi/L action level. Across all of Dauphin County it was 51%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -592,7 +592,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Dauphin County listings →](https://radonroster.com/pa/county/dauphin/) · [Harrisburg radon guide](https://radonroster.com/pa/city/harrisburg-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/get-quotes/?city=harrisburg)
+**Want firms to contact you?**One request to Harrisburg mitigators[Request quotes](https://radonroster.com/quotes/?city=harrisburg)
 
 ## Which cities near Harrisburg have radon pages?
 

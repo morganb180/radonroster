@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/norristown-pa/
 
 # Radon testing & mitigation in Norristown, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Norristown, PA: 21% of 16,035 basement radon tests with a Norristown address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Norristown, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=norristown).
+**Quick answer:** For homeowners, buyers and sellers in Norristown, PA: 21% of 16,035 basement radon tests with a Norristown address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Montgomery County (28%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 2 certified firms based in Norristown, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=norristown).
 
 Norristown sits in Montgomery County. In the PA DEP test dataset, 16,035 basement radon tests carry a Norristown address. Their median was **1.9 pCi/L**, and **21%** came in at or above EPA's 4 pCi/L action level. Across all of Montgomery County it was 28%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -1243,7 +1243,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Montgomery County listings →](https://radonroster.com/pa/county/montgomery/) · [Norristown radon guide](https://radonroster.com/pa/city/norristown-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Norristown mitigators[Request quotes](https://radonroster.com/get-quotes/?city=norristown)
+**Want firms to contact you?**One request to Norristown mitigators[Request quotes](https://radonroster.com/quotes/?city=norristown)
 
 ## Which cities near Norristown have radon pages?
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/wilkes-barre-pa/
 
 # Radon testing & mitigation in Wilkes-Barre, PA
 
-**Quick answer:** For homeowners, buyers and sellers in Wilkes-Barre, PA: 18% of 6,150 basement radon tests with a Wilkes-Barre address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Luzerne County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Wilkes-Barre, and you can [request free quotes through Radon Roster](https://radonroster.com/get-quotes/?city=wilkes-barre).
+**Quick answer:** For homeowners, buyers and sellers in Wilkes-Barre, PA: 18% of 6,150 basement radon tests with a Wilkes-Barre address in PA DEP's records were at or above EPA's 4 pCi/L action level, lower than Luzerne County (31%) and below the statewide 37%. Lower odds aren't a pass: neighboring houses can test very differently. Test first; if you're at 4 pCi/L or higher, hire a PA DEP-certified mitigator. Radon Roster lists 1 certified firm based in Wilkes-Barre, and you can [request free quotes through Radon Roster](https://radonroster.com/quotes/?city=wilkes-barre).
 
 Wilkes-Barre sits in Luzerne County. In the PA DEP test dataset, 6,150 basement radon tests carry a Wilkes-Barre address. Their median was **1.7 pCi/L**, and **18%** came in at or above EPA's 4 pCi/L action level. Across all of Luzerne County it was 31%, and statewide 37%. Even where the average is lower, neighboring houses can test very differently, so every home should be tested.
 
@@ -595,7 +595,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 [All Luzerne County listings →](https://radonroster.com/pa/county/luzerne/) · [Wilkes-Barre radon guide](https://radonroster.com/pa/city/wilkes-barre-pa/radon-guide/)
 
-**Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/get-quotes/?city=wilkes-barre)
+**Want firms to contact you?**One request to Wilkes-Barre mitigators[Request quotes](https://radonroster.com/quotes/?city=wilkes-barre)
 
 ## Which cities near Wilkes-Barre have radon pages?
 

@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/housemasters-of-the-poconos-f3302/
 
 Canadensis, PA · Monroe County · 7 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3302): your request goes to Housemasters Of The Poconos and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3302): your request goes to Housemasters Of The Poconos and up to 2 other nearby certified pros.
 
 ## Contact
 

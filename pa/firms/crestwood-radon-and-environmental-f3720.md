@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/crestwood-radon-and-environmental-f3
 
 Mountain Top, PA · Luzerne County · 5 certified people
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3720): your request goes to Crestwood Radon And Environmental and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3720): your request goes to Crestwood Radon And Environmental and up to 2 other nearby certified pros.
 
 ## Contact
 

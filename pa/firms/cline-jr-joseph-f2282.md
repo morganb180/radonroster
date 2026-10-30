@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/cline-jr-joseph-f2282/
 
 Mechanicsburg, PA · Cumberland County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F2282): your request goes to Cline, Jr., Joseph and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F2282): your request goes to Cline, Jr., Joseph and up to 2 other nearby certified pros.
 
 ## Contact
 

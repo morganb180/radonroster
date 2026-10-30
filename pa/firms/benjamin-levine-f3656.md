@@ -12,7 +12,7 @@ Listed by PA DEP as Levine, Benjamin
 
 East Stroudsburg, PA · Monroe County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F3656): your request goes to Benjamin Levine and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F3656): your request goes to Benjamin Levine and up to 2 other nearby certified pros.
 
 ## Contact
 

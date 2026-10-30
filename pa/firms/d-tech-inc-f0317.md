@@ -10,7 +10,7 @@ canonical: https://radonroster.com/pa/firms/d-tech-inc-f0317/
 
 Blue Bell, PA · Montgomery County · 1 certified person
 
-[Get a quote](https://radonroster.com/get-quotes/?firm=F0317): your request goes to D-Tech, Inc. and up to 2 other nearby certified pros.
+[Get a quote](https://radonroster.com/quotes/?firm=F0317): your request goes to D-Tech, Inc. and up to 2 other nearby certified pros.
 
 ## Google rating
 

@@ -8,7 +8,7 @@ canonical: https://radonroster.com/pa/city/erie-pa/radon-guide/
 
 # How to find a radon expert in Erie, PA
 
-**Quick answer:** This guide is for Erie homeowners, buyers and sellers who need a radon test or a mitigation system. Erie ranks #28 of 33 Radon Roster guide cities for high tests: 24% of 28,022 basement tests were at or above 4 pCi/L (Erie County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/get-quotes/?city=erie).
+**Quick answer:** This guide is for Erie homeowners, buyers and sellers who need a radon test or a mitigation system. Erie ranks #28 of 33 Radon Roster guide cities for high tests: 24% of 28,022 basement tests were at or above 4 pCi/L (Erie County: 28%). Test, confirm any result of 4 pCi/L or higher, then compare written quotes from PA DEP-certified mitigators; you can [request quotes through Radon Roster](https://radonroster.com/quotes/?city=erie).
 
 Erie tests lower than much of Pennsylvania, with **24%** of 28,022 basement tests at or above 4 pCi/L. That still leaves 6,603 tests over the action level, so a low average doesn't clear any single house. That's below Erie County as a whole (28%) and below the statewide share (37%). The median Erie result (2.0 pCi/L) is below the 4 pCi/L line; it is still in the 2-4 pCi/L range where EPA says to consider fixing. The Erie County median is 2.2 pCi/L.
 
@@ -30,7 +30,7 @@ Share of basement tests ≥ 4 pCi/L
 
 **#28**of 33 guide cities
 
-[Get free quotes](https://radonroster.com/get-quotes/?city=erie) [Browse all Erie radon firms](https://radonroster.com/pa/city/erie-pa/) · [Erie County](https://radonroster.com/pa/county/erie/)
+[Get free quotes](https://radonroster.com/quotes/?city=erie) [Browse all Erie radon firms](https://radonroster.com/pa/city/erie-pa/) · [Erie County](https://radonroster.com/pa/county/erie/)
 
 ## How does radon in Erie compare with other PA cities?
 
@@ -158,7 +158,7 @@ Yes. Even here, 6,603 basement tests in DEP's records were at or above 4 pCi/L. 
 
 In PA DEP's test records, 24% of 28,022 basement tests with a Erie address were at or above 4 pCi/L (median 2.0 pCi/L). Results vary house to house, so only a test tells you your level.
 
-**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/get-quotes/?city=erie)
+**Want firms to contact you?**One request to Erie mitigators[Request quotes](https://radonroster.com/quotes/?city=erie)
 
 Our advice
 
