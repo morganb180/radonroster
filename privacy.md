@@ -6,7 +6,7 @@ canonical: https://radonroster.com/privacy/
 
 # Privacy policy
 
-Updated Oct 18, 2026. This policy covers Radon Roster (radonroster.com, "we"), operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
+Updated Oct 30, 2026. This policy covers Radon Roster (radonroster.com, "we"), operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
 
 **What changed on Oct 18, 2026:** Radon Roster now keeps a copy of each quote request (the details you submit, the firms it went to and the date) to run and improve the service. We don't sell it. Quote forms also have a separate, optional box (unchecked by default) for radon tips and offers from Radon Roster; we only send those to people who check it. See "Radon tips and offers" below.
 
@@ -35,7 +35,11 @@ We use the contact and business details you send to verify and process listing c
 
 ## Usage data
 
-Our host keeps standard server logs. We don't use analytics or advertising cookies.
+Our host keeps standard server logs. We don't use advertising cookies.
+
+## Analytics
+
+We use Google Analytics to collect aggregate usage statistics (pages viewed, the place searches you enter, how the search and quote or listing forms are used, and which listing links are clicked) so we can improve the site. Google Analytics sets first-party cookies and receives your IP address and browser details; we never send it your name, email, phone, address or anything you type into a form field. We have turned off Google signals and ad personalization, and we don't use it for advertising. If your browser sends a Global Privacy Control or Do Not Track signal, Google Analytics doesn't load at all. See [how Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## What we don't do
 
