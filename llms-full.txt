@@ -16,6 +16,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [All radon guides](https://radonroster.com/guides/)
 - [What is radon?](https://radonroster.com/what-is-radon/)
 - [Radon testing vs mitigation](https://radonroster.com/testing-vs-mitigation/)
+- [Radon testing in Pennsylvania](https://radonroster.com/radon-testing-pennsylvania/): DIY kits vs DEP-certified testers, results, home-sale rules, cost, with sources
 - [Radon mitigation cost](https://radonroster.com/radon-mitigation-cost/): PA DEP typical range, EPA cost by method, estimate tool
 - [Radon mitigation in Pennsylvania](https://radonroster.com/radon-mitigation-pennsylvania/): how systems work, certification, follow-up test
 - [Free radon test kits in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/): DEP and American Lung Association programs, with sources
