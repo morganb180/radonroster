@@ -18,7 +18,7 @@ PA DEP says Pennsylvania has one of the most serious radon problems in the count
 
 ## What should I do about radon?
 
-1. Test your home (DIY kit or a [DEP-certified tester](https://radonroster.com/pa/counties/)).
+1. Test your home (DIY kit or a [DEP-certified tester](https://radonroster.com/pa/counties/)). If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
 2. If results are 4 pCi/L or higher, confirm with a second test as PA DEP describes on its [Radon in the Home](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home) page.
 3. If confirmed, hire a DEP-certified mitigator. Pennsylvania law requires anyone doing radon testing, mitigation or lab analysis for the public to be DEP-certified ([25 Pa. Code Chapter 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)).
 

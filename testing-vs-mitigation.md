@@ -22,6 +22,6 @@ Mitigation means installing a radon reduction system, usually active soil depres
 
 ## Who can test for or fix radon in Pennsylvania?
 
-Testers, mitigators and labs serving the public must hold PA DEP certification ([25 Pa. Code Ch. 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)). They must show a current DEP photo ID on request. Every listing on this site comes from DEP's certified lists.
+Testers, mitigators and labs serving the public must hold PA DEP certification ([25 Pa. Code Ch. 240](https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf)). They must show a current DEP photo ID on request. Every listing on this site comes from DEP's certified lists. You can also test your own home with a kit analyzed by a DEP-certified lab; if you have never tested, see [free radon test kits in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
 
 [Find certified pros by county](https://radonroster.com/pa/counties/)

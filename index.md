@@ -34,9 +34,9 @@ Ask each certified mitigator for their DEP certification ID, and retest after th
 
 ## Use a kit analyzed by a certified lab.
 
-Pennsylvania requires labs that analyze radon for the public to be DEP-certified. Follow the kit's placement and timing instructions, then mail it promptly.
+Pennsylvania requires labs that analyze radon for the public to be DEP-certified. Follow the kit's placement and timing instructions, then mail it promptly. Never tested? You may qualify for a free kit.
 
-[What is radon? →](https://radonroster.com/what-is-radon/)
+[Get a free PA radon test kit →](https://radonroster.com/free-radon-test-kit-pennsylvania/)
 
 ## What your number means
 

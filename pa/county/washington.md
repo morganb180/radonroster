@@ -71,6 +71,8 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Where can I get radon testing in Washington County, PA? (6 firms)
 
+Want to test your own home first? If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
+
 ### Heritage Home Insp
 
 ⚠ Name may be cut off in DEP records

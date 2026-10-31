@@ -55,6 +55,7 @@ d.addEventListener("click",function(e){var a=e.target&&e.target.closest?e.target
  if(/^tel:/i.test(h)){track("click_phone",{firm_id:fidOf(a),index:c?pos(c):void 0,link_location:where(a),area:A.area});return}
  if(/^mailto:/i.test(h)){var own=h.toLowerCase().indexOf("@"+HOSTS[0])>0;track("click_email",{firm_id:own?void 0:fidOf(a),index:c?pos(c):void 0,link_location:own?"site_contact":where(a),area:A.area});return}
  try{u=new URL(a.href)}catch(x){return}
+ var ge=a.getAttribute("data-ga-event");if(ge&&/^[a-z][a-z0-9_]{2,39}$/.test(ge))track(ge,{link_domain:u.hostname.replace(/^www\./,""),link_location:a.getAttribute("data-ga-loc")||where(a),outbound:u.host!=location.host}); /* opt-in link events, e.g. free_kit_click: no URL params, text or personal data */
  if(u.host!=location.host){if(a.getAttribute("data-ct")=="web"||((c||a.closest(".fp-contact,.gx"))&&isDomain(txt(a)))){track("click_website",{firm_id:fidOf(a),index:c?pos(c):void 0,link_location:where(a),link_domain:u.hostname.replace(/^www\./,""),area:A.area})}return}
  var p=u.pathname,cta=/^\/quotes\//.test(p)?"get_quotes":/^\/(claim-listing|list-your-business)\//.test(p)?"claim_listing":/^\/(for-pros|for-contractors)\//.test(p)?"for_pros":a.matches(".btn,.qbtn,.lf-cta,.more")?"button":"";
  if(c&&cta!="claim_listing"&&(cta=="get_quotes"||/\/firms\//.test(p)))track("select_item",{item_list_name:A.area_type||page,item_id:c.id,index:pos(c),select_type:cta=="get_quotes"?"quote":"profile",area:A.area,items:[{item_id:c.id,index:pos(c),item_list_name:A.area_type||page}]});
