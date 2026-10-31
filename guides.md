@@ -6,11 +6,11 @@ canonical: https://radonroster.com/guides/
 
 # Radon guides
 
-[What is radon?How radon gets into Pennsylvania homes and why it matters.](https://radonroster.com/what-is-radon/)
+[What is radon?What radon is, how it gets into homes, its lung cancer risk, safe levels and how common it is in each PA county.](https://radonroster.com/what-is-radon/)
 
 [Radon testing vs mitigationShort-term vs long-term tests, and when to fix.](https://radonroster.com/testing-vs-mitigation/)
 
-[Radon mitigation costPA DEP's typical range, EPA cost by method, and an estimate tool.](https://radonroster.com/radon-mitigation-cost/)
+[Radon mitigation costPA DEP's typical range, labeled national ranges, cost by method, running costs, who pays in a sale and an estimate tool.](https://radonroster.com/radon-mitigation-cost/)
 
 [Radon mitigation in PennsylvaniaHow a system works, DEP certification and the follow-up test.](https://radonroster.com/radon-mitigation-pennsylvania/)
 
