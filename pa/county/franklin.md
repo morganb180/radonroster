@@ -34,6 +34,8 @@ Mitigation 0[Testing5](#testing)Labs 0Ordered by town, then name · never by pay
 
 ## Where can I get radon testing in Franklin County, PA? (5 firms)
 
+Want to test your own home first? If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
+
 ### Baxter Environmental
 
 ✓ PA DEP certifiedTesting

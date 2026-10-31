@@ -61,6 +61,8 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Where can I get radon testing in Columbia County, PA? (1 firm)
 
+Want to test your own home first? If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
+
 ### Devries, Walter
 
 ✓ PA DEP certifiedTesting

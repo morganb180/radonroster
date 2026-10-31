@@ -84,6 +84,8 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Where can I get radon testing in Erie County, PA? (4 firms)
 
+Want to test your own home first? If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
+
 ### Banister, Joseph
 
 ✓ PA DEP certifiedTesting

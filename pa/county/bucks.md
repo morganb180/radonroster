@@ -134,6 +134,8 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 ## Where can I get radon testing in Bucks County, PA? (15 firms)
 
+Want to test your own home first? If you have never tested, you may qualify for a [free radon test kit in Pennsylvania](https://radonroster.com/free-radon-test-kit-pennsylvania/).
+
 ### Eagle Inspections LLC
 
 ✓ PA DEP certifiedTesting
