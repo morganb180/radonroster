@@ -14,6 +14,8 @@ canonical: https://radonroster.com/guides/
 
 [Radon mitigation in PennsylvaniaHow a system works, DEP certification and the follow-up test.](https://radonroster.com/radon-mitigation-pennsylvania/)
 
+[Radon testing in PennsylvaniaHow to test, short- vs long-term kits, results, home-sale rules and cost.](https://radonroster.com/radon-testing-pennsylvania/)
+
 [Free radon test kits in PennsylvaniaDEP and American Lung Association kits, plus low-cost options.](https://radonroster.com/free-radon-test-kit-pennsylvania/)
 
 [PA real estate radon disclosureWhat sellers disclose and how real estate tests work.](https://radonroster.com/pa/real-estate-radon-disclosure/)

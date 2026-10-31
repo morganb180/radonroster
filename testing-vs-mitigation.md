@@ -12,6 +12,8 @@ A radon test measures your home's radon level in pCi/L. EPA's action level is 4 
 
 Short-term tests run about 2 to 7 days; long-term tests run more than 90 days and better reflect the year-round average. Real estate deals usually use short-term tests. PA DEP's [Radon in the Home](https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-in-the-home) page says that if a result is above 4 pCi/L you should consider a second test. If the result is 4-8 pCi/L, you can do a long-term (365-day) test or another short-term test, and if it is still 4 pCi/L or higher, take corrective action.
 
+Step by step, with kit placement, home-sale rules and costs: [radon testing in Pennsylvania](https://radonroster.com/radon-testing-pennsylvania/).
+
 ## What does radon mitigation do?
 
 Mitigation lowers the radon level after a test confirms it is 4 pCi/L or higher.
