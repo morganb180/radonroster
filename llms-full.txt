@@ -35,6 +35,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [Privacy policy (draft)](https://radonroster.com/privacy/)
 - [How we verify listings](https://radonroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://radonroster.com/sitemap.xml)
+- [YouTube channel](https://www.youtube.com/@radonroster): Radon Roster explainer videos (channel https://www.youtube.com/channel/UCMIAOaWnass91aVjAzExrtg)
 
 ## Optional
 - [llms-full.txt](https://radonroster.com/llms-full.txt): full list of county, city and guide pages

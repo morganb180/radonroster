@@ -16,7 +16,7 @@ Radon Roster is an independent directory of radon professionals certified by the
 
 ## Who operates Radon Roster
 
-Radon Roster (radonroster.com) is operated by Radon Roster, the same operator named in our [privacy policy](https://radonroster.com/privacy/). Contact us through the [contact page](https://radonroster.com/contact/).
+Radon Roster (radonroster.com) is operated by Radon Roster, the same operator named in our [privacy policy](https://radonroster.com/privacy/). Contact us through the [contact page](https://radonroster.com/contact/). Watch our explainer videos on [YouTube](https://www.youtube.com/@radonroster).
 
 ## Independence
 

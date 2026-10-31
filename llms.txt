@@ -36,6 +36,7 @@ Radon Roster is for Pennsylvania homeowners, buyers, sellers, landlords and real
 - [Privacy policy (draft)](https://radonroster.com/privacy/)
 - [How we verify listings](https://radonroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://radonroster.com/sitemap.xml)
+- [YouTube channel](https://www.youtube.com/@radonroster): Radon Roster explainer videos (channel https://www.youtube.com/channel/UCMIAOaWnass91aVjAzExrtg)
 
 ## Agent API
 - [API catalog](https://radonroster.com/.well-known/api-catalog): RFC 9727 linkset
