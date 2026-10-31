@@ -8,6 +8,8 @@ Guide · Pennsylvania · Updated Oct 31, 2026
 
 # What is radon?
 
+Reviewed by Radon Roster staff
+
 **Quick answer:** radon is a radioactive gas that forms naturally when uranium, thorium and radium break down in rock, soil and groundwater. You can't see, smell or taste it. It moves up through the ground, gets into homes through cracks and gaps in the foundation, and can build up indoors. Breathing it for years raises your risk of lung cancer: EPA estimates radon causes about 21,000 lung cancer deaths in the U.S. each year, second only to smoking. Testing is the only way to know your home's level, and EPA recommends fixing a home at 4 picocuries per liter (pCi/L) or higher.
 
 Last updated October 31, 2026. Every figure on this page comes from EPA, CDC, the National Cancer Institute, the World Health Organization, the USGS or Pennsylvania DEP, linked where it's used and listed under Sources. Pennsylvania county figures are our analysis of DEP's public test data. General information, not medical advice.

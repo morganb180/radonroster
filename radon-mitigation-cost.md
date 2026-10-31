@@ -8,6 +8,8 @@ Guide · Pennsylvania · Updated Oct 31, 2026
 
 # How much does radon mitigation cost in Pennsylvania?
 
+Reviewed by Radon Roster staff
+
 **Short answer:** PA DEP says a radon mitigation system in Pennsylvania typically costs **$800 to $1,200** ([PA DEP, 2026](https://www.pa.gov/agencies/dep/newsroom/2026-01-12-dep-encourages-pennsylvanians-to-test-their-homes-for-radon-during-radon-action-month)). Nationally, HomeAdvisor's 2026 cost guide puts the average at $1,028, with most homeowners paying $786 to $1,274 and a full range of $395 to $2,453. After installation, expect a small rise in your electric bill, a retest every two years, and a fan replacement every several years.
 
 **How to read the numbers on this page.** Each figure is labeled with where it comes from. **PA** figures come from Pennsylvania DEP. **National** figures come from HomeAdvisor's 2026 cost guide (based on its customer survey) or from EPA's January 2010 *Consumer's Guide to Radon Reduction*, the last EPA edition with dollar amounts, so those prices are 16 years old. None of them are quotes. Last updated October 31, 2026.
