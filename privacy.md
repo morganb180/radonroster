@@ -6,17 +6,19 @@ canonical: https://radonroster.com/privacy/
 
 # Privacy policy
 
-Updated Oct 30, 2026. This policy covers Radon Roster (radonroster.com, "we"), operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
+Updated Nov 3, 2026. This policy covers Radon Roster (radonroster.com, "we"), operated by Radon Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
 
 **What changed on Oct 18, 2026:** Radon Roster now keeps a copy of each quote request (the details you submit, the firms it went to and the date) to run and improve the service. We don't sell it. Quote forms also have a separate, optional box (unchecked by default) for radon tips and offers from Radon Roster; we only send those to people who check it. See "Radon tips and offers" below.
 
 ## Quote requests
 
 * **What you enter:** your name, email and/or phone, ZIP code or county, the service you need, and optionally your radon test result and a note.
-* **Who gets it:** when you check the consent box and submit, we send your request by email to **up to 3 PA DEP-certified radon firms** that offer that service and are based in or near your county. Only those firms get your contact details. We email you a list of the firms we contacted.
-* **What we keep:** we keep a copy of each quote request: the details you submit (your name, email and/or phone, ZIP code or county, the service you need, and any test result or note), the firms it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you radon tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, county, first three digits of your ZIP, the service requested and which firms were contacted. These records are kept for up to about 13 months to run and improve the service.
+* **Who gets it:** when you check the consent box and submit, we send your request by email to **up to 3 PA DEP-certified radon firms** that offer that service, nearest available first, starting with firms based in your county and the counties next to it. If you started from a firm's listing, that firm is one of them. For mail-in test kits, the firms are DEP-certified labs, which may be anywhere in or outside Pennsylvania. Firms can't pay to be picked. Only those firms get your contact details, and their replies to the request email go to you.
+* **What you get:** the names and phone numbers of the firms we contacted, on screen right away. If you gave an email address, we also email you that list from leads@radonroster.com.
+* **What we keep:** we keep a copy of each quote request: the details you submit (your name, email and/or phone, ZIP code or county, the service you need, and any test result or note), the firms it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you radon tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, county, first three digits of your ZIP, the service requested and which firms were contacted. These records are kept for up to about 13 months to run and improve the service. Our copy of the request itself is kept in our email inbox until you ask us to delete it.
 * **Email delivery:** requests are sent through our email provider, SendGrid (Twilio), which processes the message to deliver it and keeps delivery logs under its own retention policy. Firms that receive your request keep it under their own policies; contact them directly to ask them to delete it.
 * **Spam protection:** forms use Cloudflare Turnstile and per-connection rate limits. To rate-limit, we keep a one-way hash of your IP address for about an hour.
+* **Requests made by an AI assistant:** if an AI assistant asks for quotes for you through our API, we first email you a confirmation link. Nothing is sent to any firm unless you open it and confirm within 24 hours. The pending request travels encrypted inside that link; we don't store your name, email or phone while it waits.
 
 ## Radon tips and offers (optional)
 
@@ -44,7 +46,7 @@ We use Google Analytics to collect aggregate usage statistics (pages viewed, the
 ## What we don't do
 
 * We don't sell your personal information.
-* We don't share quote requests with anyone other than the matched firms and our service providers (Cloudflare for hosting and form processing, SendGrid for email delivery, Google for the email inbox where we keep our copy of each request).
+* We don't share quote requests with anyone other than the matched firms and our service providers (GitHub Pages and Cloudflare for hosting, Cloudflare for form processing, SendGrid for email delivery, Google for the email inbox where we keep our copy of each request).
 * We don't text or call you, and firms don't get permission to text you through this form.
 
 ## Contractors
