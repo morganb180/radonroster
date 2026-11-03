@@ -48,6 +48,8 @@ function fireSearch(trigger){clearTimeout(timer);var i=sq();if(!i)return;var t=t
  track("search",{search_term:t,result_count:c,match_type:r&&q(".fz-none",r)?"none":r&&q(".fz-dym",r)?"did_you_mean":c?"match":"none",search_kind:/^\d{3,5}$/.test(t)?"zip":"place",search_intent:it?it.value:void 0,trigger:trigger})}
 d.addEventListener("input",function(e){if(e.target&&e.target.matches&&e.target.matches(SQ)){clearTimeout(timer);timer=setTimeout(function(){fireSearch(e.isTrusted?"typing":"url")},1500)}},true);
 d.addEventListener("keydown",function(e){if(e.key=="Enter"&&e.target&&e.target.matches&&e.target.matches(SQ))fireSearch("enter")},true);
+/* the finder form's submit button ("Find testers" etc.) submits and navigates without an Enter key or a #results click: count that as a search too */
+d.addEventListener("submit",function(e){var f=e.target,i=sq();if(f&&i&&f.contains&&f.contains(i))fireSearch("submit")},true);
 
 /* ---------- clicks: search results, firm cards, outbound contact, CTAs ---------- */
 d.addEventListener("click",function(e){var a=e.target&&e.target.closest?e.target.closest("a[href]"):null;if(!a)return;var h=a.getAttribute("href")||"",c=cardOf(a),u;
