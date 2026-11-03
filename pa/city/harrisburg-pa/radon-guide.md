@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Harrisburg, PA: Hiring, Cost & Testing Guide"
-description: "Harrisburg, PA radon guide: 52% of 38,427 basement tests at or above 4 pCi/L (median 4.3). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Harrisburg, PA: Hiring & Cost Guide"
+description: "Getting radon testing in Harrisburg, PA? 52% of 38,427 basement tests were at or above 4 pCi/L (median 4.3). How to hire a DEP-certified tester or mitigator, costs, sale tips."
 canonical: https://radonroster.com/pa/city/harrisburg-pa/radon-guide/
 ---
 

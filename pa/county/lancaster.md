@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation in Lancaster County, PA"
-description: "9 DEP-certified radon firms in Lancaster County, PA. 55% of 109,372 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
+title: "Radon Testing in Lancaster County, PA: 55% of Tests High"
+description: "55% of 109,372 basement radon tests in Lancaster County, PA were at or above 4 pCi/L (median 4.7). Compare 9 DEP-certified radon testing and mitigation firms; get free quotes."
 canonical: https://radonroster.com/pa/county/lancaster/
 ---
 

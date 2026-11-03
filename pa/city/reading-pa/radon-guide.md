@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Reading, PA: Hiring, Cost & Testing Guide"
-description: "Reading, PA radon guide: 49% of 21,235 basement tests at or above 4 pCi/L (median 3.8). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Reading, PA: Hiring & Cost Guide"
+description: "Radon testing in Reading, PA: 49% of 21,235 basement tests were at or above 4 pCi/L (Berks County: 51%). How to hire a DEP-certified tester or mitigator, costs and sale tips."
 canonical: https://radonroster.com/pa/city/reading-pa/radon-guide/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Radon-Rid LLC: Radon Tester/Mitigator in Phoenixville, PA"
-description: "Radon-Rid LLC (Phoenixville, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and contacts, or request a free quote."
+title: "Radon-Rid LLC, Phoenixville PA: Radon Mitigation & Testing"
+description: "Radon-Rid LLC (Phoenixville, Montgomery County) is PA DEP-certified for radon mitigation and testing. Google 4.7 from 58 reviews. DEP cert IDs, contacts and a free quote."
 canonical: https://radonroster.com/pa/firms/radon-rid-llc-f2585/
 ---
 

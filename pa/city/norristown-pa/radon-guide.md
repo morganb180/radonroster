@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Norristown, PA: Hiring, Cost & Testing Guide"
-description: "Norristown, PA radon guide: 21% of 16,035 basement tests at or above 4 pCi/L (median 1.9). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Norristown, PA: Hiring & Cost Guide"
+description: "Radon testing in Norristown, PA: 21% of 16,035 basement tests were at or above 4 pCi/L (Montgomery County: 28%). How to hire a DEP-certified tester or mitigator and costs."
 canonical: https://radonroster.com/pa/city/norristown-pa/radon-guide/
 ---
 

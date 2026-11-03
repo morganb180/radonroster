@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation in Chester County, PA"
-description: "18 DEP-certified radon firms in Chester County, PA. 31% of 212,529 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
+title: "Radon Testing & Mitigation in Chester County, PA (18 Firms)"
+description: "Compare 18 DEP-certified radon testing and mitigation firms in Chester County, PA. 31% of 212,529 basement tests were at or above 4 pCi/L (median 2.4). Free quotes."
 canonical: https://radonroster.com/pa/county/chester/
 ---
 

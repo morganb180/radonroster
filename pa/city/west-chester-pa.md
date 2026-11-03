@@ -1,6 +1,6 @@
 ---
 title: "Radon Testing & Mitigation in West Chester, PA"
-description: "24% of 45,366 basement radon tests in West Chester, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
+description: "24% of 45,366 basement radon tests in West Chester, PA were at or above 4 pCi/L (Chester County: 31%). Compare 2 DEP-certified local firms and get free radon testing quotes."
 canonical: https://radonroster.com/pa/city/west-chester-pa/
 ---
 

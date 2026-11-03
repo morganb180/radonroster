@@ -1,6 +1,6 @@
 ---
-title: "Realty Inspection: Radon Tester in Spring Brook Tow, PA"
-description: "Realty Inspection (Spring Brook Tow, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+title: "Realty Inspection, Spring Brook Twp PA: Radon Testing"
+description: "Realty Inspection (770 State Route 307, Spring Brook Twp, Lackawanna County) is PA DEP-certified for radon testing. Phone (570) 848-2772, DEP cert IDs and a free quote."
 canonical: https://radonroster.com/pa/firms/realty-inspection-f8365/
 ---
 

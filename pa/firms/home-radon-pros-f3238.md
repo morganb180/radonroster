@@ -1,6 +1,6 @@
 ---
-title: "Home Radon Pros: Radon Testing & Mitigation in Venetia, PA"
-description: "Home Radon Pros (Venetia, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+title: "Home Radon Pros Reviews & DEP Certs, Venetia PA"
+description: "Home Radon Pros (Venetia, Washington County): Google 4.8 from 20 reviews. PA DEP-certified for radon testing and mitigation, 9 certified people. DEP cert IDs, free quote."
 canonical: https://radonroster.com/pa/firms/home-radon-pros-f3238/
 ---
 

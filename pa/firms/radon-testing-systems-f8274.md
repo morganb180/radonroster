@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing Systems (Franklin Ct): Radon, Collegeville PA"
-description: "Radon Testing Systems (427 Franklin Ct, Collegeville, PA): PA DEP-certified for radon testing. DEP cert IDs, contact details and a free quote request."
+title: "Radon Testing Systems: DEP-Certified Radon Testing, Collegeville PA"
+description: "Radon Testing Systems, 427 Franklin Ct, Collegeville (Montgomery County): 4 PA DEP-certified radon testers. Google 3.7 from 3 reviews. DEP cert IDs, contacts and a free quote."
 canonical: https://radonroster.com/pa/firms/radon-testing-systems-f8274/
 ---
 

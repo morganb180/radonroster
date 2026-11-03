@@ -1,6 +1,6 @@
 ---
-title: "Pro-Spect Inspection Services Inc: Radon Tester in Dover, DE"
-description: "Pro-Spect Inspection Services Inc (Dover, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+title: "Pro-Spect Inspection Services: PA DEP Radon Testing (Dover, DE)"
+description: "Pro-Spect Inspection Services Inc (Dover, DE) is on PA DEP's certified radon testing list, with 11 certified people. Google 4.9 from 3,614 reviews. DEP cert IDs, free quote."
 canonical: https://radonroster.com/pa/firms/pro-spect-inspection-services-inc-f3402/
 ---
 

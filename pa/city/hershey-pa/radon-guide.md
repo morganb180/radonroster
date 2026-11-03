@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Hershey, PA: Hiring, Cost & Testing Guide"
-description: "Hershey, PA radon guide: 41% of 8,814 basement tests at or above 4 pCi/L (median 2.8). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Hershey, PA: Hiring & Cost Guide"
+description: "Radon testing in Hershey, PA: 41% of 8,814 basement tests were at or above 4 pCi/L (Dauphin County: 51%). How to hire a DEP-certified tester or mitigator, costs and sale tips."
 canonical: https://radonroster.com/pa/city/hershey-pa/radon-guide/
 ---
 

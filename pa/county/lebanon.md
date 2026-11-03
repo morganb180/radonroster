@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation in Lebanon County, PA"
-description: "4 DEP-certified radon firms in Lebanon County, PA. 60% of 26,763 basement tests were at or above 4 pCi/L. See DEP cert IDs and contacts."
+title: "Radon Testing in Lebanon County, PA: 60% of Tests High"
+description: "60% of 26,763 basement radon tests in Lebanon County, PA were at or above 4 pCi/L (median 6.3), #4 of 67 counties. Compare 4 DEP-certified radon testing and mitigation firms."
 canonical: https://radonroster.com/pa/county/lebanon/
 ---
 

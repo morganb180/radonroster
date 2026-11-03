@@ -1,6 +1,6 @@
 ---
-title: "Integra Environmental: Radon Tester/Mitigator, Allentown PA"
-description: "Integra Environmental LLC (Allentown, PA): PA DEP-certified for radon mitigation and testing. DEP cert IDs, contact details and a free quote request."
+title: "Integra Environmental LLC: Radon Mitigation & Testing, Allentown"
+description: "Integra Environmental LLC (Allentown, Lehigh County) is PA DEP-certified for radon mitigation and testing, 6 certified people. Google 5.0 from 504 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/integra-environmental-llc-f2621/
 ---
 

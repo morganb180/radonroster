@@ -1,6 +1,6 @@
 ---
-title: "Radon Technology & Enviromental: Radon, Royersford PA"
-description: "Radon Technology & Enviromental Inc (Royersford, PA): PA DEP-certified for radon mitigation. DEP cert IDs, contact details and a free quote request."
+title: "Radon Technology & Enviromental: Radon Mitigation, Royersford PA"
+description: "Radon Technology & Enviromental Inc (Royersford, Montgomery County) is PA DEP-certified for radon mitigation, 5 certified people. Google 4.9 from 244 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/radon-technology-and-enviromental-inc-f1308/
 ---
 

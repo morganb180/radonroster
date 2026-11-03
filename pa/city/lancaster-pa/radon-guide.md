@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Lancaster, PA: Hiring, Cost & Testing Guide"
-description: "Lancaster, PA radon guide: 51% of 37,640 basement tests at or above 4 pCi/L (median 4.1). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Lancaster, PA: Hiring & Cost Guide"
+description: "Getting radon testing in Lancaster, PA? 51% of 37,640 basement tests were at or above 4 pCi/L (Lancaster County: 55%). How to hire a DEP-certified tester, costs, real estate tips."
 canonical: https://radonroster.com/pa/city/lancaster-pa/radon-guide/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Radon Testing & Mitigation in Lancaster, PA | Radon Roster"
-description: "51% of 37,640 basement radon tests in Lancaster, PA were at or above 4 pCi/L (PA DEP data). Find DEP-certified radon testers and mitigators nearby."
+title: "Radon Testing & Mitigation in Lancaster, PA: Certified Pros"
+description: "51% of 37,640 basement radon tests in Lancaster, PA hit EPA's 4 pCi/L action level (median 4.1). Compare PA DEP-certified radon testing and mitigation pros; get free quotes."
 canonical: https://radonroster.com/pa/city/lancaster-pa/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Radon Expert in Phoenixville, PA: Hiring & Cost Guide"
-description: "Phoenixville, PA radon guide: 27% of 16,364 basement tests at or above 4 pCi/L (median 2.2). How to verify DEP certification, costs and real estate tips."
+title: "Radon Testing in Phoenixville, PA: Hiring & Cost Guide"
+description: "Radon testing in Phoenixville, PA: 27% of 16,364 basement tests were at or above 4 pCi/L (median 2.2). How to hire a DEP-certified tester or mitigator, costs and sale tips."
 canonical: https://radonroster.com/pa/city/phoenixville-pa/radon-guide/
 ---
 
