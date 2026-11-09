@@ -1,6 +1,6 @@
 ---
 title: "Heather Mckeever: Radon Tester in Glendora, NJ"
-description: "Heather Mckeever (Glendora, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Heather Mckeever (Glendora, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/heather-mckeever-f3593/
 ---
 
@@ -16,8 +16,6 @@ Glendora, NJ · 1 certified person
 
 ## Contact
 
-* Phone: [(609) 876-8440](tel:6098768440)
-* Email: [hmenvironmental@myyahoo.com](mailto:hmenvironmental@myyahoo.com)
 * Address: 1112 Saint Mark Dr, Glendora, NJ
 
 ## PA DEP certification

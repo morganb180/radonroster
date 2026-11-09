@@ -24,9 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 826-3120](tel:4128263120)
-* Email: [charles.kisamore@oneatlas.com](mailto:charles.kisamore@oneatlas.com)
-* Website: [https://www.oneatlas.com/](https://www.oneatlas.com/)
 * Address: 270 William Pitt Way, Pittsburgh, PA
 
 ## PA DEP certification

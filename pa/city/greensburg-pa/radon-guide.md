@@ -68,7 +68,6 @@ Greensburg1 certified person
 #### Address
 
 * 290 Forbes Trail Rd, Greensburg, PA
-* ✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
 
 #### Certified individuals
 
@@ -80,7 +79,6 @@ mitigation #1801
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
 
-[**Call** (724) 289-8632](tel:7242898632)
 
 ### Blank, Mathew
 
@@ -91,7 +89,6 @@ Trafford1 certified person
 #### Address
 
 * 120 Loyola Ln, Trafford, PA
-* ✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
 
 #### Certified individuals
 
@@ -103,7 +100,6 @@ mitigation #3696
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
 
-[**Call** (724) 515-9414](tel:7245159414)
 
 ### Main Street Radon Remediation
 
@@ -114,7 +110,6 @@ Irwin1 certified person
 #### Address
 
 * 13610 Lincoln Way, Irwin, PA
-* ✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
 
 #### Certified individuals
 
@@ -126,7 +121,6 @@ mitigation #3689 · mitigation #3690 · testing #3689 · testing #3690
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
 
-[**Call** (724) 744-8006](tel:7247448006)
 
 ### Martin, Alexander
 
@@ -137,7 +131,6 @@ New Florence1 certified person
 #### Address
 
 * 156 N View Hts, New Florence, PA
-* ✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -149,7 +142,6 @@ mitigation #3631 · testing #3631
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
 
-[**Call** (814) 418-7158](tel:8144187158)
 
 ### Restoration Contracting Services In
 
@@ -162,8 +154,6 @@ New Kensington3 certified people
 #### Address
 
 * 720 Anderson St, New Kensington, PA
-* ✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
-* [rcsrestoration.com](https://www.rcsrestoration.com/)
 
 #### Certified individuals
 
@@ -177,7 +167,6 @@ mitigation #3219 · mitigation #3220 · mitigation #7534 · mitigation #7650 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
 
-[**Call** (412) 379-3278](tel:4123793278)
 
 [See all firms near Greensburg →](https://radonroster.com/pa/city/greensburg-pa/)
 

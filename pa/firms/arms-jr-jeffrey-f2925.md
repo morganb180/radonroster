@@ -1,6 +1,6 @@
 ---
 title: "Arms, Jr., Jeffrey: Radon Tester in Chester Springs, PA"
-description: "Arms, Jr., Jeffrey (Chester Springs, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Arms, Jr., Jeffrey (Chester Springs, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/arms-jr-jeffrey-f2925/
 ---
 
@@ -14,9 +14,6 @@ Chester Springs, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 850-5528](tel:6108505528)
-* Email: [jeff@armshomeinspection.com](mailto:jeff@armshomeinspection.com)
-* Website: [https://armshomeinspection.com/](https://armshomeinspection.com/)
 * Address: 2342 Miller Rd, Chester Springs, PA
 
 ## PA DEP certification

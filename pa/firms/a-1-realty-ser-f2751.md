@@ -1,6 +1,6 @@
 ---
 title: "A-1 Realty Ser: Radon Tester in Kutztown, PA | Radon Roster"
-description: "A-1 Realty Ser (Kutztown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "A-1 Realty Ser (Kutztown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/a-1-realty-ser-f2751/
 ---
 
@@ -16,9 +16,6 @@ Kutztown, PA · Berks County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 683-7370](tel:6106837370)
-* Email: [info@brsinspect.com](mailto:info@brsinspect.com)
-* Website: [https://brsinspect.com/](https://brsinspect.com/)
 * Address: Po Box 179, Kutztown, PA
 
 ## PA DEP certification

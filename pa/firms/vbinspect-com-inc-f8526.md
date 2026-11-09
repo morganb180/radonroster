@@ -1,6 +1,6 @@
 ---
 title: "Vbinspect.Com, Inc.: Radon Tester in Pittsburgh, PA"
-description: "Vbinspect.Com, Inc. (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Vbinspect.Com, Inc. (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/vbinspect-com-inc-f8526/
 ---
 
@@ -20,8 +20,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 885-1133](tel:4128851133)
-* Email: [jason.vbinspect@gmail.com](mailto:jason.vbinspect@gmail.com)
 * Address: 3268 Waltham Ave, Pittsburgh, PA
 
 ## PA DEP certification

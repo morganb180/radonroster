@@ -1,6 +1,6 @@
 ---
 title: "Enviroquest, Inc.: Radon Mitigator in Harrisburg, PA"
-description: "Enviroquest, Inc. (Harrisburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Enviroquest, Inc. (Harrisburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/enviroquest-inc-f7458/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 233-6144](tel:7172336144)
-* Email: [evq@comcast.net](mailto:evq@comcast.net)
 * Address: 1738 N. 3Rd St, Harrisburg, PA
 
 ## PA DEP certification

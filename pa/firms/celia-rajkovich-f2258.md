@@ -1,6 +1,6 @@
 ---
 title: "Celia Rajkovich: Radon Lab & Tester in Derry, PA"
-description: "Celia Rajkovich (Derry, PA) is on PA DEP's certified radon list for laboratory and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Celia Rajkovich (Derry, PA) is on PA DEP's certified radon list for laboratory and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/celia-rajkovich-f2258/
 ---
 
@@ -16,8 +16,6 @@ Derry, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 774-7535](tel:7247747535)
-* Email: [numberoneradontester@comcast.net](mailto:numberoneradontester@comcast.net)
 * Address: 122 W 5Th Ave, Derry, PA
 
 ## PA DEP certification

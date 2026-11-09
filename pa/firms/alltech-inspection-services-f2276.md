@@ -1,6 +1,6 @@
 ---
 title: "Alltech Inspection Services: Radon Tester in Bethel Park, PA"
-description: "Alltech Inspection Services (Bethel Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Alltech Inspection Services (Bethel Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/alltech-inspection-services-f2276/
 ---
 
@@ -14,8 +14,6 @@ Bethel Park, PA · Allegheny County · 3 certified people
 
 ## Contact
 
-* Phone: [(412) 835-6000](tel:4128356000)
-* Email: [judi.hood@alltechhomeinspections.com;tom.schneidler@alltechhomeinspections.com](mailto:judi.hood@alltechhomeinspections.com;tom.schneidler@alltechhomeinspections.com)
 * Address: 5225 Library Rd, Bethel Park, PA
 
 ## PA DEP certification

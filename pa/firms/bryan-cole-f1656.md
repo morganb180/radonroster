@@ -1,6 +1,6 @@
 ---
 title: "Bryan Cole: Radon Tester in Trafford, PA | Radon Roster"
-description: "Bryan Cole (Trafford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Bryan Cole (Trafford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/bryan-cole-f1656/
 ---
 
@@ -16,8 +16,6 @@ Trafford, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 373-9505](tel:4123739505)
-* Email: [homecheckbc@aol.com](mailto:homecheckbc@aol.com)
 * Address: 317 Mcwilliams Rd, Trafford, PA
 
 ## PA DEP certification

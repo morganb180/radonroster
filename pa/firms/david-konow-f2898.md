@@ -1,6 +1,6 @@
 ---
 title: "David Konow: Radon Tester in Southampton, PA | Radon Roster"
-description: "David Konow (Southampton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David Konow (Southampton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-konow-f2898/
 ---
 
@@ -16,8 +16,6 @@ Southampton, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(267) 966-8260](tel:2679668260)
-* Email: [everesthomeinspections@gmail.com](mailto:everesthomeinspections@gmail.com)
 * Address: 1315 Joan Dr, Southampton, PA
 
 ## PA DEP certification

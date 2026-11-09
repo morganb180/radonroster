@@ -1,6 +1,6 @@
 ---
 title: "Clayton Watson: Radon Tester in Alum Bank, PA | Radon Roster"
-description: "Clayton Watson (Alum Bank, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Clayton Watson (Alum Bank, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/clayton-watson-f3469/
 ---
 
@@ -16,8 +16,6 @@ Alum Bank, PA · Bedford County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 421-6229](tel:8144216229)
-* Email: [claytonwatson@gmail.com](mailto:claytonwatson@gmail.com)
 * Address: 1015 W Fairway Ridge Dr, Alum Bank, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Connellsville1 certified person
 #### Address
 
 * 6 Chestwood Dr, Connellsville, PA
-* ✉ [precisionhome96@gmail.com](mailto:precisionhome96@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #1703
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1703)
 
-[**Call** (724) 628-6838](tel:7246286838)
 
 ### Dowling, David
 
@@ -68,8 +66,6 @@ Uniontown1 certified person
 #### Address
 
 * 273 Krulock Rd, Uniontown, PA
-* ✉ [david@grandviewinspectionsllc.com](mailto:david@grandviewinspectionsllc.com)
-* [grandviewinspectionsllc.com](https://grandviewinspectionsllc.com/)
 
 #### Certified individuals
 
@@ -81,7 +77,6 @@ testing #3296
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3296)
 
-[**Call** (724) 208-4108](tel:7242084108)
 
 ### Shadyside Home Inspections, LLC
 
@@ -92,7 +87,6 @@ Uniontown2 certified people
 #### Address
 
 * 265 Shadyside Road, Uniontown, PA
-* ✉ [tammyjobes@icloud.com](mailto:tammyjobes@icloud.com)
 
 #### Certified individuals
 
@@ -105,7 +99,6 @@ testing #3679 · testing #3680 · testing #9086
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3679)
 
-[**Call** (724) 570-6196](tel:7245706196)
 
 ## Which counties border Fayette County, PA?
 

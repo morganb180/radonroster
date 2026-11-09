@@ -1,6 +1,6 @@
 ---
 title: "Paul Muller: Radon Mitigator in Freedom, PA | Radon Roster"
-description: "Paul Muller (Freedom, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Paul Muller (Freedom, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/paul-muller-f3326/
 ---
 
@@ -16,8 +16,6 @@ Freedom, PA · Beaver County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 585-0217](tel:4125850217)
-* Email: [pwmuller1127@yahoo.com](mailto:pwmuller1127@yahoo.com)
 * Address: 156 Ridge Ave, Freedom, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Jim Thorpe1 certified person
 #### Address
 
 * Po Box 4064, Jim Thorpe, PA
-* ✉ [adhomes@ptd.net](mailto:adhomes@ptd.net)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #2986
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2986)
 
-[**Call** (570) 467-7328](tel:5704677328)
 
 ### Shanley, Marc
 
@@ -68,7 +66,6 @@ Kunkletown1 certified person
 #### Address
 
 * 55 Country Acres Dr, Kunkletown, PA
-* ✉ [trinity9@ptd.net](mailto:trinity9@ptd.net)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ testing #2172
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2172)
 
-[**Call** (610) 681-4012](tel:6106814012)
 
 ## Which counties border Carbon County, PA?
 

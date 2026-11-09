@@ -1,6 +1,6 @@
 ---
 title: "Michael Stansbury: Radon Mitigator in Emmitsburg, MD"
-description: "Michael Stansbury (Emmitsburg, MD) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Stansbury (Emmitsburg, MD) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-stansbury-f3334/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(443) 280-2091](tel:4432802091)
-* Email: [mitigatemyradon@gmail.com](mailto:mitigatemyradon@gmail.com)
 * Address: 16726 Annandale Rd, Emmitsburg, MD
 
 ## PA DEP certification

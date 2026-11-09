@@ -66,7 +66,6 @@ Harrisburg4 certified people
 #### Address
 
 * 1738 N 3Rd St Ste A, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -81,7 +80,6 @@ mitigation #1512 · mitigation #1725 · mitigation #7227 · mitigation #7516 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Enviroquest, Inc.
 
@@ -92,7 +90,6 @@ Harrisburg1 certified person
 #### Address
 
 * 1738 N. 3Rd St, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -104,7 +101,6 @@ mitigation #7458
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Radon, Joseph
 
@@ -115,7 +111,6 @@ Harrisburg1 certified person
 #### Address
 
 * 400 Market St, Harrisburg, PA
-* ✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
 
 #### Certified individuals
 
@@ -127,7 +122,6 @@ mitigation #1234 · testing #1234
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
 
-[**Call** (717) 425-5365](tel:7174255365)
 
 ### Sipe, Steven
 
@@ -138,7 +132,6 @@ Halifax1 certified person
 #### Address
 
 * 69 Million Dollar Rd, Halifax, PA
-* ✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
 
 #### Certified individuals
 
@@ -150,7 +143,6 @@ mitigation #3287 · testing #3287
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
 
-[**Call** (717) 425-0989](tel:7174250989)
 
 [See all firms near Harrisburg →](https://radonroster.com/pa/city/harrisburg-pa/)
 

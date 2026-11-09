@@ -1,6 +1,6 @@
 ---
 title: "Jason Dillion: Radon Tester in Oil City, PA | Radon Roster"
-description: "Jason Dillion (Oil City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jason Dillion (Oil City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-dillion-f3659/
 ---
 
@@ -16,8 +16,6 @@ Oil City, PA · Venango County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 671-3303](tel:8146713303)
-* Email: [jason.dillion@venangocountypa.gov](mailto:jason.dillion@venangocountypa.gov)
 * Address: 190 Colbert Ave, Oil City, PA
 
 ## PA DEP certification

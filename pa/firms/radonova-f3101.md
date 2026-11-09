@@ -1,6 +1,6 @@
 ---
 title: "Radonova: Radon Lab in Uppsala, FC | Radon Roster"
-description: "Radonova (Uppsala, FC) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Radonova (Uppsala, FC) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/radonova-f3101/
 ---
 
@@ -14,8 +14,6 @@ Uppsala, FC · 2 certified people
 
 ## Contact
 
-* Phone: [(461) 856-8861](tel:4618568861)
-* Email: [info@radonova.se](mailto:info@radonova.se)
 * Address: Po Box 6522, Uppsala, FC
 
 ## PA DEP certification

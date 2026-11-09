@@ -1,6 +1,6 @@
 ---
 title: "Jon Knell: Radon Tester in Aston, PA | Radon Roster"
-description: "Jon Knell (Aston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jon Knell (Aston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jon-knell-f3699/
 ---
 
@@ -16,8 +16,6 @@ Aston, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 442-0424](tel:4844420424)
-* Email: [jknell@libertyinspections.com](mailto:jknell@libertyinspections.com)
 * Address: 1120 Eleanor Circle, Aston, PA
 
 ## PA DEP certification

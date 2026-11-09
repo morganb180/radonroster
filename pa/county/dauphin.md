@@ -45,7 +45,6 @@ Halifax1 certified person
 #### Address
 
 * 69 Million Dollar Rd, Halifax, PA
-* ✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3287 · testing #3287
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
 
-[**Call** (717) 425-0989](tel:7174250989)
 
 ### Enviroquest, Inc.
 
@@ -68,7 +66,6 @@ Harrisburg4 certified people
 #### Address
 
 * 1738 N 3Rd St Ste A, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -83,7 +80,6 @@ mitigation #1512 · mitigation #1725 · mitigation #7227 · mitigation #7516 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Enviroquest, Inc.
 
@@ -94,7 +90,6 @@ Harrisburg1 certified person
 #### Address
 
 * 1738 N. 3Rd St, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -106,7 +101,6 @@ mitigation #7458
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Radon, Joseph
 
@@ -117,7 +111,6 @@ Harrisburg1 certified person
 #### Address
 
 * 400 Market St, Harrisburg, PA
-* ✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
 
 #### Certified individuals
 
@@ -129,7 +122,6 @@ mitigation #1234 · testing #1234
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
 
-[**Call** (717) 425-5365](tel:7174255365)
 
 ## Where can I get radon testing in Dauphin County, PA? (3 firms)
 
@@ -144,7 +136,6 @@ Harrisburg1 certified person
 #### Address
 
 * 6235 Warren Ave, Harrisburg, PA
-* ✉ [inspectahomeinc@gmail.com](mailto:inspectahomeinc@gmail.com)
 
 #### Certified individuals
 
@@ -156,7 +147,6 @@ testing #2829
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2829)
 
-[**Call** (717) 540-5970](tel:7175405970)
 
 ### Matteson, Chris
 
@@ -167,8 +157,6 @@ Hershey1 certified person
 #### Address
 
 * 151 W Chocolate Ave, Hershey, PA
-* ✉ [chris@accurateinspecting.com](mailto:chris@accurateinspecting.com)
-* [accurateinspecting.com](https://accurateinspecting.com/)
 
 #### Certified individuals
 
@@ -180,7 +168,6 @@ testing #2337
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2337)
 
-[**Call** (717) 583-2914](tel:7175832914)
 
 ### Biechler, Michael
 
@@ -191,7 +178,6 @@ Middletown1 certified person
 #### Address
 
 * 2466 Roundtop Rd, Middletown, PA
-* ✉ [inspectionsmike@gmail.com](mailto:inspectionsmike@gmail.com)
 
 #### Certified individuals
 
@@ -203,7 +189,6 @@ testing #2102
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2102)
 
-[**Call** (717) 364-0060](tel:7173640060)
 
 ## Which radon labs are in Dauphin County, PA? (1 firm)
 
@@ -216,9 +201,6 @@ Harrisburg2 certified people
 #### Address
 
 * 6951 Allentown Blvd, Harrisburg, PA
-* ✉ [dave@spruce.com](mailto:dave@spruce.com)
-* ✉ [sprice@spruce.com](mailto:sprice@spruce.com)
-* [spruce.com](https://spruce.com/)
 
 #### Certified individuals
 
@@ -231,7 +213,6 @@ lab #1935 · lab #3583
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1935)
 
-[**Call** (717) 274-8310](tel:7172748310)
 
 ## Which counties border Dauphin County, PA?
 

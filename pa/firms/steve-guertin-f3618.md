@@ -1,6 +1,6 @@
 ---
 title: "Steve Guertin: Radon Tester in Erie, PA | Radon Roster"
-description: "Steve Guertin (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Steve Guertin (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/steve-guertin-f3618/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(716) 581-1019](tel:7165811019)
-* Email: [barnowlhomeinspectionsllc@gmail.com](mailto:barnowlhomeinspectionsllc@gmail.com)
 * Address: 2965 Persimmon Dr, Erie, PA
 
 ## PA DEP certification

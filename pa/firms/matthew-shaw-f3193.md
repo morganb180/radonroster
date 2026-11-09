@@ -1,6 +1,6 @@
 ---
 title: "Matthew Shaw: Radon Testing & Mitigation in Pittsfield, PA"
-description: "Matthew Shaw (Pittsfield, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matthew Shaw (Pittsfield, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-shaw-f3193/
 ---
 
@@ -16,8 +16,6 @@ Pittsfield, PA · Warren County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 516-6368](tel:8145166368)
-* Email: [eagleeyeinspection74@gmail.com](mailto:eagleeyeinspection74@gmail.com)
 * Address: 7735 Davey Hill Rd, Pittsfield, PA
 
 ## PA DEP certification

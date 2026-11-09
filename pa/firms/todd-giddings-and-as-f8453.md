@@ -1,6 +1,6 @@
 ---
 title: "Todd Giddings & As: Radon Tester in State College, PA"
-description: "Todd Giddings & As (State College, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Todd Giddings & As (State College, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/todd-giddings-and-as-f8453/
 ---
 
@@ -12,7 +12,6 @@ canonical: https://radonroster.com/pa/firms/todd-giddings-and-as-f8453/
 
 State College, PA · Centre County · 1 certified person
 
-[Call (814) 238-5927](tel:8142385927). This firm can't take quote requests through Radon Roster yet.
 
 ## Google rating
 
@@ -22,7 +21,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 238-5927](tel:8142385927)
 * Address: 3049 Enterprise Drive, State College, PA
 
 ## PA DEP certification

@@ -69,7 +69,6 @@ Alburtis1 certified person
 #### Address
 
 * 11 Timber Dr, Alburtis, PA
-* ✉ [radongone@ymail.com](mailto:radongone@ymail.com)
 
 #### Certified individuals
 
@@ -81,7 +80,6 @@ mitigation #2885
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
 
-[**Call** (484) 547-3496](tel:4845473496)
 
 ### Rogers, Keith
 
@@ -92,7 +90,6 @@ Douglassville1 certified person
 #### Address
 
 * 305 Cameron Dr, Douglassville, PA
-* ✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
 
 #### Certified individuals
 
@@ -104,7 +101,6 @@ mitigation #3540
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
 
-[**Call** (610) 575-2775](tel:6105752775)
 
 ### S. J. Watras Inc
 
@@ -115,7 +111,6 @@ Boyertown1 certified person
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
 
 #### Certified individuals
 
@@ -127,7 +122,6 @@ mitigation #7579
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 ### S. J. Watras, Inc.
 
@@ -138,7 +132,6 @@ Boyertown3 certified people
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
 
 #### Certified individuals
 
@@ -152,7 +145,6 @@ mitigation #1056 · mitigation #1057 · mitigation #7111 · mitigation #7580 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 [See all firms near Reading →](https://radonroster.com/pa/city/reading-pa/)
 

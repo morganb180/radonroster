@@ -1,6 +1,6 @@
 ---
 title: "Stephen Hill: Radon Tester in Windber, PA | Radon Roster"
-description: "Stephen Hill (Windber, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Stephen Hill (Windber, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-hill-f3311/
 ---
 
@@ -16,9 +16,6 @@ Windber, PA · Somerset County · 1 certified person
 
 ## Contact
 
-* Phone: [(833) 445-5776](tel:8334455776)
-* Email: [info@hillinspections.com](mailto:info@hillinspections.com)
-* Website: [https://hillinspections.com/](https://hillinspections.com/)
 * Address: Po Box 213, Windber, PA
 
 ## PA DEP certification

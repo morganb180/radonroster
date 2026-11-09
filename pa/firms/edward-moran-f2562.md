@@ -1,6 +1,6 @@
 ---
 title: "Edward Moran: Radon Tester in Pottsville, PA | Radon Roster"
-description: "Edward Moran (Pottsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Edward Moran (Pottsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/edward-moran-f2562/
 ---
 
@@ -16,8 +16,6 @@ Pottsville, PA · Schuylkill County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 640-8324](tel:5706408324)
-* Email: [emiedhome@gmail.com](mailto:emiedhome@gmail.com)
 * Address: 940 Port Carbon St, Pottsville, PA
 
 ## PA DEP certification

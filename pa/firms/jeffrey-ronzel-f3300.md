@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Ronzel: Radon Tester in Kunkletown, PA"
-description: "Jeffrey Ronzel (Kunkletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jeffrey Ronzel (Kunkletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-ronzel-f3300/
 ---
 
@@ -16,8 +16,6 @@ Kunkletown, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 951-4262](tel:6109514262)
-* Email: [amerispecnepa@gmail.com](mailto:amerispecnepa@gmail.com)
 * Address: 1248 Greenway Ln, Kunkletown, PA
 
 ## PA DEP certification

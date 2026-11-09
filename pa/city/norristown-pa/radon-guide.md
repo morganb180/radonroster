@@ -73,8 +73,6 @@ Green Lane2 certified people
 #### Address
 
 * Po Box 296, Green Lane, PA
-* ✉ [dave@accurateradoncontrol.com](mailto:dave@accurateradoncontrol.com)
-* [accurateradoncontrol.com](https://accurateradoncontrol.com/)
 
 #### Certified individuals
 
@@ -87,7 +85,6 @@ mitigation #2112 · mitigation #2113 · mitigation #7709 · testing #2112
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2112)
 
-[**Call** (215) 541-1557](tel:2155411557)
 
 ### Air Quality Control, Inc.
 
@@ -98,8 +95,6 @@ King Of Prussia1 certified person
 #### Address
 
 * 630 Freedom Business Ctr, King Of Prussia, PA
-* ✉ [roger@aqc-radon.com](mailto:roger@aqc-radon.com)
-* [aqc-radon.com](http://www.aqc-radon.com/)
 
 #### Certified individuals
 
@@ -111,7 +106,6 @@ mitigation #1862
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1862)
 
-[**Call** (610) 239-4212](tel:6102394212)
 
 ### Airotox
 
@@ -122,8 +116,6 @@ Lansdale3 certified people
 #### Address
 
 * 14 E Main St, Lansdale, PA
-* ✉ [info@airotox.com](mailto:info@airotox.com)
-* [airotox.com](https://airotox.com/)
 
 #### Certified individuals
 
@@ -137,7 +129,6 @@ mitigation #2741 · mitigation #3109 · mitigation #7422 · mitigation #7424
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2741)
 
-[**Call** (215) 247-6869](tel:2152476869)
 
 ### Gentry, Timothy J.
 
@@ -148,7 +139,6 @@ Horsham1 certified person
 #### Address
 
 * Po Box 1642, Horsham, PA
-* ✉ [homeinspectiondetective@comcast.net](mailto:homeinspectiondetective@comcast.net)
 
 #### Certified individuals
 
@@ -160,7 +150,6 @@ mitigation #2217 · testing #2217
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2217)
 
-[**Call** (215) 672-8529](tel:2156728529)
 
 ### Radon Technology & Enviromental Inc
 
@@ -171,7 +160,6 @@ Royersford5 certified people
 #### Address
 
 * 828 Oak St, Royersford, PA
-* ✉ [info@wefixradon.com](mailto:info@wefixradon.com)
 
 #### Certified individuals
 
@@ -187,7 +175,6 @@ mitigation #1308 · mitigation #3024 · mitigation #7047 · mitigation #7364 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1308)
 
-[**Call** (610) 495-2810](tel:6104952810)
 
 ### Radon-Rid LLC
 
@@ -198,8 +185,6 @@ Phoenixville1 certified person
 #### Address
 
 * 693 Egypt Rd, Phoenixville, PA
-* ✉ [info@radonrid.com](mailto:info@radonrid.com)
-* [radonrid.com](https://www.radonrid.com/)
 
 #### Certified individuals
 
@@ -211,7 +196,6 @@ mitigation #2585 · mitigation #2586 · testing #2585
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2585)
 
-[**Call** (610) 222-2273](tel:6102222273)
 
 [See all firms near Norristown →](https://radonroster.com/pa/city/norristown-pa/)
 

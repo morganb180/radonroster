@@ -1,6 +1,6 @@
 ---
 title: "Keith Rogers: Radon Mitigator in Douglassville, PA"
-description: "Keith Rogers (Douglassville, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Keith Rogers (Douglassville, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/keith-rogers-f3540/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 575-2775](tel:6105752775)
-* Email: [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
 * Address: 305 Cameron Dr, Douglassville, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Milford1 certified person
 #### Address
 
 * 413 Long Meadow Rd, Milford, PA
-* ✉ [randykn@ptd.net](mailto:randykn@ptd.net)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #1880
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1880)
 
-[**Call** (570) 828-2790](tel:5708282790)
 
 ## Where can I get radon testing in Pike County, PA? (6 firms)
 
@@ -72,7 +70,6 @@ Dingmans Ferry1 certified person
 #### Address
 
 * 145 Fox Rd, Dingmans Ferry, PA
-* ✉ [info@minoguehomeinspections.com](mailto:info@minoguehomeinspections.com)
 
 #### Certified individuals
 
@@ -84,7 +81,6 @@ testing #3495
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3495)
 
-[**Call** (646) 269-1986](tel:6462691986)
 
 ### Precise Home
 
@@ -95,7 +91,6 @@ Hawley1 certified person
 #### Address
 
 * 2901 Hemlock Farms, Hawley, PA
-* ✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
 
 #### Certified individuals
 
@@ -107,7 +102,6 @@ testing #2189
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2189)
 
-[**Call** (917) 279-6725](tel:9172796725)
 
 ### Precise Home Inspections, LLC
 
@@ -118,7 +112,6 @@ Lords Valley1 certified person
 #### Address
 
 * 2901 Hemlock Farms, Lords Valley, PA
-* ✉ [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
 
 #### Certified individuals
 
@@ -130,7 +123,6 @@ testing #2817 · testing #8715
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2817)
 
-[**Call** (917) 279-6725](tel:9172796725)
 
 ### Cline, Matthew
 
@@ -141,7 +133,6 @@ Matamoras1 certified person
 #### Address
 
 * 310 Avenue G, Matamoras, PA
-* ✉ [ateasehomeinspectionllc@gmail.com](mailto:ateasehomeinspectionllc@gmail.com)
 
 #### Certified individuals
 
@@ -153,7 +144,6 @@ testing #3508
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3508)
 
-[**Call** (973) 981-6665](tel:9739816665)
 
 ### Nova Group, Gbc
 
@@ -164,9 +154,6 @@ Shohola6 certified people
 #### Address
 
 * 700 Route 6, Suite 1, Shohola, PA
-* ✉ [anthony.galasso@novagroupgbc.com](mailto:anthony.galasso@novagroupgbc.com)
-* ✉ [madeline.wroblewski@novagroupgbc.com](mailto:madeline.wroblewski@novagroupgbc.com)
-* [novagroupgbc.com](https://www.novagroupgbc.com/)
 
 #### Certified individuals
 
@@ -183,7 +170,6 @@ testing #3551 · testing #3634 · testing #3635 · testing #9061 · testing #914
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3551)
 
-[**Call** (570) 786-1031](tel:5707861031)
 
 ### Moraski, Ronald
 
@@ -194,7 +180,6 @@ Tafton1 certified person
 #### Address
 
 * 104 Deer Path, Tafton, PA
-* ✉ [aspispros@gmail.com](mailto:aspispros@gmail.com)
 
 #### Certified individuals
 
@@ -206,7 +191,6 @@ testing #3236
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3236)
 
-[**Call** (570) 290-7629](tel:5702907629)
 
 ## Which counties border Pike County, PA?
 

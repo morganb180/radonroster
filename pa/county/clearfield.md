@@ -45,8 +45,6 @@ Dubois1 certified person
 #### Address
 
 * 823 W Weber Ave, Dubois, PA
-* ✉ [troy@millstonehomeinspections.com](mailto:troy@millstonehomeinspections.com)
-* [millstonehomeinspections.com](https://millstonehomeinspections.com/)
 
 #### Certified individuals
 
@@ -58,7 +56,6 @@ testing #3167
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3167)
 
-[**Call** (814) 771-7737](tel:8147717737)
 
 ## Which counties border Clearfield County, PA?
 

@@ -45,7 +45,6 @@ Conneaut Lake1 certified person
 #### Address
 
 * 11863 Lake Dr, Conneaut Lake, PA
-* ✉ [wlwhiting@gmail.com](mailto:wlwhiting@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #2630
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2630)
 
-[**Call** (814) 720-5748](tel:8147205748)
 
 ### King, Shawn
 
@@ -68,7 +66,6 @@ Meadville1 certified person
 #### Address
 
 * 21256 Devore Rd, Meadville, PA
-* ✉ [resteasyhomeinsp@gmail.com](mailto:resteasyhomeinsp@gmail.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ testing #3591
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3591)
 
-[**Call** (814) 758-6413](tel:8147586413)
 
 ### Mangus, Benjamin
 
@@ -91,7 +87,6 @@ Meadville1 certified person
 #### Address
 
 * 13520 Smith Cemetery Rd, Meadville, PA
-* ✉ [mangusinspect@hotmail.com](mailto:mangusinspect@hotmail.com)
 
 #### Certified individuals
 
@@ -103,7 +98,6 @@ testing #3112
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3112)
 
-[**Call** (814) 720-3053](tel:8147203053)
 
 ## Which counties border Crawford County, PA?
 

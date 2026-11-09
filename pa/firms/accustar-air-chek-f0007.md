@@ -1,6 +1,6 @@
 ---
 title: "Accustar / Air Chek: Radon Lab in Mills River, NC"
-description: "Accustar / Air Chek (Mills River, NC) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Accustar / Air Chek (Mills River, NC) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/accustar-air-chek-f0007/
 ---
 
@@ -16,9 +16,6 @@ Mills River, NC · 1 certified person
 
 ## Contact
 
-* Phone: [(828) 684-0893](tel:8286840893)
-* Email: [jkaplan@accustarlabs.com;radonlab@accustarlabs.com](mailto:jkaplan@accustarlabs.com;radonlab@accustarlabs.com)
-* Website: [https://accustarlabs.com/](https://accustarlabs.com/)
 * Address: 1936 Butler Bridge Rd, Mills River, NC
 
 ## PA DEP certification

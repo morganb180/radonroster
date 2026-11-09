@@ -1,6 +1,6 @@
 ---
 title: "Bednar, Jr., Michael: Radon Tester in Springfield, PA"
-description: "Bednar, Jr., Michael (Springfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Bednar, Jr., Michael (Springfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/bednar-jr-michael-f3740/
 ---
 
@@ -14,8 +14,6 @@ Springfield, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 710-9450](tel:6107109450)
-* Email: [ecs_pa@hotmail.com](mailto:ecs_pa@hotmail.com)
 * Address: 265 Hemlock Ln, Springfield, PA
 
 ## PA DEP certification

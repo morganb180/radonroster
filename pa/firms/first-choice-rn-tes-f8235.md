@@ -1,6 +1,6 @@
 ---
 title: "First Choice Rn Tes: Radon Tester in Huntingdon Valle, PA"
-description: "First Choice Rn Tes (Huntingdon Valle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "First Choice Rn Tes (Huntingdon Valle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/first-choice-rn-tes-f8235/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 947-1995](tel:2159471995)
-* Email: [firstchoiceinspection@comcast.net](mailto:firstchoiceinspection@comcast.net)
 * Address: Po Box 830, Huntingdon Valle, PA
 
 ## PA DEP certification

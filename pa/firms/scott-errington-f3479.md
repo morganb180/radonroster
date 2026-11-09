@@ -1,6 +1,6 @@
 ---
 title: "Scott Errington: Radon Tester in Phoenixville, PA"
-description: "Scott Errington (Phoenixville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Scott Errington (Phoenixville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/scott-errington-f3479/
 ---
 
@@ -16,8 +16,6 @@ Phoenixville, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 656-1085](tel:6106561085)
-* Email: [serrington44@gmail.com](mailto:serrington44@gmail.com)
 * Address: 128 Sheeder Rd, Phoenixville, PA
 
 ## PA DEP certification

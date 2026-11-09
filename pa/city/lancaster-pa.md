@@ -51,8 +51,6 @@ Lancaster2 certified people
 #### Address
 
 * 2105 W Ridge Dr, Lancaster, PA
-* ✉ [bill@preciseinspecting.com](mailto:bill@preciseinspecting.com)
-* [preciseinspecting.com](https://www.preciseinspecting.com/)
 
 #### Certified individuals
 
@@ -65,7 +63,6 @@ testing #3295 · testing #3445 · testing #8900
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3295)
 
-[**Call** (717) 808-5997](tel:7178085997)
 
 ## Which other certified radon firms are in Lancaster County? (8)
 
@@ -86,7 +83,6 @@ Akron2 certified people
 #### Address
 
 * Po Box 91, Akron, PA
-* ✉ [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
 
 #### Certified individuals
 
@@ -99,7 +95,6 @@ mitigation #0565 · mitigation #3058 · mitigation #7582
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0565)
 
-[**Call** (717) 859-6996](tel:7178596996)
 
 ### Fritsch, Andrew
 
@@ -110,8 +105,6 @@ Ephrata1 certified person
 #### Address
 
 * 110 S Line Rd, Ephrata, PA
-* ✉ [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)
-* [bauderbasement.com](https://bauderbasement.com/)
 
 #### Certified individuals
 
@@ -123,7 +116,6 @@ mitigation #3541
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3541)
 
-[**Call** (717) 949-2011](tel:7179492011)
 
 ### Jk Mechanical Inc
 
@@ -134,9 +126,6 @@ Willow Street3 certified people
 #### Address
 
 * 202 W Kendig Rd, Willow Street, PA
-* ✉ [bshimp@jkmechanical.com](mailto:bshimp@jkmechanical.com)
-* ✉ [serivce@jkmechanical.com](mailto:serivce@jkmechanical.com)
-* [jkmechanical.com](https://www.jkmechanical.com/)
 
 #### Certified individuals
 
@@ -150,7 +139,6 @@ mitigation #3747 · mitigation #3748 · mitigation #7729 · mitigation #7730 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3747)
 
-[**Call** (717) 464-0111](tel:7174640111)
 
 ## Where else can I get radon testing in Lancaster County? (5 firms)
 
@@ -163,7 +151,6 @@ Elizabethtown1 certified person
 #### Address
 
 * 106 Canvasback Lane, Elizabethtown, PA
-* ✉ [mgmuehling@gmail.com](mailto:mgmuehling@gmail.com)
 
 #### Certified individuals
 
@@ -175,7 +162,6 @@ testing #2795
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2795)
 
-[**Call** (717) 330-5658](tel:7173305658)
 
 ### Carrozza, Jr., Anthony
 
@@ -186,7 +172,6 @@ Mount Joy1 certified person
 #### Address
 
 * 770 Fairview Rd, Mount Joy, PA
-* ✉ [acarrozza369@comcast.net](mailto:acarrozza369@comcast.net)
 
 #### Certified individuals
 
@@ -198,7 +183,6 @@ testing #2858
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2858)
 
-[**Call** (717) 490-1126](tel:7174901126)
 
 ### Risk, Douglas
 
@@ -209,7 +193,6 @@ Peach Bottom1 certified person
 #### Address
 
 * 230 Haines Station Rd, Peach Bottom, PA
-* ✉ [dcrhomeinspection@gmail.com](mailto:dcrhomeinspection@gmail.com)
 
 #### Certified individuals
 
@@ -221,7 +204,6 @@ testing #3599
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3599)
 
-[**Call** (717) 519-7845](tel:7175197845)
 
 ### Schmidt Iii, Wolfgang
 
@@ -232,7 +214,6 @@ Quarryville1 certified person
 #### Address
 
 * 335 Camargo Rd, Quarryville, PA
-* ✉ [alliedhomeinspect@gmail.com](mailto:alliedhomeinspect@gmail.com)
 
 #### Certified individuals
 
@@ -244,7 +225,6 @@ testing #3743
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3743)
 
-[**Call** (717) 290-6777](tel:7172906777)
 
 ### Angelucci, Thomas
 
@@ -255,8 +235,6 @@ Stevens1 certified person
 #### Address
 
 * 424 E Church St, Stevens, PA
-* ✉ [tom@inspectmyhomenow.com](mailto:tom@inspectmyhomenow.com)
-* [amerisurehomeinspection.com](https://www.amerisurehomeinspection.com/)
 
 #### Certified individuals
 
@@ -268,7 +246,6 @@ testing #3283
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3283)
 
-[**Call** (717) 413-4582](tel:7174134582)
 
 ## Which radon mitigation firms near Lancaster are in neighboring counties? (17)
 
@@ -283,7 +260,6 @@ Alburtis1 certified person
 #### Address
 
 * 11 Timber Dr, Alburtis, PA
-* ✉ [radongone@ymail.com](mailto:radongone@ymail.com)
 
 #### Certified individuals
 
@@ -295,7 +271,6 @@ mitigation #2885
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
 
-[**Call** (484) 547-3496](tel:4845473496)
 
 ### Rogers, Keith
 
@@ -306,7 +281,6 @@ Douglassville1 certified person
 #### Address
 
 * 305 Cameron Dr, Douglassville, PA
-* ✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
 
 #### Certified individuals
 
@@ -318,7 +292,6 @@ mitigation #3540
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
 
-[**Call** (610) 575-2775](tel:6105752775)
 
 ### S. J. Watras Inc
 
@@ -329,7 +302,6 @@ Boyertown1 certified person
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
 
 #### Certified individuals
 
@@ -341,7 +313,6 @@ mitigation #7579
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 ### S. J. Watras, Inc.
 
@@ -352,7 +323,6 @@ Boyertown3 certified people
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
 
 #### Certified individuals
 
@@ -366,7 +336,6 @@ mitigation #1056 · mitigation #1057 · mitigation #7111 · mitigation #7580 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 ### Conrad, Spencer
 
@@ -377,7 +346,6 @@ Phoenixville1 certified person
 #### Address
 
 * 116 Gay Street #186, Phoenixville, PA
-* ✉ [spencerconradinspect@gmail.com](mailto:spencerconradinspect@gmail.com)
 
 #### Certified individuals
 
@@ -389,7 +357,6 @@ mitigation #3020 · testing #3020
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3020)
 
-[**Call** (570) 573-8159](tel:5705738159)
 
 ### Gutridge Inspections
 
@@ -400,8 +367,6 @@ Pottstown1 certified person
 #### Address
 
 * 1614 Laurelwood Rd, Pottstown, PA
-* ✉ [office@gutridgeinspections.com](mailto:office@gutridgeinspections.com)
-* [gutridgeinspections.com](https://www.gutridgeinspections.com/)
 
 #### Certified individuals
 
@@ -413,7 +378,6 @@ mitigation #2973 · testing #2973
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2973)
 
-[**Call** (610) 385-3339](tel:6103853339)
 
 ### Safe Shelter Environmental
 
@@ -424,8 +388,6 @@ West Chester6 certified people
 #### Address
 
 * 7 S Wayne St, West Chester, PA
-* ✉ [joe@safeshelter.com](mailto:joe@safeshelter.com)
-* [safeshelter.com](https://safeshelter.com/)
 
 #### Certified individuals
 
@@ -442,7 +404,6 @@ mitigation #0207 · mitigation #3525 · mitigation #7713 · mitigation #7714 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0207)
 
-[**Call** (610) 594-0350](tel:6105940350)
 
 ### Enviroquest, Inc.
 
@@ -453,7 +414,6 @@ Harrisburg4 certified people
 #### Address
 
 * 1738 N 3Rd St Ste A, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -468,7 +428,6 @@ mitigation #1512 · mitigation #1725 · mitigation #7227 · mitigation #7516 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1512)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Enviroquest, Inc.
 
@@ -479,7 +438,6 @@ Harrisburg1 certified person
 #### Address
 
 * 1738 N. 3Rd St, Harrisburg, PA
-* ✉ [evq@comcast.net](mailto:evq@comcast.net)
 
 #### Certified individuals
 
@@ -491,7 +449,6 @@ mitigation #7458
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7458)
 
-[**Call** (717) 233-6144](tel:7172336144)
 
 ### Radon, Joseph
 
@@ -502,7 +459,6 @@ Harrisburg1 certified person
 #### Address
 
 * 400 Market St, Harrisburg, PA
-* ✉ [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
 
 #### Certified individuals
 
@@ -514,7 +470,6 @@ mitigation #1234 · testing #1234
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1234)
 
-[**Call** (717) 425-5365](tel:7174255365)
 
 ### Sipe, Steven
 
@@ -525,7 +480,6 @@ Halifax1 certified person
 #### Address
 
 * 69 Million Dollar Rd, Halifax, PA
-* ✉ [csinspect@comcast.net](mailto:csinspect@comcast.net)
 
 #### Certified individuals
 
@@ -537,7 +491,6 @@ mitigation #3287 · testing #3287
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3287)
 
-[**Call** (717) 425-0989](tel:7174250989)
 
 ### M Webster Construction Inc
 
@@ -548,9 +501,6 @@ Lebanon3 certified people
 #### Address
 
 * 805 Pershing St, Lebanon, PA
-* ✉ [mark@mwebsterconstruction.com](mailto:mark@mwebsterconstruction.com)
-* ✉ [mike@mwebsterconstruction.com](mailto:mike@mwebsterconstruction.com)
-* [mwebsterconstruction.com](https://mwebsterconstruction.com/)
 
 #### Certified individuals
 
@@ -564,7 +514,6 @@ mitigation #2948 · mitigation #3064 · mitigation #7308 · mitigation #7309 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2948)
 
-[**Call** (717) 274-3158](tel:7172743158)
 
 ### Verna, Sr., Edward
 
@@ -575,7 +524,6 @@ Lebanon1 certified person
 #### Address
 
 * 1703 S 5Th Ave, Lebanon, PA
-* ✉ [radonreductionsystems@gmail.com](mailto:radonreductionsystems@gmail.com)
 
 #### Certified individuals
 
@@ -587,7 +535,6 @@ mitigation #2231
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2231)
 
-[**Call** (717) 274-2541](tel:7172742541)
 
 ### Absolute Radon Mitigation, LLC
 
@@ -598,8 +545,6 @@ York2 certified people
 #### Address
 
 * 800 Locust Grove Rd, York, PA
-* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
-* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
 
 #### Certified individuals
 
@@ -612,7 +557,6 @@ mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
 
-[**Call** (717) 755-5398](tel:7177555398)
 
 ### Levine, Seymour
 
@@ -623,7 +567,6 @@ New Cumberland1 certified person
 #### Address
 
 * 198 Rose Hill Dr, New Cumberland, PA
-* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
 
 #### Certified individuals
 
@@ -635,7 +578,6 @@ mitigation #2735 · testing #2735
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
 
-[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
@@ -646,7 +588,6 @@ Wellsville1 certified person
 #### Address
 
 * 247 Mine Bank Rd, Wellsville, PA
-* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
 
 #### Certified individuals
 
@@ -658,7 +599,6 @@ mitigation #1800 · testing #1800
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
 
-[**Call** (717) 432-9575](tel:7174329575)
 
 ## Lancaster County radon test data
 

@@ -67,7 +67,6 @@ Crum Lynne1 certified person
 #### Address
 
 * 512 Smiley St, Crum Lynne, PA
-* ✉ [golinchak@aol.com](mailto:golinchak@aol.com)
 
 #### Certified individuals
 
@@ -79,7 +78,6 @@ mitigation #3003
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3003)
 
-[**Call** (610) 909-4356](tel:6109094356)
 
 [See all firms near Media →](https://radonroster.com/pa/city/media-pa/)
 

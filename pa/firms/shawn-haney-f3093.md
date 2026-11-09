@@ -1,6 +1,6 @@
 ---
 title: "Shawn Haney: Radon Tester in Wrightsville, PA | Radon Roster"
-description: "Shawn Haney (Wrightsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Shawn Haney (Wrightsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-haney-f3093/
 ---
 
@@ -16,8 +16,6 @@ Wrightsville, PA · York County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 808-2551](tel:7178082551)
-* Email: [sj.haney@hotmail.com](mailto:sj.haney@hotmail.com)
 * Address: 320 Walnut St., Wrightsville, PA
 
 ## PA DEP certification

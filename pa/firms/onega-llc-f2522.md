@@ -1,6 +1,6 @@
 ---
 title: "Onega LLC (F2522): Radon Tester in Harmony, PA"
-description: "Onega LLC (100 Rylie Dr, Harmony, PA, F2522) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Onega LLC (100 Rylie Dr, Harmony, PA, F2522) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/onega-llc-f2522/
 ---
 
@@ -14,8 +14,6 @@ Harmony, PA · Butler County · Certified firm
 
 ## Contact
 
-* Phone: [(724) 452-5025](tel:7244525025)
-* Email: [ronega@zoominternet.net](mailto:ronega@zoominternet.net)
 * Address: 100 Rylie Dr, Harmony, PA
 
 ## PA DEP certification

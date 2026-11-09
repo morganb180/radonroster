@@ -1,6 +1,6 @@
 ---
 title: "Dale Metzger: Radon Mitigator in Macungie, PA | Radon Roster"
-description: "Dale Metzger (Macungie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Dale Metzger (Macungie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dale-metzger-f2921/
 ---
 
@@ -16,8 +16,6 @@ Macungie, PA · Lehigh County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 903-1182](tel:4849031182)
-* Email: [dalemtzgr@yahoo.com](mailto:dalemtzgr@yahoo.com)
 * Address: 3450 Lurman Dr, Macungie, PA
 
 ## PA DEP certification

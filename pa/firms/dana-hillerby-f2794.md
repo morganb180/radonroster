@@ -1,6 +1,6 @@
 ---
 title: "Dana Hillerby: Radon Tester in Hatfield, PA | Radon Roster"
-description: "Dana Hillerby (Hatfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dana Hillerby (Hatfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dana-hillerby-f2794/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 627-2252](tel:2676272252)
-* Email: [dhillerby@verizon.net](mailto:dhillerby@verizon.net)
 * Address: 237 Mill Rd, Hatfield, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "D-Tech, Inc.: Radon Tester in Blue Bell, PA | Radon Roster"
-description: "D-Tech, Inc. (Blue Bell, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "D-Tech, Inc. (Blue Bell, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/d-tech-inc-f0317/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 233-5888](tel:2152335888)
-* Email: [greg@d-techinc.com](mailto:greg@d-techinc.com)
-* Website: [https://d-techinc.com/](https://d-techinc.com/)
 * Address: Po Box 902, Blue Bell, PA
 
 ## PA DEP certification

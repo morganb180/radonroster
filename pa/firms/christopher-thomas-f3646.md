@@ -1,6 +1,6 @@
 ---
 title: "Christopher Thomas: Radon Tester in Greensburg, PA"
-description: "Christopher Thomas (Greensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Christopher Thomas (Greensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/christopher-thomas-f3646/
 ---
 
@@ -16,8 +16,6 @@ Greensburg, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 836-0328](tel:7248360328)
-* Email: [chris@a-ztech.us](mailto:chris@a-ztech.us)
 * Address: 640 Keystone St, Greensburg, PA
 
 ## PA DEP certification

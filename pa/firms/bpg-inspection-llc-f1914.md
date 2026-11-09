@@ -1,6 +1,6 @@
 ---
 title: "Bpg Inspection, LLC: Radon Tester in Easton, PA"
-description: "Bpg Inspection, LLC (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Bpg Inspection, LLC (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/bpg-inspection-llc-f1914/
 ---
 
@@ -14,8 +14,6 @@ Easton, PA · Northampton County · 8 certified people
 
 ## Contact
 
-* Phone: [(610) 417-0763](tel:6104170763)
-* Email: [larry@integrityinspection.com](mailto:larry@integrityinspection.com)
 * Address: 2305 Lone Cedar Dr, Easton, PA
 
 ## PA DEP certification

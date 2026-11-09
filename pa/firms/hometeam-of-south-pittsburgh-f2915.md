@@ -1,6 +1,6 @@
 ---
 title: "Hometeam Of South Pittsburgh: Radon Tester in Springdale, PA"
-description: "Hometeam Of South Pittsburgh (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Hometeam Of South Pittsburgh (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/hometeam-of-south-pittsburgh-f2915/
 ---
 
@@ -14,8 +14,6 @@ Springdale, PA · Allegheny County · 4 certified people
 
 ## Contact
 
-* Phone: [(412) 461-8273](tel:4124618273)
-* Email: [mfoglia@hometeam.com;southpittsburgh@hometeam.com](mailto:mfoglia@hometeam.com;southpittsburgh@hometeam.com)
 * Address: 441 Butler Rd, Springdale, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Watsontown1 certified person
 #### Address
 
 * 527 Fisher Dr, Watsontown, PA
-* ✉ [tallgaryb@yahoo.com](mailto:tallgaryb@yahoo.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3501
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3501)
 
-[**Call** (570) 538-1490](tel:5705381490)
 
 ## Which counties border Northumberland County, PA?
 

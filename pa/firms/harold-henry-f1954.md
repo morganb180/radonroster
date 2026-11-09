@@ -1,6 +1,6 @@
 ---
 title: "Harold Henry: Radon Tester in Erie, PA | Radon Roster"
-description: "Harold Henry (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Harold Henry (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/harold-henry-f1954/
 ---
 
@@ -16,8 +16,6 @@ Erie, PA · Erie County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 881-3413](tel:8148813413)
-* Email: [henryswildlife@gmail.com](mailto:henryswildlife@gmail.com)
 * Address: 2103 Rudolph Ave, Erie, PA
 
 ## PA DEP certification

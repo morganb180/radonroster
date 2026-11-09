@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 375-1700](tel:7243751700)
-* Email: [contact@radondetectionandcontrol.com](mailto:contact@radondetectionandcontrol.com)
 * Address: Po Box 419, South Heights, PA
 
 ## PA DEP certification

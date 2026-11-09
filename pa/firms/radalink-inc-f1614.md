@@ -1,6 +1,6 @@
 ---
 title: "Radalink, Inc.: Radon Lab in Atlanta, GA | Radon Roster"
-description: "Radalink, Inc. (Atlanta, GA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Radalink, Inc. (Atlanta, GA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/radalink-inc-f1614/
 ---
 
@@ -24,9 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(770) 457-1944](tel:7704571944)
-* Email: [thowell@radalink.com](mailto:thowell@radalink.com)
-* Website: [https://radalink.com/](https://radalink.com/)
 * Address: 5599 Peachtree Rd, Atlanta, GA
 
 ## PA DEP certification

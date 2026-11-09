@@ -1,6 +1,6 @@
 ---
 title: "Ardinger, Ii, Clifford: Radon Tester in Coraopolis, PA"
-description: "Ardinger, Ii, Clifford (Coraopolis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ardinger, Ii, Clifford (Coraopolis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ardinger-ii-clifford-f2890/
 ---
 
@@ -26,8 +26,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 526-6250](tel:4125266250)
-* Email: [5starinspectionspa@gmail.com](mailto:5starinspectionspa@gmail.com)
 * Address: 101 Bertley Ridge Dr, Coraopolis, PA
 
 ## PA DEP certification

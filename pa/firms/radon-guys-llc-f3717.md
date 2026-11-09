@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 212-9870](tel:5702129870)
-* Email: [daniel@radonguysllc.com](mailto:daniel@radonguysllc.com)
-* Website: [https://www.radonguysllc.com/](https://www.radonguysllc.com/)
 * Address: 714 Bowersox Rd, Middleburg, PA
 
 ## PA DEP certification

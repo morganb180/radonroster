@@ -1,6 +1,6 @@
 ---
 title: "Michael Parenti: Radon Mitigator in Erie, PA | Radon Roster"
-description: "Michael Parenti (Erie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Parenti (Erie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-parenti-f3016/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 873-4900](tel:8148734900)
-* Email: [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
 * Address: 3811 W Lake Rd, Erie, PA
 
 ## PA DEP certification

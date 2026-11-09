@@ -1,6 +1,6 @@
 ---
 title: "Marc Shanley: Radon Tester in Kunkletown, PA | Radon Roster"
-description: "Marc Shanley (Kunkletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Marc Shanley (Kunkletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/marc-shanley-f2172/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 681-4012](tel:6106814012)
-* Email: [trinity9@ptd.net](mailto:trinity9@ptd.net)
 * Address: 55 Country Acres Dr, Kunkletown, PA
 
 ## PA DEP certification

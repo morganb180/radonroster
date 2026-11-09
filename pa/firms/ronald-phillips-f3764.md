@@ -1,6 +1,6 @@
 ---
 title: "Ronald Phillips: Radon Tester in New Castle, PA"
-description: "Ronald Phillips (New Castle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ronald Phillips (New Castle, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-phillips-f3764/
 ---
 
@@ -16,8 +16,6 @@ New Castle, PA · Lawrence County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 714-4502](tel:7247144502)
-* Email: [firstdefense26@gmail.com](mailto:firstdefense26@gmail.com)
 * Address: 3003 N Mercer Street Ext, New Castle, PA
 
 ## PA DEP certification

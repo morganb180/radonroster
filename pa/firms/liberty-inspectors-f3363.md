@@ -1,6 +1,6 @@
 ---
 title: "Liberty Inspectors: Radon Tester in North Huntingdon, PA"
-description: "Liberty Inspectors (North Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Liberty Inspectors (North Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/liberty-inspectors-f3363/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 303-8588](tel:4123038588)
-* Email: [info@libertyinspectors.com](mailto:info@libertyinspectors.com)
-* Website: [https://libertyinspectors.com/](https://libertyinspectors.com/)
 * Address: 2460 Devlin Ct, North Huntingdon, PA
 
 ## PA DEP certification

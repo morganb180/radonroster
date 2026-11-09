@@ -1,6 +1,6 @@
 ---
 title: "Daniel Keogh: Radon Tester in Phoenixville, PA"
-description: "Daniel Keogh (Phoenixville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Daniel Keogh (Phoenixville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/daniel-keogh-f2109/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 450-6056](tel:6104506056)
-* Email: [sunlightinspect@gmail.com](mailto:sunlightinspect@gmail.com)
 * Address: 590 Sandra Ln, Phoenixville, PA
 
 ## PA DEP certification

@@ -45,8 +45,6 @@ Aliquippa2 certified people
 #### Address
 
 * 121 Cottonwood Dr, Aliquippa, PA
-* ✉ [radonpros@alpharadonllc.com](mailto:radonpros@alpharadonllc.com)
-* [alpharadonllc.com](https://alpharadonllc.com/)
 
 #### Certified individuals
 
@@ -59,7 +57,6 @@ mitigation #3322 · testing #3321
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3321)
 
-[**Call** (724) 480-5828](tel:7244805828)
 
 ### Muller, Paul
 
@@ -70,7 +67,6 @@ Freedom1 certified person
 #### Address
 
 * 156 Ridge Ave, Freedom, PA
-* ✉ [pwmuller1127@yahoo.com](mailto:pwmuller1127@yahoo.com)
 
 #### Certified individuals
 
@@ -82,7 +78,6 @@ mitigation #3326
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3326)
 
-[**Call** (412) 585-0217](tel:4125850217)
 
 ### Radon Detection And Control
 
@@ -93,7 +88,6 @@ South Heights15 certified people
 #### Address
 
 * Po Box 419, South Heights, PA
-* ✉ [contact@radondetectionandcontrol.com](mailto:contact@radondetectionandcontrol.com)
 
 #### Certified individuals
 
@@ -119,7 +113,6 @@ mitigation #0492 · mitigation #0493 · mitigation #3027 · mitigation #7089 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0492)
 
-[**Call** (724) 375-1700](tel:7243751700)
 
 ## Where can I get radon testing in Beaver County, PA? (3 firms)
 
@@ -134,7 +127,6 @@ Baden1 certified person
 #### Address
 
 * 368 Wayne St, Baden, PA
-* ✉ [propertyinspections360@yahoo.com](mailto:propertyinspections360@yahoo.com)
 
 #### Certified individuals
 
@@ -146,7 +138,6 @@ testing #3412
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3412)
 
-[**Call** (724) 513-4650](tel:7245134650)
 
 ### Funkhouser, Erik
 
@@ -157,7 +148,6 @@ Beaver Falls1 certified person
 #### Address
 
 * 145 Dehaven Rd, Beaver Falls, PA
-* ✉ [erikfunkhouser@yahoo.com](mailto:erikfunkhouser@yahoo.com)
 
 #### Certified individuals
 
@@ -169,7 +159,6 @@ testing #2980
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2980)
 
-[**Call** (724) 513-7618](tel:7245137618)
 
 ### J.L. Camp Inspection
 
@@ -182,7 +171,6 @@ Monaca1 certified person
 #### Address
 
 * 6006 Forest Dr, Monaca, PA
-* ✉ [tom@jlcampinspections.com](mailto:tom@jlcampinspections.com)
 
 #### Certified individuals
 
@@ -194,7 +182,6 @@ testing #8337
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8337)
 
-[**Call** (724) 495-2331](tel:7244952331)
 
 ## Which counties border Beaver County, PA?
 

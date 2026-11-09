@@ -1,6 +1,6 @@
 ---
 title: "Rjh Radon Mitigation Inc: Radon Mitigator in Akron, PA"
-description: "Rjh Radon Mitigation Inc (Akron, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Rjh Radon Mitigation Inc (Akron, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rjh-radon-mitigation-inc-f0565/
 ---
 
@@ -24,8 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 859-6996](tel:7178596996)
-* Email: [rjhradonpa@gmail.com](mailto:rjhradonpa@gmail.com)
 * Address: Po Box 91, Akron, PA
 
 ## PA DEP certification

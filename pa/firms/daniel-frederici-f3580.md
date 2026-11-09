@@ -1,6 +1,6 @@
 ---
 title: "Daniel Frederici: Radon Tester in Forest City, PA"
-description: "Daniel Frederici (Forest City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Daniel Frederici (Forest City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/daniel-frederici-f3580/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 878-3108](tel:5708783108)
-* Email: [bbhi1004@outlook.com](mailto:bbhi1004@outlook.com)
 * Address: 395 Brace Brook Rd, Forest City, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Mary Ann Saenz: Radon Tester in Downingtown, PA"
-description: "Mary Ann Saenz (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Mary Ann Saenz (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/mary-ann-saenz-f3589/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 960-5895](tel:6109605895)
-* Email: [sismoldinspections@gmail.com](mailto:sismoldinspections@gmail.com)
 * Address: 1172 Skelp Level Rd, Downingtown, PA
 
 ## PA DEP certification

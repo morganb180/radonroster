@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 656-0090](tel:7246560090)
-* Email: [jitaliano@lccap.org](mailto:jitaliano@lccap.org)
-* Website: [https://lccap.org/](https://lccap.org/)
 * Address: 241 W Grant St, New Castle, PA
 
 ## PA DEP certification

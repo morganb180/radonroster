@@ -1,6 +1,6 @@
 ---
 title: "Gary Barclay: Radon Tester in Watsontown, PA | Radon Roster"
-description: "Gary Barclay (Watsontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Gary Barclay (Watsontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/gary-barclay-f3501/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 538-1490](tel:5705381490)
-* Email: [tallgaryb@yahoo.com](mailto:tallgaryb@yahoo.com)
 * Address: 527 Fisher Dr, Watsontown, PA
 
 ## PA DEP certification

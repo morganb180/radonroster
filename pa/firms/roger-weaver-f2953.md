@@ -1,6 +1,6 @@
 ---
 title: "Roger Weaver: Radon Tester in Wilmington, DE | Radon Roster"
-description: "Roger Weaver (Wilmington, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Roger Weaver (Wilmington, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/roger-weaver-f2953/
 ---
 
@@ -16,8 +16,6 @@ Wilmington, DE · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 436-5988](tel:5704365988)
-* Email: [roger@a1homeinspectionllc.com](mailto:roger@a1homeinspectionllc.com)
 * Address: 213 Dakota Ave, Wilmington, DE
 
 ## PA DEP certification

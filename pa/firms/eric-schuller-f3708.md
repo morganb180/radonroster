@@ -1,6 +1,6 @@
 ---
 title: "Eric Schuller: Radon Tester in Johnstown, PA | Radon Roster"
-description: "Eric Schuller (Johnstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Eric Schuller (Johnstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-schuller-f3708/
 ---
 
@@ -16,8 +16,6 @@ Johnstown, PA · Cambria County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 242-4259](tel:8142424259)
-* Email: [uncleerc@gmail.com](mailto:uncleerc@gmail.com)
 * Address: 337 Russell Ave, Johnstown, PA
 
 ## PA DEP certification

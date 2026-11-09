@@ -1,6 +1,6 @@
 ---
 title: "Mathew Blank: Radon Mitigator in Trafford, PA | Radon Roster"
-description: "Mathew Blank (Trafford, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Mathew Blank (Trafford, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/mathew-blank-f3696/
 ---
 
@@ -16,8 +16,6 @@ Trafford, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 515-9414](tel:7245159414)
-* Email: [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
 * Address: 120 Loyola Ln, Trafford, PA
 
 ## PA DEP certification

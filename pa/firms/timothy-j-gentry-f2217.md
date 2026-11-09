@@ -1,6 +1,6 @@
 ---
 title: "Timothy J. Gentry: Radon Testing & Mitigation in Horsham, PA"
-description: "Timothy J. Gentry (Horsham, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Timothy J. Gentry (Horsham, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/timothy-j-gentry-f2217/
 ---
 
@@ -16,8 +16,6 @@ Horsham, PA · Montgomery County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 672-8529](tel:2156728529)
-* Email: [homeinspectiondetective@comcast.net](mailto:homeinspectiondetective@comcast.net)
 * Address: Po Box 1642, Horsham, PA
 
 ## PA DEP certification

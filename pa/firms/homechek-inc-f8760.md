@@ -1,6 +1,6 @@
 ---
 title: "Homechek Inc: Radon Tester in York, PA | Radon Roster"
-description: "Homechek Inc (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Homechek Inc (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/homechek-inc-f8760/
 ---
 
@@ -14,8 +14,6 @@ York, PA · York County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 764-1920](tel:7177641920)
-* Email: [tate@yourinpectionpeople.com](mailto:tate@yourinpectionpeople.com)
 * Address: 2575 Eastern Blvd Ste 210, York, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Wesley Morgan: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Wesley Morgan (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Wesley Morgan (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/wesley-morgan-f3695/
 ---
 
@@ -16,9 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 215-3538](tel:4122153538)
-* Email: [wes@home4sure.net](mailto:wes@home4sure.net)
-* Website: [https://home4sure.net/](https://home4sure.net/)
 * Address: 338 Rockhill Rd, Pittsburgh, PA
 
 ## PA DEP certification

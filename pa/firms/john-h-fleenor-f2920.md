@@ -1,6 +1,6 @@
 ---
 title: "John H. Fleenor: Radon Tester in Pittsburgh, PA"
-description: "John H. Fleenor (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "John H. Fleenor (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-h-fleenor-f2920/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 862-1443](tel:4128621443)
-* Email: [jthefleenor@gmail.com](mailto:jthefleenor@gmail.com)
 * Address: 312 Gist St, Pittsburgh, PA
 
 ## PA DEP certification

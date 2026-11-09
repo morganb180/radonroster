@@ -1,6 +1,6 @@
 ---
 title: "Michael Imperial: Radon Tester in Jamison, PA | Radon Roster"
-description: "Michael Imperial (Jamison, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Imperial (Jamison, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-imperial-f2872/
 ---
 
@@ -16,8 +16,6 @@ Jamison, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(267) 718-3899](tel:2677183899)
-* Email: [mikeimp61@gmail.com](mailto:mikeimp61@gmail.com)
 * Address: 2646 Fallow Hill Ln, Jamison, PA
 
 ## PA DEP certification

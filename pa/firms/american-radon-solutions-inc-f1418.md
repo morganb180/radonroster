@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 795-9367](tel:7177959367)
-* Email: [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
 * Address: 3537 Hartzdale Dr Suite H, Camp Hill, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Bruce D. Lampe: Radon Tester in Philadelphia, PA"
-description: "Bruce D. Lampe (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Bruce D. Lampe (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/bruce-d-lampe-f2188/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 632-4220](tel:2156324220)
-* Email: [medhomeinsp@aol.com](mailto:medhomeinsp@aol.com)
 * Address: 9615 Berea St, Philadelphia, PA
 
 ## PA DEP certification

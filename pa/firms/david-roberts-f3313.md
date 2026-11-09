@@ -1,6 +1,6 @@
 ---
 title: "David Roberts: Radon Tester in Courtdale, PA | Radon Roster"
-description: "David Roberts (Courtdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David Roberts (Courtdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-roberts-f3313/
 ---
 
@@ -16,9 +16,6 @@ Courtdale, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 499-0882](tel:5704990882)
-* Email: [david@mountainradon.net](mailto:david@mountainradon.net)
-* Website: [https://mountainradon.net/](https://mountainradon.net/)
 * Address: 92 White Rock Terrace, Courtdale, PA
 
 ## PA DEP certification

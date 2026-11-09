@@ -1,6 +1,6 @@
 ---
 title: "David Dowling: Radon Tester in Uniontown, PA | Radon Roster"
-description: "David Dowling (Uniontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David Dowling (Uniontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-dowling-f3296/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 208-4108](tel:7242084108)
-* Email: [david@grandviewinspectionsllc.com](mailto:david@grandviewinspectionsllc.com)
-* Website: [https://grandviewinspectionsllc.com/](https://grandviewinspectionsllc.com/)
 * Address: 273 Krulock Rd, Uniontown, PA
 
 ## PA DEP certification

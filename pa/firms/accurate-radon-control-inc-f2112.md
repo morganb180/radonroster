@@ -14,9 +14,6 @@ Green Lane, PA · Montgomery County · 2 certified people
 
 ## Contact
 
-* Phone: [(215) 541-1557](tel:2155411557)
-* Email: [dave@accurateradoncontrol.com](mailto:dave@accurateradoncontrol.com)
-* Website: [https://accurateradoncontrol.com/](https://accurateradoncontrol.com/)
 * Address: Po Box 296, Green Lane, PA
 
 ## PA DEP certification

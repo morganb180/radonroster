@@ -20,8 +20,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(330) 915-2650](tel:3309152650)
-* Email: [tony@azsolutions.com](mailto:tony@azsolutions.com)
 * Address: 7681 Tim Ave Nw, North Canton, OH
 
 ## PA DEP certification

@@ -16,9 +16,6 @@ Jersey City, NJ · 1 certified person
 
 ## Contact
 
-* Phone: [(201) 395-0080](tel:2013950080)
-* Email: [zaraht@eaienviro.com](mailto:zaraht@eaienviro.com)
-* Website: [https://eaienviro.com/](https://eaienviro.com/)
 * Address: 50 Prescott St, Jersey City, NJ
 
 ## PA DEP certification

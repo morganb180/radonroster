@@ -1,6 +1,6 @@
 ---
 title: "Dwayne Ott: Radon Tester in Tyrone, PA | Radon Roster"
-description: "Dwayne Ott (Tyrone, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dwayne Ott (Tyrone, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dwayne-ott-f1962/
 ---
 
@@ -16,9 +16,6 @@ Tyrone, PA · Blair County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 937-2276](tel:8149372276)
-* Email: [dwayne@advantageinsp.com](mailto:dwayne@advantageinsp.com)
-* Website: [https://advantageinsp.com/](https://advantageinsp.com/)
 * Address: 311 Bell Tip Rd, Tyrone, PA
 
 ## PA DEP certification

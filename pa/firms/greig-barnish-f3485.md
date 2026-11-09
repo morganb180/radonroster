@@ -1,6 +1,6 @@
 ---
 title: "Greig Barnish: Radon Tester in Huntingdon, PA | Radon Roster"
-description: "Greig Barnish (Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Greig Barnish (Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/greig-barnish-f3485/
 ---
 
@@ -16,8 +16,6 @@ Huntingdon, PA · Huntingdon County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 599-0381](tel:8145990381)
-* Email: [glbarn1@verizon.net](mailto:glbarn1@verizon.net)
 * Address: 2224 Highland Ave, Huntingdon, PA
 
 ## PA DEP certification

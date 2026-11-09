@@ -1,6 +1,6 @@
 ---
 title: "Scott Kelly: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Scott Kelly (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Scott Kelly (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/scott-kelly-f2729/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 799-7611](tel:7247997611)
-* Email: [cornerstone.scott@gmail.com](mailto:cornerstone.scott@gmail.com)
 * Address: 8491 E Barkhurst Dr, Pittsburgh, PA
 
 ## PA DEP certification

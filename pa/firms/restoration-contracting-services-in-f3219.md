@@ -30,9 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 379-3278](tel:4123793278)
-* Email: [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
-* Website: [https://www.rcsrestoration.com/](https://www.rcsrestoration.com/)
 * Address: 720 Anderson St, New Kensington, PA
 
 ## PA DEP certification

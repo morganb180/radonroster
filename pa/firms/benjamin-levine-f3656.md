@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Levine: Radon Mitigator in East Stroudsburg, PA"
-description: "Benjamin Levine (East Stroudsburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Benjamin Levine (East Stroudsburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/benjamin-levine-f3656/
 ---
 
@@ -16,8 +16,6 @@ East Stroudsburg, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 977-9533](tel:5709779533)
-* Email: [bjlevine1992@yahoo.com](mailto:bjlevine1992@yahoo.com)
 * Address: 110 Music Center Dr, East Stroudsburg, PA
 
 ## PA DEP certification

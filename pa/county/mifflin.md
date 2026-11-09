@@ -45,7 +45,6 @@ Lewistown1 certified person
 #### Address
 
 * 8 Redwood Dr, Lewistown, PA
-* ✉ [jwhite@itbinspect.com](mailto:jwhite@itbinspect.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3174
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3174)
 
-[**Call** (717) 250-7583](tel:7172507583)
 
 ## Which counties border Mifflin County, PA?
 

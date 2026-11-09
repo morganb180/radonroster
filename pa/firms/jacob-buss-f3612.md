@@ -1,6 +1,6 @@
 ---
 title: "Jacob Buss: Radon Tester in Charlottesville, VA"
-description: "Jacob Buss (Charlottesville, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jacob Buss (Charlottesville, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jacob-buss-f3612/
 ---
 
@@ -16,8 +16,6 @@ Charlottesville, VA · 9 certified people
 
 ## Contact
 
-* Phone: [(847) 690-0905](tel:8476900905)
-* Email: [aegmont@consultingsolutionsinc.com;ajwhite@consultingsolutionsinc.com;asnyder@consultingsolutionsinc.com;bseagraves@consultingsolutionsinc.com;jbuss@consultingsolutionsinc.com;mtravous@consultingsolutionsinc.com;nfletcher@consultingsolutionsinc.com;rwarren@consultingsolutionsinc.com;syoest@consultingsolutionsinc.com](mailto:aegmont@consultingsolutionsinc.com;ajwhite@consultingsolutionsinc.com;asnyder@consultingsolutionsinc.com;bseagraves@consultingsolutionsinc.com;jbuss@consultingsolutionsinc.com;mtravous@consultingsolutionsinc.com;nfletcher@consultingsolutionsinc.com;rwarren@consultingsolutionsinc.com;syoest@consultingsolutionsinc.com)
 * Address: 1011 Birdwood Rd, Charlottesville, VA
 
 ## PA DEP certification

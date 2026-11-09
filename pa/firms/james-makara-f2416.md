@@ -1,6 +1,6 @@
 ---
 title: "James Makara: Radon Tester in Holland, PA | Radon Roster"
-description: "James Makara (Holland, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "James Makara (Holland, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-makara-f2416/
 ---
 
@@ -16,8 +16,6 @@ Holland, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 355-4726](tel:2153554726)
-* Email: [countywide@comcast.net](mailto:countywide@comcast.net)
 * Address: 146 S Marmic Dr, Holland, PA
 
 ## PA DEP certification

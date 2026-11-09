@@ -24,8 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 934-0905](tel:8149340905)
-* Email: [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
 * Address: 3499 Kettle Rd, Altoona, PA
 
 ## PA DEP certification

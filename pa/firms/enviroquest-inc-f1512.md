@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 233-6144](tel:7172336144)
-* Email: [evq@comcast.net](mailto:evq@comcast.net)
 * Address: 1738 N 3Rd St Ste A, Harrisburg, PA
 
 ## PA DEP certification

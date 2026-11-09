@@ -1,6 +1,6 @@
 ---
 title: "Homepro Systems O: Radon Tester in Brookhaven, PA"
-description: "Homepro Systems O (Brookhaven, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Homepro Systems O (Brookhaven, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/homepro-systems-o-f8736/
 ---
 
@@ -16,8 +16,6 @@ Brookhaven, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 328-5525](tel:6103285525)
-* Email: [denise.hompro@comcast.net](mailto:denise.hompro@comcast.net)
 * Address: 6301 Hilltop Dr, Brookhaven, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Frank Glantz: Radon Mitigator in Lemont, PA | Radon Roster"
-description: "Frank Glantz (Lemont, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Frank Glantz (Lemont, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/frank-glantz-f2135/
 ---
 
@@ -16,9 +16,6 @@ Lemont, PA · Centre County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 278-7751](tel:8142787751)
-* Email: [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)
-* Website: [https://raid-on-radon.com/](https://raid-on-radon.com/)
 * Address: Po Box 866, Lemont, PA
 
 ## PA DEP certification

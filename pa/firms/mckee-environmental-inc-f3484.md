@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 380-7126](tel:8143807126)
-* Email: [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
 * Address: 86 Quartz Dr, Bellefonte, PA
 
 ## PA DEP certification

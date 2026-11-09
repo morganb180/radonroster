@@ -14,9 +14,6 @@ Cranberry Townsh, PA · Butler County · 8 certified people
 
 ## Contact
 
-* Phone: [(724) 772-5593](tel:7247725593)
-* Email: [daniel.ayers@housemaster.com;ivan.cilik@housemaster.com;klcrane@housemaster.com;ron.laporta@housemaster.com;swpa@housemaster.com](mailto:daniel.ayers@housemaster.com;ivan.cilik@housemaster.com;klcrane@housemaster.com;ron.laporta@housemaster.com;swpa@housemaster.com)
-* Website: [https://housemaster.com/](https://housemaster.com/)
 * Address: 9125 Marshall Rd Ste B12, Cranberry Townsh, PA
 
 ## PA DEP certification

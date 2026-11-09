@@ -1,6 +1,6 @@
 ---
 title: "Radon Testing Systems: Radon Tester in Newtown, PA"
-description: "Radon Testing Systems (Newtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Radon Testing Systems (Newtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/radon-testing-systems-f8926/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 968-1933](tel:2159681933)
-* Email: [tomdrc60@gmail.com](mailto:tomdrc60@gmail.com)
 * Address: Po Box 243, Newtown, PA
 
 ## PA DEP certification

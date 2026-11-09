@@ -1,6 +1,6 @@
 ---
 title: "Wolfgang Schmidt Iii: Radon Tester in Quarryville, PA"
-description: "Wolfgang Schmidt Iii (Quarryville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Wolfgang Schmidt Iii (Quarryville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/wolfgang-schmidt-iii-f3743/
 ---
 
@@ -16,8 +16,6 @@ Quarryville, PA · Lancaster County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 290-6777](tel:7172906777)
-* Email: [alliedhomeinspect@gmail.com](mailto:alliedhomeinspect@gmail.com)
 * Address: 335 Camargo Rd, Quarryville, PA
 
 ## PA DEP certification

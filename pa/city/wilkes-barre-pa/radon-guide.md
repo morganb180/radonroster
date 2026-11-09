@@ -67,7 +67,6 @@ Mountain Top5 certified people
 #### Address
 
 * 116 S Main Rd, Mountain Top, PA
-* ✉ [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
 
 #### Certified individuals
 
@@ -83,7 +82,6 @@ mitigation #3720 · mitigation #3721 · mitigation #7720 · mitigation #7724 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3720)
 
-[**Call** (570) 747-2366](tel:5707472366)
 
 [See all firms near Wilkes-Barre →](https://radonroster.com/pa/city/wilkes-barre-pa/)
 

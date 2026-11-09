@@ -190,5 +190,4 @@ PA DEP says to retest every five years if mitigation was not needed, and after r
 * [EPA, What is EPA's action level for radon](https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean) (4 pCi/L, consider 2-4, 1.3 and 0.4 pCi/L averages)
 * [EPA, Home Buyer's and Seller's Guide to Radon (March 2024)](https://www.epa.gov/system/files/documents/2024-11/2024-buying-a-new-home-how-to-protect-your-family-from-radon.pdf) (third-floor advice, device placement, closed-house conditions, test lengths)
 * [HomeAdvisor radon cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-radon-gas/) (national $150-$800 professional test range)
-* [American Lung Association, Pennsylvania free radon kit request](https://www.lungradonkits.org/pa/)
 * [PA DEP, Radon Test Results, September 1986 - Current (PA Open Data Portal)](https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k) (county and city statistics)

@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Hunt: Radon Tester in Chadds Ford, PA | Radon Roster"
-description: "Jeffrey Hunt (Chadds Ford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jeffrey Hunt (Chadds Ford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-hunt-f3022/
 ---
 
@@ -16,8 +16,6 @@ Chadds Ford, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(302) 467-0699](tel:3024670699)
-* Email: [huntinspects@gmail.com](mailto:huntinspects@gmail.com)
 * Address: P.O. Box 1402, Chadds Ford, PA
 
 ## PA DEP certification

@@ -16,8 +16,6 @@ New Florence, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 418-7158](tel:8144187158)
-* Email: [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
 * Address: 156 N View Hts, New Florence, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Sean Minogue: Radon Tester in Dingmans Ferry, PA"
-description: "Sean Minogue (Dingmans Ferry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Sean Minogue (Dingmans Ferry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/sean-minogue-f3495/
 ---
 
@@ -16,8 +16,6 @@ Dingmans Ferry, PA · Pike County · 1 certified person
 
 ## Contact
 
-* Phone: [(646) 269-1986](tel:6462691986)
-* Email: [info@minoguehomeinspections.com](mailto:info@minoguehomeinspections.com)
 * Address: 145 Fox Rd, Dingmans Ferry, PA
 
 ## PA DEP certification

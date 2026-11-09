@@ -45,7 +45,6 @@ Oil City1 certified person
 #### Address
 
 * 190 Colbert Ave, Oil City, PA
-* ✉ [jason.dillion@venangocountypa.gov](mailto:jason.dillion@venangocountypa.gov)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3659
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3659)
 
-[**Call** (814) 671-3303](tel:8146713303)
 
 ### Shaw, Dustin
 
@@ -68,7 +66,6 @@ Seneca1 certified person
 #### Address
 
 * 32 S West Blvd, Seneca, PA
-* ✉ [skywardimageryllc@gmail.com](mailto:skywardimageryllc@gmail.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ testing #3750
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3750)
 
-[**Call** (814) 758-3022](tel:8147583022)
 
 ## Which counties border Venango County, PA?
 

@@ -1,6 +1,6 @@
 ---
 title: "Mike Sheely: Radon Mitigator in Enola, PA | Radon Roster"
-description: "Mike Sheely (Enola, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Mike Sheely (Enola, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/mike-sheely-f2691/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 732-6538](tel:7177326538)
-* Email: [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
 * Address: 1000 Wolfe Rd, Enola, PA
 
 ## PA DEP certification

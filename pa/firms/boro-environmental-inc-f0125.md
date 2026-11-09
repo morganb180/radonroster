@@ -1,6 +1,6 @@
 ---
 title: "Boro Environmental, Inc.: Radon Tester in Glenolden, PA"
-description: "Boro Environmental, Inc. (Glenolden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Boro Environmental, Inc. (Glenolden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/boro-environmental-inc-f0125/
 ---
 
@@ -14,8 +14,6 @@ Glenolden, PA · Delaware County · 4 certified people
 
 ## Contact
 
-* Phone: [(610) 715-9034](tel:6107159034)
-* Email: [boroextrob@aol.com;boroinspects@verizon.net;ronbrunohome@aol.com](mailto:boroextrob@aol.com;boroinspects@verizon.net;ronbrunohome@aol.com)
 * Address: 501 Sharp Ave, Glenolden, PA
 
 ## PA DEP certification

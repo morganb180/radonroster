@@ -73,8 +73,6 @@ Gettysburg5 certified people
 #### Address
 
 * 282 Longstreet Dr, Gettysburg, PA
-* ✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
-* [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
 
 #### Certified individuals
 
@@ -90,7 +88,6 @@ mitigation #0275 · mitigation #1688 · mitigation #7624 · testing #0275 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
 
-[**Call** (717) 334-3435](tel:7173343435)
 
 [See all firms near Gettysburg →](https://radonroster.com/pa/city/gettysburg-pa/)
 

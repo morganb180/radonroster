@@ -1,6 +1,6 @@
 ---
 title: "Greg Karkowsky: Radon Tester in Pittsburgh, PA"
-description: "Greg Karkowsky (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Greg Karkowsky (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/greg-karkowsky-f3145/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 522-9506](tel:4125229506)
-* Email: [karkowsky@gmail.com](mailto:karkowsky@gmail.com)
 * Address: 5850 Centre Ave, Pittsburgh, PA
 
 ## PA DEP certification

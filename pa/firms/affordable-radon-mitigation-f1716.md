@@ -14,8 +14,6 @@ Scott Township, PA · Lackawanna County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 254-2242](tel:5702542242)
-* Email: [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
 * Address: 24 Amanda Ln, Scott Township, PA
 
 ## PA DEP certification

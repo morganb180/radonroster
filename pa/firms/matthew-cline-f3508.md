@@ -1,6 +1,6 @@
 ---
 title: "Matthew Cline: Radon Tester in Matamoras, PA | Radon Roster"
-description: "Matthew Cline (Matamoras, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matthew Cline (Matamoras, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-cline-f3508/
 ---
 
@@ -16,8 +16,6 @@ Matamoras, PA · Pike County · 1 certified person
 
 ## Contact
 
-* Phone: [(973) 981-6665](tel:9739816665)
-* Email: [ateasehomeinspectionllc@gmail.com](mailto:ateasehomeinspectionllc@gmail.com)
 * Address: 310 Avenue G, Matamoras, PA
 
 ## PA DEP certification

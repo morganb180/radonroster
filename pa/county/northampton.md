@@ -45,7 +45,6 @@ Northampton1 certified person
 #### Address
 
 * 4086 Sycamore Dr, Northampton, PA
-* ✉ [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3712
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3712)
 
-[**Call** (610) 615-0706](tel:6106150706)
 
 ## Where can I get radon testing in Northampton County, PA? (6 firms)
 
@@ -72,7 +70,6 @@ Bethlehem1 certified person
 #### Address
 
 * 1512 Dennis St, Bethlehem, PA
-* ✉ [justin@fairwindsinpections.com](mailto:justin@fairwindsinpections.com)
 
 #### Certified individuals
 
@@ -84,7 +81,6 @@ testing #3694
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3694)
 
-[**Call** (484) 364-0385](tel:4843640385)
 
 ### Bpg Inspection, LLC
 
@@ -95,7 +91,6 @@ Easton8 certified people
 #### Address
 
 * 2305 Lone Cedar Dr, Easton, PA
-* ✉ [larry@integrityinspection.com](mailto:larry@integrityinspection.com)
 
 #### Certified individuals
 
@@ -114,7 +109,6 @@ testing #1914 · testing #2511 · testing #8638 · testing #8837 · testing #889
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1914)
 
-[**Call** (610) 417-0763](tel:6104170763)
 
 ### Catanzareti, Bernard
 
@@ -125,7 +119,6 @@ Easton1 certified person
 #### Address
 
 * 1177 Dewalt Dr, Easton, PA
-* ✉ [bernie@pennjerseyinspection.com](mailto:bernie@pennjerseyinspection.com)
 
 #### Certified individuals
 
@@ -137,7 +130,6 @@ testing #2825
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2825)
 
-[**Call** (610) 417-4475](tel:6104174475)
 
 ### Morris, Albert R.
 
@@ -148,7 +140,6 @@ Easton1 certified person
 #### Address
 
 * 35 Clarendon Dr, Easton, PA
-* ✉ [almorrishomeinspections@gmail.com](mailto:almorrishomeinspections@gmail.com)
 
 #### Certified individuals
 
@@ -160,7 +151,6 @@ testing #3523
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3523)
 
-[**Call** (732) 239-1704](tel:7322391704)
 
 ### Pragle, Derek
 
@@ -171,7 +161,6 @@ Mount Bethel1 certified person
 #### Address
 
 * 1728 S Delaware Dr, Mount Bethel, PA
-* ✉ [accuviewhome@outlook.com](mailto:accuviewhome@outlook.com)
 
 #### Certified individuals
 
@@ -183,7 +172,6 @@ testing #3386
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3386)
 
-[**Call** (570) 897-5050](tel:5708975050)
 
 ### Talarico, Frank
 
@@ -194,7 +182,6 @@ Nazareth1 certified person
 #### Address
 
 * 2062 Fieldview Dr, Nazareth, PA
-* ✉ [info@lehighvalleyradontesters.com](mailto:info@lehighvalleyradontesters.com)
 
 #### Certified individuals
 
@@ -206,7 +193,6 @@ testing #3693
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3693)
 
-[**Call** (917) 273-0894](tel:9172730894)
 
 ## Which counties border Northampton County, PA?
 

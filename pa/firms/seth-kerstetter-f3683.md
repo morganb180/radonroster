@@ -1,6 +1,6 @@
 ---
 title: "Seth Kerstetter: Radon Tester in Union, PA | Radon Roster"
-description: "Seth Kerstetter (Union, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Seth Kerstetter (Union, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/seth-kerstetter-f3683/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 524-4491](tel:5705244491)
-* Email: [skerstetter@seda-cog.org](mailto:skerstetter@seda-cog.org)
 * Address: 201 Furnace Road, Union, PA
 
 ## PA DEP certification

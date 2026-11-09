@@ -1,6 +1,6 @@
 ---
 title: "Aaron West: Radon Tester in Cranberry Townsh, PA"
-description: "Aaron West (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Aaron West (Cranberry Townsh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/aaron-west-f3709/
 ---
 
@@ -16,9 +16,6 @@ Cranberry Townsh, PA · Butler County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 204-6149](tel:4122046149)
-* Email: [aaron.west@keystonecastleinspections.com](mailto:aaron.west@keystonecastleinspections.com)
-* Website: [https://www.keystonecastleinspections.com/](https://www.keystonecastleinspections.com/)
 * Address: 1675 Route 228 #1068, Cranberry Townsh, PA
 
 ## PA DEP certification

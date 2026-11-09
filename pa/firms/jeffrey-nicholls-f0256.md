@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Nicholls: Radon Tester in Tannersville, PA"
-description: "Jeffrey Nicholls (Tannersville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jeffrey Nicholls (Tannersville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-nicholls-f0256/
 ---
 
@@ -16,8 +16,6 @@ Tannersville, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 595-6092](tel:5705956092)
-* Email: [nhijeffnicholls@yahoo.com](mailto:nhijeffnicholls@yahoo.com)
 * Address: Po Box 300, Tannersville, PA
 
 ## PA DEP certification

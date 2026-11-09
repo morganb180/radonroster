@@ -1,6 +1,6 @@
 ---
 title: "Richard Nesgoda: Radon Tester in Edwardsville, PA"
-description: "Richard Nesgoda (Edwardsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Richard Nesgoda (Edwardsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-nesgoda-f3436/
 ---
 
@@ -16,8 +16,6 @@ Edwardsville, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 954-1952](tel:5709541952)
-* Email: [rich@aplushomeservicesllc.net](mailto:rich@aplushomeservicesllc.net)
 * Address: 420 Northampton St, Edwardsville, PA
 
 ## PA DEP certification

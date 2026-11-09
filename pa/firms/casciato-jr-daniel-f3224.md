@@ -1,6 +1,6 @@
 ---
 title: "Casciato, Jr., Daniel: Radon Tester in Pittsburgh, PA"
-description: "Casciato, Jr., Daniel (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Casciato, Jr., Daniel (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/casciato-jr-daniel-f3224/
 ---
 
@@ -14,8 +14,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 885-7120](tel:4128857120)
-* Email: [dcasciato@asi-env.com](mailto:dcasciato@asi-env.com)
 * Address: 5353 Page Dr, Pittsburgh, PA
 
 ## PA DEP certification

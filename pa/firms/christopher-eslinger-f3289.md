@@ -1,6 +1,6 @@
 ---
 title: "Christopher Eslinger: Radon Tester in Lansdale, PA"
-description: "Christopher Eslinger (Lansdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Christopher Eslinger (Lansdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/christopher-eslinger-f3289/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 902-6421](tel:2679026421)
-* Email: [inspectallhomespa@gmail.com](mailto:inspectallhomespa@gmail.com)
 * Address: 421 Derstine Ave, Lansdale, PA
 
 ## PA DEP certification

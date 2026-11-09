@@ -1,6 +1,6 @@
 ---
 title: "Brian Poplarchick: Radon Tester in Dunmore, PA"
-description: "Brian Poplarchick (Dunmore, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Poplarchick (Dunmore, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-poplarchick-f3192/
 ---
 
@@ -16,8 +16,6 @@ Dunmore, PA · Lackawanna County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 342-3101](tel:5703423101)
-* Email: [bpoplarchick@comcast.net](mailto:bpoplarchick@comcast.net)
 * Address: 1000 Dunham Dr, Dunmore, PA
 
 ## PA DEP certification

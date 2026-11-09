@@ -1,6 +1,6 @@
 ---
 title: "Moises Serrano: Radon Tester in Philadelphia, PA"
-description: "Moises Serrano (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Moises Serrano (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/moises-serrano-f3746/
 ---
 
@@ -16,8 +16,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 800-9528](tel:2158009528)
-* Email: [moises@libertyradondiagnostics.com](mailto:moises@libertyradondiagnostics.com)
 * Address: 3446 Reach Street, Philadelphia, PA
 
 ## PA DEP certification

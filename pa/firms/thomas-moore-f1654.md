@@ -1,6 +1,6 @@
 ---
 title: "Thomas Moore: Radon Tester in Sewickley, PA | Radon Roster"
-description: "Thomas Moore (Sewickley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Moore (Sewickley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-moore-f1654/
 ---
 
@@ -16,8 +16,6 @@ Sewickley, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 749-0626](tel:4127490626)
-* Email: [tommoore1@verizon.net](mailto:tommoore1@verizon.net)
 * Address: 421 Redgate Rd, Sewickley, PA
 
 ## PA DEP certification

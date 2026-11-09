@@ -1,6 +1,6 @@
 ---
 title: "Samuel Kushner: Radon Tester in Lakewood, NJ | Radon Roster"
-description: "Samuel Kushner (Lakewood, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Samuel Kushner (Lakewood, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/samuel-kushner-f3687/
 ---
 
@@ -16,8 +16,6 @@ Lakewood, NJ · 1 certified person
 
 ## Contact
 
-* Phone: [(848) 525-9865](tel:8485259865)
-* Email: [sam@kushnerinspections.com](mailto:sam@kushnerinspections.com)
 * Address: 406 Melville Ave, Lakewood, NJ
 
 ## PA DEP certification

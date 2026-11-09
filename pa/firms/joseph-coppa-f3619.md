@@ -1,6 +1,6 @@
 ---
 title: "Joseph Coppa: Radon Tester in Conshohocken, PA"
-description: "Joseph Coppa (Conshohocken, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Coppa (Conshohocken, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-coppa-f3619/
 ---
 
@@ -16,8 +16,6 @@ Conshohocken, PA · Montgomery County · 2 certified people
 
 ## Contact
 
-* Phone: [(610) 639-3866](tel:6106393866)
-* Email: [bmcguinness@augustmack.com;rcoppa@augustmack.com](mailto:bmcguinness@augustmack.com;rcoppa@augustmack.com)
 * Address: 806 Fayette St, Conshohocken, PA
 
 ## PA DEP certification

@@ -13,9 +13,9 @@ Updated Oct 30, 2026. This policy covers Radon Roster (radonroster.com, "we"), o
 ## Quote requests
 
 * **What you enter:** your name, email and/or phone, ZIP code or county, the service you need, and optionally your radon test result and a note.
-* **Who gets it:** when you check the consent box and submit, we email your request to **up to 3 PA DEP-certified radon firms** that offer that service. For testing and mitigation, those are the nearest available firms, starting with your county and the counties next to it. Mail-in kit labs can be anywhere on the PA DEP lab list. If you came from a firm's listing, that firm is included. Firms can't pay to be picked. You see their names on screen after you send the form, and we email you the same list if you gave an email address. When a firm replies, the reply goes to you. We also keep a copy in our inbox, described below.
+* **Who gets it:** when you check the consent box and submit, we connect you with **up to 3 PA DEP-certified radon firms** that offer that service. For testing and mitigation, those are the nearest available firms, starting with your county and the counties next to it. Mail-in kit labs can be anywhere on the PA DEP lab list. If you came from a firm's listing, that firm is included. Firms can't pay to be picked. You see their names on screen after you send the form. They contact you directly. We also keep a copy in our inbox, described below.
 * **What we keep:** we keep a copy of each quote request: the details you submit (your name, email and/or phone, ZIP code or county, the service you need, and any test result or note), the firms it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you radon tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, county, first three digits of your ZIP, the service requested and which firms were contacted. These records are kept for up to about 13 months to run and improve the service.
-* **Email delivery:** requests are sent through our email provider, SendGrid (Twilio), which processes the message to deliver it and keeps delivery logs under its own retention policy. Firms that receive your request keep it under their own policies; contact them directly to ask them to delete it.
+* **How a request is delivered:** we connect you with the matched firms. SendGrid (Twilio), a service provider, delivers that request and keeps delivery logs under its own retention policy. Firms that receive your request keep it under their own policies.
 * **Spam protection:** forms use Cloudflare Turnstile and per-connection rate limits. To rate-limit, we keep a one-way hash of your IP address for about an hour.
 
 ## Radon tips and offers (optional)
@@ -27,7 +27,7 @@ Updated Oct 30, 2026. This policy covers Radon Roster (radonroster.com, "we"), o
 
 ## Clicks on firm contact links
 
-When you click a firm's phone, website or email link, your browser sends us an anonymous count (firm ID and link type only) so we can show firms how many people contacted them each month. No cookies or personal data are involved.
+Firm phone numbers, email addresses, and websites are not published on Radon Roster. A quote request is how you reach a firm from this site.
 
 ## Listing claims and corrections
 
@@ -49,7 +49,7 @@ We use Google Analytics to collect aggregate usage statistics (pages viewed, the
 
 ## Contractors
 
-Business listings come from public PA DEP certification records (see [About our data](https://radonroster.com/about-our-data/)). Firms receive homeowner requests by email; every request email has a one-click link to stop receiving them, and firms can [claim, correct or remove](https://radonroster.com/claim-listing/) their listing.
+Business listings come from public PA DEP certification records (see [About our data](https://radonroster.com/about-our-data/)). Firms receive the requests we connect them with, and every request has a one-click link to stop receiving them. Firms can [claim, correct or remove](https://radonroster.com/claim-listing/) their listing.
 
 ## Your choices
 

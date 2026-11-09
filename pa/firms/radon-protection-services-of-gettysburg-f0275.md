@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 334-3435](tel:7173343435)
-* Email: [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
-* Website: [https://www.radonprotectionservicesgburg.com/](https://www.radonprotectionservicesgburg.com/)
 * Address: 282 Longstreet Dr, Gettysburg, PA
 
 ## PA DEP certification

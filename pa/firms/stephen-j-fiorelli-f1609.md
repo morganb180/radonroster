@@ -1,6 +1,6 @@
 ---
 title: "Stephen J. Fiorelli: Radon Tester in Ridley Park, PA"
-description: "Stephen J. Fiorelli (Ridley Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Stephen J. Fiorelli (Ridley Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-j-fiorelli-f1609/
 ---
 
@@ -16,8 +16,6 @@ Ridley Park, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 583-4738](tel:6105834738)
-* Email: [qualityradonandpest@gmail.com](mailto:qualityradonandpest@gmail.com)
 * Address: 700 Braxton Rd, Ridley Park, PA
 
 ## PA DEP certification

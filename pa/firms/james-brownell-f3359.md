@@ -1,6 +1,6 @@
 ---
 title: "James Brownell: Radon Tester in Clifford Townshi, PA"
-description: "James Brownell (Clifford Townshi, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "James Brownell (Clifford Townshi, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-brownell-f3359/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 561-3981](tel:5705613981)
-* Email: [clearviewinspections2018@gmail.com](mailto:clearviewinspections2018@gmail.com)
 * Address: 5057 State Route 247, Clifford Townshi, PA
 
 ## PA DEP certification

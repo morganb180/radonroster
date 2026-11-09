@@ -1,6 +1,6 @@
 ---
 title: "Justin Doll: Radon Tester in Bethlehem, PA | Radon Roster"
-description: "Justin Doll (Bethlehem, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Justin Doll (Bethlehem, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/justin-doll-f3694/
 ---
 
@@ -16,8 +16,6 @@ Bethlehem, PA · Northampton County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 364-0385](tel:4843640385)
-* Email: [justin@fairwindsinpections.com](mailto:justin@fairwindsinpections.com)
 * Address: 1512 Dennis St, Bethlehem, PA
 
 ## PA DEP certification

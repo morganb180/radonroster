@@ -14,9 +14,6 @@ Jefferson Hills, PA · Allegheny County · 4 certified people
 
 ## Contact
 
-* Phone: [(412) 678-6696](tel:4126786696)
-* Email: [contact@eaginspect.com](mailto:contact@eaginspect.com)
-* Website: [https://eaginspect.com/](https://eaginspect.com/)
 * Address: 217 Pointer Drive, Jefferson Hills, PA
 
 ## PA DEP certification

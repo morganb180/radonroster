@@ -30,9 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 704-4149](tel:6107044149)
-* Email: [sean@cdainspections.com](mailto:sean@cdainspections.com)
-* Website: [https://homesightinspections.com/](https://homesightinspections.com/)
 * Address: 173 Green St, Emmaus, PA
 
 ## PA DEP certification

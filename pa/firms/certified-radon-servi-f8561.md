@@ -1,6 +1,6 @@
 ---
 title: "Certified Radon Servi: Radon Tester in Pittsburgh, PA"
-description: "Certified Radon Servi (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Certified Radon Servi (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-radon-servi-f8561/
 ---
 
@@ -12,11 +12,9 @@ canonical: https://radonroster.com/pa/firms/certified-radon-servi-f8561/
 
 Pittsburgh, PA · Allegheny County · 1 certified person
 
-[Call (412) 885-1133](tel:4128851133). This firm can't take quote requests through Radon Roster yet.
 
 ## Contact
 
-* Phone: [(412) 885-1133](tel:4128851133)
 * Address: 210 Church Place, Pittsburgh, PA
 
 ## PA DEP certification

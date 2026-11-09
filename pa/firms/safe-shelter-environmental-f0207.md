@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 594-0350](tel:6105940350)
-* Email: [joe@safeshelter.com](mailto:joe@safeshelter.com)
-* Website: [https://safeshelter.com/](https://safeshelter.com/)
 * Address: 7 S Wayne St, West Chester, PA
 
 ## PA DEP certification

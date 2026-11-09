@@ -1,6 +1,6 @@
 ---
 title: "John O'Connor: Radon Tester in Keymar, MD | Radon Roster"
-description: "John O'Connor (Keymar, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "John O'Connor (Keymar, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-o-connor-f3361/
 ---
 
@@ -16,8 +16,6 @@ Keymar, MD · 1 certified person
 
 ## Contact
 
-* Phone: [(443) 340-7880](tel:4433407880)
-* Email: [joconnor@rimkus.com](mailto:joconnor@rimkus.com)
 * Address: 1270 Keysville Rd South, Keymar, MD
 
 ## PA DEP certification

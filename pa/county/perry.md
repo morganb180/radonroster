@@ -45,8 +45,6 @@ Duncannon2 certified people
 #### Address
 
 * 47 Cooks Road, Duncannon, PA
-* ✉ [nicole@alphainspection.net](mailto:nicole@alphainspection.net)
-* [alphainspection.net](https://www.alphainspection.net/)
 
 #### Certified individuals
 
@@ -59,7 +57,6 @@ testing #3483 · testing #3698 · testing #9094
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3483)
 
-[**Call** (717) 914-1600](tel:7179141600)
 
 ## Which counties border Perry County, PA?
 

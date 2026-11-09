@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 576-9589](tel:7175769589)
-* Email: [themitigator@comcast.net](mailto:themitigator@comcast.net)
 * Address: 198 Rose Hill Dr, New Cumberland, PA
 
 ## PA DEP certification

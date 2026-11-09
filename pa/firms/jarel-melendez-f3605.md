@@ -1,6 +1,6 @@
 ---
 title: "Jarel Melendez: Radon Tester in Reading, PA | Radon Roster"
-description: "Jarel Melendez (Reading, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jarel Melendez (Reading, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jarel-melendez-f3605/
 ---
 
@@ -16,8 +16,6 @@ Reading, PA · Berks County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 388-9696](tel:4843889696)
-* Email: [jarel.melendez@readingpa.gov](mailto:jarel.melendez@readingpa.gov)
 * Address: 613 Bingaman St, Reading, PA
 
 ## PA DEP certification

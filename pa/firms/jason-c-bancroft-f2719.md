@@ -1,6 +1,6 @@
 ---
 title: "Jason C. Bancroft: Radon Tester in Gilbertsville, PA"
-description: "Jason C. Bancroft (Gilbertsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jason C. Bancroft (Gilbertsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-c-bancroft-f2719/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(484) 504-9876](tel:4845049876)
-* Email: [jason@bancroftinspections.com](mailto:jason@bancroftinspections.com)
 * Address: Po Box 261, Gilbertsville, PA
 
 ## PA DEP certification

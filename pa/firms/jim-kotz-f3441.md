@@ -1,6 +1,6 @@
 ---
 title: "Jim Kotz: Radon Mitigator in Clarks Summit, PA"
-description: "Jim Kotz (Clarks Summit, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Jim Kotz (Clarks Summit, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jim-kotz-f3441/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 499-0752](tel:5704990752)
-* Email: [attackradon@gmail.com](mailto:attackradon@gmail.com)
 * Address: 405 Carbondale Rd, Clarks Summit, PA
 
 ## PA DEP certification

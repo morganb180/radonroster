@@ -1,6 +1,6 @@
 ---
 title: "Dustin Shaw: Radon Tester in Seneca, PA | Radon Roster"
-description: "Dustin Shaw (Seneca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dustin Shaw (Seneca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dustin-shaw-f3750/
 ---
 
@@ -16,8 +16,6 @@ Seneca, PA · Venango County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 758-3022](tel:8147583022)
-* Email: [skywardimageryllc@gmail.com](mailto:skywardimageryllc@gmail.com)
 * Address: 32 S West Blvd, Seneca, PA
 
 ## PA DEP certification

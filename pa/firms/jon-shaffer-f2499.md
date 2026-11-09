@@ -1,6 +1,6 @@
 ---
 title: "Jon Shaffer: Radon Mitigator in Pittsburgh, PA"
-description: "Jon Shaffer (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Jon Shaffer (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jon-shaffer-f2499/
 ---
 
@@ -24,8 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 772-2200](tel:7247722200)
-* Email: [radon-x@comcast.net](mailto:radon-x@comcast.net)
 * Address: 1115 Cornell St, Pittsburgh, PA
 
 ## PA DEP certification

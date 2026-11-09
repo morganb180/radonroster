@@ -45,7 +45,6 @@ Clarks Summit1 certified person
 #### Address
 
 * 405 Carbondale Rd, Clarks Summit, PA
-* ✉ [attackradon@gmail.com](mailto:attackradon@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3441
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3441)
 
-[**Call** (570) 499-0752](tel:5704990752)
 
 ### Affordable Radon Mitigation
 
@@ -68,7 +66,6 @@ Scott Township1 certified person
 #### Address
 
 * 24 Amanda Ln, Scott Township, PA
-* ✉ [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ mitigation #1716
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1716)
 
-[**Call** (570) 254-2242](tel:5702542242)
 
 ### Disaster Blaster Inc
 
@@ -91,8 +87,6 @@ Scranton4 certified people
 #### Address
 
 * 536 N Main Ave, Scranton, PA
-* ✉ [g\_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)
-* [disasterblaster.com](https://www.disasterblaster.com/)
 
 #### Certified individuals
 
@@ -107,7 +101,6 @@ mitigation #2848 · mitigation #2849 · mitigation #7235 · mitigation #7299 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2848)
 
-[**Call** (570) 963-1123](tel:5709631123)
 
 ### Zigga, Eric
 
@@ -118,7 +111,6 @@ Throop1 certified person
 #### Address
 
 * 835 Murray St, Throop, PA
-* ✉ [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
 
 #### Certified individuals
 
@@ -130,7 +122,6 @@ mitigation #2233
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2233)
 
-[**Call** (570) 383-2363](tel:5703832363)
 
 ## Where can I get radon testing in Lackawanna County, PA? (5 firms)
 
@@ -145,8 +136,6 @@ Clarks Summit3 certified people
 #### Address
 
 * 1639 Newton Ransom Blvd, Clarks Summit, PA
-* ✉ [tom@berardellihi.com](mailto:tom@berardellihi.com)
-* [berardellihi.com](https://www.berardellihi.com/)
 
 #### Certified individuals
 
@@ -160,7 +149,6 @@ testing #1713 · testing #2993 · testing #8634 · testing #9071
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1713)
 
-[**Call** (570) 586-6800](tel:5705866800)
 
 ### Mcgrady, Ryan
 
@@ -171,7 +159,6 @@ Dunmore1 certified person
 #### Address
 
 * 1000 Dunham Dr, Dunmore, PA
-* ✉ [rmcgrady@labellapc.com](mailto:rmcgrady@labellapc.com)
 
 #### Certified individuals
 
@@ -183,7 +170,6 @@ testing #3240
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3240)
 
-[**Call** (570) 342-3101](tel:5703423101)
 
 ### Poplarchick, Brian
 
@@ -194,7 +180,6 @@ Dunmore1 certified person
 #### Address
 
 * 1000 Dunham Dr, Dunmore, PA
-* ✉ [bpoplarchick@comcast.net](mailto:bpoplarchick@comcast.net)
 
 #### Certified individuals
 
@@ -206,7 +191,6 @@ testing #3192
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3192)
 
-[**Call** (570) 342-3101](tel:5703423101)
 
 ### Viscomi, Jody
 
@@ -217,7 +201,6 @@ Scranton1 certified person
 #### Address
 
 * 320 N Horatio Ave, Scranton, PA
-* ✉ [javiscomi@msn.com](mailto:javiscomi@msn.com)
 
 #### Certified individuals
 
@@ -229,7 +212,6 @@ testing #2513
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2513)
 
-[**Call** (570) 983-6649](tel:5709836649)
 
 ### Realty Inspection
 
@@ -240,7 +222,6 @@ Spring Brook Tow3 certified people
 #### Address
 
 * 770 State Route 307 Ste 101, Spring Brook Tow, PA
-* ✉ [info@realtyinspectionservices.com](mailto:info@realtyinspectionservices.com)
 
 #### Certified individuals
 
@@ -254,7 +235,6 @@ testing #8365 · testing #8455 · testing #8458
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8365)
 
-[**Call** (570) 848-2772](tel:5708482772)
 
 ## Which counties border Lackawanna County, PA?
 

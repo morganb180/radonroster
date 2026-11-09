@@ -1,6 +1,6 @@
 ---
 title: "Geo Environmental: Radon Tester in Philadelphia, PA"
-description: "Geo Environmental (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Geo Environmental (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/geo-environmental-f8701/
 ---
 
@@ -14,8 +14,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 778-7118](tel:2157787118)
-* Email: [geotristate@gmail.com](mailto:geotristate@gmail.com)
 * Address: Po Box 33450, Philadelphia, PA
 
 ## PA DEP certification

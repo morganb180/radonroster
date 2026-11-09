@@ -1,6 +1,6 @@
 ---
 title: "Craig Lennox: Radon Tester in Trooper, PA | Radon Roster"
-description: "Craig Lennox (Trooper, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Craig Lennox (Trooper, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/craig-lennox-f2771/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 277-4953](tel:6102774953)
-* Email: [cplennox@verizon.net](mailto:cplennox@verizon.net)
 * Address: 2801 Soni Dr, Trooper, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Clarity Home Inspection: Radon Tester in Moon Township, PA"
-description: "Clarity Home Inspection (Moon Township, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Clarity Home Inspection (Moon Township, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/clarity-home-inspection-f3663/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 377-1165](tel:4123771165)
-* Email: [dtwkid31@gmail.com](mailto:dtwkid31@gmail.com)
 * Address: 457 Crescent Boulevard Ext, Moon Township, PA
 
 ## PA DEP certification

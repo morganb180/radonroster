@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 437-6931](tel:6104376931)
-* Email: [ryan@alliedinspection.com](mailto:ryan@alliedinspection.com)
-* Website: [https://www.alliedinspection.com/](https://www.alliedinspection.com/)
 * Address: Po Box 651, Macungie, PA
 
 ## PA DEP certification

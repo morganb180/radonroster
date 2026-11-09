@@ -1,6 +1,6 @@
 ---
 title: "Cline, Jr., Joseph: Radon Tester in Mechanicsburg, PA"
-description: "Cline, Jr., Joseph (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Cline, Jr., Joseph (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/cline-jr-joseph-f2282/
 ---
 
@@ -14,8 +14,6 @@ Mechanicsburg, PA · Cumberland County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 503-7086](tel:7175037086)
-* Email: [ansinspect@netscape.net](mailto:ansinspect@netscape.net)
 * Address: Po Box 1145, Mechanicsburg, PA
 
 ## PA DEP certification

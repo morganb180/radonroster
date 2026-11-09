@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 274-3158](tel:7172743158)
-* Email: [mark@mwebsterconstruction.com;mike@mwebsterconstruction.com](mailto:mark@mwebsterconstruction.com;mike@mwebsterconstruction.com)
-* Website: [https://mwebsterconstruction.com/](https://mwebsterconstruction.com/)
 * Address: 805 Pershing St, Lebanon, PA
 
 ## PA DEP certification

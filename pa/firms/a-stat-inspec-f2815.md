@@ -1,6 +1,6 @@
 ---
 title: "A- Stat Inspec: Radon Tester in Doylestown, PA"
-description: "A- Stat Inspec (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "A- Stat Inspec (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/a-stat-inspec-f2815/
 ---
 
@@ -16,8 +16,6 @@ Doylestown, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 421-0560](tel:2154210560)
-* Email: [bills@astatinspection.com](mailto:bills@astatinspection.com)
 * Address: 4 Versailles Cir, Doylestown, PA
 
 ## PA DEP certification

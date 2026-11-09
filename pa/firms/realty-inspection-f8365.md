@@ -14,8 +14,6 @@ Spring Brook Tow, PA · Lackawanna County · 3 certified people
 
 ## Contact
 
-* Phone: [(570) 848-2772](tel:5708482772)
-* Email: [info@realtyinspectionservices.com](mailto:info@realtyinspectionservices.com)
 * Address: 770 State Route 307 Ste 101, Spring Brook Tow, PA
 
 ## PA DEP certification

@@ -53,7 +53,6 @@ Williamsport1 certified person
 #### Address
 
 * 1911 Poco Farm Rd, Williamsport, PA
-* ✉ [jcnradonservices@gmail.com](mailto:jcnradonservices@gmail.com)
 
 #### Certified individuals
 
@@ -65,7 +64,6 @@ mitigation #3518 · mitigation #3565 · testing #3518
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3518)
 
-[**Call** (570) 988-6800](tel:5709886800)
 
 ## Which other certified radon firms are in Lycoming County? (1)
 
@@ -84,8 +82,6 @@ Montoursville1 certified person
 #### Address
 
 * 1921 Round Top Rd, Montoursville, PA
-* ✉ [josh@wbinspections.com](mailto:josh@wbinspections.com)
-* [wbinspections.com](https://www.wbinspections.com/)
 
 #### Certified individuals
 
@@ -97,7 +93,6 @@ testing #3414
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3414)
 
-[**Call** (570) 560-2773](tel:5705602773)
 
 ## Which radon mitigation firms near Williamsport are in neighboring counties? (2)
 
@@ -112,7 +107,6 @@ Loganton1 certified person
 #### Address
 
 * 1351 W Winter Rd, Loganton, PA
-* ✉ [gconk23@cs.com](mailto:gconk23@cs.com)
 
 #### Certified individuals
 
@@ -124,7 +118,6 @@ mitigation #2769
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2769)
 
-[**Call** (570) 433-8210](tel:5704338210)
 
 ### Ralston, Jeffrey
 
@@ -135,7 +128,6 @@ Bloomsburg1 certified person
 #### Address
 
 * 422 Valley Rd, Bloomsburg, PA
-* ✉ [paradonsolutions@yahoo.com](mailto:paradonsolutions@yahoo.com)
 
 #### Certified individuals
 
@@ -147,7 +139,6 @@ mitigation #3163 · testing #3163
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3163)
 
-[**Call** (570) 384-3574](tel:5703843574)
 
 ## Lycoming County radon test data
 

@@ -1,6 +1,6 @@
 ---
 title: "Affordable Services, Inc.: Radon Tester in Pittsburgh, PA"
-description: "Affordable Services, Inc. (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Affordable Services, Inc. (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/affordable-services-inc-f3692/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 885-7120](tel:4128857120)
-* Email: [dcasciato@asl-env.com](mailto:dcasciato@asl-env.com)
 * Address: 5353 Page Dr, Pittsburgh, PA
 
 ## PA DEP certification

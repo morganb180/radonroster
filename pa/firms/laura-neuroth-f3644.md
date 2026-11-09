@@ -1,6 +1,6 @@
 ---
 title: "Laura Neuroth: Radon Tester in Palmyra, VA | Radon Roster"
-description: "Laura Neuroth (Palmyra, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Laura Neuroth (Palmyra, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/laura-neuroth-f3644/
 ---
 
@@ -16,8 +16,6 @@ Palmyra, VA · 1 certified person
 
 ## Contact
 
-* Phone: [(804) 370-9598](tel:8043709598)
-* Email: [lauraneuroth@outlook.com](mailto:lauraneuroth@outlook.com)
 * Address: 105 Riva Way, Palmyra, VA
 
 ## PA DEP certification

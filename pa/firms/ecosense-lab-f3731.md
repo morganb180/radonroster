@@ -1,6 +1,6 @@
 ---
 title: "Ecosense Lab: Radon Lab in Irvine, CA | Radon Roster"
-description: "Ecosense Lab (Irvine, CA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Ecosense Lab (Irvine, CA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ecosense-lab-f3731/
 ---
 
@@ -14,9 +14,6 @@ Irvine, CA · 1 certified person
 
 ## Contact
 
-* Phone: [(408) 634-2955](tel:4086342955)
-* Email: [jlee@ecosense.io](mailto:jlee@ecosense.io)
-* Website: [https://ecosense.io/](https://ecosense.io/)
 * Address: 1 Technology Dr, Irvine, CA
 
 ## PA DEP certification

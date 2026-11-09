@@ -1,6 +1,6 @@
 ---
 title: "Anthony Kovatto: Radon Tester in Macungie, PA | Radon Roster"
-description: "Anthony Kovatto (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Anthony Kovatto (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/anthony-kovatto-f3388/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(484) 633-5044](tel:4846335044)
-* Email: [valleyhomeinspectors@gmail.com](mailto:valleyhomeinspectors@gmail.com)
 * Address: 224 Walker Rd, Macungie, PA
 
 ## PA DEP certification

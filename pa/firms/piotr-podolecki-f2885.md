@@ -1,6 +1,6 @@
 ---
 title: "Piotr Podolecki: Radon Mitigator in Alburtis, PA"
-description: "Piotr Podolecki (Alburtis, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Piotr Podolecki (Alburtis, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/piotr-podolecki-f2885/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(484) 547-3496](tel:4845473496)
-* Email: [radongone@ymail.com](mailto:radongone@ymail.com)
 * Address: 11 Timber Dr, Alburtis, PA
 
 ## PA DEP certification

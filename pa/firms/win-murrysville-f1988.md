@@ -1,6 +1,6 @@
 ---
 title: "Win - Murrysville: Radon Tester in Pittsburgh, PA"
-description: "Win - Murrysville (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Win - Murrysville (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/win-murrysville-f1988/
 ---
 
@@ -16,9 +16,6 @@ Pittsburgh, PA · Allegheny County · 4 certified people
 
 ## Contact
 
-* Phone: [(724) 325-0020](tel:7243250020)
-* Email: [ajones@wini.com;cmurphy@wini.com;rkrause@wini.com](mailto:ajones@wini.com;cmurphy@wini.com;rkrause@wini.com)
-* Website: [https://wini.com/](https://wini.com/)
 * Address: 8 Aloha Rd, Pittsburgh, PA
 
 ## PA DEP certification

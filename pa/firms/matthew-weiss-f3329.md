@@ -1,6 +1,6 @@
 ---
 title: "Matthew Weiss: Radon Tester in Emsworth, PA | Radon Roster"
-description: "Matthew Weiss (Emsworth, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matthew Weiss (Emsworth, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-weiss-f3329/
 ---
 
@@ -16,9 +16,6 @@ Emsworth, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 729-2155](tel:4127292155)
-* Email: [matt@g5inspections.com](mailto:matt@g5inspections.com)
-* Website: [https://www.g5inspections.com/](https://www.g5inspections.com/)
 * Address: 238 Center Ave, Emsworth, PA
 
 ## PA DEP certification

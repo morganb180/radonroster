@@ -45,8 +45,6 @@ New Castle3 certified people
 #### Address
 
 * 241 W Grant St, New Castle, PA
-* ✉ [jitaliano@lccap.org](mailto:jitaliano@lccap.org)
-* [lccap.org](https://lccap.org/)
 
 #### Certified individuals
 
@@ -60,7 +58,6 @@ testing #3549 · testing #3550 · testing #8994 · testing #8996
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3549)
 
-[**Call** (724) 656-0090](tel:7246560090)
 
 ### Phillips, Ronald
 
@@ -71,7 +68,6 @@ New Castle1 certified person
 #### Address
 
 * 3003 N Mercer Street Ext, New Castle, PA
-* ✉ [firstdefense26@gmail.com](mailto:firstdefense26@gmail.com)
 
 #### Certified individuals
 
@@ -83,7 +79,6 @@ testing #3764
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3764)
 
-[**Call** (724) 714-4502](tel:7247144502)
 
 ## Which counties border Lawrence County, PA?
 

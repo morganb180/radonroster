@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Barbarini: Radon Mitigator in Erie, PA"
-description: "Nicholas Barbarini (Erie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Nicholas Barbarini (Erie, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/nicholas-barbarini-f3133/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 490-2167](tel:8144902167)
-* Email: [erieradon@gmail.com](mailto:erieradon@gmail.com)
 * Address: 5810 Clinton St, Erie, PA
 
 ## PA DEP certification

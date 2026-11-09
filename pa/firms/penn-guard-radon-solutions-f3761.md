@@ -14,8 +14,6 @@ Selinsgrove, PA · Snyder County · 2 certified people
 
 ## Contact
 
-* Phone: [(610) 496-9810](tel:6104969810)
-* Email: [jamie@dogtowncontracting.com](mailto:jamie@dogtowncontracting.com)
 * Address: 806 9Th St, Selinsgrove, PA
 
 ## PA DEP certification

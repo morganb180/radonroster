@@ -66,8 +66,6 @@ Quakertown3 certified people
 #### Address
 
 * 2288 Township Rd, Quakertown, PA
-* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
-* ✉ [theradonbros@gmail.com](mailto:theradonbros@gmail.com)
 
 #### Certified individuals
 
@@ -81,7 +79,6 @@ mitigation #3556 · mitigation #7668 · mitigation #7712 · testing #3714 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3556)
 
-[**Call** (484) 460-9697](tel:4844609697)
 
 ### The Radon Bros
 
@@ -92,7 +89,6 @@ Quakertown1 certified person
 #### Address
 
 * 2288 Township Road, Quakertown, PA
-* ✉ [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
 
 #### Certified individuals
 
@@ -104,7 +100,6 @@ mitigation #7699
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7699)
 
-[**Call** (484) 460-9697](tel:4844609697)
 
 ### Indoor Air Surgeons, LLC
 
@@ -115,7 +110,6 @@ Bensalem1 certified person
 #### Address
 
 * 3070 Bristol Pike, Bensalem, PA
-* ✉ [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
 
 #### Certified individuals
 
@@ -127,7 +121,6 @@ mitigation #3063 · mitigation #3347
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3063)
 
-[**Call** (215) 239-8628](tel:2152398628)
 
 ### Insight Property Services
 
@@ -138,8 +131,6 @@ Doylestown1 certified person
 #### Address
 
 * 368 Pine Run Rd, Doylestown, PA
-* ✉ [insightinspect@comcast.net](mailto:insightinspect@comcast.net)
-* [insightservices-pa.com](https://www.insightservices-pa.com/)
 
 #### Certified individuals
 
@@ -151,7 +142,6 @@ mitigation #1990 · testing #1990
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1990)
 
-[**Call** (215) 674-1808](tel:2156741808)
 
 [See all firms near Quakertown →](https://radonroster.com/pa/city/quakertown-pa/)
 

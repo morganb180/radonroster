@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 432-9575](tel:7174329575)
-* Email: [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
 * Address: 247 Mine Bank Rd, Wellsville, PA
 
 ## PA DEP certification

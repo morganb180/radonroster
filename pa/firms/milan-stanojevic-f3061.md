@@ -1,6 +1,6 @@
 ---
 title: "Milan Stanojevic: Radon Tester in Pittsburgh, PA"
-description: "Milan Stanojevic (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Milan Stanojevic (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/milan-stanojevic-f3061/
 ---
 
@@ -16,9 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 207-9738](tel:4122079738)
-* Email: [sales@prohomeinspections.com](mailto:sales@prohomeinspections.com)
-* Website: [https://prohomeinspections.com/](https://prohomeinspections.com/)
 * Address: 199 Jill Dr, Pittsburgh, PA
 
 ## PA DEP certification

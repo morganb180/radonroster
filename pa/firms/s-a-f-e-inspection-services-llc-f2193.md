@@ -14,8 +14,6 @@ East Berlin, PA · Adams County · 2 certified people
 
 ## Contact
 
-* Phone: [(717) 491-1740](tel:7174911740)
-* Email: [safeinspectionservices@gmail.com](mailto:safeinspectionservices@gmail.com)
 * Address: Po Box 343, East Berlin, PA
 
 ## PA DEP certification

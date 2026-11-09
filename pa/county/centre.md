@@ -45,7 +45,6 @@ Bellefonte2 certified people
 #### Address
 
 * 86 Quartz Dr, Bellefonte, PA
-* ✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
 
 #### Certified individuals
 
@@ -58,7 +57,6 @@ mitigation #3484 · testing #3484 · testing #3710 · testing #9103
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
 
-[**Call** (814) 380-7126](tel:8143807126)
 
 ### Oak Leaf Environmental
 
@@ -69,8 +67,6 @@ Centre Hall1 certified person
 #### Address
 
 * 409 S Pennsylvania Ave, Centre Hall, PA
-* ✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)
-* [oakleafenv.com](https://www.oakleafenv.com/)
 
 #### Certified individuals
 
@@ -82,7 +78,6 @@ mitigation #3726 · mitigation #3727 · testing #3726 · testing #3727
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
 
-[**Call** (814) 876-2228](tel:8148762228)
 
 ### Glantz, Frank
 
@@ -93,8 +88,6 @@ Lemont1 certified person
 #### Address
 
 * Po Box 866, Lemont, PA
-* ✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)
-* [raid-on-radon.com](https://raid-on-radon.com/)
 
 #### Certified individuals
 
@@ -106,7 +99,6 @@ mitigation #2135
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
 
-[**Call** (814) 278-7751](tel:8142787751)
 
 ## Where can I get radon testing in Centre County, PA? (1 firm)
 
@@ -134,7 +126,6 @@ testing #8453
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8453)
 
-[**Call** (814) 238-5927](tel:8142385927)
 
 ## Which counties border Centre County, PA?
 

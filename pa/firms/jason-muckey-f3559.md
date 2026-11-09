@@ -1,6 +1,6 @@
 ---
 title: "Jason Muckey: Radon Testing & Mitigation in Horseheads, NY"
-description: "Jason Muckey (Horseheads, NY) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jason Muckey (Horseheads, NY) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-muckey-f3559/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(607) 426-6242](tel:6074266242)
-* Email: [info@precisioninspect.com](mailto:info@precisioninspect.com)
-* Website: [https://www.precisioninspect.com/](https://www.precisioninspect.com/)
 * Address: 2300 Grand Central Ave, Horseheads, NY
 
 ## PA DEP certification

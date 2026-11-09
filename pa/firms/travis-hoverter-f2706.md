@@ -1,6 +1,6 @@
 ---
 title: "Travis Hoverter: Radon Tester in Chambersburg, PA"
-description: "Travis Hoverter (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Travis Hoverter (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/travis-hoverter-f2706/
 ---
 
@@ -16,8 +16,6 @@ Chambersburg, PA · Franklin County · 1 certified person
 
 ## Contact
 
-* Phone: [(800) 791-7920](tel:8007917920)
-* Email: [travisscpa@comcast.net](mailto:travisscpa@comcast.net)
 * Address: 452 Allen Dr, Chambersburg, PA
 
 ## PA DEP certification

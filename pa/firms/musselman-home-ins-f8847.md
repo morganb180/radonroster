@@ -1,6 +1,6 @@
 ---
 title: "Musselman Home Ins: Radon Tester in Harleysville, PA"
-description: "Musselman Home Ins (Harleysville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Musselman Home Ins (Harleysville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/musselman-home-ins-f8847/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 328-4663](tel:2673284663)
-* Email: [musselmanhomeinspection@gmail.com](mailto:musselmanhomeinspection@gmail.com)
 * Address: 470 Creekview Dr, Harleysville, PA
 
 ## PA DEP certification

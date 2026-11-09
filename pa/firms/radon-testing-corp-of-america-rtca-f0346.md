@@ -30,9 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(914) 345-3380](tel:9143453380)
-* Email: [info@rtca.com](mailto:info@rtca.com)
-* Website: [https://rtca.com/](https://rtca.com/)
 * Address: 2 Hayes St, Elmsford, NY
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Patrick Mcmanus: Radon Tester in North Huntingdon, PA"
-description: "Patrick Mcmanus (North Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Patrick Mcmanus (North Huntingdon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/patrick-mcmanus-f3264/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 515-2067](tel:7245152067)
-* Email: [acloselookinspections@comcast.net](mailto:acloselookinspections@comcast.net)
 * Address: 608 Cedardale Dr, North Huntingdon, PA
 
 ## PA DEP certification

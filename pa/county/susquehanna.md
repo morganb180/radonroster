@@ -45,7 +45,6 @@ Clifford Townshi1 certified person
 #### Address
 
 * 5057 State Route 247, Clifford Townshi, PA
-* ✉ [clearviewinspections2018@gmail.com](mailto:clearviewinspections2018@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3359
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3359)
 
-[**Call** (570) 561-3981](tel:5705613981)
 
 ## Which counties border Susquehanna County, PA?
 

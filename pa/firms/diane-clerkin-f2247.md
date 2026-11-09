@@ -1,6 +1,6 @@
 ---
 title: "Diane Clerkin: Radon Tester in Ambler, PA | Radon Roster"
-description: "Diane Clerkin (Ambler, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Diane Clerkin (Ambler, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/diane-clerkin-f2247/
 ---
 
@@ -16,8 +16,6 @@ Ambler, PA · Montgomery County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 896-1922](tel:2158961922)
-* Email: [dclerkin99@verizon.net](mailto:dclerkin99@verizon.net)
 * Address: 424 Marion Ave, Ambler, PA
 
 ## PA DEP certification

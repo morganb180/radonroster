@@ -16,8 +16,6 @@ Coatesville, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 857-0206](tel:6108570206)
-* Email: [radonwomen@verizon.net](mailto:radonwomen@verizon.net)
 * Address: 125 Nevins Way, Coatesville, PA
 
 ## PA DEP certification

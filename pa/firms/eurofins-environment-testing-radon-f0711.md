@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(972) 236-7133](tel:9722367133)
-* Email: [emmanuel.ortiz@et.eurofinsus.com](mailto:emmanuel.ortiz@et.eurofinsus.com)
 * Address: 2501 Mayes Rd, Carrollton, TX
 
 ## PA DEP certification

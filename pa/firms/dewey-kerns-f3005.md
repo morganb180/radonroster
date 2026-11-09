@@ -1,6 +1,6 @@
 ---
 title: "Dewey Kerns: Radon Tester in Effort, PA | Radon Roster"
-description: "Dewey Kerns (Effort, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dewey Kerns (Effort, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dewey-kerns-f3005/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 534-5523](tel:5705345523)
-* Email: [dewey10859@gmail.com](mailto:dewey10859@gmail.com)
 * Address: Po Box 263, Effort, PA
 
 ## PA DEP certification

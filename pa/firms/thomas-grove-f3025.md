@@ -1,6 +1,6 @@
 ---
 title: "Thomas Grove: Radon Tester in Irwin, PA | Radon Roster"
-description: "Thomas Grove (Irwin, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Grove (Irwin, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-grove-f3025/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 554-0634](tel:4125540634)
-* Email: [tomgrove@comcast.net](mailto:tomgrove@comcast.net)
 * Address: 118 Dolores Dr, Irwin, PA
 
 ## PA DEP certification

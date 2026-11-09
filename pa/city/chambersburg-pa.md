@@ -51,8 +51,6 @@ Chambersburg1 certified person
 #### Address
 
 * 941 Progress Rd, Chambersburg, PA
-* ✉ [info@baxtergroupinc.com](mailto:info@baxtergroupinc.com)
-* [baxtergroupinc.com](https://baxtergroupinc.com/)
 
 #### Certified individuals
 
@@ -64,7 +62,6 @@ testing #8846
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8846)
 
-[**Call** (717) 263-7341](tel:7172637341)
 
 ### Hoverter, Travis
 
@@ -75,7 +72,6 @@ Chambersburg1 certified person
 #### Address
 
 * 452 Allen Dr, Chambersburg, PA
-* ✉ [travisscpa@comcast.net](mailto:travisscpa@comcast.net)
 
 #### Certified individuals
 
@@ -87,7 +83,6 @@ testing #2706
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2706)
 
-[**Call** (800) 791-7920](tel:8007917920)
 
 ## Which other certified radon firms are in Franklin County? (3)
 
@@ -106,8 +101,6 @@ Shippensburg1 certified person
 #### Address
 
 * 919 Clearfield Rd, Shippensburg, PA
-* ✉ [alan@mcjhomeinspection.com](mailto:alan@mcjhomeinspection.com)
-* [mcjhomeinspection.com](https://mcjhomeinspection.com/)
 
 #### Certified individuals
 
@@ -119,7 +112,6 @@ testing #3462
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3462)
 
-[**Call** (717) 502-4402](tel:7175024402)
 
 ### Smith, Maren
 
@@ -130,7 +122,6 @@ Waynesboro1 certified person
 #### Address
 
 * 309 S Oller Ave, Waynesboro, PA
-* ✉ [smithmaren06@gmail.com](mailto:smithmaren06@gmail.com)
 
 #### Certified individuals
 
@@ -142,7 +133,6 @@ testing #3625
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3625)
 
-[**Call** (717) 404-9006](tel:7174049006)
 
 ### Young, Jason
 
@@ -153,8 +143,6 @@ Waynesboro1 certified person
 #### Address
 
 * 13290 Scott Rd, Waynesboro, PA
-* ✉ [jason.young@elementaletc.com](mailto:jason.young@elementaletc.com)
-* [elementaletc.com](https://www.elementaletc.com/)
 
 #### Certified individuals
 
@@ -166,7 +154,6 @@ testing #3601
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3601)
 
-[**Call** (610) 248-0825](tel:6102480825)
 
 ## Which radon mitigation firms near Chambersburg are in neighboring counties? (5)
 
@@ -181,8 +168,6 @@ Gettysburg5 certified people
 #### Address
 
 * 282 Longstreet Dr, Gettysburg, PA
-* ✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
-* [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
 
 #### Certified individuals
 
@@ -198,7 +183,6 @@ mitigation #0275 · mitigation #1688 · mitigation #7624 · testing #0275 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
 
-[**Call** (717) 334-3435](tel:7173343435)
 
 ### American Radon Solutions, Inc.
 
@@ -209,7 +193,6 @@ Camp Hill2 certified people
 #### Address
 
 * 3537 Hartzdale Dr Suite H, Camp Hill, PA
-* ✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -222,7 +205,6 @@ mitigation #1418 · mitigation #1419 · mitigation #7058
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
 
-[**Call** (717) 795-9367](tel:7177959367)
 
 ### Precision Inspections & Radon Solutions
 
@@ -233,9 +215,6 @@ Mechanicsburg4 certified people
 #### Address
 
 * 4900 Carlisle Pk #277, Mechanicsburg, PA
-* ✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)
-* ✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)
-* [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
 
 #### Certified individuals
 
@@ -250,7 +229,6 @@ mitigation #2404 · mitigation #3355 · mitigation #7544 · testing #3104 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
 
-[**Call** (717) 763-1373](tel:7177631373)
 
 ### Ro, Jooik
 
@@ -261,7 +239,6 @@ Carlisle1 certified person
 #### Address
 
 * 30 Sunset Dr, Carlisle, PA
-* ✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
 
 #### Certified individuals
 
@@ -273,7 +250,6 @@ mitigation #2760 · testing #2760
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
 
-[**Call** (717) 226-7179](tel:7172267179)
 
 ### Sheely, Mike
 
@@ -284,7 +260,6 @@ Enola1 certified person
 #### Address
 
 * 1000 Wolfe Rd, Enola, PA
-* ✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
 
 #### Certified individuals
 
@@ -296,7 +271,6 @@ mitigation #2691
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
 
-[**Call** (717) 732-6538](tel:7177326538)
 
 ## Franklin County radon test data
 

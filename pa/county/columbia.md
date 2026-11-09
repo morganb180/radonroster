@@ -45,7 +45,6 @@ Bloomsburg1 certified person
 #### Address
 
 * 422 Valley Rd, Bloomsburg, PA
-* ✉ [paradonsolutions@yahoo.com](mailto:paradonsolutions@yahoo.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3163 · testing #3163
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3163)
 
-[**Call** (570) 384-3574](tel:5703843574)
 
 ## Where can I get radon testing in Columbia County, PA? (1 firm)
 
@@ -72,8 +70,6 @@ Millville1 certified person
 #### Address
 
 * 203 Hogs Back Rd, Millville, PA
-* ✉ [walt@rockhouseinspection.com](mailto:walt@rockhouseinspection.com)
-* [rockhouseinspection.com](https://www.rockhouseinspection.com/)
 
 #### Certified individuals
 
@@ -85,7 +81,6 @@ testing #3598
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3598)
 
-[**Call** (570) 380-9110](tel:5703809110)
 
 ## Which counties border Columbia County, PA?
 

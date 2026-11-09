@@ -1,6 +1,6 @@
 ---
 title: "Robert Morrow: Radon Tester in Templeton, PA | Radon Roster"
-description: "Robert Morrow (Templeton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Robert Morrow (Templeton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/robert-morrow-f3100/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 421-9100](tel:4124219100)
-* Email: [rob@inspectioneeringpgh.com](mailto:rob@inspectioneeringpgh.com)
-* Website: [https://www.inspectioneeringpgh.com/](https://www.inspectioneeringpgh.com/)
 * Address: 150 River Rd, Templeton, PA
 
 ## PA DEP certification

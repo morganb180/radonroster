@@ -16,9 +16,6 @@ Freehold, NJ · 5 certified people
 
 ## Contact
 
-* Phone: [(732) 534-4892](tel:7325344892)
-* Email: [jason@certified-enviro.com](mailto:jason@certified-enviro.com)
-* Website: [https://www.certified-enviro.com/](https://www.certified-enviro.com/)
 * Address: 918 State Highway 33, Freehold, NJ
 
 ## PA DEP certification

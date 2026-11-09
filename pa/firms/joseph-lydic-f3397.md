@@ -1,6 +1,6 @@
 ---
 title: "Joseph Lydic: Radon Tester in Canonsburg, PA | Radon Roster"
-description: "Joseph Lydic (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Lydic (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-lydic-f3397/
 ---
 
@@ -16,8 +16,6 @@ Canonsburg, PA · Washington County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 912-8686](tel:4129128686)
-* Email: [peakinspectorjoe@gmail.com](mailto:peakinspectorjoe@gmail.com)
 * Address: 3935 Washington Rd., Canonsburg, PA
 
 ## PA DEP certification

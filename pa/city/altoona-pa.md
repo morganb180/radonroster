@@ -53,7 +53,6 @@ Altoona2 certified people
 #### Address
 
 * 3499 Kettle Rd, Altoona, PA
-* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
 
 #### Certified individuals
 
@@ -66,7 +65,6 @@ mitigation #2854 · testing #2854 · testing #3404 · testing #9075
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
 
-[**Call** (814) 934-0905](tel:8149340905)
 
 ## Which other certified radon firms are in Blair County? (2)
 
@@ -85,7 +83,6 @@ Duncansville1 certified person
 #### Address
 
 * 615 Aspen Ln, Duncansville, PA
-* ✉ [akinspections@yahoo.com](mailto:akinspections@yahoo.com)
 
 #### Certified individuals
 
@@ -97,7 +94,6 @@ testing #3171
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3171)
 
-[**Call** (814) 931-1745](tel:8149311745)
 
 ### Ott, Dwayne
 
@@ -108,8 +104,6 @@ Tyrone1 certified person
 #### Address
 
 * 311 Bell Tip Rd, Tyrone, PA
-* ✉ [dwayne@advantageinsp.com](mailto:dwayne@advantageinsp.com)
-* [advantageinsp.com](https://advantageinsp.com/)
 
 #### Certified individuals
 
@@ -121,7 +115,6 @@ testing #1962
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1962)
 
-[**Call** (814) 937-2276](tel:8149372276)
 
 ## Which radon mitigation firms near Altoona are in neighboring counties? (4)
 
@@ -136,7 +129,6 @@ Johnstown1 certified person
 #### Address
 
 * 124 Old Colony Dr, Johnstown, PA
-* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
 
 #### Certified individuals
 
@@ -148,7 +140,6 @@ mitigation #2037
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
 
-[**Call** (814) 525-0895](tel:8145250895)
 
 ### Glantz, Frank
 
@@ -159,8 +150,6 @@ Lemont1 certified person
 #### Address
 
 * Po Box 866, Lemont, PA
-* ✉ [frank@raid-on-radon.com](mailto:frank@raid-on-radon.com)
-* [raid-on-radon.com](https://raid-on-radon.com/)
 
 #### Certified individuals
 
@@ -172,7 +161,6 @@ mitigation #2135
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2135)
 
-[**Call** (814) 278-7751](tel:8142787751)
 
 ### Mckee Environmental, Inc.
 
@@ -183,7 +171,6 @@ Bellefonte2 certified people
 #### Address
 
 * 86 Quartz Dr, Bellefonte, PA
-* ✉ [dougmckee13@gmail.com](mailto:dougmckee13@gmail.com)
 
 #### Certified individuals
 
@@ -196,7 +183,6 @@ mitigation #3484 · testing #3484 · testing #3710 · testing #9103
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3484)
 
-[**Call** (814) 380-7126](tel:8143807126)
 
 ### Oak Leaf Environmental
 
@@ -207,8 +193,6 @@ Centre Hall1 certified person
 #### Address
 
 * 409 S Pennsylvania Ave, Centre Hall, PA
-* ✉ [tom@oakleafenv.com](mailto:tom@oakleafenv.com)
-* [oakleafenv.com](https://www.oakleafenv.com/)
 
 #### Certified individuals
 
@@ -220,7 +204,6 @@ mitigation #3726 · mitigation #3727 · testing #3726 · testing #3727
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3726)
 
-[**Call** (814) 876-2228](tel:8148762228)
 
 ## Blair County radon test data
 

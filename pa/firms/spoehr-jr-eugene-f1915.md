@@ -1,6 +1,6 @@
 ---
 title: "Spoehr, Jr, Eugene: Radon Tester in Chadds Ford, PA"
-description: "Spoehr, Jr, Eugene (Chadds Ford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Spoehr, Jr, Eugene (Chadds Ford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/spoehr-jr-eugene-f1915/
 ---
 
@@ -14,8 +14,6 @@ Chadds Ford, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 328-5525](tel:6103285525)
-* Email: [denise.homepro@comcast.net](mailto:denise.homepro@comcast.net)
 * Address: 226 A Ridge Rd, Chadds Ford, PA
 
 ## PA DEP certification

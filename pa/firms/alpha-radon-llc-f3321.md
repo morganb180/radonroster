@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 480-5828](tel:7244805828)
-* Email: [radonpros@alpharadonllc.com](mailto:radonpros@alpharadonllc.com)
-* Website: [https://alpharadonllc.com/](https://alpharadonllc.com/)
 * Address: 121 Cottonwood Dr, Aliquippa, PA
 
 ## PA DEP certification

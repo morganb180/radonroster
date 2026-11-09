@@ -1,6 +1,6 @@
 ---
 title: "Gregory Hancock: Radon Tester in Woolrich, PA | Radon Roster"
-description: "Gregory Hancock (Woolrich, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Gregory Hancock (Woolrich, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/gregory-hancock-f1712/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 769-6365](tel:5707696365)
-* Email: [hhi@hancockhomeinspections.com](mailto:hhi@hancockhomeinspections.com)
-* Website: [https://hancockhomeinspections.com/](https://hancockhomeinspections.com/)
 * Address: Po Box 110, Woolrich, PA
 
 ## PA DEP certification

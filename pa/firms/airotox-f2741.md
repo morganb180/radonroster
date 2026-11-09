@@ -1,6 +1,6 @@
 ---
 title: "Airotox: Radon Mitigator in Lansdale, PA | Radon Roster"
-description: "Airotox (Lansdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Airotox (Lansdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/airotox-f2741/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 247-6869](tel:2152476869)
-* Email: [info@airotox.com](mailto:info@airotox.com)
-* Website: [https://airotox.com/](https://airotox.com/)
 * Address: 14 E Main St, Lansdale, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Keith Carpenter: Radon Mitigator in Johnstown, PA"
-description: "Keith Carpenter (Johnstown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Keith Carpenter (Johnstown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/keith-carpenter-f2037/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 525-0895](tel:8145250895)
-* Email: [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
 * Address: 124 Old Colony Dr, Johnstown, PA
 
 ## PA DEP certification

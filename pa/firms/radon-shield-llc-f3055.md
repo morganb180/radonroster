@@ -1,6 +1,6 @@
 ---
 title: "Radon Shield LLC: Radon Mitigator in Trenton, NJ"
-description: "Radon Shield LLC (Trenton, NJ) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Radon Shield LLC (Trenton, NJ) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/radon-shield-llc-f3055/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(609) 222-5743](tel:6092225743)
-* Email: [radonshield@yahoo.com](mailto:radonshield@yahoo.com)
 * Address: 757 Beatty St, Trenton, NJ
 
 ## PA DEP certification

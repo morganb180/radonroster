@@ -45,8 +45,6 @@ Chambersburg1 certified person
 #### Address
 
 * 941 Progress Rd, Chambersburg, PA
-* ✉ [info@baxtergroupinc.com](mailto:info@baxtergroupinc.com)
-* [baxtergroupinc.com](https://baxtergroupinc.com/)
 
 #### Certified individuals
 
@@ -58,7 +56,6 @@ testing #8846
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8846)
 
-[**Call** (717) 263-7341](tel:7172637341)
 
 ### Hoverter, Travis
 
@@ -69,7 +66,6 @@ Chambersburg1 certified person
 #### Address
 
 * 452 Allen Dr, Chambersburg, PA
-* ✉ [travisscpa@comcast.net](mailto:travisscpa@comcast.net)
 
 #### Certified individuals
 
@@ -81,7 +77,6 @@ testing #2706
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2706)
 
-[**Call** (800) 791-7920](tel:8007917920)
 
 ### Shirley, Alan
 
@@ -92,8 +87,6 @@ Shippensburg1 certified person
 #### Address
 
 * 919 Clearfield Rd, Shippensburg, PA
-* ✉ [alan@mcjhomeinspection.com](mailto:alan@mcjhomeinspection.com)
-* [mcjhomeinspection.com](https://mcjhomeinspection.com/)
 
 #### Certified individuals
 
@@ -105,7 +98,6 @@ testing #3462
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3462)
 
-[**Call** (717) 502-4402](tel:7175024402)
 
 ### Smith, Maren
 
@@ -116,7 +108,6 @@ Waynesboro1 certified person
 #### Address
 
 * 309 S Oller Ave, Waynesboro, PA
-* ✉ [smithmaren06@gmail.com](mailto:smithmaren06@gmail.com)
 
 #### Certified individuals
 
@@ -128,7 +119,6 @@ testing #3625
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3625)
 
-[**Call** (717) 404-9006](tel:7174049006)
 
 ### Young, Jason
 
@@ -139,8 +129,6 @@ Waynesboro1 certified person
 #### Address
 
 * 13290 Scott Rd, Waynesboro, PA
-* ✉ [jason.young@elementaletc.com](mailto:jason.young@elementaletc.com)
-* [elementaletc.com](https://www.elementaletc.com/)
 
 #### Certified individuals
 
@@ -152,7 +140,6 @@ testing #3601
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3601)
 
-[**Call** (610) 248-0825](tel:6102480825)
 
 ## Which counties border Franklin County, PA?
 

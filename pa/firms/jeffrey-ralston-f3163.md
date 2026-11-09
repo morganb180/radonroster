@@ -16,8 +16,6 @@ Bloomsburg, PA · Columbia County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 384-3574](tel:5703843574)
-* Email: [paradonsolutions@yahoo.com](mailto:paradonsolutions@yahoo.com)
 * Address: 422 Valley Rd, Bloomsburg, PA
 
 ## PA DEP certification

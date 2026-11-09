@@ -1,6 +1,6 @@
 ---
 title: "Heritage Home Inspectors: Radon Tester in Canonsburg, PA"
-description: "Heritage Home Inspectors (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Heritage Home Inspectors (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/heritage-home-inspectors-f3335/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(888) 308-4018](tel:8883084018)
-* Email: [steve@heritagehomeinspector.com](mailto:steve@heritagehomeinspector.com)
-* Website: [https://www.heritagehomeinspector.com/](https://www.heritagehomeinspector.com/)
 * Address: 1148 Meadowbrook Dr, Canonsburg, PA
 
 ## PA DEP certification

@@ -14,8 +14,6 @@ Uniontown, PA · Fayette County · 2 certified people
 
 ## Contact
 
-* Phone: [(724) 570-6196](tel:7245706196)
-* Email: [tammyjobes@icloud.com](mailto:tammyjobes@icloud.com)
 * Address: 265 Shadyside Road, Uniontown, PA
 
 ## PA DEP certification

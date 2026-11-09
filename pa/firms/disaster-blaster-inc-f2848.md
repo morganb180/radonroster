@@ -1,6 +1,6 @@
 ---
 title: "Disaster Blaster Inc: Radon Mitigator in Scranton, PA"
-description: "Disaster Blaster Inc (Scranton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Disaster Blaster Inc (Scranton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/disaster-blaster-inc-f2848/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 963-1123](tel:5709631123)
-* Email: [g_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)
-* Website: [https://www.disasterblaster.com/](https://www.disasterblaster.com/)
 * Address: 536 N Main Ave, Scranton, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Derek Pearsall: Radon Tester in Richland, PA | Radon Roster"
-description: "Derek Pearsall (Richland, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Derek Pearsall (Richland, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/derek-pearsall-f3626/
 ---
 
@@ -16,9 +16,6 @@ Richland, PA · Lebanon County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 745-5545](tel:7177455545)
-* Email: [derek@chestnutinspections.com](mailto:derek@chestnutinspections.com)
-* Website: [https://chestnutinspections.com/](https://chestnutinspections.com/)
 * Address: 207 Chestnut Street, Richland, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Darrell Barrick: Radon Tester in Hanover, PA | Radon Roster"
-description: "Darrell Barrick (Hanover, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Darrell Barrick (Hanover, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/darrell-barrick-f3623/
 ---
 
@@ -16,8 +16,6 @@ Hanover, PA · Adams County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 495-3600](tel:7174953600)
-* Email: [darrellbarrick@gmail.com](mailto:darrellbarrick@gmail.com)
 * Address: 37 Knisley Dr, Hanover, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Bernard Catanzareti: Radon Tester in Easton, PA"
-description: "Bernard Catanzareti (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Bernard Catanzareti (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/bernard-catanzareti-f2825/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 417-4475](tel:6104174475)
-* Email: [bernie@pennjerseyinspection.com](mailto:bernie@pennjerseyinspection.com)
 * Address: 1177 Dewalt Dr, Easton, PA
 
 ## PA DEP certification

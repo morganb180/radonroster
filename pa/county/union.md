@@ -45,7 +45,6 @@ Union1 certified person
 #### Address
 
 * 201 Furnace Road, Union, PA
-* ✉ [skerstetter@seda-cog.org](mailto:skerstetter@seda-cog.org)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3683
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3683)
 
-[**Call** (570) 524-4491](tel:5705244491)
 
 ## Which counties border Union County, PA?
 

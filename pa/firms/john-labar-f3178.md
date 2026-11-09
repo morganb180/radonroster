@@ -1,6 +1,6 @@
 ---
 title: "John Labar: Radon Tester in Pottstown, PA | Radon Roster"
-description: "John Labar (Pottstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "John Labar (Pottstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-labar-f3178/
 ---
 
@@ -16,8 +16,6 @@ Pottstown, PA · Montgomery County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 551-8892](tel:6105518892)
-* Email: [jslradontesting@gmail.com](mailto:jslradontesting@gmail.com)
 * Address: 983 W Cedarville Rd, Pottstown, PA
 
 ## PA DEP certification

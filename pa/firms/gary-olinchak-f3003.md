@@ -1,6 +1,6 @@
 ---
 title: "Gary Olinchak: Radon Mitigator in Crum Lynne, PA"
-description: "Gary Olinchak (Crum Lynne, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Gary Olinchak (Crum Lynne, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/gary-olinchak-f3003/
 ---
 
@@ -16,8 +16,6 @@ Crum Lynne, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 909-4356](tel:6109094356)
-* Email: [golinchak@aol.com](mailto:golinchak@aol.com)
 * Address: 512 Smiley St, Crum Lynne, PA
 
 ## PA DEP certification

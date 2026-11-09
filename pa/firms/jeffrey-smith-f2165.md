@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Smith: Radon Tester in Ebensburg, PA | Radon Roster"
-description: "Jeffrey Smith (Ebensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jeffrey Smith (Ebensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jeffrey-smith-f2165/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 330-9767](tel:8143309767)
-* Email: [jeff@jeffsmithinspectionservice.com](mailto:jeff@jeffsmithinspectionservice.com)
-* Website: [https://jeffsmithinspectionservice.com/](https://jeffsmithinspectionservice.com/)
 * Address: 1263 Manor Dr, Ebensburg, PA
 
 ## PA DEP certification

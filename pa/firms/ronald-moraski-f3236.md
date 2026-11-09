@@ -1,6 +1,6 @@
 ---
 title: "Ronald Moraski: Radon Tester in Tafton, PA | Radon Roster"
-description: "Ronald Moraski (Tafton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ronald Moraski (Tafton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-moraski-f3236/
 ---
 
@@ -16,8 +16,6 @@ Tafton, PA · Pike County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 290-7629](tel:5702907629)
-* Email: [aspispros@gmail.com](mailto:aspispros@gmail.com)
 * Address: 104 Deer Path, Tafton, PA
 
 ## PA DEP certification

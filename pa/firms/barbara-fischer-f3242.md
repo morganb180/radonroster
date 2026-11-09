@@ -1,6 +1,6 @@
 ---
 title: "Barbara Fischer: Radon Tester in Yardley, PA | Radon Roster"
-description: "Barbara Fischer (Yardley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Barbara Fischer (Yardley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/barbara-fischer-f3242/
 ---
 
@@ -16,8 +16,6 @@ Yardley, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 514-6889](tel:2155146889)
-* Email: [pennhomeradon@gmail.com](mailto:pennhomeradon@gmail.com)
 * Address: 1385 N River Rd, Yardley, PA
 
 ## PA DEP certification

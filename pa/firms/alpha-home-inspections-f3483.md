@@ -1,6 +1,6 @@
 ---
 title: "Alpha Home Inspections: Radon Tester in Duncannon, PA"
-description: "Alpha Home Inspections (Duncannon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Alpha Home Inspections (Duncannon, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/alpha-home-inspections-f3483/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 914-1600](tel:7179141600)
-* Email: [nicole@alphainspection.net](mailto:nicole@alphainspection.net)
-* Website: [https://www.alphainspection.net/](https://www.alphainspection.net/)
 * Address: 47 Cooks Road, Duncannon, PA
 
 ## PA DEP certification

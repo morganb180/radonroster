@@ -1,6 +1,6 @@
 ---
 title: "Guardian Home Inspection, LLC: Radon Tester, Pittsburgh PA"
-description: "Guardian Home Inspection, LLC (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Guardian Home Inspection, LLC (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/guardian-home-inspection-llc-f2745/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 777-9019](tel:7247779019)
-* Email: [guardianhi@guardian-homeinspection.com](mailto:guardianhi@guardian-homeinspection.com)
 * Address: 300 Camp Horne Rd, Pittsburgh, PA
 
 ## PA DEP certification

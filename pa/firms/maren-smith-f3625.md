@@ -1,6 +1,6 @@
 ---
 title: "Maren Smith: Radon Tester in Waynesboro, PA | Radon Roster"
-description: "Maren Smith (Waynesboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Maren Smith (Waynesboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/maren-smith-f3625/
 ---
 
@@ -16,8 +16,6 @@ Waynesboro, PA · Franklin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 404-9006](tel:7174049006)
-* Email: [smithmaren06@gmail.com](mailto:smithmaren06@gmail.com)
 * Address: 309 S Oller Ave, Waynesboro, PA
 
 ## PA DEP certification

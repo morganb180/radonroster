@@ -1,6 +1,6 @@
 ---
 title: "Chris Ritko: Radon Tester in Winter Garden, FL"
-description: "Chris Ritko (Winter Garden, FL) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Chris Ritko (Winter Garden, FL) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/chris-ritko-f3222/
 ---
 
@@ -16,8 +16,6 @@ Winter Garden, FL · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 243-0374](tel:8142430374)
-* Email: [critko@yahoo.com](mailto:critko@yahoo.com)
 * Address: 8786 Sonoma Coast Dr., Winter Garden, FL
 
 ## PA DEP certification

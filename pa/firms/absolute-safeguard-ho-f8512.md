@@ -1,6 +1,6 @@
 ---
 title: "Absolute Safeguard Ho: Radon Tester in Pittsburgh, PA"
-description: "Absolute Safeguard Ho (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Absolute Safeguard Ho (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/absolute-safeguard-ho-f8512/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 934-4273](tel:7249344273)
-* Email: [absolutesafegard@gmail.com](mailto:absolutesafegard@gmail.com)
 * Address: 1063 Norsis Dr, Pittsburgh, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "David Artigliere: Radon Tester in Reading, PA | Radon Roster"
-description: "David Artigliere (Reading, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David Artigliere (Reading, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-artigliere-f2398/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 220-1907](tel:6102201907)
-* Email: [artihi@gmail.com](mailto:artihi@gmail.com)
 * Address: Po Box 4475, Reading, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Honesdale4 certified people
 #### Address
 
 * 152 Bunnell Pond Rd, Honesdale, PA
-* ✉ [northernradonsolutions@ptd.net](mailto:northernradonsolutions@ptd.net)
 
 #### Certified individuals
 
@@ -60,7 +59,6 @@ mitigation #3370 · mitigation #3491 · mitigation #7612 · mitigation #7666 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3370)
 
-[**Call** (570) 647-4995](tel:5706474995)
 
 ## Where can I get radon testing in Wayne County, PA? (3 firms)
 
@@ -75,7 +73,6 @@ Forest City1 certified person
 #### Address
 
 * 395 Brace Brook Rd, Forest City, PA
-* ✉ [bbhi1004@outlook.com](mailto:bbhi1004@outlook.com)
 
 #### Certified individuals
 
@@ -87,7 +84,6 @@ testing #3580
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3580)
 
-[**Call** (570) 878-3108](tel:5708783108)
 
 ### All In One Home Inspections, Inc.
 
@@ -98,7 +94,6 @@ Honesdale3 certified people
 #### Address
 
 * 1029 Main St Ste 2, Honesdale, PA
-* ✉ [ainspect@ptd.net](mailto:ainspect@ptd.net)
 
 #### Certified individuals
 
@@ -112,7 +107,6 @@ testing #3248 · testing #3627 · testing #8755 · testing #9056
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3248)
 
-[**Call** (570) 685-4415](tel:5706854415)
 
 ### Scott, Stephen
 
@@ -123,8 +117,6 @@ Lake Ariel1 certified person
 #### Address
 
 * 678 Stock Farm Rd, Lake Ariel, PA
-* ✉ [stephen@housestandinghomeinspections.com](mailto:stephen@housestandinghomeinspections.com)
-* [housestandinghomeinspections.com](https://housestandinghomeinspections.com/)
 
 #### Certified individuals
 
@@ -136,7 +128,6 @@ testing #3588
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3588)
 
-[**Call** (570) 251-1052](tel:5702511052)
 
 ## Which counties border Wayne County, PA?
 

@@ -1,6 +1,6 @@
 ---
 title: "Comfortspec Home: Radon Tester in Brodheadsville, PA"
-description: "Comfortspec Home (Brodheadsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Comfortspec Home (Brodheadsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/comfortspec-home-f8780/
 ---
 
@@ -16,9 +16,6 @@ Brodheadsville, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(855) 575-4663](tel:8555754663)
-* Email: [kristam@comfortspecpa.com](mailto:kristam@comfortspecpa.com)
-* Website: [https://gopro-spect.com/](https://gopro-spect.com/)
 * Address: 2222 Route 115, Brodheadsville, PA
 
 ## PA DEP certification

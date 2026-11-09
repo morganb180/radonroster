@@ -24,8 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 538-2292](tel:2675382292)
-* Email: [info@eagleinspectionsllc.com](mailto:info@eagleinspectionsllc.com)
 * Address: 1738 Maple Ave, Croydon, PA
 
 ## PA DEP certification

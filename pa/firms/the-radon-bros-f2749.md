@@ -14,9 +14,6 @@ Perkiomenville, PA · Montgomery County · 2 certified people
 
 ## Contact
 
-* Phone: [(484) 460-9697](tel:4844609697)
-* Email: [ballen@theradonbros.com;thollingsworth@theradonbros.com](mailto:ballen@theradonbros.com;thollingsworth@theradonbros.com)
-* Website: [https://theradonbros.com/](https://theradonbros.com/)
 * Address: 2522 Deep Creek Rd, Perkiomenville, PA
 
 ## PA DEP certification

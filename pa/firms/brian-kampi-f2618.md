@@ -1,6 +1,6 @@
 ---
 title: "Brian Kampi: Radon Tester in Mars, PA | Radon Roster"
-description: "Brian Kampi (Mars, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Kampi (Mars, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-kampi-f2618/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 367-0707](tel:4123670707)
-* Email: [gohomefrontllc@gmail.com](mailto:gohomefrontllc@gmail.com)
 * Address: 2175 Ridge Dr, Mars, PA
 
 ## PA DEP certification

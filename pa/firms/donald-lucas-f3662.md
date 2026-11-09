@@ -1,6 +1,6 @@
 ---
 title: "Donald Lucas: Radon Tester in Youngwood, PA | Radon Roster"
-description: "Donald Lucas (Youngwood, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Donald Lucas (Youngwood, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/donald-lucas-f3662/
 ---
 
@@ -16,9 +16,6 @@ Youngwood, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(833) 279-1758](tel:8332791758)
-* Email: [scott@inspectrahome.com](mailto:scott@inspectrahome.com)
-* Website: [https://www.inspectrahome.com/](https://www.inspectrahome.com/)
 * Address: 4 N 3Rd St, Youngwood, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Mangus: Radon Tester in Meadville, PA"
-description: "Benjamin Mangus (Meadville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Benjamin Mangus (Meadville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/benjamin-mangus-f3112/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 720-3053](tel:8147203053)
-* Email: [mangusinspect@hotmail.com](mailto:mangusinspect@hotmail.com)
 * Address: 13520 Smith Cemetery Rd, Meadville, PA
 
 ## PA DEP certification

@@ -14,9 +14,6 @@ Pittsburgh, PA · Allegheny County · 3 certified people
 
 ## Contact
 
-* Phone: [(412) 310-8793](tel:4123108793)
-* Email: [info@welcomehome-homeinspections.com](mailto:info@welcomehome-homeinspections.com)
-* Website: [https://www.welcomehome-homeinspections.com/](https://www.welcomehome-homeinspections.com/)
 * Address: 3751 Merle St, Pittsburgh, PA
 
 ## PA DEP certification

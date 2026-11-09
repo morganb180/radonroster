@@ -1,6 +1,6 @@
 ---
 title: "Richard Barto: Radon Tester in Slippery Rock, PA"
-description: "Richard Barto (Slippery Rock, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Richard Barto (Slippery Rock, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-barto-f2477/
 ---
 
@@ -16,8 +16,6 @@ Slippery Rock, PA · Butler County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 504-2746](tel:7245042746)
-* Email: [richbarto@gmail.com](mailto:richbarto@gmail.com)
 * Address: 112 Shields Ln, Slippery Rock, PA
 
 ## PA DEP certification

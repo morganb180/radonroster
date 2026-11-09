@@ -1,6 +1,6 @@
 ---
 title: "Michael Werst: Radon Tester in Allentown, PA | Radon Roster"
-description: "Michael Werst (Allentown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Werst (Allentown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-werst-f2846/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(484) 767-4420](tel:4847674420)
-* Email: [mwerst@rcn.com](mailto:mwerst@rcn.com)
 * Address: 464 Mountain View Ct, Allentown, PA
 
 ## PA DEP certification

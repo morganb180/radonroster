@@ -1,6 +1,6 @@
 ---
 title: "Rssi: Radon Lab in Morton Grove, IL | Radon Roster"
-description: "Rssi (Morton Grove, IL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Rssi (Morton Grove, IL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rssi-f1246/
 ---
 
@@ -24,9 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(847) 965-1999](tel:8479651999)
-* Email: [eport@rssi.us;radon@rssi.us](mailto:eport@rssi.us;radon@rssi.us)
-* Website: [https://rssi.us/](https://rssi.us/)
 * Address: 6312 Oakton St, Morton Grove, IL
 
 ## PA DEP certification

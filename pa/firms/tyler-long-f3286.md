@@ -1,6 +1,6 @@
 ---
 title: "Tyler Long: Radon Tester in Pennsburg, PA | Radon Roster"
-description: "Tyler Long (Pennsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Tyler Long (Pennsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/tyler-long-f3286/
 ---
 
@@ -16,8 +16,6 @@ Pennsburg, PA · Montgomery County · 4 certified people
 
 ## Contact
 
-* Phone: [(610) 737-7274](tel:6107377274)
-* Email: [josh.kurtz@npiinspect.com;justin.mccurry@npiinspect.com;tyler.long@npiinspect.com;wbv@npiinspect.com](mailto:josh.kurtz@npiinspect.com;justin.mccurry@npiinspect.com;tyler.long@npiinspect.com;wbv@npiinspect.com)
 * Address: 722 Main St, Pennsburg, PA
 
 ## PA DEP certification

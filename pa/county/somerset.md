@@ -45,8 +45,6 @@ Windber1 certified person
 #### Address
 
 * Po Box 213, Windber, PA
-* ✉ [info@hillinspections.com](mailto:info@hillinspections.com)
-* [hillinspections.com](https://hillinspections.com/)
 
 #### Certified individuals
 
@@ -58,7 +56,6 @@ testing #3311
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3311)
 
-[**Call** (833) 445-5776](tel:8334455776)
 
 ## Which counties border Somerset County, PA?
 

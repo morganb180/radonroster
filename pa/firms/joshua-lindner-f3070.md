@@ -1,6 +1,6 @@
 ---
 title: "Joshua Lindner: Radon Tester in Springdale, PA"
-description: "Joshua Lindner (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joshua Lindner (Springdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-lindner-f3070/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 969-4388](tel:4129694388)
-* Email: [joshua@allegiancehi.com](mailto:joshua@allegiancehi.com)
-* Website: [https://allegiancehi.com/](https://allegiancehi.com/)
 * Address: Po Box 75, Springdale, PA
 
 ## PA DEP certification

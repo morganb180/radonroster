@@ -1,6 +1,6 @@
 ---
 title: "William Stout: Radon Tester in Powhatan, VA | Radon Roster"
-description: "William Stout (Powhatan, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "William Stout (Powhatan, VA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-stout-f3711/
 ---
 
@@ -16,8 +16,6 @@ Powhatan, VA · 1 certified person
 
 ## Contact
 
-* Phone: [(804) 314-8274](tel:8043148274)
-* Email: [wstout@recenvironmental.com](mailto:wstout@recenvironmental.com)
 * Address: 1896 Rockpoint Drive, Powhatan, VA
 
 ## PA DEP certification

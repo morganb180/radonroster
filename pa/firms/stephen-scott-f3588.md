@@ -1,6 +1,6 @@
 ---
 title: "Stephen Scott: Radon Tester in Lake Ariel, PA | Radon Roster"
-description: "Stephen Scott (Lake Ariel, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Stephen Scott (Lake Ariel, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-scott-f3588/
 ---
 
@@ -16,9 +16,6 @@ Lake Ariel, PA · Wayne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 251-1052](tel:5702511052)
-* Email: [stephen@housestandinghomeinspections.com](mailto:stephen@housestandinghomeinspections.com)
-* Website: [https://housestandinghomeinspections.com/](https://housestandinghomeinspections.com/)
 * Address: 678 Stock Farm Rd, Lake Ariel, PA
 
 ## PA DEP certification

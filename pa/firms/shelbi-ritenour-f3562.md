@@ -1,6 +1,6 @@
 ---
 title: "Shelbi Ritenour: Radon Tester in Saxonburg, PA"
-description: "Shelbi Ritenour (Saxonburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Shelbi Ritenour (Saxonburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/shelbi-ritenour-f3562/
 ---
 
@@ -16,8 +16,6 @@ Saxonburg, PA · Butler County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 504-3804](tel:7245043804)
-* Email: [bartoshomeinspections@gmail.com](mailto:bartoshomeinspections@gmail.com)
 * Address: 315 Knoch Rd, Saxonburg, PA
 
 ## PA DEP certification

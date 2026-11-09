@@ -1,6 +1,6 @@
 ---
 title: "William Carmichael: Radon Tester in Old Hickory, TN"
-description: "William Carmichael (Old Hickory, TN) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "William Carmichael (Old Hickory, TN) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-carmichael-f3673/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(615) 944-6999](tel:6159446999)
-* Email: [besure1st@gmail.com](mailto:besure1st@gmail.com)
 * Address: 2121 Maricourt St, Old Hickory, TN
 
 ## PA DEP certification

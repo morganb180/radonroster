@@ -1,6 +1,6 @@
 ---
 title: "Joseph Yeager: Radon Tester in Philadelphia, PA"
-description: "Joseph Yeager (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Yeager (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-yeager-f3503/
 ---
 
@@ -16,8 +16,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 205-4453](tel:2152054453)
-* Email: [joseph.s.yeager@gmail.com](mailto:joseph.s.yeager@gmail.com)
 * Address: 185 Levering Street, Philadelphia, PA
 
 ## PA DEP certification

@@ -14,8 +14,6 @@ Mountain Top, PA · Luzerne County · 5 certified people
 
 ## Contact
 
-* Phone: [(570) 747-2366](tel:5707472366)
-* Email: [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
 * Address: 116 S Main Rd, Mountain Top, PA
 
 ## PA DEP certification

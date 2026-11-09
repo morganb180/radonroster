@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 898-2587](tel:7248982587)
-* Email: [bill@kennihans.com](mailto:bill@kennihans.com)
-* Website: [https://www.kennihans.com/](https://www.kennihans.com/)
 * Address: 530 Steiner Bridge Rd, Valencia, PA
 
 ## PA DEP certification

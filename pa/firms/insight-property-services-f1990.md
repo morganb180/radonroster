@@ -14,9 +14,6 @@ Doylestown, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 674-1808](tel:2156741808)
-* Email: [insightinspect@comcast.net](mailto:insightinspect@comcast.net)
-* Website: [https://www.insightservices-pa.com/](https://www.insightservices-pa.com/)
 * Address: 368 Pine Run Rd, Doylestown, PA
 
 ## PA DEP certification

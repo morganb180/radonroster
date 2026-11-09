@@ -1,6 +1,6 @@
 ---
 title: "Yvonne Sorovacu: Radon Tester in Harrison City, PA"
-description: "Yvonne Sorovacu (Harrison City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Yvonne Sorovacu (Harrison City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/yvonne-sorovacu-f3660/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 392-7023](tel:7243927023)
-* Email: [yvonne@protectpt.org](mailto:yvonne@protectpt.org)
 * Address: Po Box 137, Harrison City, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Rvs Radon Mitigation: Radon Mitigator in Philadelphia, PA"
-description: "Rvs Radon Mitigation (Philadelphia, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Rvs Radon Mitigation (Philadelphia, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rvs-radon-mitigation-f7735/
 ---
 
@@ -30,7 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 269-5573](tel:2672695573)
 * Address: 294 E Cheltenham Ave, Philadelphia, PA
 
 ## PA DEP certification

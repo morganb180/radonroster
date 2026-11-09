@@ -1,6 +1,6 @@
 ---
 title: "Nathan Braden: Radon Tester in Derry, PA | Radon Roster"
-description: "Nathan Braden (Derry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Nathan Braden (Derry, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/nathan-braden-f3455/
 ---
 
@@ -16,8 +16,6 @@ Derry, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 708-5361](tel:7247085361)
-* Email: [bradeninspectionsllc@gmail.com](mailto:bradeninspectionsllc@gmail.com)
 * Address: 307 Pandora Rd, Derry, PA
 
 ## PA DEP certification
