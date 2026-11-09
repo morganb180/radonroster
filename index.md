@@ -4,17 +4,17 @@ description: "Radon Roster is a free directory of PA DEP-certified radon testers
 canonical: https://radonroster.com/
 ---
 
-Pennsylvania · all 67 counties
+414 DEP-certified firms · all 67 Pennsylvania counties
 
-# Radon Roster: find a certified radon pro in Pennsylvania.
+# Hire a certified radon pro you can actually verify.
 
-Radon Roster is a free directory of Pennsylvania DEP-certified radon testing, mitigation and laboratory firms, with radon test data for all 67 counties.
+Radon Roster is a free directory of Pennsylvania DEP-certified testing, mitigation and laboratory firms. Every listing shows the certification ID from the PA DEP list. One request goes to up to 3 firms.
 
-352 certified testing firms · short-term tests take 2–7 days 101 certified mitigation firms · get two written quotes 18 DEP-certified radon labs Enter your result, then your ZIP, city or county
+352 certified testing firms · short-term tests take 2–7 days. 101 certified mitigation firms · get two written quotes. 18 DEP-certified radon labs. Enter your result, then your ZIP, city or county.
 
-* **DEP ID on every listing**Check it against the state record.
-* **Never ranked by payment**Ordered by location and name.
-* **Sourced and dated**Refreshed with each DEP list.
+* **DEP ID on every listing.** From the PA DEP lists dated Oct 1, 2026. Check it against the state record.
+* **No account needed.** One form. We email up to 3 firms. They contact you.
+* **Firms can't pay to be picked.** Free listings are ordered by location and name.
 
 414 certified firms (101 mitigation, 352 testing, 18 labs) and 742 certified individuals, taken from Pennsylvania DEP records. Every listing names the firm, shows its DEP IDs and links the source.
 
