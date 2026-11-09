@@ -1,6 +1,6 @@
 ---
 title: "James Labar: Radon Tester in Downingtown, PA | Radon Roster"
-description: "James Labar (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "James Labar (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-labar-f3756/
 ---
 
@@ -16,8 +16,6 @@ Downingtown, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 909-3649](tel:6109093649)
-* Email: [james.labar@gmail.com](mailto:james.labar@gmail.com)
 * Address: 246 Snow Ln, Downingtown, PA
 
 ## PA DEP certification

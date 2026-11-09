@@ -1,6 +1,6 @@
 ---
 title: "Derek Pragle: Radon Tester in Mount Bethel, PA"
-description: "Derek Pragle (Mount Bethel, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Derek Pragle (Mount Bethel, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/derek-pragle-f3386/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 897-5050](tel:5708975050)
-* Email: [accuviewhome@outlook.com](mailto:accuviewhome@outlook.com)
 * Address: 1728 S Delaware Dr, Mount Bethel, PA
 
 ## PA DEP certification

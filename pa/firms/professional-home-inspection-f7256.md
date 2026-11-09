@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(607) 773-1519](tel:6077731519)
-* Email: [george@professionalhome.com](mailto:george@professionalhome.com)
-* Website: [https://www.professionalhome.com/](https://www.professionalhome.com/)
 * Address: 1278 Vestal Avenue, Binghamton, NY
 
 ## PA DEP certification

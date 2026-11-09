@@ -1,6 +1,6 @@
 ---
 title: "Pillar To Post: Radon Tester in Morrisville, PA"
-description: "Pillar To Post (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Pillar To Post (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/pillar-to-post-f8688/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 343-7766](tel:2153437766)
-* Email: [pillar2post@comcast.net](mailto:pillar2post@comcast.net)
 * Address: 81 Big Oak Rd Ste 116, Morrisville, PA
 
 ## PA DEP certification

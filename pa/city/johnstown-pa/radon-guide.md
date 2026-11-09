@@ -73,7 +73,6 @@ Johnstown1 certified person
 #### Address
 
 * 124 Old Colony Dr, Johnstown, PA
-* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
 
 #### Certified individuals
 
@@ -85,7 +84,6 @@ mitigation #2037
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
 
-[**Call** (814) 525-0895](tel:8145250895)
 
 [See all firms near Johnstown →](https://radonroster.com/pa/city/johnstown-pa/)
 

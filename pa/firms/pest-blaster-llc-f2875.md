@@ -1,6 +1,6 @@
 ---
 title: "Pest Blaster LLC: Radon Tester in Morrisville, PA"
-description: "Pest Blaster LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Pest Blaster LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/pest-blaster-llc-f2875/
 ---
 
@@ -14,9 +14,6 @@ Morrisville, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 295-5555](tel:2152955555)
-* Email: [mike@pestblaster.com](mailto:mike@pestblaster.com)
-* Website: [https://www.pestblaster.com/](https://www.pestblaster.com/)
 * Address: 101 Juliet Rd, Morrisville, PA
 
 ## PA DEP certification

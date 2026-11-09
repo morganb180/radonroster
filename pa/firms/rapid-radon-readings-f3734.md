@@ -1,6 +1,6 @@
 ---
 title: "Rapid Radon Readings: Radon Tester in Wexford, PA"
-description: "Rapid Radon Readings (Wexford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Rapid Radon Readings (Wexford, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rapid-radon-readings-f3734/
 ---
 
@@ -14,8 +14,6 @@ Wexford, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 284-3630](tel:4122843630)
-* Email: [info@rapidradonreadings.com](mailto:info@rapidradonreadings.com)
 * Address: 3000 Village Run Rd, Wexford, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Inspection Service: Radon Tester in West Chester, PA"
-description: "Inspection Service (West Chester, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Inspection Service (West Chester, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/inspection-service-f8877/
 ---
 
@@ -16,9 +16,6 @@ West Chester, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 324-4500](tel:4843244500)
-* Email: [tombart@isgroup-llc.com](mailto:tombart@isgroup-llc.com)
-* Website: [https://isgroup-llc.com/](https://isgroup-llc.com/)
 * Address: 1240 West Chester Pike, Suite, West Chester, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Lewis Wertz: Radon Tester in Delmar, MD | Radon Roster"
-description: "Lewis Wertz (Delmar, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Lewis Wertz (Delmar, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/lewis-wertz-f3526/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(443) 253-5428](tel:4432535428)
-* Email: [wertzconst4@gmail.com](mailto:wertzconst4@gmail.com)
 * Address: 9007 Executive Club Dr, Delmar, MD
 
 ## PA DEP certification

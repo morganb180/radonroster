@@ -1,6 +1,6 @@
 ---
 title: "Mark Jaworski: Radon Tester in Canonsburg, PA | Radon Roster"
-description: "Mark Jaworski (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Mark Jaworski (Canonsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/mark-jaworski-f2935/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 583-7962](tel:4125837962)
-* Email: [mark@jaworskiremodeling.com](mailto:mark@jaworskiremodeling.com)
 * Address: 75 Putorti Ln, Canonsburg, PA
 
 ## PA DEP certification

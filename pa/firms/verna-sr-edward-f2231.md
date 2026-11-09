@@ -1,6 +1,6 @@
 ---
 title: "Verna, Sr., Edward: Radon Mitigator in Lebanon, PA"
-description: "Verna, Sr., Edward (Lebanon, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Verna, Sr., Edward (Lebanon, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/verna-sr-edward-f2231/
 ---
 
@@ -14,8 +14,6 @@ Lebanon, PA · Lebanon County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 274-2541](tel:7172742541)
-* Email: [radonreductionsystems@gmail.com](mailto:radonreductionsystems@gmail.com)
 * Address: 1703 S 5Th Ave, Lebanon, PA
 
 ## PA DEP certification

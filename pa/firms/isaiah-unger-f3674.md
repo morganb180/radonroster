@@ -1,6 +1,6 @@
 ---
 title: "Isaiah Unger: Radon Tester in York, PA | Radon Roster"
-description: "Isaiah Unger (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Isaiah Unger (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/isaiah-unger-f3674/
 ---
 
@@ -16,8 +16,6 @@ York, PA · York County · 1 certified person
 
 ## Contact
 
-* Phone: [(410) 357-1124](tel:4103571124)
-* Email: [isaiah@idhomeinspections.org](mailto:isaiah@idhomeinspections.org)
 * Address: 613 Edgewood Rd, York, PA
 
 ## PA DEP certification

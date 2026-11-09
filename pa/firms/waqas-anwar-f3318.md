@@ -1,6 +1,6 @@
 ---
 title: "Waqas Anwar: Radon Mitigator in Allentown, PA | Radon Roster"
-description: "Waqas Anwar (Allentown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Waqas Anwar (Allentown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/waqas-anwar-f3318/
 ---
 
@@ -16,8 +16,6 @@ Allentown, PA · Lehigh County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 457-2363](tel:6104572363)
-* Email: [pennsyradonremediation@gmail.com](mailto:pennsyradonremediation@gmail.com)
 * Address: 6027 Palomino Dr, Allentown, PA
 
 ## PA DEP certification

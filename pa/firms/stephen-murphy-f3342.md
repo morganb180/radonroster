@@ -1,6 +1,6 @@
 ---
 title: "Stephen Murphy: Radon Tester in Lincoln Universi, PA"
-description: "Stephen Murphy (Lincoln Universi, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Stephen Murphy (Lincoln Universi, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/stephen-murphy-f3342/
 ---
 
@@ -16,8 +16,6 @@ Lincoln Universi, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 506-0689](tel:6105060689)
-* Email: [stephenjmurphyinc@gmail.com](mailto:stephenjmurphyinc@gmail.com)
 * Address: 104 Great Oak Dr, Lincoln Universi, PA
 
 ## PA DEP certification

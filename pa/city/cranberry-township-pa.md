@@ -53,8 +53,6 @@ Valencia4 certified people
 #### Address
 
 * 530 Steiner Bridge Rd, Valencia, PA
-* ✉ [bill@kennihans.com](mailto:bill@kennihans.com)
-* [kennihans.com](https://www.kennihans.com/)
 
 #### Certified individuals
 
@@ -69,7 +67,6 @@ mitigation #3535 · mitigation #3536 · mitigation #7630 · mitigation #7632 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
 
-[**Call** (724) 898-2587](tel:7248982587)
 
 ## Where else can I get radon testing in Butler County? (11 firms)
 
@@ -82,7 +79,6 @@ Cabot1 certified person
 #### Address
 
 * 144 Wetzel Rd, Cabot, PA
-* ✉ [supikhomeinspector@gmail.com](mailto:supikhomeinspector@gmail.com)
 
 #### Certified individuals
 
@@ -94,7 +90,6 @@ testing #3320
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3320)
 
-[**Call** (724) 994-0333](tel:7249940333)
 
 ### Cei/Housemaster Home Inspections
 
@@ -105,9 +100,6 @@ Cranberry Townsh8 certified people
 #### Address
 
 * 9125 Marshall Rd Ste B12, Cranberry Townsh, PA
-* ✉ [daniel.ayers@housemaster.com](mailto:daniel.ayers@housemaster.com)
-* ✉ [ivan.cilik@housemaster.com](mailto:ivan.cilik@housemaster.com)
-* [housemaster.com](https://housemaster.com/)
 
 #### Certified individuals
 
@@ -126,7 +118,6 @@ testing #1230 · testing #2011 · testing #2012 · testing #2873 · testing #332
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1230)
 
-[**Call** (724) 772-5593](tel:7247725593)
 
 ### Ecs Mid-Atlantic LLC
 
@@ -137,7 +128,6 @@ Cranberry Townsh3 certified people
 #### Address
 
 * 100 E Kensinger Dr, Cranberry Townsh, PA
-* ✉ [bbehrens@ecslimited.com](mailto:bbehrens@ecslimited.com)
 
 #### Certified individuals
 
@@ -151,7 +141,6 @@ testing #3275 · testing #3763 · testing #9147 · testing #9148
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3275)
 
-[**Call** (412) 206-1470](tel:4122061470)
 
 ### Staniland, William
 
@@ -162,7 +151,6 @@ Cranberry Townsh1 certified person
 #### Address
 
 * 706 Russett Meadow Ct, Cranberry Townsh, PA
-* ✉ [bstani@zoominternet.net](mailto:bstani@zoominternet.net)
 
 #### Certified individuals
 
@@ -174,7 +162,6 @@ testing #2734
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2734)
 
-[**Call** (724) 742-2776](tel:7247422776)
 
 ### West, Aaron
 
@@ -185,8 +172,6 @@ Cranberry Townsh1 certified person
 #### Address
 
 * 1675 Route 228 #1068, Cranberry Townsh, PA
-* ✉ [aaron.west@keystonecastleinspections.com](mailto:aaron.west@keystonecastleinspections.com)
-* [keystonecastleinspections.com](https://www.keystonecastleinspections.com/)
 
 #### Certified individuals
 
@@ -198,7 +183,6 @@ testing #3709
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3709)
 
-[**Call** (412) 204-6149](tel:4122046149)
 
 ### Amerispec Home In
 
@@ -211,8 +195,6 @@ Harmony3 certified people
 #### Address
 
 * 100 Rylie Dr, Harmony, PA
-* ✉ [ronega@amerispec.net](mailto:ronega@amerispec.net)
-* [amerispec.com](https://www.amerispec.com/)
 
 #### Certified individuals
 
@@ -226,7 +208,6 @@ testing #8729 · testing #8896 · testing #8897
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8729)
 
-[**Call** (724) 452-5025](tel:7244525025)
 
 ### Onega LLC
 
@@ -237,7 +218,6 @@ HarmonyCertified firm
 #### Address
 
 * 100 Rylie Dr, Harmony, PA
-* ✉ [ronega@zoominternet.net](mailto:ronega@zoominternet.net)
 
 #### Certified individuals
 
@@ -249,7 +229,6 @@ testing #2522
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2522)
 
-[**Call** (724) 452-5025](tel:7244525025)
 
 ### Onega LLC
 
@@ -260,8 +239,6 @@ Harmony1 certified person
 #### Address
 
 * 100 Rylie Dr, Harmony, PA
-* ✉ [rich.onega@onegainspect.com](mailto:rich.onega@onegainspect.com)
-* [onegainspect.com](https://www.onegainspect.com/)
 
 #### Certified individuals
 
@@ -273,7 +250,6 @@ testing #2386
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2386)
 
-[**Call** (724) 452-5025](tel:7244525025)
 
 ### Kampi, Brian
 
@@ -284,7 +260,6 @@ Mars1 certified person
 #### Address
 
 * 2175 Ridge Dr, Mars, PA
-* ✉ [gohomefrontllc@gmail.com](mailto:gohomefrontllc@gmail.com)
 
 #### Certified individuals
 
@@ -296,7 +271,6 @@ testing #2618
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2618)
 
-[**Call** (412) 367-0707](tel:4123670707)
 
 ### Ritenour, Shelbi
 
@@ -307,7 +281,6 @@ Saxonburg1 certified person
 #### Address
 
 * 315 Knoch Rd, Saxonburg, PA
-* ✉ [bartoshomeinspections@gmail.com](mailto:bartoshomeinspections@gmail.com)
 
 #### Certified individuals
 
@@ -319,7 +292,6 @@ testing #3562
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3562)
 
-[**Call** (724) 504-3804](tel:7245043804)
 
 ### Barto, Richard
 
@@ -330,7 +302,6 @@ Slippery Rock1 certified person
 #### Address
 
 * 112 Shields Ln, Slippery Rock, PA
-* ✉ [richbarto@gmail.com](mailto:richbarto@gmail.com)
 
 #### Certified individuals
 
@@ -342,7 +313,6 @@ testing #2477
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2477)
 
-[**Call** (724) 504-2746](tel:7245042746)
 
 ## Which radon mitigation firms near Cranberry Township are in neighboring counties? (7)
 
@@ -357,7 +327,6 @@ Wexford1 certified person
 #### Address
 
 * 125 Twin Oaks Dr, Wexford, PA
-* ✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
 
 #### Certified individuals
 
@@ -369,7 +338,6 @@ mitigation #1771 · testing #1771
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
 
-[**Call** (724) 940-3366](tel:7249403366)
 
 ### Buffone, Steven
 
@@ -380,7 +348,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 301 S Hills Vlg, Pittsburgh, PA
-* ✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
 
 #### Certified individuals
 
@@ -392,7 +359,6 @@ mitigation #3700 · testing #3700
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
 
-[**Call** (330) 717-4061](tel:3307174061)
 
 ### Shaffer, Jon
 
@@ -403,7 +369,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 1115 Cornell St, Pittsburgh, PA
-* ✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
 
 #### Certified individuals
 
@@ -415,7 +380,6 @@ mitigation #2499
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
 
-[**Call** (724) 772-2200](tel:7247722200)
 
 ### Steel City Radon
 
@@ -426,7 +390,6 @@ Pittsburgh2 certified people
 #### Address
 
 * 1223 Southgate Dr, Pittsburgh, PA
-* ✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
 
 #### Certified individuals
 
@@ -439,7 +402,6 @@ mitigation #2002 · mitigation #2038 · mitigation #7315
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
 
-[**Call** (412) 851-4231](tel:4128514231)
 
 ### Alpha Radon, LLC
 
@@ -450,8 +412,6 @@ Aliquippa2 certified people
 #### Address
 
 * 121 Cottonwood Dr, Aliquippa, PA
-* ✉ [radonpros@alpharadonllc.com](mailto:radonpros@alpharadonllc.com)
-* [alpharadonllc.com](https://alpharadonllc.com/)
 
 #### Certified individuals
 
@@ -464,7 +424,6 @@ mitigation #3322 · testing #3321
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3321)
 
-[**Call** (724) 480-5828](tel:7244805828)
 
 ### Muller, Paul
 
@@ -475,7 +434,6 @@ Freedom1 certified person
 #### Address
 
 * 156 Ridge Ave, Freedom, PA
-* ✉ [pwmuller1127@yahoo.com](mailto:pwmuller1127@yahoo.com)
 
 #### Certified individuals
 
@@ -487,7 +445,6 @@ mitigation #3326
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3326)
 
-[**Call** (412) 585-0217](tel:4125850217)
 
 ### Radon Detection And Control
 
@@ -498,7 +455,6 @@ South Heights15 certified people
 #### Address
 
 * Po Box 419, South Heights, PA
-* ✉ [contact@radondetectionandcontrol.com](mailto:contact@radondetectionandcontrol.com)
 
 #### Certified individuals
 
@@ -524,7 +480,6 @@ mitigation #0492 · mitigation #0493 · mitigation #3027 · mitigation #7089 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0492)
 
-[**Call** (724) 375-1700](tel:7243751700)
 
 ## Butler County radon test data
 

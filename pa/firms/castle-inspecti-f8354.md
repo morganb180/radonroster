@@ -1,6 +1,6 @@
 ---
 title: "Castle Inspecti: Radon Tester in Springfield, PA"
-description: "Castle Inspecti (Springfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Castle Inspecti (Springfield, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/castle-inspecti-f8354/
 ---
 
@@ -12,11 +12,9 @@ canonical: https://radonroster.com/pa/firms/castle-inspecti-f8354/
 
 Springfield, PA · Delaware County · 1 certified person
 
-[Call (610) 604-9996](tel:6106049996). This firm can't take quote requests through Radon Roster yet.
 
 ## Contact
 
-* Phone: [(610) 604-9996](tel:6106049996)
 * Address: 20 Thornridge Road, Springfield, PA
 
 ## PA DEP certification

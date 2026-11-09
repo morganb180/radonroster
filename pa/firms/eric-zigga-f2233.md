@@ -1,6 +1,6 @@
 ---
 title: "Eric Zigga: Radon Mitigator in Throop, PA | Radon Roster"
-description: "Eric Zigga (Throop, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Eric Zigga (Throop, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-zigga-f2233/
 ---
 
@@ -16,8 +16,6 @@ Throop, PA · Lackawanna County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 383-2363](tel:5703832363)
-* Email: [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
 * Address: 835 Murray St, Throop, PA
 
 ## PA DEP certification

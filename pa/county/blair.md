@@ -45,7 +45,6 @@ Altoona2 certified people
 #### Address
 
 * 3499 Kettle Rd, Altoona, PA
-* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
 
 #### Certified individuals
 
@@ -58,7 +57,6 @@ mitigation #2854 · testing #2854 · testing #3404 · testing #9075
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
 
-[**Call** (814) 934-0905](tel:8149340905)
 
 ## Where can I get radon testing in Blair County, PA? (2 firms)
 
@@ -73,7 +71,6 @@ Duncansville1 certified person
 #### Address
 
 * 615 Aspen Ln, Duncansville, PA
-* ✉ [akinspections@yahoo.com](mailto:akinspections@yahoo.com)
 
 #### Certified individuals
 
@@ -85,7 +82,6 @@ testing #3171
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3171)
 
-[**Call** (814) 931-1745](tel:8149311745)
 
 ### Ott, Dwayne
 
@@ -96,8 +92,6 @@ Tyrone1 certified person
 #### Address
 
 * 311 Bell Tip Rd, Tyrone, PA
-* ✉ [dwayne@advantageinsp.com](mailto:dwayne@advantageinsp.com)
-* [advantageinsp.com](https://advantageinsp.com/)
 
 #### Certified individuals
 
@@ -109,7 +103,6 @@ testing #1962
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1962)
 
-[**Call** (814) 937-2276](tel:8149372276)
 
 ## Which counties border Blair County, PA?
 

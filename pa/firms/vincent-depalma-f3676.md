@@ -1,6 +1,6 @@
 ---
 title: "Vincent Depalma: Radon Tester in West Pittston, PA"
-description: "Vincent Depalma (West Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Vincent Depalma (West Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/vincent-depalma-f3676/
 ---
 
@@ -16,8 +16,6 @@ West Pittston, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 954-1284](tel:5709541284)
-* Email: [firststepinspection@gmail.com](mailto:firststepinspection@gmail.com)
 * Address: 19 River Shores Ct, West Pittston, PA
 
 ## PA DEP certification

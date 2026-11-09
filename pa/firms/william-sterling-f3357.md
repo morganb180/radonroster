@@ -1,6 +1,6 @@
 ---
 title: "William Sterling: Radon Tester in Wilkes Barre, PA"
-description: "William Sterling (Wilkes Barre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "William Sterling (Wilkes Barre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-sterling-f3357/
 ---
 
@@ -16,8 +16,6 @@ Wilkes Barre, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 829-4200](tel:5708294200)
-* Email: [wsterling@quad3.com](mailto:wsterling@quad3.com)
 * Address: 37 N Washington St, Wilkes Barre, PA
 
 ## PA DEP certification

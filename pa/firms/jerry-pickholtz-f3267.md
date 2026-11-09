@@ -1,6 +1,6 @@
 ---
 title: "Jerry Pickholtz: Radon Tester in Westminster, MD"
-description: "Jerry Pickholtz (Westminster, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jerry Pickholtz (Westminster, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jerry-pickholtz-f3267/
 ---
 
@@ -16,8 +16,6 @@ Westminster, MD · 1 certified person
 
 ## Contact
 
-* Phone: [(443) 605-6030](tel:4436056030)
-* Email: [greenlightmd@aol.com](mailto:greenlightmd@aol.com)
 * Address: 1475 Naugahyde Rd, Westminster, MD
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Edward S. Lampl: Radon Tester in Pittsburgh, PA"
-description: "Edward S. Lampl (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Edward S. Lampl (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/edward-s-lampl-f2569/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 222-5968](tel:4122225968)
-* Email: [ed@homeplusisus.com](mailto:ed@homeplusisus.com)
-* Website: [https://www.homeplusisus.com/](https://www.homeplusisus.com/)
 * Address: 462 Biddle Ave, Pittsburgh, PA
 
 ## PA DEP certification

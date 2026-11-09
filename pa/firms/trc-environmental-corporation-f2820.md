@@ -1,6 +1,6 @@
 ---
 title: "Trc Environmental Corporation: Radon Lab in Windsor, CT"
-description: "Trc Environmental Corporation (Windsor, CT) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Trc Environmental Corporation (Windsor, CT) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/trc-environmental-corporation-f2820/
 ---
 
@@ -14,8 +14,6 @@ Windsor, CT · 1 certified person
 
 ## Contact
 
-* Phone: [(860) 298-6392](tel:8602986392)
-* Email: [kwilliamson@trccompanies.com](mailto:kwilliamson@trccompanies.com)
 * Address: 21 Griffin Rd N, Windsor, CT
 
 ## PA DEP certification

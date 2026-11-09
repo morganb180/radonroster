@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 328-4663](tel:2673284663)
-* Email: [musselmanhomeinspection@gmail.com;musselmanhomesinspection@gmail.com](mailto:musselmanhomeinspection@gmail.com;musselmanhomesinspection@gmail.com)
 * Address: 517 Park Ave, Harleysville, PA
 
 ## PA DEP certification

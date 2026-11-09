@@ -1,6 +1,6 @@
 ---
 title: "Jerry A. Petrill: Radon Mitigator in Greensburg, PA"
-description: "Jerry A. Petrill (Greensburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Jerry A. Petrill (Greensburg, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jerry-a-petrill-f1801/
 ---
 
@@ -16,8 +16,6 @@ Greensburg, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 289-8632](tel:7242898632)
-* Email: [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
 * Address: 290 Forbes Trail Rd, Greensburg, PA
 
 ## PA DEP certification

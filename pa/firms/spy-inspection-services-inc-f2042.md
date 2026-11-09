@@ -1,6 +1,6 @@
 ---
 title: "Spy Inspection Services, Inc.: Radon Tester in Lansdale, PA"
-description: "Spy Inspection Services, Inc. (Lansdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Spy Inspection Services, Inc. (Lansdale, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/spy-inspection-services-inc-f2042/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 362-1234](tel:2153621234)
-* Email: [bud.ricci@spyinspections.com](mailto:bud.ricci@spyinspections.com)
-* Website: [https://spyinspections.com/](https://spyinspections.com/)
 * Address: 14 E Main St Ste 100, Lansdale, PA
 
 ## PA DEP certification

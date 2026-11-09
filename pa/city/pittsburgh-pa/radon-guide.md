@@ -65,7 +65,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 301 S Hills Vlg, Pittsburgh, PA
-* ✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
 
 #### Certified individuals
 
@@ -77,7 +76,6 @@ mitigation #3700 · testing #3700
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
 
-[**Call** (330) 717-4061](tel:3307174061)
 
 ### Shaffer, Jon
 
@@ -88,7 +86,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 1115 Cornell St, Pittsburgh, PA
-* ✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
 
 #### Certified individuals
 
@@ -100,7 +97,6 @@ mitigation #2499
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
 
-[**Call** (724) 772-2200](tel:7247722200)
 
 ### Steel City Radon
 
@@ -111,7 +107,6 @@ Pittsburgh2 certified people
 #### Address
 
 * 1223 Southgate Dr, Pittsburgh, PA
-* ✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
 
 #### Certified individuals
 
@@ -124,7 +119,6 @@ mitigation #2002 · mitigation #2038 · mitigation #7315
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
 
-[**Call** (412) 851-4231](tel:4128514231)
 
 ### Bacchus, Brian C.
 
@@ -135,7 +129,6 @@ Wexford1 certified person
 #### Address
 
 * 125 Twin Oaks Dr, Wexford, PA
-* ✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
 
 #### Certified individuals
 
@@ -147,7 +140,6 @@ mitigation #1771 · testing #1771
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
 
-[**Call** (724) 940-3366](tel:7249403366)
 
 [See all firms near Pittsburgh →](https://radonroster.com/pa/city/pittsburgh-pa/)
 

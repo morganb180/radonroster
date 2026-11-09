@@ -1,6 +1,6 @@
 ---
 title: "Newman'S Home LLC: Radon Tester in Morrisville, PA"
-description: "Newman'S Home LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Newman'S Home LLC (Morrisville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/newman-s-home-llc-f1996/
 ---
 
@@ -14,9 +14,6 @@ Morrisville, PA · Bucks County · 26 certified people
 
 ## Contact
 
-* Phone: [(215) 343-7766](tel:2153437766)
-* Email: [aaron.cunningham@pillartopost.com;andy.fritchey@pillartopost.com;don.cessna@pillartopost.com;dupey.team@pillartopost.com;erik.gertsen@pillartopost.com;fred.hohman@pillartopost.com;greg.newman@pillartopost.com;greg.petruska@pillartopost.com;jim.zamiska@pillartopost.com;kara.shields@pillartopost.com;mathew.rodriguez@pillartopost.com;matt.ruggieri@pillartopost.com;michael.leone@pillartopost.com;mike.watson@pillartopost.com;pam.maita@pillartopost.com;shawn.mckay@pillartopost.com;ted.tamura@pillartopost.com;thomas.stangroom@pillartopost.com;tommy.skantz@pillartopost.com](mailto:aaron.cunningham@pillartopost.com;andy.fritchey@pillartopost.com;don.cessna@pillartopost.com;dupey.team@pillartopost.com;erik.gertsen@pillartopost.com;fred.hohman@pillartopost.com;greg.newman@pillartopost.com;greg.petruska@pillartopost.com;jim.zamiska@pillartopost.com;kara.shields@pillartopost.com;mathew.rodriguez@pillartopost.com;matt.ruggieri@pillartopost.com;michael.leone@pillartopost.com;mike.watson@pillartopost.com;pam.maita@pillartopost.com;shawn.mckay@pillartopost.com;ted.tamura@pillartopost.com;thomas.stangroom@pillartopost.com;tommy.skantz@pillartopost.com)
-* Website: [https://pillartopost.com/](https://pillartopost.com/)
 * Address: 81 Big Oak Rd, Ste 116, Morrisville, PA
 
 ## PA DEP certification

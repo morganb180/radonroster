@@ -66,9 +66,6 @@ Venetia9 certified people
 #### Address
 
 * 549 Mccombs Rd, Venetia, PA
-* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
-* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
-* [homeradonpros.com](https://www.homeradonpros.com/)
 
 #### Certified individuals
 
@@ -88,7 +85,6 @@ mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
 
-[**Call** (412) 584-0799](tel:4125840799)
 
 [See all firms near Canonsburg →](https://radonroster.com/pa/city/canonsburg-pa/)
 

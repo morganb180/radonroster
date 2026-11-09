@@ -1,6 +1,6 @@
 ---
 title: "Rick Aspinwall: Radon Tester in Doylestown, PA"
-description: "Rick Aspinwall (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Rick Aspinwall (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rick-aspinwall-f2619/
 ---
 
@@ -16,9 +16,6 @@ Doylestown, PA · Bucks County · 2 certified people
 
 ## Contact
 
-* Phone: [(267) 884-4047](tel:2678844047)
-* Email: [rick@maurerinspections.com;steve@maurerinspections.com](mailto:rick@maurerinspections.com;steve@maurerinspections.com)
-* Website: [https://www.maurerinspections.com/](https://www.maurerinspections.com/)
 * Address: 3633 Buttonwood Dr, Doylestown, PA
 
 ## PA DEP certification

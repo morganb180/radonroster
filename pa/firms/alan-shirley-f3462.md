@@ -1,6 +1,6 @@
 ---
 title: "Alan Shirley: Radon Tester in Shippensburg, PA"
-description: "Alan Shirley (Shippensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Alan Shirley (Shippensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/alan-shirley-f3462/
 ---
 
@@ -16,9 +16,6 @@ Shippensburg, PA · Franklin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 502-4402](tel:7175024402)
-* Email: [alan@mcjhomeinspection.com](mailto:alan@mcjhomeinspection.com)
-* Website: [https://mcjhomeinspection.com/](https://mcjhomeinspection.com/)
 * Address: 919 Clearfield Rd, Shippensburg, PA
 
 ## PA DEP certification

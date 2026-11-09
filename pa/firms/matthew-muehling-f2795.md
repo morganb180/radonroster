@@ -1,6 +1,6 @@
 ---
 title: "Matthew Muehling: Radon Tester in Elizabethtown, PA"
-description: "Matthew Muehling (Elizabethtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matthew Muehling (Elizabethtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-muehling-f2795/
 ---
 
@@ -16,8 +16,6 @@ Elizabethtown, PA · Lancaster County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 330-5658](tel:7173305658)
-* Email: [mgmuehling@gmail.com](mailto:mgmuehling@gmail.com)
 * Address: 106 Canvasback Lane, Elizabethtown, PA
 
 ## PA DEP certification

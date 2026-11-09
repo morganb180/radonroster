@@ -1,6 +1,6 @@
 ---
 title: "Cody Fisher: Radon Tester in Mountain Top, PA | Radon Roster"
-description: "Cody Fisher (Mountain Top, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Cody Fisher (Mountain Top, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/cody-fisher-f3603/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 239-9277](tel:5702399277)
-* Email: [fisherinspectionsnepa@gmail.com](mailto:fisherinspectionsnepa@gmail.com)
 * Address: 14 Basswood Dr, Mountain Top, PA
 
 ## PA DEP certification

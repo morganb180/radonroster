@@ -14,8 +14,6 @@ Irwin, PA · Westmoreland County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 744-8006](tel:7247448006)
-* Email: [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
 * Address: 13610 Lincoln Way, Irwin, PA
 
 ## PA DEP certification

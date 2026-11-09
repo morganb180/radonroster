@@ -1,6 +1,6 @@
 ---
 title: "Chris Matteson: Radon Tester in Hershey, PA | Radon Roster"
-description: "Chris Matteson (Hershey, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Chris Matteson (Hershey, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/chris-matteson-f2337/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 583-2914](tel:7175832914)
-* Email: [chris@accurateinspecting.com](mailto:chris@accurateinspecting.com)
-* Website: [https://accurateinspecting.com/](https://accurateinspecting.com/)
 * Address: 151 W Chocolate Ave, Hershey, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Walter Devries: Radon Tester in Millville, PA | Radon Roster"
-description: "Walter Devries (Millville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Walter Devries (Millville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/walter-devries-f3598/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 380-9110](tel:5703809110)
-* Email: [walt@rockhouseinspection.com](mailto:walt@rockhouseinspection.com)
-* Website: [https://www.rockhouseinspection.com/](https://www.rockhouseinspection.com/)
 * Address: 203 Hogs Back Rd, Millville, PA
 
 ## PA DEP certification

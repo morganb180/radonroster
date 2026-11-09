@@ -1,6 +1,6 @@
 ---
 title: "Ryan Reichert: Radon Tester in Pine Grove, PA | Radon Roster"
-description: "Ryan Reichert (Pine Grove, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ryan Reichert (Pine Grove, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ryan-reichert-f3179/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 617-7015](tel:5706177015)
-* Email: [advantecinspections@gmail.com](mailto:advantecinspections@gmail.com)
 * Address: 23 Hallton Hill Rd, Pine Grove, PA
 
 ## PA DEP certification

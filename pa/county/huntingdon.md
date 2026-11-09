@@ -45,7 +45,6 @@ Alexandria1 certified person
 #### Address
 
 * Po Box 174, Alexandria, PA
-* ✉ [ronk@pro-spect.biz](mailto:ronk@pro-spect.biz)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #2168
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2168)
 
-[**Call** (814) 669-1221](tel:8146691221)
 
 ### Barnish, Greig
 
@@ -68,7 +66,6 @@ Huntingdon1 certified person
 #### Address
 
 * 2224 Highland Ave, Huntingdon, PA
-* ✉ [glbarn1@verizon.net](mailto:glbarn1@verizon.net)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ testing #3485
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3485)
 
-[**Call** (814) 599-0381](tel:8145990381)
 
 ### Baker, Kimberly
 
@@ -91,8 +87,6 @@ Warriors Mark2 certified people
 #### Address
 
 * 1564 Dry Hollow Rd, Warriors Mark, PA
-* ✉ [dwellingdiagnostics@windstream.net](mailto:dwellingdiagnostics@windstream.net)
-* ✉ [kimbaker@windstream.net](mailto:kimbaker@windstream.net)
 
 #### Certified individuals
 
@@ -105,7 +99,6 @@ testing #2160 · testing #3175
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2160)
 
-[**Call** (814) 632-9224](tel:8146329224)
 
 ## Which counties border Huntingdon County, PA?
 

@@ -1,6 +1,6 @@
 ---
 title: "Radata, LLC: Radon Lab in Flanders, NJ | Radon Roster"
-description: "Radata, LLC (Flanders, NJ) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Radata, LLC (Flanders, NJ) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/radata-llc-f1686/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(973) 927-9985](tel:9739279985)
-* Email: [emily.ambrosi@radata.com;jennifer.fusco@radata.com](mailto:emily.ambrosi@radata.com;jennifer.fusco@radata.com)
-* Website: [https://www.radata.com/](https://www.radata.com/)
 * Address: 27 Ironia Rd, Flanders, NJ
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Ronald Kuntz: Radon Tester in Alexandria, PA | Radon Roster"
-description: "Ronald Kuntz (Alexandria, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ronald Kuntz (Alexandria, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-kuntz-f2168/
 ---
 
@@ -16,8 +16,6 @@ Alexandria, PA · Huntingdon County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 669-1221](tel:8146691221)
-* Email: [ronk@pro-spect.biz](mailto:ronk@pro-spect.biz)
 * Address: Po Box 174, Alexandria, PA
 
 ## PA DEP certification

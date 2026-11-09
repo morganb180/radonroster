@@ -14,9 +14,6 @@ Perkiomenville, PA · Montgomery County · 2 certified people
 
 ## Contact
 
-* Phone: [(215) 234-0505](tel:2152340505)
-* Email: [offfice@spotlighthi.com;office@spotlighthi.com](mailto:offfice@spotlighthi.com;office@spotlighthi.com)
-* Website: [https://spotlighthomeinspection.com/](https://spotlighthomeinspection.com/)
 * Address: Po Box 75, Perkiomenville, PA
 
 ## PA DEP certification

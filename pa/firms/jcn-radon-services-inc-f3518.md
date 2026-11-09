@@ -24,8 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 988-6800](tel:5709886800)
-* Email: [jcnradonservices@gmail.com](mailto:jcnradonservices@gmail.com)
 * Address: 1911 Poco Farm Rd, Williamsport, PA
 
 ## PA DEP certification

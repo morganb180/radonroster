@@ -1,6 +1,6 @@
 ---
 title: "Shawn Mcconnell: Radon Tester in Middlebury Cente, PA"
-description: "Shawn Mcconnell (Middlebury Cente, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Shawn Mcconnell (Middlebury Cente, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-mcconnell-f3417/
 ---
 
@@ -16,8 +16,6 @@ Middlebury Cente, PA · Tioga County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 787-0422](tel:5707870422)
-* Email: [mcconnellhomeinspections@gmail.com](mailto:mcconnellhomeinspections@gmail.com)
 * Address: 31 Leisurely Ln, Middlebury Cente, PA
 
 ## PA DEP certification

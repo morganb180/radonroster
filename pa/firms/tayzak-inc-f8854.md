@@ -1,6 +1,6 @@
 ---
 title: "Tayzak Inc: Radon Tester in Mc Donald, PA | Radon Roster"
-description: "Tayzak Inc (Mc Donald, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Tayzak Inc (Mc Donald, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/tayzak-inc-f8854/
 ---
 
@@ -10,12 +10,9 @@ canonical: https://radonroster.com/pa/firms/tayzak-inc-f8854/
 
 Mc Donald, PA · Washington County · 1 certified person
 
-[Call (724) 513-0832](tel:7245130832). This firm can't take quote requests through Radon Roster yet.
 
 ## Contact
 
-* Phone: [(724) 513-0832](tel:7245130832)
-* Email: [jim.zaminska@pillartopost,com (as listed; may be truncated)](mailto:jim.zaminska@pillartopost,com (as listed; may be truncated))
 * Address: 523 Burnside Rd, Mc Donald, PA
 
 ## PA DEP certification

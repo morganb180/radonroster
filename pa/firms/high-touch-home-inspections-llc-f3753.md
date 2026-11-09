@@ -1,6 +1,6 @@
 ---
 title: "High Touch Home Inspections LLC: Radon Tester, Mcdonald PA"
-description: "High Touch Home Inspections LLC (Mcdonald, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "High Touch Home Inspections LLC (Mcdonald, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/high-touch-home-inspections-llc-f3753/
 ---
 
@@ -14,8 +14,6 @@ Mcdonald, PA · Allegheny County · 2 certified people
 
 ## Contact
 
-* Phone: [(412) 515-3866](tel:4125153866)
-* Email: [hightouchinspections@gmail.com;www.hightouchinspections@gmail.com](mailto:hightouchinspections@gmail.com;www.hightouchinspections@gmail.com)
 * Address: 203 Pointe West Dr, Mcdonald, PA
 
 ## PA DEP certification

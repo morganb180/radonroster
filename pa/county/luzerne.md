@@ -45,7 +45,6 @@ Mountain Top5 certified people
 #### Address
 
 * 116 S Main Rd, Mountain Top, PA
-* ✉ [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
 
 #### Certified individuals
 
@@ -61,7 +60,6 @@ mitigation #3720 · mitigation #3721 · mitigation #7720 · mitigation #7724 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3720)
 
-[**Call** (570) 747-2366](tel:5707472366)
 
 ## Where can I get radon testing in Luzerne County, PA? (12 firms)
 
@@ -76,8 +74,6 @@ Ashley1 certified person
 #### Address
 
 * 318 Ridge St, Ashley, PA
-* ✉ [paulb@bhhi.net](mailto:paulb@bhhi.net)
-* [bhhi.net](https://bhhi.net/)
 
 #### Certified individuals
 
@@ -89,7 +85,6 @@ testing #2473
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2473)
 
-[**Call** (570) 954-5575](tel:5709545575)
 
 ### Roberts, David
 
@@ -100,8 +95,6 @@ Courtdale1 certified person
 #### Address
 
 * 92 White Rock Terrace, Courtdale, PA
-* ✉ [david@mountainradon.net](mailto:david@mountainradon.net)
-* [mountainradon.net](https://mountainradon.net/)
 
 #### Certified individuals
 
@@ -113,7 +106,6 @@ testing #3313
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3313)
 
-[**Call** (570) 499-0882](tel:5704990882)
 
 ### Nesgoda, Richard
 
@@ -124,7 +116,6 @@ Edwardsville1 certified person
 #### Address
 
 * 420 Northampton St, Edwardsville, PA
-* ✉ [rich@aplushomeservicesllc.net](mailto:rich@aplushomeservicesllc.net)
 
 #### Certified individuals
 
@@ -136,7 +127,6 @@ testing #3436
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3436)
 
-[**Call** (570) 954-1952](tel:5709541952)
 
 ### Fisher, Cody
 
@@ -147,7 +137,6 @@ Mountain Top1 certified person
 #### Address
 
 * 14 Basswood Dr, Mountain Top, PA
-* ✉ [fisherinspectionsnepa@gmail.com](mailto:fisherinspectionsnepa@gmail.com)
 
 #### Certified individuals
 
@@ -159,7 +148,6 @@ testing #3603
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3603)
 
-[**Call** (570) 239-9277](tel:5702399277)
 
 ### Weber, Justin
 
@@ -170,7 +158,6 @@ Mountain Top1 certified person
 #### Address
 
 * 10 Chelsey Dr, Mountain Top, PA
-* ✉ [justin.weber82@gmail.com](mailto:justin.weber82@gmail.com)
 
 #### Certified individuals
 
@@ -182,7 +169,6 @@ testing #3333
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3333)
 
-[**Call** (570) 899-3255](tel:5708993255)
 
 ### Kraklio, Eric
 
@@ -193,7 +179,6 @@ Pittston1 certified person
 #### Address
 
 * 69 Curtis St, Pittston, PA
-* ✉ [eric@kraklioinspections.com](mailto:eric@kraklioinspections.com)
 
 #### Certified individuals
 
@@ -205,7 +190,6 @@ testing #3048
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3048)
 
-[**Call** (570) 470-2582](tel:5704702582)
 
 ### Jenkins, Jr., John
 
@@ -216,7 +200,6 @@ Shickshinny1 certified person
 #### Address
 
 * 40 Sorber Rd, Shickshinny, PA
-* ✉ [dforceems@epix.net](mailto:dforceems@epix.net)
 
 #### Certified individuals
 
@@ -228,7 +211,6 @@ testing #1778
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1778)
 
-[**Call** (570) 332-5677](tel:5703325677)
 
 ### Swiontek, Paul
 
@@ -239,7 +221,6 @@ Uniontown1 certified person
 #### Address
 
 * 34 Union St, Uniontown, PA
-* ✉ [pswiontek608@gmail.com](mailto:pswiontek608@gmail.com)
 
 #### Certified individuals
 
@@ -251,7 +232,6 @@ testing #3590
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3590)
 
-[**Call** (570) 814-3028](tel:5708143028)
 
 ### Depalma, Vincent
 
@@ -262,7 +242,6 @@ West Pittston1 certified person
 #### Address
 
 * 19 River Shores Ct, West Pittston, PA
-* ✉ [firststepinspection@gmail.com](mailto:firststepinspection@gmail.com)
 
 #### Certified individuals
 
@@ -274,7 +253,6 @@ testing #3676
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3676)
 
-[**Call** (570) 954-1284](tel:5709541284)
 
 ### Melvin, Jon
 
@@ -285,7 +263,6 @@ West Pittston1 certified person
 #### Address
 
 * 1024 Ledgeview Dr, West Pittston, PA
-* ✉ [jminspectionsllc@comcast.net](mailto:jminspectionsllc@comcast.net)
 
 #### Certified individuals
 
@@ -297,7 +274,6 @@ testing #2379
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2379)
 
-[**Call** (570) 574-3980](tel:5705743980)
 
 ### Pavlico, Joseph
 
@@ -308,7 +284,6 @@ White Haven1 certified person
 #### Address
 
 * 204 Hollenback Rd, White Haven, PA
-* ✉ [jjconstruction89@yahoo.com](mailto:jjconstruction89@yahoo.com)
 
 #### Certified individuals
 
@@ -320,7 +295,6 @@ testing #3587
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3587)
 
-[**Call** (570) 574-4799](tel:5705744799)
 
 ### Sterling, William
 
@@ -331,7 +305,6 @@ Wilkes Barre1 certified person
 #### Address
 
 * 37 N Washington St, Wilkes Barre, PA
-* ✉ [wsterling@quad3.com](mailto:wsterling@quad3.com)
 
 #### Certified individuals
 
@@ -343,7 +316,6 @@ testing #3357
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3357)
 
-[**Call** (570) 829-4200](tel:5708294200)
 
 ## Which counties border Luzerne County, PA?
 

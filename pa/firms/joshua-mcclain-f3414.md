@@ -1,6 +1,6 @@
 ---
 title: "Joshua Mcclain: Radon Tester in Montoursville, PA"
-description: "Joshua Mcclain (Montoursville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joshua Mcclain (Montoursville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-mcclain-f3414/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 560-2773](tel:5705602773)
-* Email: [josh@wbinspections.com](mailto:josh@wbinspections.com)
-* Website: [https://www.wbinspections.com/](https://www.wbinspections.com/)
 * Address: 1921 Round Top Rd, Montoursville, PA
 
 ## PA DEP certification

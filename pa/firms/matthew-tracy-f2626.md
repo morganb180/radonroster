@@ -1,6 +1,6 @@
 ---
 title: "Matthew Tracy: Radon Tester in Doylestown, PA | Radon Roster"
-description: "Matthew Tracy (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matthew Tracy (Doylestown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matthew-tracy-f2626/
 ---
 
@@ -16,8 +16,6 @@ Doylestown, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 208-8365](tel:2152088365)
-* Email: [npimtracy@yahoo.com](mailto:npimtracy@yahoo.com)
 * Address: 17 Sunnybrook Dr, Doylestown, PA
 
 ## PA DEP certification

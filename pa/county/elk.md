@@ -45,8 +45,6 @@ Saint Marys1 certified person
 #### Address
 
 * 537 Maurus St, Saint Marys, PA
-* ✉ [mgelsick@gelsickhomeinsp.com](mailto:mgelsick@gelsickhomeinsp.com)
-* [gelsickhomeinsp.com](https://gelsickhomeinsp.com/)
 
 #### Certified individuals
 
@@ -58,7 +56,6 @@ mitigation #2809 · testing #2809
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2809)
 
-[**Call** (814) 590-9754](tel:8145909754)
 
 ## Which counties border Elk County, PA?
 

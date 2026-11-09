@@ -45,7 +45,6 @@ Indiana1 certified person
 #### Address
 
 * 7844 Old Route 56 Hwy W, Indiana, PA
-* ✉ [john@safebuyhi.com](mailto:john@safebuyhi.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #2550
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2550)
 
-[**Call** (724) 463-7233](tel:7244637233)
 
 ### Schloder, David
 
@@ -68,7 +66,6 @@ Mc Intyre1 certified person
 #### Address
 
 * 2014 Mcintyre Rd, Mc Intyre, PA
-* ✉ [eshomeinspectionservices@gmail.com](mailto:eshomeinspectionservices@gmail.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ testing #3755
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3755)
 
-[**Call** (724) 840-8103](tel:7248408103)
 
 ## Which counties border Indiana County, PA?
 

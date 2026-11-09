@@ -1,6 +1,6 @@
 ---
 title: "Paul Suhrie: Radon Tester in East Stroudsburg, PA"
-description: "Paul Suhrie (East Stroudsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Paul Suhrie (East Stroudsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/paul-suhrie-f2855/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 460-6173](tel:5704606173)
-* Email: [paul@prshomeinspection.com](mailto:paul@prshomeinspection.com)
 * Address: 2648 Majestic Ct, East Stroudsburg, PA
 
 ## PA DEP certification

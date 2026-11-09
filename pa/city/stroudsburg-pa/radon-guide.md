@@ -66,7 +66,6 @@ Stroudsburg1 certified person
 #### Address
 
 * 304 Wallace St, Stroudsburg, PA
-* ✉ [ablebodiesservices@hotmail.com](mailto:ablebodiesservices@hotmail.com)
 
 #### Certified individuals
 
@@ -78,7 +77,6 @@ mitigation #3632 · testing #3632
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3632)
 
-[**Call** (570) 807-1831](tel:5708071831)
 
 ### A R M Environmental LLC
 
@@ -89,7 +87,6 @@ Tannersville2 certified people
 #### Address
 
 * P O Box 733, Tannersville, PA
-* ✉ [mrmold.armenvironmental@gmail.com](mailto:mrmold.armenvironmental@gmail.com)
 
 #### Certified individuals
 
@@ -102,7 +99,6 @@ mitigation #2303 · mitigation #2439 · mitigation #7687 · testing #2303 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2303)
 
-[**Call** (570) 402-1916](tel:5704021916)
 
 ### Levine, Benjamin
 
@@ -113,7 +109,6 @@ East Stroudsburg1 certified person
 #### Address
 
 * 110 Music Center Dr, East Stroudsburg, PA
-* ✉ [bjlevine1992@yahoo.com](mailto:bjlevine1992@yahoo.com)
 
 #### Certified individuals
 
@@ -125,7 +120,6 @@ mitigation #3656
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3656)
 
-[**Call** (570) 977-9533](tel:5709779533)
 
 [See all firms near Stroudsburg →](https://radonroster.com/pa/city/stroudsburg-pa/)
 

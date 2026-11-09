@@ -1,6 +1,6 @@
 ---
 title: "Homer Inspection Services: Radon Tester in Atglen, PA"
-description: "Homer Inspection Services (Atglen, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Homer Inspection Services (Atglen, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/homer-inspection-services-f3196/
 ---
 
@@ -14,9 +14,6 @@ Atglen, PA · Chester County · 4 certified people
 
 ## Contact
 
-* Phone: [(610) 314-6155](tel:6103146155)
-* Email: [office@homerinspect.com](mailto:office@homerinspect.com)
-* Website: [https://www.homerinspect.com/](https://www.homerinspect.com/)
 * Address: 501 York Rd, Atglen, PA
 
 ## PA DEP certification

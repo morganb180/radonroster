@@ -1,6 +1,6 @@
 ---
 title: "Nicole Brooks: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Nicole Brooks (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Nicole Brooks (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/nicole-brooks-f3642/
 ---
 
@@ -16,9 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 706-3140](tel:4127063140)
-* Email: [info@finelineinspects.com](mailto:info@finelineinspects.com)
-* Website: [https://www.finelineinspects.com/](https://www.finelineinspects.com/)
 * Address: 301 South Hills Village, Pittsburgh, PA
 
 ## PA DEP certification

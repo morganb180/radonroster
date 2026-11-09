@@ -1,6 +1,6 @@
 ---
 title: "Emsl Analytical, Inc.: Radon Lab in Cinnaminson, NJ"
-description: "Emsl Analytical, Inc. (Cinnaminson, NJ) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Emsl Analytical, Inc. (Cinnaminson, NJ) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/emsl-analytical-inc-f2573/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(800) 220-3675](tel:8002203675)
-* Email: [dgehret@emsl.com](mailto:dgehret@emsl.com)
-* Website: [https://emsl.com/](https://emsl.com/)
 * Address: 200 Route 130 N, Cinnaminson, NJ
 
 ## PA DEP certification

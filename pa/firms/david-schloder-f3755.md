@@ -1,6 +1,6 @@
 ---
 title: "David Schloder: Radon Tester in Mc Intyre, PA | Radon Roster"
-description: "David Schloder (Mc Intyre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David Schloder (Mc Intyre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-schloder-f3755/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 840-8103](tel:7248408103)
-* Email: [eshomeinspectionservices@gmail.com](mailto:eshomeinspectionservices@gmail.com)
 * Address: 2014 Mcintyre Rd, Mc Intyre, PA
 
 ## PA DEP certification

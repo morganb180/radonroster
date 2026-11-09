@@ -1,6 +1,6 @@
 ---
 title: "Dominick Peda: Radon Tester in Media, PA | Radon Roster"
-description: "Dominick Peda (Media, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dominick Peda (Media, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dominick-peda-f2624/
 ---
 
@@ -16,8 +16,6 @@ Media, PA · Delaware County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 891-6611](tel:6108916611)
-* Email: [dtpeda@comcast.net](mailto:dtpeda@comcast.net)
 * Address: 40 N Feathering Ln, Media, PA
 
 ## PA DEP certification

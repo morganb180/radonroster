@@ -1,6 +1,6 @@
 ---
 title: "Travis Henline: Radon Tester in Aspers, PA | Radon Roster"
-description: "Travis Henline (Aspers, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Travis Henline (Aspers, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/travis-henline-f3760/
 ---
 
@@ -16,9 +16,6 @@ Aspers, PA · Adams County · 1 certified person
 
 ## Contact
 
-* Phone: [(223) 350-2597](tel:2233502597)
-* Email: [travis@precisionpropertyinspectionspa.com](mailto:travis@precisionpropertyinspectionspa.com)
-* Website: [https://www.precisionpropertyinspectionspa.com/](https://www.precisionpropertyinspectionspa.com/)
 * Address: 105A Rice Ln, Aspers, PA
 
 ## PA DEP certification

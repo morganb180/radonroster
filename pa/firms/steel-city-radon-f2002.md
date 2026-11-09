@@ -1,6 +1,6 @@
 ---
 title: "Steel City Radon: Radon Mitigator in Pittsburgh, PA"
-description: "Steel City Radon (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Steel City Radon (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/steel-city-radon-f2002/
 ---
 
@@ -14,8 +14,6 @@ Pittsburgh, PA · Allegheny County · 2 certified people
 
 ## Contact
 
-* Phone: [(412) 851-4231](tel:4128514231)
-* Email: [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
 * Address: 1223 Southgate Dr, Pittsburgh, PA
 
 ## PA DEP certification

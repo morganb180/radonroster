@@ -73,7 +73,6 @@ Allentown1 certified person
 #### Address
 
 * 6027 Palomino Dr, Allentown, PA
-* ✉ [pennsyradonremediation@gmail.com](mailto:pennsyradonremediation@gmail.com)
 
 #### Certified individuals
 
@@ -85,7 +84,6 @@ mitigation #3318
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3318)
 
-[**Call** (610) 457-2363](tel:6104572363)
 
 ### Integra Environmental LLC
 
@@ -96,8 +94,6 @@ Allentown6 certified people
 #### Address
 
 * 6801 Tilghman St Unit 115, Allentown, PA
-* ✉ [tony@integraradon.com](mailto:tony@integraradon.com)
-* [integraradon.com](https://integraradon.com/)
 
 #### Certified individuals
 
@@ -114,7 +110,6 @@ mitigation #2621 · mitigation #3398 · mitigation #7514 · mitigation #7646 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2621)
 
-[**Call** (610) 346-8004](tel:6103468004)
 
 ### SWAT Environmental
 
@@ -125,8 +120,6 @@ Allentown8 certified people
 #### Address
 
 * 1125 S Cedar Crest Blvd, Allentown, PA
-* ✉ [aszews@swatradon.com](mailto:aszews@swatradon.com)
-* [swat-radon.com](https://swat-radon.com/)
 
 #### Certified individuals
 
@@ -145,7 +138,6 @@ mitigation #3272 · mitigation #3567 · mitigation #3586 · mitigation #7417 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3272)
 
-[**Call** (610) 674-4421](tel:6106744421)
 
 ### Metzger, Dale
 
@@ -156,7 +148,6 @@ Macungie1 certified person
 #### Address
 
 * 3450 Lurman Dr, Macungie, PA
-* ✉ [dalemtzgr@yahoo.com](mailto:dalemtzgr@yahoo.com)
 
 #### Certified individuals
 
@@ -168,7 +159,6 @@ mitigation #2921
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2921)
 
-[**Call** (484) 903-1182](tel:4849031182)
 
 [See all firms near Allentown →](https://radonroster.com/pa/city/allentown-pa/)
 

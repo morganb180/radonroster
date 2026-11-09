@@ -1,6 +1,6 @@
 ---
 title: "Eric Kraklio: Radon Tester in Pittston, PA | Radon Roster"
-description: "Eric Kraklio (Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Eric Kraklio (Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/eric-kraklio-f3048/
 ---
 
@@ -16,8 +16,6 @@ Pittston, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 470-2582](tel:5704702582)
-* Email: [eric@kraklioinspections.com](mailto:eric@kraklioinspections.com)
 * Address: 69 Curtis St, Pittston, PA
 
 ## PA DEP certification

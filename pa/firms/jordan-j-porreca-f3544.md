@@ -1,6 +1,6 @@
 ---
 title: "Jordan J. Porreca: Radon Tester in Steubenville, OH"
-description: "Jordan J. Porreca (Steubenville, OH) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jordan J. Porreca (Steubenville, OH) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jordan-j-porreca-f3544/
 ---
 
@@ -16,8 +16,6 @@ Steubenville, OH · 1 certified person
 
 ## Contact
 
-* Phone: [(740) 632-6770](tel:7406326770)
-* Email: [homesharkinspectionss@gmail.com](mailto:homesharkinspectionss@gmail.com)
 * Address: 258 Norris St, Steubenville, OH
 
 ## PA DEP certification

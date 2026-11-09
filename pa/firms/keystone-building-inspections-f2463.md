@@ -1,6 +1,6 @@
 ---
 title: "Keystone Building Inspections: Radon Tester, Pittsburgh PA"
-description: "Keystone Building Inspections (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Keystone Building Inspections (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/keystone-building-inspections-f2463/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 788-5416](tel:4127885416)
-* Email: [maria@keystonebuildinginspections.com](mailto:maria@keystonebuildinginspections.com)
-* Website: [https://keystonebuildinginspections.com/](https://keystonebuildinginspections.com/)
 * Address: Po Box 15811, Pittsburgh, PA
 
 ## PA DEP certification

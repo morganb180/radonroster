@@ -45,7 +45,6 @@ Johnstown1 certified person
 #### Address
 
 * 124 Old Colony Dr, Johnstown, PA
-* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #2037
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
 
-[**Call** (814) 525-0895](tel:8145250895)
 
 ## Where can I get radon testing in Cambria County, PA? (3 firms)
 
@@ -72,8 +70,6 @@ Ebensburg1 certified person
 #### Address
 
 * 1263 Manor Dr, Ebensburg, PA
-* ✉ [jeff@jeffsmithinspectionservice.com](mailto:jeff@jeffsmithinspectionservice.com)
-* [jeffsmithinspectionservice.com](https://jeffsmithinspectionservice.com/)
 
 #### Certified individuals
 
@@ -85,7 +81,6 @@ testing #2165
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2165)
 
-[**Call** (814) 330-9767](tel:8143309767)
 
 ### Schuller, Eric
 
@@ -96,7 +91,6 @@ Johnstown1 certified person
 #### Address
 
 * 337 Russell Ave, Johnstown, PA
-* ✉ [uncleerc@gmail.com](mailto:uncleerc@gmail.com)
 
 #### Certified individuals
 
@@ -108,7 +102,6 @@ testing #3708
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3708)
 
-[**Call** (814) 242-4259](tel:8142424259)
 
 ### Spicher, Timothy
 
@@ -119,7 +112,6 @@ Nanty Glo1 certified person
 #### Address
 
 * 239 Fords Corner Rd, Nanty Glo, PA
-* ✉ [tim.spicher@newchapterhi.pro](mailto:tim.spicher@newchapterhi.pro)
 
 #### Certified individuals
 
@@ -131,7 +123,6 @@ testing #3707
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3707)
 
-[**Call** (814) 826-1123](tel:8148261123)
 
 ## Which counties border Cambria County, PA?
 

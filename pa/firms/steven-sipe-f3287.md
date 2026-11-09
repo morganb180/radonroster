@@ -1,6 +1,6 @@
 ---
 title: "Steven Sipe: Radon Testing & Mitigation in Halifax, PA"
-description: "Steven Sipe (Halifax, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Steven Sipe (Halifax, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/steven-sipe-f3287/
 ---
 
@@ -16,8 +16,6 @@ Halifax, PA · Dauphin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 425-0989](tel:7174250989)
-* Email: [csinspect@comcast.net](mailto:csinspect@comcast.net)
 * Address: 69 Million Dollar Rd, Halifax, PA
 
 ## PA DEP certification

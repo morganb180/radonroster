@@ -1,6 +1,6 @@
 ---
 title: "Wolfe, Jr., Jerry: Radon Tester in Freeport, PA"
-description: "Wolfe, Jr., Jerry (Freeport, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Wolfe, Jr., Jerry (Freeport, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/wolfe-jr-jerry-f3261/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 770-6269](tel:4127706269)
-* Email: [wolfeinspections@gmail.com](mailto:wolfeinspections@gmail.com)
 * Address: 97 Main St, Freeport, PA
 
 ## PA DEP certification

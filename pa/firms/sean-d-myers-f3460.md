@@ -1,6 +1,6 @@
 ---
 title: "Sean D. Myers: Radon Tester in Myerstown, PA | Radon Roster"
-description: "Sean D. Myers (Myerstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Sean D. Myers (Myerstown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/sean-d-myers-f3460/
 ---
 
@@ -16,8 +16,6 @@ Myerstown, PA · Lebanon County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 821-1767](tel:7178211767)
-* Email: [myershomeinspections6@gmail.com](mailto:myershomeinspections6@gmail.com)
 * Address: 10 Orchard Ln, Myerstown, PA
 
 ## PA DEP certification

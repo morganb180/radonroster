@@ -1,6 +1,6 @@
 ---
 title: "Joseph Banister: Radon Tester in Edinboro, PA | Radon Roster"
-description: "Joseph Banister (Edinboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Banister (Edinboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-banister-f3354/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 602-9442](tel:8146029442)
-* Email: [joe@homewellpi.com](mailto:joe@homewellpi.com)
 * Address: 5420 Harold Dr, Edinboro, PA
 
 ## PA DEP certification

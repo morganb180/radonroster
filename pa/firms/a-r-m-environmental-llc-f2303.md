@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 402-1916](tel:5704021916)
-* Email: [mrmold.armenvironmental@gmail.com](mailto:mrmold.armenvironmental@gmail.com)
 * Address: P O Box 733, Tannersville, PA
 
 ## PA DEP certification

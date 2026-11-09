@@ -1,6 +1,6 @@
 ---
 title: "Kevin Kerr: Radon Tester in Honey Brook, PA | Radon Roster"
-description: "Kevin Kerr (Honey Brook, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Kevin Kerr (Honey Brook, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/kevin-kerr-f2757/
 ---
 
@@ -16,8 +16,6 @@ Honey Brook, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 324-3064](tel:6103243064)
-* Email: [ks-kerr@hotmail.com](mailto:ks-kerr@hotmail.com)
 * Address: 363 Hill Rd, Honey Brook, PA
 
 ## PA DEP certification

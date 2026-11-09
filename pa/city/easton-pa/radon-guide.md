@@ -70,7 +70,6 @@ Northampton1 certified person
 #### Address
 
 * 4086 Sycamore Dr, Northampton, PA
-* ✉ [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -82,7 +81,6 @@ mitigation #3712
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3712)
 
-[**Call** (610) 615-0706](tel:6106150706)
 
 [See all firms near Easton →](https://radonroster.com/pa/city/easton-pa/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Albert Gordon: Radon Tester in Warrington, PA | Radon Roster"
-description: "Albert Gordon (Warrington, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Albert Gordon (Warrington, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/albert-gordon-f2252/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 869-2094](tel:2158692094)
-* Email: [perfectchoiceinspections@yahoo.com](mailto:perfectchoiceinspections@yahoo.com)
 * Address: 106 Lyric Way, Warrington, PA
 
 ## PA DEP certification

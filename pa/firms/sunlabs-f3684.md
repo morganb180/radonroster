@@ -1,6 +1,6 @@
 ---
 title: "Sunlabs: Radon Lab in Melbourne, FL | Radon Roster"
-description: "Sunlabs (Melbourne, FL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Sunlabs (Melbourne, FL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/sunlabs-f3684/
 ---
 
@@ -30,9 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(321) 255-7011](tel:3212557011)
-* Email: [marekminta@sunradon.com](mailto:marekminta@sunradon.com)
-* Website: [https://www.sunradon.com/](https://www.sunradon.com/)
 * Address: 1335 Gateway Dr Ste 2004, Melbourne, FL
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Brian Rudy: Radon Tester in Middletown, NY | Radon Roster"
-description: "Brian Rudy (Middletown, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Rudy (Middletown, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-rudy-f3609/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(845) 394-3524](tel:8453943524)
-* Email: [contact@inspxpro.com](mailto:contact@inspxpro.com)
-* Website: [https://inspxpro.com/](https://inspxpro.com/)
 * Address: 680 Rte 211 East #325 Suite 3B, Middletown, NY
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Carrozza, Jr., Anthony: Radon Tester in Mount Joy, PA"
-description: "Carrozza, Jr., Anthony (Mount Joy, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Carrozza, Jr., Anthony (Mount Joy, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/carrozza-jr-anthony-f2858/
 ---
 
@@ -14,8 +14,6 @@ Mount Joy, PA · Lancaster County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 490-1126](tel:7174901126)
-* Email: [acarrozza369@comcast.net](mailto:acarrozza369@comcast.net)
 * Address: 770 Fairview Rd, Mount Joy, PA
 
 ## PA DEP certification

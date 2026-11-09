@@ -45,7 +45,6 @@ Allentown1 certified person
 #### Address
 
 * 6027 Palomino Dr, Allentown, PA
-* ✉ [pennsyradonremediation@gmail.com](mailto:pennsyradonremediation@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3318
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3318)
 
-[**Call** (610) 457-2363](tel:6104572363)
 
 ### Integra Environmental LLC
 
@@ -68,8 +66,6 @@ Allentown6 certified people
 #### Address
 
 * 6801 Tilghman St Unit 115, Allentown, PA
-* ✉ [tony@integraradon.com](mailto:tony@integraradon.com)
-* [integraradon.com](https://integraradon.com/)
 
 #### Certified individuals
 
@@ -86,7 +82,6 @@ mitigation #2621 · mitigation #3398 · mitigation #7514 · mitigation #7646 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2621)
 
-[**Call** (610) 346-8004](tel:6103468004)
 
 ### SWAT Environmental
 
@@ -97,8 +92,6 @@ Allentown8 certified people
 #### Address
 
 * 1125 S Cedar Crest Blvd, Allentown, PA
-* ✉ [aszews@swatradon.com](mailto:aszews@swatradon.com)
-* [swat-radon.com](https://swat-radon.com/)
 
 #### Certified individuals
 
@@ -117,7 +110,6 @@ mitigation #3272 · mitigation #3567 · mitigation #3586 · mitigation #7417 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3272)
 
-[**Call** (610) 674-4421](tel:6106744421)
 
 ### Metzger, Dale
 
@@ -128,7 +120,6 @@ Macungie1 certified person
 #### Address
 
 * 3450 Lurman Dr, Macungie, PA
-* ✉ [dalemtzgr@yahoo.com](mailto:dalemtzgr@yahoo.com)
 
 #### Certified individuals
 
@@ -140,7 +131,6 @@ mitigation #2921
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2921)
 
-[**Call** (484) 903-1182](tel:4849031182)
 
 ## Where can I get radon testing in Lehigh County, PA? (7 firms)
 
@@ -155,7 +145,6 @@ Allentown1 certified person
 #### Address
 
 * 464 Mountain View Ct, Allentown, PA
-* ✉ [mwerst@rcn.com](mailto:mwerst@rcn.com)
 
 #### Certified individuals
 
@@ -167,7 +156,6 @@ testing #2846
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2846)
 
-[**Call** (484) 767-4420](tel:4847674420)
 
 ### Cda Inspection Services
 
@@ -178,8 +166,6 @@ Emmaus2 certified people
 #### Address
 
 * 173 Green St, Emmaus, PA
-* ✉ [sean@cdainspection.com](mailto:sean@cdainspection.com)
-* [cdainspection.com](https://www.cdainspection.com/)
 
 #### Certified individuals
 
@@ -192,7 +178,6 @@ testing #3446 · testing #3447 · testing #9082
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3446)
 
-[**Call** (610) 393-4744](tel:6103934744)
 
 ### Cda Inspection Services
 
@@ -205,8 +190,6 @@ Emmaus2 certified people
 #### Address
 
 * 173 Green St, Emmaus, PA
-* ✉ [sean@cdainspections.com](mailto:sean@cdainspections.com)
-* [homesightinspections.com](https://homesightinspections.com/)
 
 #### Certified individuals
 
@@ -219,7 +202,6 @@ testing #8901 · testing #8902
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8901)
 
-[**Call** (610) 704-4149](tel:6107044149)
 
 ### Allied Inspection Services, Inc.
 
@@ -230,8 +212,6 @@ Macungie3 certified people
 #### Address
 
 * Po Box 651, Macungie, PA
-* ✉ [ryan@alliedinspection.com](mailto:ryan@alliedinspection.com)
-* [alliedinspection.com](https://www.alliedinspection.com/)
 
 #### Certified individuals
 
@@ -245,7 +225,6 @@ testing #2687 · testing #2725 · testing #8550 · testing #8984
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2687)
 
-[**Call** (610) 437-6931](tel:6104376931)
 
 ### Kovatto, Anthony
 
@@ -256,7 +235,6 @@ Macungie1 certified person
 #### Address
 
 * 224 Walker Rd, Macungie, PA
-* ✉ [valleyhomeinspectors@gmail.com](mailto:valleyhomeinspectors@gmail.com)
 
 #### Certified individuals
 
@@ -268,7 +246,6 @@ testing #3388
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3388)
 
-[**Call** (484) 633-5044](tel:4846335044)
 
 ### Sup Jr., Michael P
 
@@ -279,8 +256,6 @@ Macungie1 certified person
 #### Address
 
 * 2173 Aster Rd, Macungie, PA
-* ✉ [mike@roihomeinspections.com](mailto:mike@roihomeinspections.com)
-* [roihomeinspections.com](https://roihomeinspections.com/)
 
 #### Certified individuals
 
@@ -292,7 +267,6 @@ testing #3572
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3572)
 
-[**Call** (610) 295-8286](tel:6102958286)
 
 ### Stout, Crysti
 
@@ -303,7 +277,6 @@ Whitehall1 certified person
 #### Address
 
 * 4776 Main St, Whitehall, PA
-* ✉ [crysti.stout@allentownpa.gov](mailto:crysti.stout@allentownpa.gov)
 
 #### Certified individuals
 
@@ -315,7 +288,6 @@ testing #3752
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3752)
 
-[**Call** (484) 788-2811](tel:4847882811)
 
 ## Which counties border Lehigh County, PA?
 

@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 657-2191](tel:4126572191)
-* Email: [debbie.aharmony@gmail.com](mailto:debbie.aharmony@gmail.com)
 * Address: 4088 Alpha Dr, Allison Park, PA
 
 ## PA DEP certification

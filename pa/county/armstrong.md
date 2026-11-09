@@ -45,7 +45,6 @@ Freeport1 certified person
 #### Address
 
 * 97 Main St, Freeport, PA
-* ✉ [wolfeinspections@gmail.com](mailto:wolfeinspections@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3261
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3261)
 
-[**Call** (412) 770-6269](tel:4127706269)
 
 ### Morrow, Robert
 
@@ -68,8 +66,6 @@ Templeton1 certified person
 #### Address
 
 * 150 River Rd, Templeton, PA
-* ✉ [rob@inspectioneeringpgh.com](mailto:rob@inspectioneeringpgh.com)
-* [inspectioneeringpgh.com](https://www.inspectioneeringpgh.com/)
 
 #### Certified individuals
 
@@ -81,7 +77,6 @@ testing #3100
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3100)
 
-[**Call** (412) 421-9100](tel:4124219100)
 
 ## Which counties border Armstrong County, PA?
 

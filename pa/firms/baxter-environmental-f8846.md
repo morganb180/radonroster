@@ -1,6 +1,6 @@
 ---
 title: "Baxter Environmental: Radon Tester in Chambersburg, PA"
-description: "Baxter Environmental (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Baxter Environmental (Chambersburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/baxter-environmental-f8846/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 263-7341](tel:7172637341)
-* Email: [info@baxtergroupinc.com](mailto:info@baxtergroupinc.com)
-* Website: [https://baxtergroupinc.com/](https://baxtergroupinc.com/)
 * Address: 941 Progress Rd, Chambersburg, PA
 
 ## PA DEP certification

@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 755-5398](tel:7177555398)
-* Email: [arm_llc@hotmail.com;llc@hotmail.com](mailto:arm_llc@hotmail.com;llc@hotmail.com)
 * Address: 800 Locust Grove Rd, York, PA
 
 ## PA DEP certification

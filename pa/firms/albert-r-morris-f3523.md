@@ -1,6 +1,6 @@
 ---
 title: "Albert R. Morris: Radon Tester in Easton, PA | Radon Roster"
-description: "Albert R. Morris (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Albert R. Morris (Easton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/albert-r-morris-f3523/
 ---
 
@@ -16,8 +16,6 @@ Easton, PA · Northampton County · 1 certified person
 
 ## Contact
 
-* Phone: [(732) 239-1704](tel:7322391704)
-* Email: [almorrishomeinspections@gmail.com](mailto:almorrishomeinspections@gmail.com)
 * Address: 35 Clarendon Dr, Easton, PA
 
 ## PA DEP certification

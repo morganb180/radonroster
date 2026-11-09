@@ -1,6 +1,6 @@
 ---
 title: "Robbie D Risley: Radon Tester in Bethel Park, PA"
-description: "Robbie D Risley (Bethel Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Robbie D Risley (Bethel Park, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/robbie-d-risley-f3494/
 ---
 
@@ -16,9 +16,6 @@ Bethel Park, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 660-9337](tel:5706609337)
-* Email: [robbie@firstclass-homeinspections.com](mailto:robbie@firstclass-homeinspections.com)
-* Website: [https://www.firstclass-homeinspections.com/](https://www.firstclass-homeinspections.com/)
 * Address: 2310 Wells Dr, Bethel Park, PA
 
 ## PA DEP certification

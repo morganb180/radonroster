@@ -20,7 +20,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 885-1133](tel:4128851133)
 * Address: 220 E Elmhurst Rd, Pittsburgh, PA
 
 ## PA DEP certification

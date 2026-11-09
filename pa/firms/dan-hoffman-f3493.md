@@ -1,6 +1,6 @@
 ---
 title: "Dan Hoffman: Radon Tester in York, PA | Radon Roster"
-description: "Dan Hoffman (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dan Hoffman (York, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dan-hoffman-f3493/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 978-0191](tel:7179780191)
-* Email: [tekinspectionyork@gmail.com](mailto:tekinspectionyork@gmail.com)
 * Address: 118 N Manheim St, York, PA
 
 ## PA DEP certification

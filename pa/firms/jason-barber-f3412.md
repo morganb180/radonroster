@@ -1,6 +1,6 @@
 ---
 title: "Jason Barber: Radon Tester in Baden, PA | Radon Roster"
-description: "Jason Barber (Baden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jason Barber (Baden, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-barber-f3412/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 513-4650](tel:7245134650)
-* Email: [propertyinspections360@yahoo.com](mailto:propertyinspections360@yahoo.com)
 * Address: 368 Wayne St, Baden, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Niko Fabri: Radon Tester in Norristown, PA | Radon Roster"
-description: "Niko Fabri (Norristown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Niko Fabri (Norristown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/niko-fabri-f3621/
 ---
 
@@ -16,9 +16,6 @@ Norristown, PA · Montgomery County · 2 certified people
 
 ## Contact
 
-* Phone: [(215) 313-7499](tel:2153137499)
-* Email: [aiman.omar@ao-homeinspections.com;niko.fabri@ao-homeinspections.com](mailto:aiman.omar@ao-homeinspections.com;niko.fabri@ao-homeinspections.com)
-* Website: [https://www.ao-homeinspections.com/](https://www.ao-homeinspections.com/)
 * Address: 164 Liberty Ave, Norristown, PA
 
 ## PA DEP certification

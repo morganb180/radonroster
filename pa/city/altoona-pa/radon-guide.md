@@ -68,7 +68,6 @@ Altoona2 certified people
 #### Address
 
 * 3499 Kettle Rd, Altoona, PA
-* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
 
 #### Certified individuals
 
@@ -81,7 +80,6 @@ mitigation #2854 · testing #2854 · testing #3404 · testing #9075
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
 
-[**Call** (814) 934-0905](tel:8149340905)
 
 [See all firms near Altoona →](https://radonroster.com/pa/city/altoona-pa/)
 

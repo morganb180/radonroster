@@ -20,8 +20,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 885-1133](tel:4128851133)
-* Email: [jason.vbinspect@gmail.com](mailto:jason.vbinspect@gmail.com)
 * Address: 404 S. Pacific Ave, Pittsburgh, PA
 
 ## PA DEP certification

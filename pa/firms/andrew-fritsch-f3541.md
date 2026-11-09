@@ -1,6 +1,6 @@
 ---
 title: "Andrew Fritsch: Radon Mitigator in Ephrata, PA"
-description: "Andrew Fritsch (Ephrata, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Andrew Fritsch (Ephrata, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/andrew-fritsch-f3541/
 ---
 
@@ -16,9 +16,6 @@ Ephrata, PA · Lancaster County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 949-2011](tel:7179492011)
-* Email: [andrew@bauderbasement.com](mailto:andrew@bauderbasement.com)
-* Website: [https://bauderbasement.com/](https://bauderbasement.com/)
 * Address: 110 S Line Rd, Ephrata, PA
 
 ## PA DEP certification

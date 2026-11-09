@@ -1,6 +1,6 @@
 ---
 title: "Troy Baughman: Radon Tester in Dubois, PA | Radon Roster"
-description: "Troy Baughman (Dubois, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Troy Baughman (Dubois, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/troy-baughman-f3167/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 771-7737](tel:8147717737)
-* Email: [troy@millstonehomeinspections.com](mailto:troy@millstonehomeinspections.com)
-* Website: [https://millstonehomeinspections.com/](https://millstonehomeinspections.com/)
 * Address: 823 W Weber Ave, Dubois, PA
 
 ## PA DEP certification

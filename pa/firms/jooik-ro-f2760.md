@@ -1,6 +1,6 @@
 ---
 title: "Jooik Ro: Radon Testing & Mitigation in Carlisle, PA"
-description: "Jooik Ro (Carlisle, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jooik Ro (Carlisle, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jooik-ro-f2760/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 226-7179](tel:7172267179)
-* Email: [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
 * Address: 30 Sunset Dr, Carlisle, PA
 
 ## PA DEP certification

@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 968-1933](tel:2159681933)
-* Email: [cdarcy.radonts@gmail.com](mailto:cdarcy.radonts@gmail.com)
 * Address: 427 Franklin Ct, Collegeville, PA
 
 ## PA DEP certification

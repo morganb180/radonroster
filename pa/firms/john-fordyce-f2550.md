@@ -1,6 +1,6 @@
 ---
 title: "John Fordyce: Radon Tester in Indiana, PA | Radon Roster"
-description: "John Fordyce (Indiana, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "John Fordyce (Indiana, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-fordyce-f2550/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 463-7233](tel:7244637233)
-* Email: [john@safebuyhi.com](mailto:john@safebuyhi.com)
 * Address: 7844 Old Route 56 Hwy W, Indiana, PA
 
 ## PA DEP certification

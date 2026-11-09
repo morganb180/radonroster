@@ -10,7 +10,6 @@ canonical: https://radonroster.com/pa/firms/a-z-solutions-inc-f2977/
 
 North Canton, OH · Certified firm
 
-[Call (330) 915-2650](tel:3309152650). This firm can't take quote requests through Radon Roster yet.
 
 ## Google rating
 
@@ -20,8 +19,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(330) 915-2650](tel:3309152650)
-* Email: [tony@azsolutons.com](mailto:tony@azsolutons.com)
 * Address: 7681 Tim Ave Nw, North Canton, OH
 
 ## PA DEP certification

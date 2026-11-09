@@ -1,6 +1,6 @@
 ---
 title: "Steven Kowatic: Radon Tester in Pittsburgh, PA"
-description: "Steven Kowatic (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Steven Kowatic (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/steven-kowatic-f3298/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 350-8592](tel:4123508592)
-* Email: [steve@k2propertyinspections.com](mailto:steve@k2propertyinspections.com)
 * Address: 1370 Meadowlark Dr, Pittsburgh, PA
 
 ## PA DEP certification

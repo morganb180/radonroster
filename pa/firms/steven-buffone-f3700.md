@@ -1,6 +1,6 @@
 ---
 title: "Steven Buffone: Radon Testing & Mitigation in Pittsburgh, PA"
-description: "Steven Buffone (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Steven Buffone (Pittsburgh, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/steven-buffone-f3700/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(330) 717-4061](tel:3307174061)
-* Email: [buffone13@outlook.com](mailto:buffone13@outlook.com)
 * Address: 301 S Hills Vlg, Pittsburgh, PA
 
 ## PA DEP certification

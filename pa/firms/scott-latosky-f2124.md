@@ -1,6 +1,6 @@
 ---
 title: "Scott Latosky: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Scott Latosky (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Scott Latosky (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/scott-latosky-f2124/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(877) 301-3552](tel:8773013552)
-* Email: [latoskyinspection@gmail.com](mailto:latoskyinspection@gmail.com)
 * Address: Po Box 99654, Pittsburgh, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Joshua Supik: Radon Tester in Cabot, PA | Radon Roster"
-description: "Joshua Supik (Cabot, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joshua Supik (Cabot, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joshua-supik-f3320/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 994-0333](tel:7249940333)
-* Email: [supikhomeinspector@gmail.com](mailto:supikhomeinspector@gmail.com)
 * Address: 144 Wetzel Rd, Cabot, PA
 
 ## PA DEP certification

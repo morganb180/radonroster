@@ -1,6 +1,6 @@
 ---
 title: "David C. Heintzelman: Radon Tester in Mechanicsburg, PA"
-description: "David C. Heintzelman (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "David C. Heintzelman (Mechanicsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-c-heintzelman-f3532/
 ---
 
@@ -16,9 +16,6 @@ Mechanicsburg, PA · Cumberland County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 480-3357](tel:7174803357)
-* Email: [ann@adlerhi.com](mailto:ann@adlerhi.com)
-* Website: [https://adlerhi.com/](https://adlerhi.com/)
 * Address: 2802 W Rosegarden Blvd, Mechanicsburg, PA
 
 ## PA DEP certification

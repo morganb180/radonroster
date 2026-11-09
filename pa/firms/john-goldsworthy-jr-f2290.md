@@ -1,6 +1,6 @@
 ---
 title: "John Goldsworthy Jr.: Radon Tester in Furlong, PA"
-description: "John Goldsworthy Jr. (Furlong, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "John Goldsworthy Jr. (Furlong, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-goldsworthy-jr-f2290/
 ---
 
@@ -16,8 +16,6 @@ Furlong, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 491-7412](tel:2154917412)
-* Email: [jgoldsworthy@comcast.net](mailto:jgoldsworthy@comcast.net)
 * Address: 2187 Sugar Bottom Rd, Furlong, PA
 
 ## PA DEP certification

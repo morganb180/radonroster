@@ -1,6 +1,6 @@
 ---
 title: "Certified Radon Services, LLC: Radon Mitigator in Boston, NY"
-description: "Certified Radon Services, LLC (Boston, NY) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Certified Radon Services, LLC (Boston, NY) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-radon-services-llc-f3705/
 ---
 
@@ -14,8 +14,6 @@ Boston, NY · 4 certified people
 
 ## Contact
 
-* Phone: [(716) 713-8098](tel:7167138098)
-* Email: [certifiedradon@gmail.com](mailto:certifiedradon@gmail.com)
 * Address: 10335 Manchester Rd, Boston, NY
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Pine Grove1 certified person
 #### Address
 
 * 18 Nut Grove Rd, Pine Grove, PA
-* ✉ [rr-radonreduction@live.com](mailto:rr-radonreduction@live.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #2893
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2893)
 
-[**Call** (570) 345-6515](tel:5703456515)
 
 ## Where can I get radon testing in Schuylkill County, PA? (4 firms)
 
@@ -72,7 +70,6 @@ Pine Grove1 certified person
 #### Address
 
 * 23 Hallton Hill Rd, Pine Grove, PA
-* ✉ [advantecinspections@gmail.com](mailto:advantecinspections@gmail.com)
 
 #### Certified individuals
 
@@ -84,7 +81,6 @@ testing #3179
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3179)
 
-[**Call** (570) 617-7015](tel:5706177015)
 
 ### Heffner, Gene
 
@@ -95,8 +91,6 @@ Pottsville1 certified person
 #### Address
 
 * Po Box 952, Pottsville, PA
-* ✉ [gene@gpahomeinspections.com](mailto:gene@gpahomeinspections.com)
-* [gpahomeinspections.com](https://gpahomeinspections.com/)
 
 #### Certified individuals
 
@@ -108,7 +102,6 @@ testing #3358
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3358)
 
-[**Call** (570) 900-1796](tel:5709001796)
 
 ### Moran, Edward
 
@@ -119,7 +112,6 @@ Pottsville1 certified person
 #### Address
 
 * 940 Port Carbon St, Pottsville, PA
-* ✉ [emiedhome@gmail.com](mailto:emiedhome@gmail.com)
 
 #### Certified individuals
 
@@ -131,7 +123,6 @@ testing #2562
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2562)
 
-[**Call** (570) 640-8324](tel:5706408324)
 
 ### Wilhelm, Anthony
 
@@ -142,8 +133,6 @@ Tower City1 certified person
 #### Address
 
 * 213 Peters Ave, Tower City, PA
-* ✉ [twilhelm@hpinow.com](mailto:twilhelm@hpinow.com)
-* [hpinow.com](https://hpinow.com/)
 
 #### Certified individuals
 
@@ -155,7 +144,6 @@ testing #3225
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3225)
 
-[**Call** (717) 443-3457](tel:7174433457)
 
 ## Which counties border Schuylkill County, PA?
 

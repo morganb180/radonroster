@@ -16,8 +16,6 @@ Phoenixville, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 573-8159](tel:5705738159)
-* Email: [spencerconradinspect@gmail.com](mailto:spencerconradinspect@gmail.com)
 * Address: 116 Gay Street #186, Phoenixville, PA
 
 ## PA DEP certification

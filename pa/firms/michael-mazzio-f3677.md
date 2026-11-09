@@ -1,6 +1,6 @@
 ---
 title: "Michael Mazzio: Radon Tester in Philadelphia, PA"
-description: "Michael Mazzio (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Mazzio (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-mazzio-f3677/
 ---
 
@@ -16,8 +16,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 280-5473](tel:2152805473)
-* Email: [absoluteenvirotesting@gmail.co](mailto:absoluteenvirotesting@gmail.co)
 * Address: 8203 Dorcas St, Philadelphia, PA
 
 ## PA DEP certification

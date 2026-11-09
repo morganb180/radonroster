@@ -45,9 +45,6 @@ Lebanon3 certified people
 #### Address
 
 * 805 Pershing St, Lebanon, PA
-* ✉ [mark@mwebsterconstruction.com](mailto:mark@mwebsterconstruction.com)
-* ✉ [mike@mwebsterconstruction.com](mailto:mike@mwebsterconstruction.com)
-* [mwebsterconstruction.com](https://mwebsterconstruction.com/)
 
 #### Certified individuals
 
@@ -61,7 +58,6 @@ mitigation #2948 · mitigation #3064 · mitigation #7308 · mitigation #7309 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2948)
 
-[**Call** (717) 274-3158](tel:7172743158)
 
 ### Verna, Sr., Edward
 
@@ -72,7 +68,6 @@ Lebanon1 certified person
 #### Address
 
 * 1703 S 5Th Ave, Lebanon, PA
-* ✉ [radonreductionsystems@gmail.com](mailto:radonreductionsystems@gmail.com)
 
 #### Certified individuals
 
@@ -84,7 +79,6 @@ mitigation #2231
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2231)
 
-[**Call** (717) 274-2541](tel:7172742541)
 
 ## Where can I get radon testing in Lebanon County, PA? (2 firms)
 
@@ -99,7 +93,6 @@ Myerstown1 certified person
 #### Address
 
 * 10 Orchard Ln, Myerstown, PA
-* ✉ [myershomeinspections6@gmail.com](mailto:myershomeinspections6@gmail.com)
 
 #### Certified individuals
 
@@ -111,7 +104,6 @@ testing #3460
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3460)
 
-[**Call** (717) 821-1767](tel:7178211767)
 
 ### Pearsall, Derek
 
@@ -122,8 +114,6 @@ Richland1 certified person
 #### Address
 
 * 207 Chestnut Street, Richland, PA
-* ✉ [derek@chestnutinspections.com](mailto:derek@chestnutinspections.com)
-* [chestnutinspections.com](https://chestnutinspections.com/)
 
 #### Certified individuals
 
@@ -135,7 +125,6 @@ testing #3626
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3626)
 
-[**Call** (717) 745-5545](tel:7177455545)
 
 ## Which counties border Lebanon County, PA?
 

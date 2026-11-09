@@ -1,6 +1,6 @@
 ---
 title: "Vanessa Gress: Radon Tester in Adamstown, MD | Radon Roster"
-description: "Vanessa Gress (Adamstown, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Vanessa Gress (Adamstown, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/vanessa-gress-f3608/
 ---
 
@@ -16,8 +16,6 @@ Adamstown, MD · 1 certified person
 
 ## Contact
 
-* Phone: [(301) 693-4089](tel:3016934089)
-* Email: [vanessa.sue.gress@gmail.com](mailto:vanessa.sue.gress@gmail.com)
 * Address: 5024 Doubs Rd, Adamstown, MD
 
 ## PA DEP certification

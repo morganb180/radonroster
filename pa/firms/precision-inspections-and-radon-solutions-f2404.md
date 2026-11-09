@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 763-1373](tel:7177631373)
-* Email: [mprice@precisionradonsolutions.com;wecare@yourprecisionteam.com](mailto:mprice@precisionradonsolutions.com;wecare@yourprecisionteam.com)
-* Website: [https://www.precisionradonsolutions.com/](https://www.precisionradonsolutions.com/)
 * Address: 4900 Carlisle Pk #277, Mechanicsburg, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Alburtis1 certified person
 #### Address
 
 * 11 Timber Dr, Alburtis, PA
-* ✉ [radongone@ymail.com](mailto:radongone@ymail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #2885
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2885)
 
-[**Call** (484) 547-3496](tel:4845473496)
 
 ### S. J. Watras Inc
 
@@ -68,7 +66,6 @@ Boyertown1 certified person
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@cocast.net](mailto:sjwatras@cocast.net)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ mitigation #7579
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7579)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 ### S. J. Watras, Inc.
 
@@ -91,7 +87,6 @@ Boyertown3 certified people
 #### Address
 
 * 32 Indian Ln, Boyertown, PA
-* ✉ [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
 
 #### Certified individuals
 
@@ -105,7 +100,6 @@ mitigation #1056 · mitigation #1057 · mitigation #7111 · mitigation #7580 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1056)
 
-[**Call** (610) 367-5005](tel:6103675005)
 
 ### Rogers, Keith
 
@@ -116,7 +110,6 @@ Douglassville1 certified person
 #### Address
 
 * 305 Cameron Dr, Douglassville, PA
-* ✉ [supremeradon@gmail.com](mailto:supremeradon@gmail.com)
 
 #### Certified individuals
 
@@ -128,7 +121,6 @@ mitigation #3540
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3540)
 
-[**Call** (610) 575-2775](tel:6105752775)
 
 ## Where can I get radon testing in Berks County, PA? (5 firms)
 
@@ -145,8 +137,6 @@ Kutztown1 certified person
 #### Address
 
 * Po Box 179, Kutztown, PA
-* ✉ [info@brsinspect.com](mailto:info@brsinspect.com)
-* [brsinspect.com](https://brsinspect.com/)
 
 #### Certified individuals
 
@@ -158,7 +148,6 @@ testing #2751
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2751)
 
-[**Call** (610) 683-7370](tel:6106837370)
 
 ### A.B.E. Radiation Measurements Labs
 
@@ -169,8 +158,6 @@ Lenhartsville5 certified people
 #### Address
 
 * 1005 Old Route 22, Lenhartsville, PA
-* ✉ [tony@radprotection.com](mailto:tony@radprotection.com)
-* [radprotection.com](https://www.radprotection.com/)
 
 #### Certified individuals
 
@@ -186,7 +173,6 @@ lab #0048 · lab #0050 · testing #0048 · testing #0050 · testing #8014 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyLab.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0048)
 
-[**Call** (610) 756-4153](tel:6107564153)
 
 ### Artigliere, David
 
@@ -197,7 +183,6 @@ Reading2 certified people
 #### Address
 
 * Po Box 4475, Reading, PA
-* ✉ [artihi@gmail.com](mailto:artihi@gmail.com)
 
 #### Certified individuals
 
@@ -210,7 +195,6 @@ testing #2398 · testing #2399
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2398)
 
-[**Call** (610) 220-1907](tel:6102201907)
 
 ### Melendez, Jarel
 
@@ -221,7 +205,6 @@ Reading1 certified person
 #### Address
 
 * 613 Bingaman St, Reading, PA
-* ✉ [jarel.melendez@readingpa.gov](mailto:jarel.melendez@readingpa.gov)
 
 #### Certified individuals
 
@@ -233,7 +216,6 @@ testing #3605
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3605)
 
-[**Call** (484) 388-9696](tel:4843889696)
 
 ### Suburban Property
 
@@ -246,7 +228,6 @@ Temple3 certified people
 #### Address
 
 * 4600 Kutztown Rd, Temple, PA
-* ✉ [rick@inspectnow.com](mailto:rick@inspectnow.com)
 
 #### Certified individuals
 
@@ -260,7 +241,6 @@ testing #8392 · testing #8778 · testing #8830
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8392)
 
-[**Call** (610) 929-1154](tel:6109291154)
 
 ## Which counties border Berks County, PA?
 

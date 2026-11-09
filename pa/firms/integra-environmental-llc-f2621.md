@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 346-8004](tel:6103468004)
-* Email: [tony@integraradon.com](mailto:tony@integraradon.com)
-* Website: [https://integraradon.com/](https://integraradon.com/)
 * Address: 6801 Tilghman St Unit 115, Allentown, PA
 
 ## PA DEP certification

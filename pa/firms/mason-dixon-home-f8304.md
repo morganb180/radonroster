@@ -1,6 +1,6 @@
 ---
 title: "Mason Dixon Home: Radon Tester in Gettysburg, PA"
-description: "Mason Dixon Home (Gettysburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Mason Dixon Home (Gettysburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/mason-dixon-home-f8304/
 ---
 
@@ -26,8 +26,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 334-3435](tel:7173343435)
-* Email: [susankint@comcast.net](mailto:susankint@comcast.net)
 * Address: 282 Longstreet Dr, Gettysburg, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Ammon Hontz: Radon Tester in Jim Thorpe, PA | Radon Roster"
-description: "Ammon Hontz (Jim Thorpe, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ammon Hontz (Jim Thorpe, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ammon-hontz-f2986/
 ---
 
@@ -16,8 +16,6 @@ Jim Thorpe, PA · Carbon County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 467-7328](tel:5704677328)
-* Email: [adhomes@ptd.net](mailto:adhomes@ptd.net)
 * Address: Po Box 4064, Jim Thorpe, PA
 
 ## PA DEP certification

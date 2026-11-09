@@ -1,6 +1,6 @@
 ---
 title: "James Cortez: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "James Cortez (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "James Cortez (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-cortez-f2836/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 889-0623](tel:4128890623)
-* Email: [safesensehome@gmail.com](mailto:safesensehome@gmail.com)
 * Address: 166 Dickson Ave, Pittsburgh, PA
 
 ## PA DEP certification

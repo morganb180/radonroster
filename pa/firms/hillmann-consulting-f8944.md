@@ -1,6 +1,6 @@
 ---
 title: "Hillmann Consulting: Radon Tester in Union, NJ"
-description: "Hillmann Consulting (Union, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Hillmann Consulting (Union, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/hillmann-consulting-f8944/
 ---
 
@@ -20,9 +20,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(908) 688-7800](tel:9086887800)
-* Email: [slamb@hillmannconsulting.com](mailto:slamb@hillmannconsulting.com)
-* Website: [https://www.hillmannconsulting.com/](https://www.hillmannconsulting.com/)
 * Address: 1600 Route 22 E, Union, NJ
 
 ## PA DEP certification

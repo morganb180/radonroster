@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 584-0799](tel:4125840799)
-* Email: [bkail@homeradonpros.com;jlanham@homeradonpros.com](mailto:bkail@homeradonpros.com;jlanham@homeradonpros.com)
-* Website: [https://www.homeradonpros.com/](https://www.homeradonpros.com/)
 * Address: 549 Mccombs Rd, Venetia, PA
 
 ## PA DEP certification

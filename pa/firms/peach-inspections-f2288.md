@@ -1,6 +1,6 @@
 ---
 title: "Peach Inspections: Radon Tester in Coatesville, PA"
-description: "Peach Inspections (Coatesville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Peach Inspections (Coatesville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/peach-inspections-f2288/
 ---
 
@@ -14,8 +14,6 @@ Coatesville, PA · Chester County · 2 certified people
 
 ## Contact
 
-* Phone: [(610) 917-1096](tel:6109171096)
-* Email: [peachinspections@gmail.com;steve.peachinspections@gmail.com](mailto:peachinspections@gmail.com;steve.peachinspections@gmail.com)
 * Address: 120 Cambridge Rd, Coatesville, PA
 
 ## PA DEP certification

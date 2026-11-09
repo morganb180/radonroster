@@ -1,6 +1,6 @@
 ---
 title: "Kyle Underwood: Radon Tester in Norristown, PA"
-description: "Kyle Underwood (Norristown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Kyle Underwood (Norristown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/kyle-underwood-f3195/
 ---
 
@@ -16,9 +16,6 @@ Norristown, PA · Montgomery County · 1 certified person
 
 ## Contact
 
-* Phone: [(267) 407-8808](tel:2674078808)
-* Email: [kyleunderwood@buildingtrustinspections.com](mailto:kyleunderwood@buildingtrustinspections.com)
-* Website: [https://www.buildingtrustinspections.com/](https://www.buildingtrustinspections.com/)
 * Address: 1004 Montgomery Ave, Norristown, PA
 
 ## PA DEP certification

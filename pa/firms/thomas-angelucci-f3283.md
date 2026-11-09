@@ -1,6 +1,6 @@
 ---
 title: "Thomas Angelucci: Radon Tester in Stevens, PA | Radon Roster"
-description: "Thomas Angelucci (Stevens, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Angelucci (Stevens, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-angelucci-f3283/
 ---
 
@@ -16,9 +16,6 @@ Stevens, PA · Lancaster County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 413-4582](tel:7174134582)
-* Email: [tom@inspectmyhomenow.com](mailto:tom@inspectmyhomenow.com)
-* Website: [https://www.amerisurehomeinspection.com/](https://www.amerisurehomeinspection.com/)
 * Address: 424 E Church St, Stevens, PA
 
 ## PA DEP certification

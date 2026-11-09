@@ -1,6 +1,6 @@
 ---
 title: "Brian Brucker: Radon Tester in Export, PA | Radon Roster"
-description: "Brian Brucker (Export, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Brucker (Export, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-brucker-f3001/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 327-6624](tel:7243276624)
-* Email: [inspect@comcast.net](mailto:inspect@comcast.net)
 * Address: 2376 Mount Vernon Ave, Export, PA
 
 ## PA DEP certification

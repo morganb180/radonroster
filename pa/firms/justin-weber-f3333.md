@@ -1,6 +1,6 @@
 ---
 title: "Justin Weber: Radon Tester in Mountain Top, PA"
-description: "Justin Weber (Mountain Top, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Justin Weber (Mountain Top, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/justin-weber-f3333/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 899-3255](tel:5708993255)
-* Email: [justin.weber82@gmail.com](mailto:justin.weber82@gmail.com)
 * Address: 10 Chelsey Dr, Mountain Top, PA
 
 ## PA DEP certification

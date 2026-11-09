@@ -1,6 +1,6 @@
 ---
 title: "Jacob Boyer: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Jacob Boyer (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jacob Boyer (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jacob-boyer-f3716/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 444-5229](tel:4124445229)
-* Email: [jake@propertybuddyhome.com](mailto:jake@propertybuddyhome.com)
 * Address: 320 Avenue F, Pittsburgh, PA
 
 ## PA DEP certification

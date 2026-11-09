@@ -1,6 +1,6 @@
 ---
 title: "Precise Home: Radon Tester in Hawley, PA | Radon Roster"
-description: "Precise Home (Hawley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Precise Home (Hawley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/precise-home-f2189/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(917) 279-6725](tel:9172796725)
-* Email: [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
 * Address: 2901 Hemlock Farms, Hawley, PA
 
 ## PA DEP certification

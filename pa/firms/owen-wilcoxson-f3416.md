@@ -1,6 +1,6 @@
 ---
 title: "Owen Wilcoxson: Radon Tester in Erie, PA | Radon Roster"
-description: "Owen Wilcoxson (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Owen Wilcoxson (Erie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/owen-wilcoxson-f3416/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 920-4171](tel:8149204171)
-* Email: [owen@homeinspectionmanagement.com](mailto:owen@homeinspectionmanagement.com)
-* Website: [https://www.eriehomeinspectors.com/](https://www.eriehomeinspectors.com/)
 * Address: 426 Joliette Ave, Erie, PA
 
 ## PA DEP certification

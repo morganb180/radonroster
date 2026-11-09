@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(734) 955-6600](tel:7349556600)
-* Email: [jeremy.westcott@2etc.com;ron.stauffer@2etc.com](mailto:jeremy.westcott@2etc.com;ron.stauffer@2etc.com)
 * Address: 38900 W Huron River Dr, Romulus, MI
 
 ## PA DEP certification

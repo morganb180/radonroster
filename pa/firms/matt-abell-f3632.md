@@ -1,6 +1,6 @@
 ---
 title: "Matt Abell: Radon Testing & Mitigation in Stroudsburg, PA"
-description: "Matt Abell (Stroudsburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Matt Abell (Stroudsburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/matt-abell-f3632/
 ---
 
@@ -16,8 +16,6 @@ Stroudsburg, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 807-1831](tel:5708071831)
-* Email: [ablebodiesservices@hotmail.com](mailto:ablebodiesservices@hotmail.com)
 * Address: 304 Wallace St, Stroudsburg, PA
 
 ## PA DEP certification

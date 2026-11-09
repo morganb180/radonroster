@@ -1,6 +1,6 @@
 ---
 title: "Kimberly Baker: Radon Tester in Warriors Mark, PA"
-description: "Kimberly Baker (Warriors Mark, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Kimberly Baker (Warriors Mark, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/kimberly-baker-f2160/
 ---
 
@@ -16,8 +16,6 @@ Warriors Mark, PA · Huntingdon County · 2 certified people
 
 ## Contact
 
-* Phone: [(814) 632-9224](tel:8146329224)
-* Email: [dwellingdiagnostics@windstream.net;kimbaker@windstream.net](mailto:dwellingdiagnostics@windstream.net;kimbaker@windstream.net)
 * Address: 1564 Dry Hollow Rd, Warriors Mark, PA
 
 ## PA DEP certification

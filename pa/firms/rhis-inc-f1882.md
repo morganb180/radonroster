@@ -1,6 +1,6 @@
 ---
 title: "Rhis, Inc.: Radon Testing & Mitigation in Wilmington, DE"
-description: "Rhis, Inc. (Wilmington, DE) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Rhis, Inc. (Wilmington, DE) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rhis-inc-f1882/
 ---
 
@@ -14,8 +14,6 @@ Wilmington, DE · 8 certified people
 
 ## Contact
 
-* Phone: [(302) 993-9100](tel:3029939100)
-* Email: [reliablehomeinspections1@gmail.com;rhisfrancis@gmail.com;tammy.kerrigan@gmail.com;tammykerrigan@gmail.com](mailto:reliablehomeinspections1@gmail.com;rhisfrancis@gmail.com;tammy.kerrigan@gmail.com;tammykerrigan@gmail.com)
 * Address: 100 Old Kennett Rd, Wilmington, DE
 
 ## PA DEP certification

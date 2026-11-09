@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 239-4212](tel:6102394212)
-* Email: [roger@aqc-radon.com](mailto:roger@aqc-radon.com)
-* Website: [http://www.aqc-radon.com/](http://www.aqc-radon.com/)
 * Address: 630 Freedom Business Ctr, King Of Prussia, PA
 
 ## PA DEP certification

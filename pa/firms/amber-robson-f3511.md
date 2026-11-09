@@ -1,6 +1,6 @@
 ---
 title: "Amber Robson: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Amber Robson (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Amber Robson (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/amber-robson-f3511/
 ---
 
@@ -16,8 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(412) 641-0664](tel:4126410664)
-* Email: [rivercityradonllc@gmail.com](mailto:rivercityradonllc@gmail.com)
 * Address: 27 Telescope St, Pittsburgh, PA
 
 ## PA DEP certification

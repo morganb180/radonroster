@@ -1,6 +1,6 @@
 ---
 title: "Jenkins, Jr., John: Radon Tester in Shickshinny, PA"
-description: "Jenkins, Jr., John (Shickshinny, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jenkins, Jr., John (Shickshinny, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jenkins-jr-john-f1778/
 ---
 
@@ -14,8 +14,6 @@ Shickshinny, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 332-5677](tel:5703325677)
-* Email: [dforceems@epix.net](mailto:dforceems@epix.net)
 * Address: 40 Sorber Rd, Shickshinny, PA
 
 ## PA DEP certification

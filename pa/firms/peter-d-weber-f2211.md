@@ -1,6 +1,6 @@
 ---
 title: "Peter D. Weber: Radon Testing & Mitigation in Dagsboro, DE"
-description: "Peter D. Weber (Dagsboro, DE) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Peter D. Weber (Dagsboro, DE) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/peter-d-weber-f2211/
 ---
 
@@ -16,8 +16,6 @@ Dagsboro, DE · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 869-9066](tel:6108699066)
-* Email: [pete@cninspections.com](mailto:pete@cninspections.com)
 * Address: Po Box 557, Dagsboro, DE
 
 ## PA DEP certification

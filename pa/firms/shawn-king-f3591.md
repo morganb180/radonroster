@@ -1,6 +1,6 @@
 ---
 title: "Shawn King: Radon Tester in Meadville, PA | Radon Roster"
-description: "Shawn King (Meadville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Shawn King (Meadville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-king-f3591/
 ---
 
@@ -16,8 +16,6 @@ Meadville, PA · Crawford County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 758-6413](tel:8147586413)
-* Email: [resteasyhomeinsp@gmail.com](mailto:resteasyhomeinsp@gmail.com)
 * Address: 21256 Devore Rd, Meadville, PA
 
 ## PA DEP certification

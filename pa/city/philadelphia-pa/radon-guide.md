@@ -79,7 +79,6 @@ mitigation #7735
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
 
-[**Call** (267) 269-5573](tel:2672695573)
 
 ### Rvs Radon Mitigation, LLC.
 
@@ -90,8 +89,6 @@ Philadelphia3 certified people
 #### Address
 
 * 294 E Cheltenham Ave, Philadelphia, PA
-* ✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)
-* [rvsradon.com](https://www.rvsradon.com/)
 
 #### Certified individuals
 
@@ -105,7 +102,6 @@ mitigation #3458 · mitigation #3594 · mitigation #7697 · mitigation #7725
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
 
-[**Call** (267) 269-5573](tel:2672695573)
 
 [See all firms near Philadelphia →](https://radonroster.com/pa/city/philadelphia-pa/)
 

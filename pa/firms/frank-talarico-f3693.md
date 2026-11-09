@@ -1,6 +1,6 @@
 ---
 title: "Frank Talarico: Radon Tester in Nazareth, PA | Radon Roster"
-description: "Frank Talarico (Nazareth, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Frank Talarico (Nazareth, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/frank-talarico-f3693/
 ---
 
@@ -16,8 +16,6 @@ Nazareth, PA · Northampton County · 1 certified person
 
 ## Contact
 
-* Phone: [(917) 273-0894](tel:9172730894)
-* Email: [info@lehighvalleyradontesters.com](mailto:info@lehighvalleyradontesters.com)
 * Address: 2062 Fieldview Dr, Nazareth, PA
 
 ## PA DEP certification

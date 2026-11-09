@@ -1,6 +1,6 @@
 ---
 title: "Michael Biechler: Radon Tester in Middletown, PA"
-description: "Michael Biechler (Middletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Michael Biechler (Middletown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-biechler-f2102/
 ---
 
@@ -16,8 +16,6 @@ Middletown, PA · Dauphin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 364-0060](tel:7173640060)
-* Email: [inspectionsmike@gmail.com](mailto:inspectionsmike@gmail.com)
 * Address: 2466 Roundtop Rd, Middletown, PA
 
 ## PA DEP certification

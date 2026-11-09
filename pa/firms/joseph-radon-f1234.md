@@ -1,6 +1,6 @@
 ---
 title: "Joseph Radon: Radon Testing & Mitigation in Harrisburg, PA"
-description: "Joseph Radon (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Radon (Harrisburg, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-radon-f1234/
 ---
 
@@ -16,8 +16,6 @@ Harrisburg, PA · Dauphin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 425-5365](tel:7174255365)
-* Email: [coonsmj13@gmail.com](mailto:coonsmj13@gmail.com)
 * Address: 400 Market St, Harrisburg, PA
 
 ## PA DEP certification

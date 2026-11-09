@@ -63,7 +63,6 @@ Erie1 certified person
 #### Address
 
 * 5810 Clinton St, Erie, PA
-* ✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
 
 #### Certified individuals
 
@@ -75,7 +74,6 @@ mitigation #3133
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
 
-[**Call** (814) 490-2167](tel:8144902167)
 
 ### Parenti, Michael
 
@@ -86,7 +84,6 @@ Erie1 certified person
 #### Address
 
 * 3811 W Lake Rd, Erie, PA
-* ✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
 
 #### Certified individuals
 
@@ -98,7 +95,6 @@ mitigation #3016
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
 
-[**Call** (814) 873-4900](tel:8148734900)
 
 [See all firms near Erie →](https://radonroster.com/pa/city/erie-pa/)
 

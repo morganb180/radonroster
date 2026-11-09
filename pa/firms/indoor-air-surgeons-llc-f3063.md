@@ -1,6 +1,6 @@
 ---
 title: "Indoor Air Surgeons, LLC: Radon Mitigator in Bensalem, PA"
-description: "Indoor Air Surgeons, LLC (Bensalem, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Indoor Air Surgeons, LLC (Bensalem, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/indoor-air-surgeons-llc-f3063/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 239-8628](tel:2152398628)
-* Email: [coreinspectiongroup@gmail.com](mailto:coreinspectiongroup@gmail.com)
 * Address: 3070 Bristol Pike, Bensalem, PA
 
 ## PA DEP certification

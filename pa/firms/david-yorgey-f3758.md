@@ -1,6 +1,6 @@
 ---
 title: "David Yorgey: Radon Mitigator in Conshohocken, PA"
-description: "David Yorgey (Conshohocken, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "David Yorgey (Conshohocken, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/david-yorgey-f3758/
 ---
 
@@ -16,8 +16,6 @@ Conshohocken, PA · Montgomery County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 510-6762](tel:2155106762)
-* Email: [primeradonmitigation@gmail.com](mailto:primeradonmitigation@gmail.com)
 * Address: 347 Roberts Ave, Conshohocken, PA
 
 ## PA DEP certification

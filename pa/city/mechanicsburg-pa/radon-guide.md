@@ -73,9 +73,6 @@ Mechanicsburg4 certified people
 #### Address
 
 * 4900 Carlisle Pk #277, Mechanicsburg, PA
-* ✉ [mprice@precisionradonsolutions.com](mailto:mprice@precisionradonsolutions.com)
-* ✉ [wecare@yourprecisionteam.com](mailto:wecare@yourprecisionteam.com)
-* [precisionradonsolutions.com](https://www.precisionradonsolutions.com/)
 
 #### Certified individuals
 
@@ -90,7 +87,6 @@ mitigation #2404 · mitigation #3355 · mitigation #7544 · testing #3104 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2404)
 
-[**Call** (717) 763-1373](tel:7177631373)
 
 ### American Radon Solutions, Inc.
 
@@ -101,7 +97,6 @@ Camp Hill2 certified people
 #### Address
 
 * 3537 Hartzdale Dr Suite H, Camp Hill, PA
-* ✉ [ameradonsolutions@gmail.com](mailto:ameradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -114,7 +109,6 @@ mitigation #1418 · mitigation #1419 · mitigation #7058
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1418)
 
-[**Call** (717) 795-9367](tel:7177959367)
 
 ### Ro, Jooik
 
@@ -125,7 +119,6 @@ Carlisle1 certified person
 #### Address
 
 * 30 Sunset Dr, Carlisle, PA
-* ✉ [jooikro69@gmail.com](mailto:jooikro69@gmail.com)
 
 #### Certified individuals
 
@@ -137,7 +130,6 @@ mitigation #2760 · testing #2760
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2760)
 
-[**Call** (717) 226-7179](tel:7172267179)
 
 ### Sheely, Mike
 
@@ -148,7 +140,6 @@ Enola1 certified person
 #### Address
 
 * 1000 Wolfe Rd, Enola, PA
-* ✉ [msheelyhomeinsps@aol.com](mailto:msheelyhomeinsps@aol.com)
 
 #### Certified individuals
 
@@ -160,7 +151,6 @@ mitigation #2691
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2691)
 
-[**Call** (717) 732-6538](tel:7177326538)
 
 [See all firms near Mechanicsburg →](https://radonroster.com/pa/city/mechanicsburg-pa/)
 

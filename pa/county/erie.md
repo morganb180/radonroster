@@ -45,7 +45,6 @@ Erie1 certified person
 #### Address
 
 * 5810 Clinton St, Erie, PA
-* ✉ [erieradon@gmail.com](mailto:erieradon@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3133
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3133)
 
-[**Call** (814) 490-2167](tel:8144902167)
 
 ### Parenti, Michael
 
@@ -68,7 +66,6 @@ Erie1 certified person
 #### Address
 
 * 3811 W Lake Rd, Erie, PA
-* ✉ [eriesradon@gmail.com](mailto:eriesradon@gmail.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ mitigation #3016
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3016)
 
-[**Call** (814) 873-4900](tel:8148734900)
 
 ## Where can I get radon testing in Erie County, PA? (4 firms)
 
@@ -95,7 +91,6 @@ Edinboro1 certified person
 #### Address
 
 * 5420 Harold Dr, Edinboro, PA
-* ✉ [joe@homewellpi.com](mailto:joe@homewellpi.com)
 
 #### Certified individuals
 
@@ -107,7 +102,6 @@ testing #3354
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3354)
 
-[**Call** (814) 602-9442](tel:8146029442)
 
 ### Guertin, Steve
 
@@ -118,7 +112,6 @@ Erie1 certified person
 #### Address
 
 * 2965 Persimmon Dr, Erie, PA
-* ✉ [barnowlhomeinspectionsllc@gmail.com](mailto:barnowlhomeinspectionsllc@gmail.com)
 
 #### Certified individuals
 
@@ -130,7 +123,6 @@ testing #3618
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3618)
 
-[**Call** (716) 581-1019](tel:7165811019)
 
 ### Henry, Harold
 
@@ -141,7 +133,6 @@ Erie1 certified person
 #### Address
 
 * 2103 Rudolph Ave, Erie, PA
-* ✉ [henryswildlife@gmail.com](mailto:henryswildlife@gmail.com)
 
 #### Certified individuals
 
@@ -153,7 +144,6 @@ testing #1954
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1954)
 
-[**Call** (814) 881-3413](tel:8148813413)
 
 ### Wilcoxson, Owen
 
@@ -164,8 +154,6 @@ Erie1 certified person
 #### Address
 
 * 426 Joliette Ave, Erie, PA
-* ✉ [owen@homeinspectionmanagement.com](mailto:owen@homeinspectionmanagement.com)
-* [eriehomeinspectors.com](https://www.eriehomeinspectors.com/)
 
 #### Certified individuals
 
@@ -177,7 +165,6 @@ testing #3416
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3416)
 
-[**Call** (814) 920-4171](tel:8149204171)
 
 ## Which counties border Erie County, PA?
 

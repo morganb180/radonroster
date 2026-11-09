@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(917) 279-6725](tel:9172796725)
-* Email: [precisejoel@gmail.com](mailto:precisejoel@gmail.com)
 * Address: 2901 Hemlock Farms, Lords Valley, PA
 
 ## PA DEP certification

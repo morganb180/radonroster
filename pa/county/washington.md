@@ -45,9 +45,6 @@ Venetia9 certified people
 #### Address
 
 * 549 Mccombs Rd, Venetia, PA
-* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
-* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
-* [homeradonpros.com](https://www.homeradonpros.com/)
 
 #### Certified individuals
 
@@ -67,7 +64,6 @@ mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
 
-[**Call** (412) 584-0799](tel:4125840799)
 
 ## Where can I get radon testing in Washington County, PA? (6 firms)
 
@@ -84,7 +80,6 @@ Canonsburg1 certified person
 #### Address
 
 * 1148 Meadow Brook Drive, Canonsburg, PA
-* ✉ [steve@heritagehomeinspectors.com](mailto:steve@heritagehomeinspectors.com)
 
 #### Certified individuals
 
@@ -96,7 +91,6 @@ testing #9003
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9003)
 
-[**Call** (888) 308-4018](tel:8883084018)
 
 ### Heritage Home Inspectors
 
@@ -107,8 +101,6 @@ Canonsburg3 certified people
 #### Address
 
 * 1148 Meadowbrook Dr, Canonsburg, PA
-* ✉ [steve@heritagehomeinspector.com](mailto:steve@heritagehomeinspector.com)
-* [heritagehomeinspector.com](https://www.heritagehomeinspector.com/)
 
 #### Certified individuals
 
@@ -122,7 +114,6 @@ testing #3335 · testing #3569 · testing #9076 · testing #9131
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3335)
 
-[**Call** (888) 308-4018](tel:8883084018)
 
 ### Jaworski, Mark
 
@@ -133,7 +124,6 @@ Canonsburg1 certified person
 #### Address
 
 * 75 Putorti Ln, Canonsburg, PA
-* ✉ [mark@jaworskiremodeling.com](mailto:mark@jaworskiremodeling.com)
 
 #### Certified individuals
 
@@ -145,7 +135,6 @@ testing #2935
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2935)
 
-[**Call** (412) 583-7962](tel:4125837962)
 
 ### Lydic, Joseph
 
@@ -156,7 +145,6 @@ Canonsburg1 certified person
 #### Address
 
 * 3935 Washington Rd., Canonsburg, PA
-* ✉ [peakinspectorjoe@gmail.com](mailto:peakinspectorjoe@gmail.com)
 
 #### Certified individuals
 
@@ -168,7 +156,6 @@ testing #3397
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3397)
 
-[**Call** (412) 912-8686](tel:4129128686)
 
 ### Tayzak Inc
 
@@ -179,8 +166,6 @@ Mc Donald1 certified person
 #### Address
 
 * 523 Burnside Rd, Mc Donald, PA
-* ✉ jim.zaminska@pillartopost,com (as listed (as printed by DEP; may be incomplete)
-* ✉ may be truncated) (as printed by DEP; may be incomplete)
 
 #### Certified individuals
 
@@ -192,7 +177,6 @@ testing #8854
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8854)
 
-[**Call** (724) 513-0832](tel:7245130832)
 
 ### Klein Jr., Robert Scott
 
@@ -203,7 +187,6 @@ Mcmurray1 certified person
 #### Address
 
 * 4017 Washington Rd, Mcmurray, PA
-* ✉ [scottdhis@gmail.com](mailto:scottdhis@gmail.com)
 
 #### Certified individuals
 
@@ -215,7 +198,6 @@ testing #2880
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2880)
 
-[**Call** (724) 413-5522](tel:7244135522)
 
 ## Which counties border Washington County, PA?
 

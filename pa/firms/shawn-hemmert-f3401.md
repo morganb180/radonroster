@@ -1,6 +1,6 @@
 ---
 title: "Shawn Hemmert: Radon Tester in Wilmington, DE | Radon Roster"
-description: "Shawn Hemmert (Wilmington, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Shawn Hemmert (Wilmington, DE) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/shawn-hemmert-f3401/
 ---
 
@@ -16,8 +16,6 @@ Wilmington, DE · 1 certified person
 
 ## Contact
 
-* Phone: [(302) 559-2159](tel:3025592159)
-* Email: [shawnhemmert@aol.com](mailto:shawnhemmert@aol.com)
 * Address: 6 Garrett Rd, Wilmington, DE
 
 ## PA DEP certification

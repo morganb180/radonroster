@@ -1,6 +1,6 @@
 ---
 title: "Brian Stumm: Radon Tester in Downingtown, PA | Radon Roster"
-description: "Brian Stumm (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Stumm (Downingtown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-stumm-f3181/
 ---
 
@@ -16,8 +16,6 @@ Downingtown, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(267) 331-0256](tel:2673310256)
-* Email: [bstumm@abchomeinspections.net](mailto:bstumm@abchomeinspections.net)
 * Address: 1882 Boulder Dr, Downingtown, PA
 
 ## PA DEP certification

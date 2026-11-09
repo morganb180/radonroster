@@ -1,6 +1,6 @@
 ---
 title: "Housemasters Of The Poconos: Radon Tester in Canadensis, PA"
-description: "Housemasters Of The Poconos (Canadensis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Housemasters Of The Poconos (Canadensis, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/housemasters-of-the-poconos-f3302/
 ---
 
@@ -14,8 +14,6 @@ Canadensis, PA · Monroe County · 7 certified people
 
 ## Contact
 
-* Phone: [(570) 677-4270](tel:5706774270)
-* Email: [robertplusher@yahoo.com;robertpslusher@yahoo.com;rpbertpslusher@yahoo.com](mailto:robertplusher@yahoo.com;robertpslusher@yahoo.com;rpbertpslusher@yahoo.com)
 * Address: 129 Ironwood Road, Canadensis, PA
 
 ## PA DEP certification

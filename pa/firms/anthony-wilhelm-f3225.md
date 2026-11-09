@@ -1,6 +1,6 @@
 ---
 title: "Anthony Wilhelm: Radon Tester in Tower City, PA"
-description: "Anthony Wilhelm (Tower City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Anthony Wilhelm (Tower City, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/anthony-wilhelm-f3225/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 443-3457](tel:7174433457)
-* Email: [twilhelm@hpinow.com](mailto:twilhelm@hpinow.com)
-* Website: [https://hpinow.com/](https://hpinow.com/)
 * Address: 213 Peters Ave, Tower City, PA
 
 ## PA DEP certification

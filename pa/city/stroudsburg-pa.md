@@ -53,7 +53,6 @@ Stroudsburg1 certified person
 #### Address
 
 * 304 Wallace St, Stroudsburg, PA
-* ✉ [ablebodiesservices@hotmail.com](mailto:ablebodiesservices@hotmail.com)
 
 #### Certified individuals
 
@@ -65,7 +64,6 @@ mitigation #3632 · testing #3632
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3632)
 
-[**Call** (570) 807-1831](tel:5708071831)
 
 ## Where can I get radon testing in Stroudsburg, PA? (1 firm)
 
@@ -78,8 +76,6 @@ Stroudsburg1 certified person
 #### Address
 
 * 8090 Running Valley Rd, Stroudsburg, PA
-* ✉ [thom@wildbluegroup.com](mailto:thom@wildbluegroup.com)
-* [wildbluegroup.com](https://www.wildbluegroup.com/)
 
 #### Certified individuals
 
@@ -91,7 +87,6 @@ testing #3377
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3377)
 
-[**Call** (570) 801-1300](tel:5708011300)
 
 ## Which other certified radon firms are in Monroe County? (9)
 
@@ -112,7 +107,6 @@ East Stroudsburg1 certified person
 #### Address
 
 * 110 Music Center Dr, East Stroudsburg, PA
-* ✉ [bjlevine1992@yahoo.com](mailto:bjlevine1992@yahoo.com)
 
 #### Certified individuals
 
@@ -124,7 +118,6 @@ mitigation #3656
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3656)
 
-[**Call** (570) 977-9533](tel:5709779533)
 
 ### A R M Environmental LLC
 
@@ -135,7 +128,6 @@ Tannersville2 certified people
 #### Address
 
 * P O Box 733, Tannersville, PA
-* ✉ [mrmold.armenvironmental@gmail.com](mailto:mrmold.armenvironmental@gmail.com)
 
 #### Certified individuals
 
@@ -148,7 +140,6 @@ mitigation #2303 · mitigation #2439 · mitigation #7687 · testing #2303 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2303)
 
-[**Call** (570) 402-1916](tel:5704021916)
 
 ## Where else can I get radon testing in Monroe County? (7 firms)
 
@@ -163,8 +154,6 @@ Brodheadsville1 certified person
 #### Address
 
 * 2222 Route 115, Brodheadsville, PA
-* ✉ [kristam@comfortspecpa.com](mailto:kristam@comfortspecpa.com)
-* [gopro-spect.com](https://gopro-spect.com/)
 
 #### Certified individuals
 
@@ -176,7 +165,6 @@ testing #8780
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8780)
 
-[**Call** (855) 575-4663](tel:8555754663)
 
 ### Housemasters Of The Poconos
 
@@ -187,8 +175,6 @@ Canadensis7 certified people
 #### Address
 
 * 129 Ironwood Road, Canadensis, PA
-* ✉ [robertplusher@yahoo.com](mailto:robertplusher@yahoo.com)
-* ✉ [robertpslusher@yahoo.com](mailto:robertpslusher@yahoo.com)
 
 #### Certified individuals
 
@@ -206,7 +192,6 @@ testing #3302 · testing #3533 · testing #8975 · testing #8976 · testing #897
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3302)
 
-[**Call** (570) 677-4270](tel:5706774270)
 
 ### Suhrie, Paul
 
@@ -217,7 +202,6 @@ East Stroudsburg1 certified person
 #### Address
 
 * 2648 Majestic Ct, East Stroudsburg, PA
-* ✉ [paul@prshomeinspection.com](mailto:paul@prshomeinspection.com)
 
 #### Certified individuals
 
@@ -229,7 +213,6 @@ testing #2855
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2855)
 
-[**Call** (570) 460-6173](tel:5704606173)
 
 ### Kerns, Dewey
 
@@ -240,7 +223,6 @@ Effort1 certified person
 #### Address
 
 * Po Box 263, Effort, PA
-* ✉ [dewey10859@gmail.com](mailto:dewey10859@gmail.com)
 
 #### Certified individuals
 
@@ -252,7 +234,6 @@ testing #3005
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3005)
 
-[**Call** (570) 534-5523](tel:5705345523)
 
 ### Ronzel, Jeffrey
 
@@ -263,7 +244,6 @@ Kunkletown1 certified person
 #### Address
 
 * 1248 Greenway Ln, Kunkletown, PA
-* ✉ [amerispecnepa@gmail.com](mailto:amerispecnepa@gmail.com)
 
 #### Certified individuals
 
@@ -275,7 +255,6 @@ testing #3300
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3300)
 
-[**Call** (610) 951-4262](tel:6109514262)
 
 ### Steinmetz, Robert
 
@@ -286,7 +265,6 @@ Saylorsburg1 certified person
 #### Address
 
 * 1514 Hickory Court, Saylorsburg, PA
-* ✉ [newerainspections17@gmail.com](mailto:newerainspections17@gmail.com)
 
 #### Certified individuals
 
@@ -298,7 +276,6 @@ testing #3480
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3480)
 
-[**Call** (570) 202-6820](tel:5702026820)
 
 ### Nicholls, Jeffrey
 
@@ -309,7 +286,6 @@ Tannersville1 certified person
 #### Address
 
 * Po Box 300, Tannersville, PA
-* ✉ [nhijeffnicholls@yahoo.com](mailto:nhijeffnicholls@yahoo.com)
 
 #### Certified individuals
 
@@ -321,7 +297,6 @@ testing #0256
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0256)
 
-[**Call** (570) 595-6092](tel:5705956092)
 
 ## Which radon mitigation firms near Stroudsburg are in neighboring counties? (8)
 
@@ -336,7 +311,6 @@ Scott Township1 certified person
 #### Address
 
 * 24 Amanda Ln, Scott Township, PA
-* ✉ [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
 
 #### Certified individuals
 
@@ -348,7 +322,6 @@ mitigation #1716
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1716)
 
-[**Call** (570) 254-2242](tel:5702542242)
 
 ### Disaster Blaster Inc
 
@@ -359,8 +332,6 @@ Scranton4 certified people
 #### Address
 
 * 536 N Main Ave, Scranton, PA
-* ✉ [g\_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)
-* [disasterblaster.com](https://www.disasterblaster.com/)
 
 #### Certified individuals
 
@@ -375,7 +346,6 @@ mitigation #2848 · mitigation #2849 · mitigation #7235 · mitigation #7299 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2848)
 
-[**Call** (570) 963-1123](tel:5709631123)
 
 ### Kotz, Jim
 
@@ -386,7 +356,6 @@ Clarks Summit1 certified person
 #### Address
 
 * 405 Carbondale Rd, Clarks Summit, PA
-* ✉ [attackradon@gmail.com](mailto:attackradon@gmail.com)
 
 #### Certified individuals
 
@@ -398,7 +367,6 @@ mitigation #3441
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3441)
 
-[**Call** (570) 499-0752](tel:5704990752)
 
 ### Zigga, Eric
 
@@ -409,7 +377,6 @@ Throop1 certified person
 #### Address
 
 * 835 Murray St, Throop, PA
-* ✉ [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
 
 #### Certified individuals
 
@@ -421,7 +388,6 @@ mitigation #2233
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2233)
 
-[**Call** (570) 383-2363](tel:5703832363)
 
 ### Crestwood Radon And Environmental
 
@@ -432,7 +398,6 @@ Mountain Top5 certified people
 #### Address
 
 * 116 S Main Rd, Mountain Top, PA
-* ✉ [rbutton@buttonholdings.com](mailto:rbutton@buttonholdings.com)
 
 #### Certified individuals
 
@@ -448,7 +413,6 @@ mitigation #3720 · mitigation #3721 · mitigation #7720 · mitigation #7724 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3720)
 
-[**Call** (570) 747-2366](tel:5707472366)
 
 ### Cruz, Luis
 
@@ -459,7 +423,6 @@ Northampton1 certified person
 #### Address
 
 * 4086 Sycamore Dr, Northampton, PA
-* ✉ [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -471,7 +434,6 @@ mitigation #3712
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3712)
 
-[**Call** (610) 615-0706](tel:6106150706)
 
 ### Knesnik, Randy
 
@@ -482,7 +444,6 @@ Milford1 certified person
 #### Address
 
 * 413 Long Meadow Rd, Milford, PA
-* ✉ [randykn@ptd.net](mailto:randykn@ptd.net)
 
 #### Certified individuals
 
@@ -494,7 +455,6 @@ mitigation #1880
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1880)
 
-[**Call** (570) 828-2790](tel:5708282790)
 
 ### Northern Radon Solutions
 
@@ -505,7 +465,6 @@ Honesdale4 certified people
 #### Address
 
 * 152 Bunnell Pond Rd, Honesdale, PA
-* ✉ [northernradonsolutions@ptd.net](mailto:northernradonsolutions@ptd.net)
 
 #### Certified individuals
 
@@ -520,7 +479,6 @@ mitigation #3370 · mitigation #3491 · mitigation #7612 · mitigation #7666 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3370)
 
-[**Call** (570) 647-4995](tel:5706474995)
 
 ## Monroe County radon test data
 

@@ -45,8 +45,6 @@ Gettysburg5 certified people
 #### Address
 
 * 282 Longstreet Dr, Gettysburg, PA
-* ✉ [bob@goodbyeradon.com](mailto:bob@goodbyeradon.com)
-* [radonprotectionservicesgburg.com](https://www.radonprotectionservicesgburg.com/)
 
 #### Certified individuals
 
@@ -62,7 +60,6 @@ mitigation #0275 · mitigation #1688 · mitigation #7624 · testing #0275 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0275)
 
-[**Call** (717) 334-3435](tel:7173343435)
 
 ## Where can I get radon testing in Adams County, PA? (5 firms)
 
@@ -77,8 +74,6 @@ Aspers1 certified person
 #### Address
 
 * 105A Rice Ln, Aspers, PA
-* ✉ [travis@precisionpropertyinspectionspa.com](mailto:travis@precisionpropertyinspectionspa.com)
-* [precisionpropertyinspectionspa.com](https://www.precisionpropertyinspectionspa.com/)
 
 #### Certified individuals
 
@@ -90,7 +85,6 @@ testing #3760
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3760)
 
-[**Call** (223) 350-2597](tel:2233502597)
 
 ### S.A.F.E. Inspection Services, LLC
 
@@ -101,7 +95,6 @@ East Berlin2 certified people
 #### Address
 
 * Po Box 343, East Berlin, PA
-* ✉ [safeinspectionservices@gmail.com](mailto:safeinspectionservices@gmail.com)
 
 #### Certified individuals
 
@@ -114,7 +107,6 @@ testing #2193 · testing #3013 · testing #8642
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2193)
 
-[**Call** (717) 491-1740](tel:7174911740)
 
 ### Mason Dixon Home
 
@@ -127,7 +119,6 @@ Gettysburg1 certified person
 #### Address
 
 * 282 Longstreet Dr, Gettysburg, PA
-* ✉ [susankint@comcast.net](mailto:susankint@comcast.net)
 
 #### Certified individuals
 
@@ -139,7 +130,6 @@ testing #8304
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8304)
 
-[**Call** (717) 334-3435](tel:7173343435)
 
 ### Top Dawg Inspections
 
@@ -150,7 +140,6 @@ Gettysburg2 certified people
 #### Address
 
 * 817 Storms Store Rd, Gettysburg, PA
-* ✉ [scott@topdawginspections.com](mailto:scott@topdawginspections.com)
 
 #### Certified individuals
 
@@ -163,7 +152,6 @@ testing #2985 · testing #2996 · testing #9046
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2985)
 
-[**Call** (717) 778-7201](tel:7177787201)
 
 ### Barrick, Darrell
 
@@ -174,7 +162,6 @@ Hanover1 certified person
 #### Address
 
 * 37 Knisley Dr, Hanover, PA
-* ✉ [darrellbarrick@gmail.com](mailto:darrellbarrick@gmail.com)
 
 #### Certified individuals
 
@@ -186,7 +173,6 @@ testing #3623
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3623)
 
-[**Call** (717) 495-3600](tel:7174953600)
 
 ## Which counties border Adams County, PA?
 

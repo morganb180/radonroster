@@ -1,6 +1,6 @@
 ---
 title: "Jonathan J Helman: Radon Tester in Rostraver Twp, PA"
-description: "Jonathan J Helman (Rostraver Twp, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jonathan J Helman (Rostraver Twp, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jonathan-j-helman-f3547/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(412) 897-7877](tel:4128977877)
-* Email: [helmanhomeinspections@gmail.com](mailto:helmanhomeinspections@gmail.com)
 * Address: 189 Valley View Dr, Rostraver Twp, PA
 
 ## PA DEP certification

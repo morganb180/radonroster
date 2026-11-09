@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 495-2810](tel:6104952810)
-* Email: [info@wefixradon.com](mailto:info@wefixradon.com)
 * Address: 828 Oak St, Royersford, PA
 
 ## PA DEP certification

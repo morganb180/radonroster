@@ -1,6 +1,6 @@
 ---
 title: "Robert Steinmetz: Radon Tester in Saylorsburg, PA"
-description: "Robert Steinmetz (Saylorsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Robert Steinmetz (Saylorsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/robert-steinmetz-f3480/
 ---
 
@@ -16,8 +16,6 @@ Saylorsburg, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 202-6820](tel:5702026820)
-* Email: [newerainspections17@gmail.com](mailto:newerainspections17@gmail.com)
 * Address: 1514 Hickory Court, Saylorsburg, PA
 
 ## PA DEP certification

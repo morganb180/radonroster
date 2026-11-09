@@ -1,6 +1,6 @@
 ---
 title: "Alpha Detect & Control: Radon Tester in Connellsville, PA"
-description: "Alpha Detect & Control (Connellsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Alpha Detect & Control (Connellsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/alpha-detect-and-control-f1703/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 628-6838](tel:7246286838)
-* Email: [precisionhome96@gmail.com](mailto:precisionhome96@gmail.com)
 * Address: 6 Chestwood Dr, Connellsville, PA
 
 ## PA DEP certification

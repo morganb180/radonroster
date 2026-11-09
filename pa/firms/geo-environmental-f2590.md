@@ -1,6 +1,6 @@
 ---
 title: "Geo Environmental: Radon Testing & Mitigation in Medford, NJ"
-description: "Geo Environmental (Medford, NJ) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Geo Environmental (Medford, NJ) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/geo-environmental-f2590/
 ---
 
@@ -14,8 +14,6 @@ Medford, NJ · 6 certified people
 
 ## Contact
 
-* Phone: [(215) 778-7118](tel:2157787118)
-* Email: [geoenviro@hotmail.com;geoenvrio@hotmail.com](mailto:geoenviro@hotmail.com;geoenvrio@hotmail.com)
 * Address: Po Box 508, Medford, NJ
 
 ## PA DEP certification

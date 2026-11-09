@@ -45,7 +45,6 @@ Pittsfield1 certified person
 #### Address
 
 * 7735 Davey Hill Rd, Pittsfield, PA
-* ✉ [eagleeyeinspection74@gmail.com](mailto:eagleeyeinspection74@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3193 · testing #3193
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3193)
 
-[**Call** (814) 516-6368](tel:8145166368)
 
 ## Which counties border Warren County, PA?
 

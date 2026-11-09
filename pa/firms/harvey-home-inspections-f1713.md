@@ -1,6 +1,6 @@
 ---
 title: "Harvey Home Inspections: Radon Tester in Clarks Summit, PA"
-description: "Harvey Home Inspections (Clarks Summit, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Harvey Home Inspections (Clarks Summit, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/harvey-home-inspections-f1713/
 ---
 
@@ -14,9 +14,6 @@ Clarks Summit, PA · Lackawanna County · 3 certified people
 
 ## Contact
 
-* Phone: [(570) 586-6800](tel:5705866800)
-* Email: [tom@berardellihi.com](mailto:tom@berardellihi.com)
-* Website: [https://www.berardellihi.com/](https://www.berardellihi.com/)
 * Address: 1639 Newton Ransom Blvd, Clarks Summit, PA
 
 ## PA DEP certification

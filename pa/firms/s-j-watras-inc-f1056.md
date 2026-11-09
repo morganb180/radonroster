@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 367-5005](tel:6103675005)
-* Email: [sjwatras@comcast.net](mailto:sjwatras@comcast.net)
 * Address: 32 Indian Ln, Boyertown, PA
 
 ## PA DEP certification

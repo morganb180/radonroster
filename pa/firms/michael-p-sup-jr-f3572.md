@@ -1,6 +1,6 @@
 ---
 title: "Michael P Sup Jr.: Radon Tester in Macungie, PA"
-description: "Michael P Sup Jr. (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Michael P Sup Jr. (Macungie, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/michael-p-sup-jr-f3572/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 295-8286](tel:6102958286)
-* Email: [mike@roihomeinspections.com](mailto:mike@roihomeinspections.com)
-* Website: [https://roihomeinspections.com/](https://roihomeinspections.com/)
 * Address: 2173 Aster Rd, Macungie, PA
 
 ## PA DEP certification

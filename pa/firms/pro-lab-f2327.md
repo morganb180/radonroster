@@ -1,6 +1,6 @@
 ---
 title: "Pro-Lab: Radon Lab in Weston, FL | Radon Roster"
-description: "Pro-Lab (Weston, FL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Pro-Lab (Weston, FL) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/pro-lab-f2327/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(954) 384-4446](tel:9543844446)
-* Email: [jfigueroa@prolabinc.com](mailto:jfigueroa@prolabinc.com)
-* Website: [https://www.prolabinc.com/](https://www.prolabinc.com/)
 * Address: 1675 N Commerce Pkwy, Weston, FL
 
 ## PA DEP certification

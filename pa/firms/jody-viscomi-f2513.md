@@ -1,6 +1,6 @@
 ---
 title: "Jody Viscomi: Radon Tester in Scranton, PA | Radon Roster"
-description: "Jody Viscomi (Scranton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jody Viscomi (Scranton, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jody-viscomi-f2513/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 983-6649](tel:5709836649)
-* Email: [javiscomi@msn.com](mailto:javiscomi@msn.com)
 * Address: 320 N Horatio Ave, Scranton, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ New Cumberland1 certified person
 #### Address
 
 * 198 Rose Hill Dr, New Cumberland, PA
-* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #2735 · testing #2735
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
 
-[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
@@ -68,7 +66,6 @@ Wellsville1 certified person
 #### Address
 
 * 247 Mine Bank Rd, Wellsville, PA
-* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
 
 #### Certified individuals
 
@@ -80,7 +77,6 @@ mitigation #1800 · testing #1800
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
 
-[**Call** (717) 432-9575](tel:7174329575)
 
 ### Absolute Radon Mitigation, LLC
 
@@ -91,8 +87,6 @@ York2 certified people
 #### Address
 
 * 800 Locust Grove Rd, York, PA
-* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
-* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
 
 #### Certified individuals
 
@@ -105,7 +99,6 @@ mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
 
-[**Call** (717) 755-5398](tel:7177555398)
 
 ## Where can I get radon testing in York County, PA? (5 firms)
 
@@ -120,7 +113,6 @@ Wrightsville1 certified person
 #### Address
 
 * 320 Walnut St., Wrightsville, PA
-* ✉ [sj.haney@hotmail.com](mailto:sj.haney@hotmail.com)
 
 #### Certified individuals
 
@@ -132,7 +124,6 @@ testing #3093
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3093)
 
-[**Call** (717) 808-2551](tel:7178082551)
 
 ### Hoffman, Dan
 
@@ -143,7 +134,6 @@ York1 certified person
 #### Address
 
 * 118 N Manheim St, York, PA
-* ✉ [tekinspectionyork@gmail.com](mailto:tekinspectionyork@gmail.com)
 
 #### Certified individuals
 
@@ -155,7 +145,6 @@ testing #3493
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3493)
 
-[**Call** (717) 978-0191](tel:7179780191)
 
 ### Homechek Inc
 
@@ -166,7 +155,6 @@ York1 certified person
 #### Address
 
 * 2575 Eastern Blvd Ste 210, York, PA
-* ✉ [tate@yourinpectionpeople.com](mailto:tate@yourinpectionpeople.com)
 
 #### Certified individuals
 
@@ -178,7 +166,6 @@ testing #8760
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8760)
 
-[**Call** (717) 764-1920](tel:7177641920)
 
 ### Homechek, Inc.
 
@@ -189,9 +176,6 @@ York4 certified people
 #### Address
 
 * 2575 Eastern Blvd, York, PA
-* ✉ [alex@yourinspectionpeople.com](mailto:alex@yourinspectionpeople.com)
-* ✉ [matt@yourinspectionpeople.com](mailto:matt@yourinspectionpeople.com)
-* [yourinspectionpeople.com](https://yourinspectionpeople.com/)
 
 #### Certified individuals
 
@@ -206,7 +190,6 @@ testing #1630 · testing #1631 · testing #8438 · testing #8699 · testing #913
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1630)
 
-[**Call** (717) 764-1920](tel:7177641920)
 
 ### Unger, Isaiah
 
@@ -217,7 +200,6 @@ York1 certified person
 #### Address
 
 * 613 Edgewood Rd, York, PA
-* ✉ [isaiah@idhomeinspections.org](mailto:isaiah@idhomeinspections.org)
 
 #### Certified individuals
 
@@ -229,7 +211,6 @@ testing #3674
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3674)
 
-[**Call** (410) 357-1124](tel:4103571124)
 
 ## Which counties border York County, PA?
 

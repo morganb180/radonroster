@@ -1,6 +1,6 @@
 ---
 title: "Thomas Schiavone: Radon Tester in Stroudsburg, PA"
-description: "Thomas Schiavone (Stroudsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Schiavone (Stroudsburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-schiavone-f3377/
 ---
 
@@ -16,9 +16,6 @@ Stroudsburg, PA · Monroe County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 801-1300](tel:5708011300)
-* Email: [thom@wildbluegroup.com](mailto:thom@wildbluegroup.com)
-* Website: [https://www.wildbluegroup.com/](https://www.wildbluegroup.com/)
 * Address: 8090 Running Valley Rd, Stroudsburg, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Paul Bukeavich: Radon Tester in Ashley, PA | Radon Roster"
-description: "Paul Bukeavich (Ashley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Paul Bukeavich (Ashley, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/paul-bukeavich-f2473/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 954-5575](tel:5709545575)
-* Email: [paulb@bhhi.net](mailto:paulb@bhhi.net)
-* Website: [https://bhhi.net/](https://bhhi.net/)
 * Address: 318 Ridge St, Ashley, PA
 
 ## PA DEP certification

@@ -58,7 +58,6 @@ mitigation #7735
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F7735)
 
-[**Call** (267) 269-5573](tel:2672695573)
 
 ### Rvs Radon Mitigation, LLC.
 
@@ -69,8 +68,6 @@ Philadelphia3 certified people
 #### Address
 
 * 294 E Cheltenham Ave, Philadelphia, PA
-* ✉ [tony@rvsradon.com](mailto:tony@rvsradon.com)
-* [rvsradon.com](https://www.rvsradon.com/)
 
 #### Certified individuals
 
@@ -84,7 +81,6 @@ mitigation #3458 · mitigation #3594 · mitigation #7697 · mitigation #7725
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3458)
 
-[**Call** (267) 269-5573](tel:2672695573)
 
 ## Where can I get radon testing in Philadelphia County, PA? (8 firms)
 
@@ -99,8 +95,6 @@ Philadelphia1 certified person
 #### Address
 
 * Po Box 63827, Philadelphia, PA
-* ✉ [info@apexinspections.net](mailto:info@apexinspections.net)
-* [apexinspections.net](https://apexinspections.net/)
 
 #### Certified individuals
 
@@ -112,7 +106,6 @@ testing #2497
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2497)
 
-[**Call** (888) 927-3944](tel:8889273944)
 
 ### Dunn, Jr., William
 
@@ -123,7 +116,6 @@ Philadelphia1 certified person
 #### Address
 
 * 3111 S 19Th St, Philadelphia, PA
-* ✉ [willdunn430@gmail.com](mailto:willdunn430@gmail.com)
 
 #### Certified individuals
 
@@ -135,7 +127,6 @@ testing #3374
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3374)
 
-[**Call** (215) 284-1737](tel:2152841737)
 
 ### Geo Environmental
 
@@ -146,7 +137,6 @@ Philadelphia1 certified person
 #### Address
 
 * Po Box 33450, Philadelphia, PA
-* ✉ [geotristate@gmail.com](mailto:geotristate@gmail.com)
 
 #### Certified individuals
 
@@ -158,7 +148,6 @@ testing #8701
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8701)
 
-[**Call** (215) 778-7118](tel:2157787118)
 
 ### Lampe, Bruce D.
 
@@ -169,7 +158,6 @@ Philadelphia1 certified person
 #### Address
 
 * 9615 Berea St, Philadelphia, PA
-* ✉ [medhomeinsp@aol.com](mailto:medhomeinsp@aol.com)
 
 #### Certified individuals
 
@@ -181,7 +169,6 @@ testing #2188
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2188)
 
-[**Call** (215) 632-4220](tel:2156324220)
 
 ### Mazzio, Michael
 
@@ -192,7 +179,6 @@ Philadelphia1 certified person
 #### Address
 
 * 8203 Dorcas St, Philadelphia, PA
-* ✉ [absoluteenvirotesting@gmail.co](mailto:absoluteenvirotesting@gmail.co)
 
 #### Certified individuals
 
@@ -204,7 +190,6 @@ testing #3677
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3677)
 
-[**Call** (215) 280-5473](tel:2152805473)
 
 ### Serrano, Moises
 
@@ -215,7 +200,6 @@ Philadelphia1 certified person
 #### Address
 
 * 3446 Reach Street, Philadelphia, PA
-* ✉ [moises@libertyradondiagnostics.com](mailto:moises@libertyradondiagnostics.com)
 
 #### Certified individuals
 
@@ -227,7 +211,6 @@ testing #3746
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3746)
 
-[**Call** (215) 800-9528](tel:2158009528)
 
 ### Valueguard Usa, Inc.
 
@@ -238,8 +221,6 @@ Philadelphia6 certified people
 #### Address
 
 * 100 E Penn Sq Ste 400, Philadelphia, PA
-* ✉ [chase@valueguardusa.com](mailto:chase@valueguardusa.com)
-* ✉ [team@valueguardusa.com](mailto:team@valueguardusa.com)
 
 #### Certified individuals
 
@@ -256,7 +237,6 @@ testing #1910 · testing #2740 · testing #8788 · testing #9016 · testing #903
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1910)
 
-[**Call** (215) 860-3150](tel:2158603150)
 
 ### Yeager, Joseph
 
@@ -267,7 +247,6 @@ Philadelphia1 certified person
 #### Address
 
 * 185 Levering Street, Philadelphia, PA
-* ✉ [joseph.s.yeager@gmail.com](mailto:joseph.s.yeager@gmail.com)
 
 #### Certified individuals
 
@@ -279,7 +258,6 @@ testing #3503
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3503)
 
-[**Call** (215) 205-4453](tel:2152054453)
 
 ## Which counties border Philadelphia County, PA?
 

@@ -45,7 +45,6 @@ Middlebury Cente1 certified person
 #### Address
 
 * 31 Leisurely Ln, Middlebury Cente, PA
-* ✉ [mcconnellhomeinspections@gmail.com](mailto:mcconnellhomeinspections@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3417
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3417)
 
-[**Call** (570) 787-0422](tel:5707870422)
 
 ## Which counties border Tioga County, PA?
 

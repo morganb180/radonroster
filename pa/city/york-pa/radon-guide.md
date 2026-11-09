@@ -64,8 +64,6 @@ York2 certified people
 #### Address
 
 * 800 Locust Grove Rd, York, PA
-* ✉ [arm\_llc@hotmail.com](mailto:arm_llc@hotmail.com)
-* ✉ [llc@hotmail.com](mailto:llc@hotmail.com)
 
 #### Certified individuals
 
@@ -78,7 +76,6 @@ mitigation #1965 · mitigation #1966 · mitigation #7244 · testing #1965
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1965)
 
-[**Call** (717) 755-5398](tel:7177555398)
 
 ### Levine, Seymour
 
@@ -89,7 +86,6 @@ New Cumberland1 certified person
 #### Address
 
 * 198 Rose Hill Dr, New Cumberland, PA
-* ✉ [themitigator@comcast.net](mailto:themitigator@comcast.net)
 
 #### Certified individuals
 
@@ -101,7 +97,6 @@ mitigation #2735 · testing #2735
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2735)
 
-[**Call** (717) 576-9589](tel:7175769589)
 
 ### Meyer, Jr., Robert
 
@@ -112,7 +107,6 @@ Wellsville1 certified person
 #### Address
 
 * 247 Mine Bank Rd, Wellsville, PA
-* ✉ [bob@centralpennradon.com](mailto:bob@centralpennradon.com)
 
 #### Certified individuals
 
@@ -124,7 +118,6 @@ mitigation #1800 · testing #1800
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1800)
 
-[**Call** (717) 432-9575](tel:7174329575)
 
 [See all firms near York →](https://radonroster.com/pa/city/york-pa/)
 

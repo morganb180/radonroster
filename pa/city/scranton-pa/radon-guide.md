@@ -70,8 +70,6 @@ Scranton4 certified people
 #### Address
 
 * 536 N Main Ave, Scranton, PA
-* ✉ [g\_lyons@disasterblaster.com](mailto:g_lyons@disasterblaster.com)
-* [disasterblaster.com](https://www.disasterblaster.com/)
 
 #### Certified individuals
 
@@ -86,7 +84,6 @@ mitigation #2848 · mitigation #2849 · mitigation #7235 · mitigation #7299 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2848)
 
-[**Call** (570) 963-1123](tel:5709631123)
 
 ### Affordable Radon Mitigation
 
@@ -97,7 +94,6 @@ Scott Township1 certified person
 #### Address
 
 * 24 Amanda Ln, Scott Township, PA
-* ✉ [radonrob42@gmail.com](mailto:radonrob42@gmail.com)
 
 #### Certified individuals
 
@@ -109,7 +105,6 @@ mitigation #1716
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1716)
 
-[**Call** (570) 254-2242](tel:5702542242)
 
 ### Kotz, Jim
 
@@ -120,7 +115,6 @@ Clarks Summit1 certified person
 #### Address
 
 * 405 Carbondale Rd, Clarks Summit, PA
-* ✉ [attackradon@gmail.com](mailto:attackradon@gmail.com)
 
 #### Certified individuals
 
@@ -132,7 +126,6 @@ mitigation #3441
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3441)
 
-[**Call** (570) 499-0752](tel:5704990752)
 
 ### Zigga, Eric
 
@@ -143,7 +136,6 @@ Throop1 certified person
 #### Address
 
 * 835 Murray St, Throop, PA
-* ✉ [ezigg101@yahoo.com](mailto:ezigg101@yahoo.com)
 
 #### Certified individuals
 
@@ -155,7 +147,6 @@ mitigation #2233
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2233)
 
-[**Call** (570) 383-2363](tel:5703832363)
 
 [See all firms near Scranton →](https://radonroster.com/pa/city/scranton-pa/)
 

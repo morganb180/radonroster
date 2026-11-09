@@ -1,6 +1,6 @@
 ---
 title: "The Green Valley Group: Radon Tester in Unionville, PA"
-description: "The Green Valley Group (Unionville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "The Green Valley Group (Unionville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/the-green-valley-group-f2736/
 ---
 
@@ -14,9 +14,6 @@ Unionville, PA · Chester County · 2 certified people
 
 ## Contact
 
-* Phone: [(610) 347-0620](tel:6103470620)
-* Email: [kevin@thegreenvalleygroup.com](mailto:kevin@thegreenvalleygroup.com)
-* Website: [https://www.thegreenvalleygroup.com/](https://www.thegreenvalleygroup.com/)
 * Address: Po Box 242, Unionville, PA
 
 ## PA DEP certification

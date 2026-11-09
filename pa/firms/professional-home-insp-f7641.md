@@ -12,12 +12,9 @@ canonical: https://radonroster.com/pa/firms/professional-home-insp-f7641/
 
 Binghamton, NY · 2 certified people
 
-[Call (601) 773-1519](tel:6017731519). This firm can't take quote requests through Radon Roster yet.
 
 ## Contact
 
-* Phone: [(601) 773-1519](tel:6017731519)
-* Email: [george@professionalhom.com](mailto:george@professionalhom.com)
 * Address: 1278 Vestal Ave, Binghamton, NY
 
 ## PA DEP certification

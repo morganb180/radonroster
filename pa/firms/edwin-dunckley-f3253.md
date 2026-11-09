@@ -1,6 +1,6 @@
 ---
 title: "Edwin Dunckley: Radon Tester in Chester Springs, PA"
-description: "Edwin Dunckley (Chester Springs, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Edwin Dunckley (Chester Springs, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/edwin-dunckley-f3253/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(484) 212-1600](tel:4842121600)
-* Email: [ed@chestercountyhomeinspections.com](mailto:ed@chestercountyhomeinspections.com)
 * Address: 1357 Elbow Ln, Chester Springs, PA
 
 ## PA DEP certification

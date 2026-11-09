@@ -1,6 +1,6 @@
 ---
 title: "A1 House Prep, LLC: Radon Tester in Harleysville, PA"
-description: "A1 House Prep, LLC (Harleysville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "A1 House Prep, LLC (Harleysville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/a1-house-prep-llc-f2427/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 853-8226](tel:2158538226)
-* Email: [a1houseprep@gmail.com](mailto:a1houseprep@gmail.com)
 * Address: 340 Freed Rd, Harleysville, PA
 
 ## PA DEP certification

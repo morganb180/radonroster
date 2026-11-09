@@ -14,9 +14,6 @@ Asbury Park, NJ · 8 certified people
 
 ## Contact
 
-* Phone: [(646) 214-2879](tel:6462142879)
-* Email: [scotter@partneresi.com;vcardona@partneresi.com](mailto:scotter@partneresi.com;vcardona@partneresi.com)
-* Website: [https://www.partneresi.com/](https://www.partneresi.com/)
 * Address: 929 Asbury Ave, Asbury Park, NJ
 
 ## PA DEP certification

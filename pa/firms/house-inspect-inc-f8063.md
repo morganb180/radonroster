@@ -10,7 +10,6 @@ canonical: https://radonroster.com/pa/firms/house-inspect-inc-f8063/
 
 Media, PA · Delaware County · 2 certified people
 
-[Call (610) 565-4181](tel:6105654181). This firm can't take quote requests through Radon Roster yet.
 
 ## Google rating
 
@@ -28,7 +27,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 565-4181](tel:6105654181)
 * Address: 601 N Olive St, Media, PA
 
 ## PA DEP certification

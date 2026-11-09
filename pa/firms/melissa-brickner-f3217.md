@@ -1,6 +1,6 @@
 ---
 title: "Melissa Brickner: Radon Tester in Moncks Corner, SC"
-description: "Melissa Brickner (Moncks Corner, SC) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Melissa Brickner (Moncks Corner, SC) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/melissa-brickner-f3217/
 ---
 
@@ -16,8 +16,6 @@ Moncks Corner, SC · 1 certified person
 
 ## Contact
 
-* Phone: [(419) 957-2422](tel:4199572422)
-* Email: [kurt@sherlockhomes-sc.com](mailto:kurt@sherlockhomes-sc.com)
 * Address: 274 Airport Dr, Moncks Corner, SC
 
 ## PA DEP certification

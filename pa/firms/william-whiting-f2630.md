@@ -1,6 +1,6 @@
 ---
 title: "William Whiting: Radon Tester in Conneaut Lake, PA"
-description: "William Whiting (Conneaut Lake, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "William Whiting (Conneaut Lake, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/william-whiting-f2630/
 ---
 
@@ -16,8 +16,6 @@ Conneaut Lake, PA · Crawford County · 1 certified person
 
 ## Contact
 
-* Phone: [(814) 720-5748](tel:8147205748)
-* Email: [wlwhiting@gmail.com](mailto:wlwhiting@gmail.com)
 * Address: 11863 Lake Dr, Conneaut Lake, PA
 
 ## PA DEP certification

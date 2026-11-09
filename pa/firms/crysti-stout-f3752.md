@@ -1,6 +1,6 @@
 ---
 title: "Crysti Stout: Radon Tester in Whitehall, PA | Radon Roster"
-description: "Crysti Stout (Whitehall, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Crysti Stout (Whitehall, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/crysti-stout-f3752/
 ---
 
@@ -16,8 +16,6 @@ Whitehall, PA · Lehigh County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 788-2811](tel:4847882811)
-* Email: [crysti.stout@allentownpa.gov](mailto:crysti.stout@allentownpa.gov)
 * Address: 4776 Main St, Whitehall, PA
 
 ## PA DEP certification

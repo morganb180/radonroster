@@ -1,6 +1,6 @@
 ---
 title: "Randy Knesnik: Radon Mitigator in Milford, PA | Radon Roster"
-description: "Randy Knesnik (Milford, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Randy Knesnik (Milford, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/randy-knesnik-f1880/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 828-2790](tel:5708282790)
-* Email: [randykn@ptd.net](mailto:randykn@ptd.net)
 * Address: 413 Long Meadow Rd, Milford, PA
 
 ## PA DEP certification

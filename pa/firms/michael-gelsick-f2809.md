@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 590-9754](tel:8145909754)
-* Email: [mgelsick@gelsickhomeinsp.com](mailto:mgelsick@gelsickhomeinsp.com)
-* Website: [https://gelsickhomeinsp.com/](https://gelsickhomeinsp.com/)
 * Address: 537 Maurus St, Saint Marys, PA
 
 ## PA DEP certification

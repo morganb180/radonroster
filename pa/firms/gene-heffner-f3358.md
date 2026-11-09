@@ -1,6 +1,6 @@
 ---
 title: "Gene Heffner: Radon Tester in Pottsville, PA | Radon Roster"
-description: "Gene Heffner (Pottsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Gene Heffner (Pottsville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/gene-heffner-f3358/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 900-1796](tel:5709001796)
-* Email: [gene@gpahomeinspections.com](mailto:gene@gpahomeinspections.com)
-* Website: [https://gpahomeinspections.com/](https://gpahomeinspections.com/)
 * Address: Po Box 952, Pottsville, PA
 
 ## PA DEP certification

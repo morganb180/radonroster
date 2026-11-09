@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 464-0111](tel:7174640111)
-* Email: [bshimp@jkmechanical.com;serivce@jkmechanical.com;service@jkmechanical.com](mailto:bshimp@jkmechanical.com;serivce@jkmechanical.com;service@jkmechanical.com)
-* Website: [https://www.jkmechanical.com/](https://www.jkmechanical.com/)
 * Address: 202 W Kendig Rd, Willow Street, PA
 
 ## PA DEP certification

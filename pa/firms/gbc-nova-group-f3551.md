@@ -1,6 +1,6 @@
 ---
 title: "Gbc Nova Group: Radon Tester in Shohola, PA | Radon Roster"
-description: "Gbc Nova Group (Shohola, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Gbc Nova Group (Shohola, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/gbc-nova-group-f3551/
 ---
 
@@ -16,9 +16,6 @@ Shohola, PA · Pike County · 6 certified people
 
 ## Contact
 
-* Phone: [(570) 786-1031](tel:5707861031)
-* Email: [anthony.galasso@novagroupgbc.com;madeline.wroblewski@novagroupgbc.com](mailto:anthony.galasso@novagroupgbc.com;madeline.wroblewski@novagroupgbc.com)
-* Website: [https://www.novagroupgbc.com/](https://www.novagroupgbc.com/)
 * Address: 700 Route 6, Suite 1, Shohola, PA
 
 ## PA DEP certification

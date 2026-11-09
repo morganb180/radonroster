@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 385-3339](tel:6103853339)
-* Email: [office@gutridgeinspections.com](mailto:office@gutridgeinspections.com)
-* Website: [https://www.gutridgeinspections.com/](https://www.gutridgeinspections.com/)
 * Address: 1614 Laurelwood Rd, Pottstown, PA
 
 ## PA DEP certification

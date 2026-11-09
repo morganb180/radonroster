@@ -1,6 +1,6 @@
 ---
 title: "Thomas Bennett: Radon Tester in Sayre, PA | Radon Roster"
-description: "Thomas Bennett (Sayre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Bennett (Sayre, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-bennett-f3509/
 ---
 
@@ -16,8 +16,6 @@ Sayre, PA · Bradford County · 1 certified person
 
 ## Contact
 
-* Phone: [(607) 483-2690](tel:6074832690)
-* Email: [valleyhomeinspectionllc@gmail.com](mailto:valleyhomeinspectionllc@gmail.com)
 * Address: 101 Lynch St., Sayre, PA
 
 ## PA DEP certification

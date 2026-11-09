@@ -1,6 +1,6 @@
 ---
 title: "James Rossi: Radon Mitigator in Pine Grove, PA"
-description: "James Rossi (Pine Grove, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "James Rossi (Pine Grove, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/james-rossi-f2893/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 345-6515](tel:5703456515)
-* Email: [rr-radonreduction@live.com](mailto:rr-radonreduction@live.com)
 * Address: 18 Nut Grove Rd, Pine Grove, PA
 
 ## PA DEP certification

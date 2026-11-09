@@ -1,6 +1,6 @@
 ---
 title: "Northern Radon Solutions: Radon Mitigator in Honesdale, PA"
-description: "Northern Radon Solutions (Honesdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Northern Radon Solutions (Honesdale, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/northern-radon-solutions-f3370/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 647-4995](tel:5706474995)
-* Email: [northernradonsolutions@ptd.net](mailto:northernradonsolutions@ptd.net)
 * Address: 152 Bunnell Pond Rd, Honesdale, PA
 
 ## PA DEP certification

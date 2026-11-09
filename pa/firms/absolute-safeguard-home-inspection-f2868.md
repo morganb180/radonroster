@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 934-4273](tel:7249344273)
-* Email: [absolutesafeguard@gmail.com](mailto:absolutesafeguard@gmail.com)
 * Address: 307 E Main St, Carnegie, PA
 
 ## PA DEP certification

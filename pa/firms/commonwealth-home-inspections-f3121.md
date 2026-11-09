@@ -14,9 +14,6 @@ Myrtle Beach, SC · 2 certified people
 
 ## Contact
 
-* Phone: [(570) 991-1451](tel:5709911451)
-* Email: [bill@commonwealthinspections.com](mailto:bill@commonwealthinspections.com)
-* Website: [https://commonwealthinspections.com/](https://commonwealthinspections.com/)
 * Address: 131 Chapel Ridge Cir, Myrtle Beach, SC
 
 ## PA DEP certification

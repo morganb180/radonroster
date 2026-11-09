@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 222-2273](tel:6102222273)
-* Email: [info@radonrid.com](mailto:info@radonrid.com)
-* Website: [https://www.radonrid.com/](https://www.radonrid.com/)
 * Address: 693 Egypt Rd, Phoenixville, PA
 
 ## PA DEP certification

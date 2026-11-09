@@ -1,6 +1,6 @@
 ---
 title: "Sean Iannucci: Radon Tester in Goshen, NY | Radon Roster"
-description: "Sean Iannucci (Goshen, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Sean Iannucci (Goshen, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/sean-iannucci-f3604/
 ---
 
@@ -16,9 +16,6 @@ Goshen, NY · 1 certified person
 
 ## Contact
 
-* Phone: [(845) 360-5874](tel:8453605874)
-* Email: [info@bluelinehomeinspections.com](mailto:info@bluelinehomeinspections.com)
-* Website: [https://bluelinehomeinspections.com/](https://bluelinehomeinspections.com/)
 * Address: P.O. Box 615, Goshen, NY
 
 ## PA DEP certification

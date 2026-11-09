@@ -45,7 +45,6 @@ Sayre1 certified person
 #### Address
 
 * 101 Lynch St., Sayre, PA
-* ✉ [valleyhomeinspectionllc@gmail.com](mailto:valleyhomeinspectionllc@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3509
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3509)
 
-[**Call** (607) 483-2690](tel:6074832690)
 
 ## Which counties border Bradford County, PA?
 

@@ -45,7 +45,6 @@ Alum Bank1 certified person
 #### Address
 
 * 1015 W Fairway Ridge Dr, Alum Bank, PA
-* ✉ [claytonwatson@gmail.com](mailto:claytonwatson@gmail.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ testing #3469
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3469)
 
-[**Call** (814) 421-6229](tel:8144216229)
 
 ## Which counties border Bedford County, PA?
 

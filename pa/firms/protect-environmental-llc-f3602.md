@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(502) 496-4383](tel:5024964383)
-* Email: [clay.johnson@protectenvironmental.com;john.cowell@protectenvironmental.com;kenny.deemer@protectenvironmental.com](mailto:clay.johnson@protectenvironmental.com;john.cowell@protectenvironmental.com;kenny.deemer@protectenvironmental.com)
-* Website: [https://www.protectenvironmental.com/](https://www.protectenvironmental.com/)
 * Address: 9822 Bluegrass Pkwy, Louisville, KY
 
 ## PA DEP certification

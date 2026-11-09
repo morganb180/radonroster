@@ -1,6 +1,6 @@
 ---
 title: "Timothy Spicher: Radon Tester in Nanty Glo, PA"
-description: "Timothy Spicher (Nanty Glo, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Timothy Spicher (Nanty Glo, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/timothy-spicher-f3707/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 826-1123](tel:8148261123)
-* Email: [tim.spicher@newchapterhi.pro](mailto:tim.spicher@newchapterhi.pro)
 * Address: 239 Fords Corner Rd, Nanty Glo, PA
 
 ## PA DEP certification

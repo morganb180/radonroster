@@ -1,6 +1,6 @@
 ---
 title: "Certified Enviro: Radon Tester in Freehold, NJ"
-description: "Certified Enviro (Freehold, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Certified Enviro (Freehold, NJ) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-enviro-f9141/
 ---
 
@@ -10,11 +10,9 @@ canonical: https://radonroster.com/pa/firms/certified-enviro-f9141/
 
 Freehold, NJ · 1 certified person
 
-[Call (732) 534-4892](tel:7325344892). This firm can't take quote requests through Radon Roster yet.
 
 ## Contact
 
-* Phone: [(732) 534-4892](tel:7325344892)
 * Address: 918 State Highway 33, Freehold, NJ
 
 ## PA DEP certification

@@ -14,9 +14,6 @@ Lenhartsville, PA · Berks County · 5 certified people
 
 ## Contact
 
-* Phone: [(610) 756-4153](tel:6107564153)
-* Email: [tony@radprotection.com](mailto:tony@radprotection.com)
-* Website: [https://www.radprotection.com/](https://www.radprotection.com/)
 * Address: 1005 Old Route 22, Lenhartsville, PA
 
 ## PA DEP certification

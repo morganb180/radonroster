@@ -94,7 +94,21 @@ th{background:var(--paper2)}
 .checks li{font-size:.82rem;color:#4b5563}
 .checks li::before{content:"\2713";background:transparent;color:var(--trust-brand);width:auto;height:auto;font-size:.95rem;font-weight:700;border-radius:0}
 .checks b{font-weight:650;color:var(--ink)}
-.herocards{display:grid;gap:10px}
+.home-grid{display:grid;grid-template-columns:minmax(0,1fr) 400px;gap:40px;align-items:start}
+.county-mobile{display:none}
+.showcase-cards{display:grid;gap:10px;min-height:292px}
+.showcase .pcard{min-height:88px}
+.pstars{display:block;margin-top:6px;font-size:.84rem;font-weight:600;font-variant-numeric:tabular-nums}
+.county-more{margin:.6rem 0 0;font-weight:600}
+@media (max-width:980px){
+  .home-grid{grid-template-columns:1fr}
+}
+@media (max-width:640px){
+  .county-mobile{display:block;margin-top:8px}
+  .county-mobile h2{font-size:1.35rem;margin:.2rem 0 .6rem}
+  .band{display:none}
+  .showcase-cards{min-height:0}
+}
 .herocards .pcards{display:none}
 .herocards .pcards[data-i~="test"]{display:block}
 .pcards .eyebrow{margin-bottom:.2rem;color:var(--mute);font-size:.68rem}

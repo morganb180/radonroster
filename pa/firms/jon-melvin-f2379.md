@@ -1,6 +1,6 @@
 ---
 title: "Jon Melvin: Radon Tester in West Pittston, PA | Radon Roster"
-description: "Jon Melvin (West Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jon Melvin (West Pittston, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jon-melvin-f2379/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 574-3980](tel:5705743980)
-* Email: [jminspectionsllc@comcast.net](mailto:jminspectionsllc@comcast.net)
 * Address: 1024 Ledgeview Dr, West Pittston, PA
 
 ## PA DEP certification

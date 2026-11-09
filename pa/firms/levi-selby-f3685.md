@@ -1,6 +1,6 @@
 ---
 title: "Levi Selby: Radon Tester in Pittsburgh, PA | Radon Roster"
-description: "Levi Selby (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Levi Selby (Pittsburgh, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/levi-selby-f3685/
 ---
 
@@ -16,9 +16,6 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 315-7919](tel:2153157919)
-* Email: [levi@alignedbuildingservices.com](mailto:levi@alignedbuildingservices.com)
-* Website: [https://www.alignedbuildingservices.com/](https://www.alignedbuildingservices.com/)
 * Address: 239 4Th Ave, Pittsburgh, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Precise Inspecting: Radon Tester in Lancaster, PA"
-description: "Precise Inspecting (Lancaster, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Precise Inspecting (Lancaster, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/precise-inspecting-f3295/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 808-5997](tel:7178085997)
-* Email: [bill@preciseinspecting.com](mailto:bill@preciseinspecting.com)
-* Website: [https://www.preciseinspecting.com/](https://www.preciseinspecting.com/)
 * Address: 2105 W Ridge Dr, Lancaster, PA
 
 ## PA DEP certification

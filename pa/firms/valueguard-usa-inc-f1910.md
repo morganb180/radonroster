@@ -1,6 +1,6 @@
 ---
 title: "Valueguard Usa, Inc.: Radon Tester in Philadelphia, PA"
-description: "Valueguard Usa, Inc. (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Valueguard Usa, Inc. (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/valueguard-usa-inc-f1910/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(215) 860-3150](tel:2158603150)
-* Email: [chase@valueguardusa.com;team@valueguardusa.com](mailto:chase@valueguardusa.com;team@valueguardusa.com)
 * Address: 100 E Penn Sq Ste 400, Philadelphia, PA
 
 ## PA DEP certification

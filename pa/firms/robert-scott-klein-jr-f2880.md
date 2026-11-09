@@ -1,6 +1,6 @@
 ---
 title: "Robert Scott Klein Jr.: Radon Tester in Mcmurray, PA"
-description: "Robert Scott Klein Jr. (Mcmurray, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Robert Scott Klein Jr. (Mcmurray, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/robert-scott-klein-jr-f2880/
 ---
 
@@ -16,8 +16,6 @@ Mcmurray, PA · Washington County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 413-5522](tel:7244135522)
-* Email: [scottdhis@gmail.com](mailto:scottdhis@gmail.com)
 * Address: 4017 Washington Rd, Mcmurray, PA
 
 ## PA DEP certification

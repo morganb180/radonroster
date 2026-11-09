@@ -1,6 +1,6 @@
 ---
 title: "Luis Cruz: Radon Mitigator in Northampton, PA | Radon Roster"
-description: "Luis Cruz (Northampton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Luis Cruz (Northampton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/luis-cruz-f3712/
 ---
 
@@ -16,8 +16,6 @@ Northampton, PA · Northampton County · 1 certified person
 
 ## Contact
 
-* Phone: [(610) 615-0706](tel:6106150706)
-* Email: [lehighradonsolutions@gmail.com](mailto:lehighradonsolutions@gmail.com)
 * Address: 4086 Sycamore Dr, Northampton, PA
 
 ## PA DEP certification

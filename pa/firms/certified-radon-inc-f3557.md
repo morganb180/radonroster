@@ -1,6 +1,6 @@
 ---
 title: "Certified Radon Inc.: Radon Tester in Aliquippa, PA"
-description: "Certified Radon Inc. (Aliquippa, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Certified Radon Inc. (Aliquippa, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/certified-radon-inc-f3557/
 ---
 
@@ -14,9 +14,6 @@ Aliquippa, PA · Allegheny County · 2 certified people
 
 ## Contact
 
-* Phone: [(412) 580-3615](tel:4125803615)
-* Email: [info@certifiedradonpro.com](mailto:info@certifiedradonpro.com)
-* Website: [https://certifiedradonpro.com/](https://certifiedradonpro.com/)
 * Address: 1936 Crestmont Dr, Aliquippa, PA
 
 ## PA DEP certification

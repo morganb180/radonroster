@@ -67,14 +67,14 @@
   }
   function whoText(){
     var fn=firmName(),need=(checked("need")||{}).value||"";
-    if(fn)return "Your request goes to "+fn+" and up to 2 other nearby certified firms. We choose the others when you send this form. You will see everyone who was emailed on the next screen. Firms can't pay to be picked.";
-    if(need==="kit")return "Up to 3 DEP-certified radon labs. Labs on the PA DEP list can be anywhere, not only in your county. We choose them when you send this form, and you will see their names on the next screen. Firms can't pay to be picked.";
-    return "Up to 3 PA DEP-certified firms that offer the service you chose, nearest available first, starting with your county and the counties next to it. We choose them when you send this form. You will see their names and phone numbers on the next screen. If you came from a firm's listing, that firm is one of them. Firms can't pay to be picked.";
+    if(fn)return "We connect you with "+fn+" and up to 2 other nearby certified firms. They contact you directly. You will see who was included on the next screen. Firms can't pay to be picked.";
+    if(need==="kit")return "We connect you with up to 3 DEP-certified radon labs. Labs on the PA DEP list can be anywhere, not only in your county. They contact you directly. You will see their names on the next screen. Firms can't pay to be picked.";
+    return "We connect you with up to 3 PA DEP-certified firms that offer the service you chose, nearest available first, starting with your county and the counties next to it. They contact you directly. You will see their names on the next screen. If you came from a firm's listing, that firm is one of them. Firms can't pay to be picked.";
   }
   function buttonText(){
     var fn=firmName();
-    if(fn)return fn+" and up to 2 other nearby PA DEP-certified firms will receive this request. You will see the final list after you send it. Radon Roster is a directory, not a contractor. No obligation to hire.";
-    return "This request goes to up to 3 nearby PA DEP-certified firms that offer this service. We choose them when you send it, and their names appear on the next screen. Radon Roster is a directory, not a contractor. No obligation to hire.";
+    if(fn)return "We connect you with "+fn+" and up to 2 other nearby PA DEP-certified firms. They contact you directly. Radon Roster is a directory, not a contractor. No obligation to hire.";
+    return "We connect you with up to 3 nearby PA DEP-certified firms that offer this service. They contact you directly. Their names appear on the next screen. Radon Roster is a directory, not a contractor. No obligation to hire.";
   }
   function levelNote(){
     var el=document.getElementById("levelhint");
@@ -131,7 +131,7 @@
     if(!d.ok)return;
     var panel=document.getElementById("qpanel");
     if(!panel)return;
-    panel.innerHTML='<h2>Sent to</h2><p>The firms named in the confirmation are the ones this request was emailed to. They contact you directly. We don\'t call or text you.</p><ul class="qpriv"><li>A copy of the request stays in the Radon Roster inbox so we can run the service.</li><li>Delete that copy anytime: <a href="mailto:hello@radonroster.com">hello@radonroster.com</a>. Firms keep what they received under their own policies.</li></ul>';
+    panel.innerHTML='<h2>Connected</h2><p>The firms named in the confirmation are the ones you were connected with. They contact you directly. We don\'t call or text you.</p><ul class="qpriv"><li>We keep a copy of the request so we can run the service. We don\'t sell it.</li><li>Delete that copy anytime: <a href="mailto:hello@radonroster.com">hello@radonroster.com</a>.</li></ul>';
   });
   var more=document.querySelector(".qmore");
   if(more&&window.matchMedia("(max-width:900px)").matches)more.open=false;

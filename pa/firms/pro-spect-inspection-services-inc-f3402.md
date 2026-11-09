@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 244-2090](tel:5702442090)
-* Email: [admin@gopro-spect.com](mailto:admin@gopro-spect.com)
-* Website: [https://gopro-spect.com/](https://gopro-spect.com/)
 * Address: 1277 S Governors Ave, Dover, DE
 
 ## PA DEP certification

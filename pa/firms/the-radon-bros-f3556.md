@@ -14,8 +14,6 @@ Quakertown, PA · Bucks County · 3 certified people
 
 ## Contact
 
-* Phone: [(484) 460-9697](tel:4844609697)
-* Email: [sales.theradonbros@gmail.com;theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com;theradonbros@gmail.com)
 * Address: 2288 Township Rd, Quakertown, PA
 
 ## PA DEP certification

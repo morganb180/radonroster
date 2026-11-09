@@ -1,6 +1,6 @@
 ---
 title: "Alison Labee: Radon Tester in Dexter, MO | Radon Roster"
-description: "Alison Labee (Dexter, MO) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Alison Labee (Dexter, MO) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/alison-labee-f3749/
 ---
 
@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(800) 428-3320](tel:8004283320)
-* Email: [alison.labee@gillgroup.com](mailto:alison.labee@gillgroup.com)
 * Address: 2100 Gill Plaza Dr, Dexter, MO
 
 ## PA DEP certification

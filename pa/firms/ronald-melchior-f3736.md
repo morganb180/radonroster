@@ -1,6 +1,6 @@
 ---
 title: "Ronald Melchior: Radon Tester in Nottingham, MD"
-description: "Ronald Melchior (Nottingham, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Ronald Melchior (Nottingham, MD) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/ronald-melchior-f3736/
 ---
 
@@ -16,8 +16,6 @@ Nottingham, MD · 1 certified person
 
 ## Contact
 
-* Phone: [(443) 790-4613](tel:4437904613)
-* Email: [rmelchior@aeiconsultants.com](mailto:rmelchior@aeiconsultants.com)
 * Address: 8536 Westerman Cir, Nottingham, MD
 
 ## PA DEP certification

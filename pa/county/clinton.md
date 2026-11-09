@@ -45,7 +45,6 @@ Loganton1 certified person
 #### Address
 
 * 1351 W Winter Rd, Loganton, PA
-* ✉ [gconk23@cs.com](mailto:gconk23@cs.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #2769
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2769)
 
-[**Call** (570) 433-8210](tel:5704338210)
 
 ## Where can I get radon testing in Clinton County, PA? (1 firm)
 
@@ -72,8 +70,6 @@ Woolrich1 certified person
 #### Address
 
 * Po Box 110, Woolrich, PA
-* ✉ [hhi@hancockhomeinspections.com](mailto:hhi@hancockhomeinspections.com)
-* [hancockhomeinspections.com](https://hancockhomeinspections.com/)
 
 #### Certified individuals
 
@@ -85,7 +81,6 @@ testing #1712
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1712)
 
-[**Call** (570) 769-6365](tel:5707696365)
 
 ## Which counties border Clinton County, PA?
 

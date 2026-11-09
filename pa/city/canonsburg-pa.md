@@ -53,7 +53,6 @@ Canonsburg1 certified person
 #### Address
 
 * 1148 Meadow Brook Drive, Canonsburg, PA
-* ✉ [steve@heritagehomeinspectors.com](mailto:steve@heritagehomeinspectors.com)
 
 #### Certified individuals
 
@@ -65,7 +64,6 @@ testing #9003
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F9003)
 
-[**Call** (888) 308-4018](tel:8883084018)
 
 ### Heritage Home Inspectors
 
@@ -76,8 +74,6 @@ Canonsburg3 certified people
 #### Address
 
 * 1148 Meadowbrook Dr, Canonsburg, PA
-* ✉ [steve@heritagehomeinspector.com](mailto:steve@heritagehomeinspector.com)
-* [heritagehomeinspector.com](https://www.heritagehomeinspector.com/)
 
 #### Certified individuals
 
@@ -91,7 +87,6 @@ testing #3335 · testing #3569 · testing #9076 · testing #9131
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3335)
 
-[**Call** (888) 308-4018](tel:8883084018)
 
 ### Jaworski, Mark
 
@@ -102,7 +97,6 @@ Canonsburg1 certified person
 #### Address
 
 * 75 Putorti Ln, Canonsburg, PA
-* ✉ [mark@jaworskiremodeling.com](mailto:mark@jaworskiremodeling.com)
 
 #### Certified individuals
 
@@ -114,7 +108,6 @@ testing #2935
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2935)
 
-[**Call** (412) 583-7962](tel:4125837962)
 
 ### Lydic, Joseph
 
@@ -125,7 +118,6 @@ Canonsburg1 certified person
 #### Address
 
 * 3935 Washington Rd., Canonsburg, PA
-* ✉ [peakinspectorjoe@gmail.com](mailto:peakinspectorjoe@gmail.com)
 
 #### Certified individuals
 
@@ -137,7 +129,6 @@ testing #3397
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3397)
 
-[**Call** (412) 912-8686](tel:4129128686)
 
 ## Which other certified radon firms are in Washington County? (3)
 
@@ -158,9 +149,6 @@ Venetia9 certified people
 #### Address
 
 * 549 Mccombs Rd, Venetia, PA
-* ✉ [bkail@homeradonpros.com](mailto:bkail@homeradonpros.com)
-* ✉ [jlanham@homeradonpros.com](mailto:jlanham@homeradonpros.com)
-* [homeradonpros.com](https://www.homeradonpros.com/)
 
 #### Certified individuals
 
@@ -180,7 +168,6 @@ mitigation #3238 · mitigation #3476 · mitigation #7264 · mitigation #7600 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3238)
 
-[**Call** (412) 584-0799](tel:4125840799)
 
 ## Where else can I get radon testing in Washington County? (2 firms)
 
@@ -193,8 +180,6 @@ Mc Donald1 certified person
 #### Address
 
 * 523 Burnside Rd, Mc Donald, PA
-* ✉ jim.zaminska@pillartopost,com (as listed (as printed by DEP; may be incomplete)
-* ✉ may be truncated) (as printed by DEP; may be incomplete)
 
 #### Certified individuals
 
@@ -206,7 +191,6 @@ testing #8854
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8854)
 
-[**Call** (724) 513-0832](tel:7245130832)
 
 ### Klein Jr., Robert Scott
 
@@ -217,7 +201,6 @@ Mcmurray1 certified person
 #### Address
 
 * 4017 Washington Rd, Mcmurray, PA
-* ✉ [scottdhis@gmail.com](mailto:scottdhis@gmail.com)
 
 #### Certified individuals
 
@@ -229,7 +212,6 @@ testing #2880
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2880)
 
-[**Call** (724) 413-5522](tel:7244135522)
 
 ## Which radon mitigation firms near Canonsburg are in neighboring counties? (12)
 
@@ -244,7 +226,6 @@ Wexford1 certified person
 #### Address
 
 * 125 Twin Oaks Dr, Wexford, PA
-* ✉ [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
 
 #### Certified individuals
 
@@ -256,7 +237,6 @@ mitigation #1771 · testing #1771
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1771)
 
-[**Call** (724) 940-3366](tel:7249403366)
 
 ### Buffone, Steven
 
@@ -267,7 +247,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 301 S Hills Vlg, Pittsburgh, PA
-* ✉ [buffone13@outlook.com](mailto:buffone13@outlook.com)
 
 #### Certified individuals
 
@@ -279,7 +258,6 @@ mitigation #3700 · testing #3700
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3700)
 
-[**Call** (330) 717-4061](tel:3307174061)
 
 ### Shaffer, Jon
 
@@ -290,7 +268,6 @@ Pittsburgh1 certified person
 #### Address
 
 * 1115 Cornell St, Pittsburgh, PA
-* ✉ [radon-x@comcast.net](mailto:radon-x@comcast.net)
 
 #### Certified individuals
 
@@ -302,7 +279,6 @@ mitigation #2499
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2499)
 
-[**Call** (724) 772-2200](tel:7247722200)
 
 ### Steel City Radon
 
@@ -313,7 +289,6 @@ Pittsburgh2 certified people
 #### Address
 
 * 1223 Southgate Dr, Pittsburgh, PA
-* ✉ [steelcityradon@yahoo.com](mailto:steelcityradon@yahoo.com)
 
 #### Certified individuals
 
@@ -326,7 +301,6 @@ mitigation #2002 · mitigation #2038 · mitigation #7315
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2002)
 
-[**Call** (412) 851-4231](tel:4128514231)
 
 ### Alpha Radon, LLC
 
@@ -337,8 +311,6 @@ Aliquippa2 certified people
 #### Address
 
 * 121 Cottonwood Dr, Aliquippa, PA
-* ✉ [radonpros@alpharadonllc.com](mailto:radonpros@alpharadonllc.com)
-* [alpharadonllc.com](https://alpharadonllc.com/)
 
 #### Certified individuals
 
@@ -351,7 +323,6 @@ mitigation #3322 · testing #3321
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3321)
 
-[**Call** (724) 480-5828](tel:7244805828)
 
 ### Muller, Paul
 
@@ -362,7 +333,6 @@ Freedom1 certified person
 #### Address
 
 * 156 Ridge Ave, Freedom, PA
-* ✉ [pwmuller1127@yahoo.com](mailto:pwmuller1127@yahoo.com)
 
 #### Certified individuals
 
@@ -374,7 +344,6 @@ mitigation #3326
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3326)
 
-[**Call** (412) 585-0217](tel:4125850217)
 
 ### Radon Detection And Control
 
@@ -385,7 +354,6 @@ South Heights15 certified people
 #### Address
 
 * Po Box 419, South Heights, PA
-* ✉ [contact@radondetectionandcontrol.com](mailto:contact@radondetectionandcontrol.com)
 
 #### Certified individuals
 
@@ -411,7 +379,6 @@ mitigation #0492 · mitigation #0493 · mitigation #3027 · mitigation #7089 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0492)
 
-[**Call** (724) 375-1700](tel:7243751700)
 
 ### Blank, Mathew
 
@@ -422,7 +389,6 @@ Trafford1 certified person
 #### Address
 
 * 120 Loyola Ln, Trafford, PA
-* ✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
 
 #### Certified individuals
 
@@ -434,7 +400,6 @@ mitigation #3696
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
 
-[**Call** (724) 515-9414](tel:7245159414)
 
 ### Main Street Radon Remediation
 
@@ -445,7 +410,6 @@ Irwin1 certified person
 #### Address
 
 * 13610 Lincoln Way, Irwin, PA
-* ✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
 
 #### Certified individuals
 
@@ -457,7 +421,6 @@ mitigation #3689 · mitigation #3690 · testing #3689 · testing #3690
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
 
-[**Call** (724) 744-8006](tel:7247448006)
 
 ### Martin, Alexander
 
@@ -468,7 +431,6 @@ New Florence1 certified person
 #### Address
 
 * 156 N View Hts, New Florence, PA
-* ✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -480,7 +442,6 @@ mitigation #3631 · testing #3631
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
 
-[**Call** (814) 418-7158](tel:8144187158)
 
 ### Petrill, Jerry A.
 
@@ -491,7 +452,6 @@ Greensburg1 certified person
 #### Address
 
 * 290 Forbes Trail Rd, Greensburg, PA
-* ✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
 
 #### Certified individuals
 
@@ -503,7 +463,6 @@ mitigation #1801
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
 
-[**Call** (724) 289-8632](tel:7242898632)
 
 ### Restoration Contracting Services In
 
@@ -516,8 +475,6 @@ New Kensington3 certified people
 #### Address
 
 * 720 Anderson St, New Kensington, PA
-* ✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
-* [rcsrestoration.com](https://www.rcsrestoration.com/)
 
 #### Certified individuals
 
@@ -531,7 +488,6 @@ mitigation #3219 · mitigation #3220 · mitigation #7534 · mitigation #7650 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
 
-[**Call** (412) 379-3278](tel:4123793278)
 
 ## Washington County radon test data
 

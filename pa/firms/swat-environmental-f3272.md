@@ -1,6 +1,6 @@
 ---
 title: "SWAT Environmental: Radon Mitigator in Allentown, PA"
-description: "SWAT Environmental (Allentown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "SWAT Environmental (Allentown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/swat-environmental-f3272/
 ---
 
@@ -14,9 +14,6 @@ Allentown, PA · Lehigh County · 8 certified people
 
 ## Contact
 
-* Phone: [(610) 674-4421](tel:6106744421)
-* Email: [aszews@swatradon.com](mailto:aszews@swatradon.com)
-* Website: [https://swat-radon.com/](https://swat-radon.com/)
 * Address: 1125 S Cedar Crest Blvd, Allentown, PA
 
 ## PA DEP certification

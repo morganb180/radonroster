@@ -1,6 +1,6 @@
 ---
 title: "Accustar Labs: Radon Lab in Harrisburg, PA | Radon Roster"
-description: "Accustar Labs (Harrisburg, PA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs, contact details and request a free quote."
+description: "Accustar Labs (Harrisburg, PA) is on PA DEP's certified radon list for laboratory. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/accustar-labs-f1935/
 ---
 
@@ -24,9 +24,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(717) 274-8310](tel:7172748310)
-* Email: [dave@spruce.com;sprice@spruce.com](mailto:dave@spruce.com;sprice@spruce.com)
-* Website: [https://spruce.com/](https://spruce.com/)
 * Address: 6951 Allentown Blvd, Harrisburg, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Conklin, George, Iv: Radon Mitigator in Loganton, PA"
-description: "Conklin, George, Iv (Loganton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "Conklin, George, Iv (Loganton, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/conklin-george-iv-f2769/
 ---
 
@@ -14,8 +14,6 @@ Loganton, PA · Clinton County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 433-8210](tel:5704338210)
-* Email: [gconk23@cs.com](mailto:gconk23@cs.com)
 * Address: 1351 W Winter Rd, Loganton, PA
 
 ## PA DEP certification

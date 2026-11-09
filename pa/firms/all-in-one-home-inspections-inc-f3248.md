@@ -28,8 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(570) 685-4415](tel:5706854415)
-* Email: [ainspect@ptd.net](mailto:ainspect@ptd.net)
 * Address: 1029 Main St Ste 2, Honesdale, PA
 
 ## PA DEP certification

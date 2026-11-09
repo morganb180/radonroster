@@ -1,6 +1,6 @@
 ---
 title: "The Radon Bros: Radon Mitigator in Quakertown, PA"
-description: "The Radon Bros (Quakertown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "The Radon Bros (Quakertown, PA) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/the-radon-bros-f7699/
 ---
 
@@ -14,8 +14,6 @@ Quakertown, PA · Bucks County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 460-9697](tel:4844609697)
-* Email: [sales.theradonbros@gmail.com](mailto:sales.theradonbros@gmail.com)
 * Address: 2288 Township Road, Quakertown, PA
 
 ## PA DEP certification

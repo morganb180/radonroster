@@ -1,6 +1,6 @@
 ---
 title: "J.L. Camp Inspection: Radon Tester in Monaca, PA"
-description: "J.L. Camp Inspection (Monaca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "J.L. Camp Inspection (Monaca, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/j-l-camp-inspection-f8337/
 ---
 
@@ -30,8 +30,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 495-2331](tel:7244952331)
-* Email: [tom@jlcampinspections.com](mailto:tom@jlcampinspections.com)
 * Address: 6006 Forest Dr, Monaca, PA
 
 ## PA DEP certification

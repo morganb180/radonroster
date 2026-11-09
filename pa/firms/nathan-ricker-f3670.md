@@ -1,6 +1,6 @@
 ---
 title: "Nathan Ricker: Radon Testing & Mitigation in Delaware, OH"
-description: "Nathan Ricker (Delaware, OH) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Nathan Ricker (Delaware, OH) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/nathan-ricker-f3670/
 ---
 
@@ -16,8 +16,6 @@ Delaware, OH · 2 certified people
 
 ## Contact
 
-* Phone: [(833) 732-7379](tel:8337327379)
-* Email: [radonreaperz@gmail.com](mailto:radonreaperz@gmail.com)
 * Address: 280 E Central Ave, Delaware, OH
 
 ## PA DEP certification

@@ -45,8 +45,6 @@ Middleburg1 certified person
 #### Address
 
 * 714 Bowersox Rd, Middleburg, PA
-* ✉ [daniel@radonguysllc.com](mailto:daniel@radonguysllc.com)
-* [radonguysllc.com](https://www.radonguysllc.com/)
 
 #### Certified individuals
 
@@ -58,7 +56,6 @@ mitigation #3717 · mitigation #3718 · testing #3717 · testing #3718
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3717)
 
-[**Call** (570) 212-9870](tel:5702129870)
 
 ### Penn Guard Radon Solutions
 
@@ -69,7 +66,6 @@ Selinsgrove2 certified people
 #### Address
 
 * 806 9Th St, Selinsgrove, PA
-* ✉ [jamie@dogtowncontracting.com](mailto:jamie@dogtowncontracting.com)
 
 #### Certified individuals
 
@@ -82,7 +78,6 @@ mitigation #3761 · mitigation #3762 · mitigation #7731 · testing #3761 · tes
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3761)
 
-[**Call** (610) 496-9810](tel:6104969810)
 
 ## Which counties border Snyder County, PA?
 

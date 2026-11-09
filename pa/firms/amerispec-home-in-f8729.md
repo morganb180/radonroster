@@ -1,6 +1,6 @@
 ---
 title: "Amerispec Home In: Radon Tester in Harmony, PA"
-description: "Amerispec Home In (Harmony, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Amerispec Home In (Harmony, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/amerispec-home-in-f8729/
 ---
 
@@ -16,9 +16,6 @@ Harmony, PA · Butler County · 3 certified people
 
 ## Contact
 
-* Phone: [(724) 452-5025](tel:7244525025)
-* Email: [ronega@amerispec.net](mailto:ronega@amerispec.net)
-* Website: [https://www.amerispec.com/](https://www.amerispec.com/)
 * Address: 100 Rylie Dr, Harmony, PA
 
 ## PA DEP certification

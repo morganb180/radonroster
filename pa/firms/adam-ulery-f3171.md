@@ -1,6 +1,6 @@
 ---
 title: "Adam Ulery: Radon Tester in Duncansville, PA | Radon Roster"
-description: "Adam Ulery (Duncansville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Adam Ulery (Duncansville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/adam-ulery-f3171/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 931-1745](tel:8149311745)
-* Email: [akinspections@yahoo.com](mailto:akinspections@yahoo.com)
 * Address: 615 Aspen Ln, Duncansville, PA
 
 ## PA DEP certification

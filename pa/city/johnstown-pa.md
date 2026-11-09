@@ -53,7 +53,6 @@ Johnstown1 certified person
 #### Address
 
 * 124 Old Colony Dr, Johnstown, PA
-* ✉ [kcarp34@gmail.com](mailto:kcarp34@gmail.com)
 
 #### Certified individuals
 
@@ -65,7 +64,6 @@ mitigation #2037
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2037)
 
-[**Call** (814) 525-0895](tel:8145250895)
 
 ## Where can I get radon testing in Johnstown, PA? (1 firm)
 
@@ -78,7 +76,6 @@ Johnstown1 certified person
 #### Address
 
 * 337 Russell Ave, Johnstown, PA
-* ✉ [uncleerc@gmail.com](mailto:uncleerc@gmail.com)
 
 #### Certified individuals
 
@@ -90,7 +87,6 @@ testing #3708
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3708)
 
-[**Call** (814) 242-4259](tel:8142424259)
 
 ## Which other certified radon firms are in Cambria County? (2)
 
@@ -109,8 +105,6 @@ Ebensburg1 certified person
 #### Address
 
 * 1263 Manor Dr, Ebensburg, PA
-* ✉ [jeff@jeffsmithinspectionservice.com](mailto:jeff@jeffsmithinspectionservice.com)
-* [jeffsmithinspectionservice.com](https://jeffsmithinspectionservice.com/)
 
 #### Certified individuals
 
@@ -122,7 +116,6 @@ testing #2165
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2165)
 
-[**Call** (814) 330-9767](tel:8143309767)
 
 ### Spicher, Timothy
 
@@ -133,7 +126,6 @@ Nanty Glo1 certified person
 #### Address
 
 * 239 Fords Corner Rd, Nanty Glo, PA
-* ✉ [tim.spicher@newchapterhi.pro](mailto:tim.spicher@newchapterhi.pro)
 
 #### Certified individuals
 
@@ -145,7 +137,6 @@ testing #3707
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3707)
 
-[**Call** (814) 826-1123](tel:8148261123)
 
 ## Which radon mitigation firms near Johnstown are in neighboring counties? (6)
 
@@ -160,7 +151,6 @@ Altoona2 certified people
 #### Address
 
 * 3499 Kettle Rd, Altoona, PA
-* ✉ [helpingsolutions@live.com](mailto:helpingsolutions@live.com)
 
 #### Certified individuals
 
@@ -173,7 +163,6 @@ mitigation #2854 · testing #2854 · testing #3404 · testing #9075
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2854)
 
-[**Call** (814) 934-0905](tel:8149340905)
 
 ### Blank, Mathew
 
@@ -184,7 +173,6 @@ Trafford1 certified person
 #### Address
 
 * 120 Loyola Ln, Trafford, PA
-* ✉ [precisionradonllc@gmail.com](mailto:precisionradonllc@gmail.com)
 
 #### Certified individuals
 
@@ -196,7 +184,6 @@ mitigation #3696
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3696)
 
-[**Call** (724) 515-9414](tel:7245159414)
 
 ### Main Street Radon Remediation
 
@@ -207,7 +194,6 @@ Irwin1 certified person
 #### Address
 
 * 13610 Lincoln Way, Irwin, PA
-* ✉ [mainstreetradon@gmail.com](mailto:mainstreetradon@gmail.com)
 
 #### Certified individuals
 
@@ -219,7 +205,6 @@ mitigation #3689 · mitigation #3690 · testing #3689 · testing #3690
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3689)
 
-[**Call** (724) 744-8006](tel:7247448006)
 
 ### Martin, Alexander
 
@@ -230,7 +215,6 @@ New Florence1 certified person
 #### Address
 
 * 156 N View Hts, New Florence, PA
-* ✉ [martinsradonsolutions@gmail.com](mailto:martinsradonsolutions@gmail.com)
 
 #### Certified individuals
 
@@ -242,7 +226,6 @@ mitigation #3631 · testing #3631
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3631)
 
-[**Call** (814) 418-7158](tel:8144187158)
 
 ### Petrill, Jerry A.
 
@@ -253,7 +236,6 @@ Greensburg1 certified person
 #### Address
 
 * 290 Forbes Trail Rd, Greensburg, PA
-* ✉ [gammaenvsvcs@comcast.net](mailto:gammaenvsvcs@comcast.net)
 
 #### Certified individuals
 
@@ -265,7 +247,6 @@ mitigation #1801
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1801)
 
-[**Call** (724) 289-8632](tel:7242898632)
 
 ### Restoration Contracting Services In
 
@@ -278,8 +259,6 @@ New Kensington3 certified people
 #### Address
 
 * 720 Anderson St, New Kensington, PA
-* ✉ [radonmike@rcsrestoration.com](mailto:radonmike@rcsrestoration.com)
-* [rcsrestoration.com](https://www.rcsrestoration.com/)
 
 #### Certified individuals
 
@@ -293,7 +272,6 @@ mitigation #3219 · mitigation #3220 · mitigation #7534 · mitigation #7650 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3219)
 
-[**Call** (412) 379-3278](tel:4123793278)
 
 ## Cambria County radon test data
 

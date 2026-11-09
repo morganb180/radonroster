@@ -1,6 +1,6 @@
 ---
 title: "Andrew Joseph: Radon Tester in Greensburg, PA | Radon Roster"
-description: "Andrew Joseph (Greensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Andrew Joseph (Greensburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/andrew-joseph-f3299/
 ---
 
@@ -32,8 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(724) 217-8723](tel:7242178723)
-* Email: [essentialinspectionservices@gmail.com](mailto:essentialinspectionservices@gmail.com)
 * Address: 1103 Hemingway Dr, Greensburg, PA
 
 ## PA DEP certification

@@ -45,7 +45,6 @@ Crum Lynne1 certified person
 #### Address
 
 * 512 Smiley St, Crum Lynne, PA
-* ✉ [golinchak@aol.com](mailto:golinchak@aol.com)
 
 #### Certified individuals
 
@@ -57,7 +56,6 @@ mitigation #3003
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3003)
 
-[**Call** (610) 909-4356](tel:6109094356)
 
 ## Where can I get radon testing in Delaware County, PA? (11 firms)
 
@@ -72,7 +70,6 @@ Aston1 certified person
 #### Address
 
 * 1120 Eleanor Circle, Aston, PA
-* ✉ [jknell@libertyinspections.com](mailto:jknell@libertyinspections.com)
 
 #### Certified individuals
 
@@ -84,7 +81,6 @@ testing #3699
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3699)
 
-[**Call** (484) 442-0424](tel:4844420424)
 
 ### Homepro Systems O
 
@@ -97,7 +93,6 @@ Brookhaven1 certified person
 #### Address
 
 * 6301 Hilltop Dr, Brookhaven, PA
-* ✉ [denise.hompro@comcast.net](mailto:denise.hompro@comcast.net)
 
 #### Certified individuals
 
@@ -109,7 +104,6 @@ testing #8736
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8736)
 
-[**Call** (610) 328-5525](tel:6103285525)
 
 ### Hunt, Jeffrey
 
@@ -120,7 +114,6 @@ Chadds Ford1 certified person
 #### Address
 
 * P.O. Box 1402, Chadds Ford, PA
-* ✉ [huntinspects@gmail.com](mailto:huntinspects@gmail.com)
 
 #### Certified individuals
 
@@ -132,7 +125,6 @@ testing #3022
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3022)
 
-[**Call** (302) 467-0699](tel:3024670699)
 
 ### Spoehr, Jr, Eugene
 
@@ -143,7 +135,6 @@ Chadds Ford1 certified person
 #### Address
 
 * 226 A Ridge Rd, Chadds Ford, PA
-* ✉ [denise.homepro@comcast.net](mailto:denise.homepro@comcast.net)
 
 #### Certified individuals
 
@@ -155,7 +146,6 @@ testing #1915
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1915)
 
-[**Call** (610) 328-5525](tel:6103285525)
 
 ### Boro Environmental, Inc.
 
@@ -166,8 +156,6 @@ Glenolden4 certified people
 #### Address
 
 * 501 Sharp Ave, Glenolden, PA
-* ✉ [boroextrob@aol.com](mailto:boroextrob@aol.com)
-* ✉ [boroinspects@verizon.net](mailto:boroinspects@verizon.net)
 
 #### Certified individuals
 
@@ -182,7 +170,6 @@ testing #0125 · testing #0126 · testing #8023 · testing #8541 · testing #912
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F0125)
 
-[**Call** (610) 715-9034](tel:6107159034)
 
 ### House Inspect, Inc
 
@@ -205,7 +192,6 @@ testing #8063 · testing #8154
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8063)
 
-[**Call** (610) 565-4181](tel:6105654181)
 
 ### House Inspect, Inc
 
@@ -230,7 +216,6 @@ testing #8473 · testing #8474 · testing #8484 · testing #8485
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8473)
 
-[**Call** (610) 565-4181](tel:6105654181)
 
 ### Peda, Dominick
 
@@ -241,7 +226,6 @@ Media1 certified person
 #### Address
 
 * 40 N Feathering Ln, Media, PA
-* ✉ [dtpeda@comcast.net](mailto:dtpeda@comcast.net)
 
 #### Certified individuals
 
@@ -253,7 +237,6 @@ testing #2624
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F2624)
 
-[**Call** (610) 891-6611](tel:6108916611)
 
 ### Fiorelli, Stephen J.
 
@@ -264,7 +247,6 @@ Ridley Park1 certified person
 #### Address
 
 * 700 Braxton Rd, Ridley Park, PA
-* ✉ [qualityradonandpest@gmail.com](mailto:qualityradonandpest@gmail.com)
 
 #### Certified individuals
 
@@ -276,7 +258,6 @@ testing #1609
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F1609)
 
-[**Call** (610) 583-4738](tel:6105834738)
 
 ### Bednar, Jr., Michael
 
@@ -287,7 +268,6 @@ Springfield1 certified person
 #### Address
 
 * 265 Hemlock Ln, Springfield, PA
-* ✉ [ecs\_pa@hotmail.com](mailto:ecs_pa@hotmail.com)
 
 #### Certified individuals
 
@@ -299,7 +279,6 @@ testing #3740
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3740)
 
-[**Call** (610) 710-9450](tel:6107109450)
 
 ### Castle Inspecti
 
@@ -323,7 +302,6 @@ testing #8354
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/WebTestAlpha.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F8354)
 
-[**Call** (610) 604-9996](tel:6106049996)
 
 ## Which counties border Delaware County, PA?
 

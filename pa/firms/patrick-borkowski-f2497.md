@@ -1,6 +1,6 @@
 ---
 title: "Patrick Borkowski: Radon Tester in Philadelphia, PA"
-description: "Patrick Borkowski (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Patrick Borkowski (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/patrick-borkowski-f2497/
 ---
 
@@ -16,9 +16,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(888) 927-3944](tel:8889273944)
-* Email: [info@apexinspections.net](mailto:info@apexinspections.net)
-* Website: [https://apexinspections.net/](https://apexinspections.net/)
 * Address: Po Box 63827, Philadelphia, PA
 
 ## PA DEP certification

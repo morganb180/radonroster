@@ -1,6 +1,6 @@
 ---
 title: "Jason Young: Radon Tester in Waynesboro, PA | Radon Roster"
-description: "Jason Young (Waynesboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Jason Young (Waynesboro, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/jason-young-f3601/
 ---
 
@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 248-0825](tel:6102480825)
-* Email: [jason.young@elementaletc.com](mailto:jason.young@elementaletc.com)
-* Website: [https://www.elementaletc.com/](https://www.elementaletc.com/)
 * Address: 13290 Scott Rd, Waynesboro, PA
 
 ## PA DEP certification

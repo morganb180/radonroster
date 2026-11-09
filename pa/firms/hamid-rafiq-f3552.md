@@ -1,6 +1,6 @@
 ---
 title: "Hamid Rafiq: Radon Tester in Berwyn, PA | Radon Roster"
-description: "Hamid Rafiq (Berwyn, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Hamid Rafiq (Berwyn, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/hamid-rafiq-f3552/
 ---
 
@@ -16,8 +16,6 @@ Berwyn, PA · Chester County · 1 certified person
 
 ## Contact
 
-* Phone: [(484) 999-0353](tel:4849990353)
-* Email: [inspections@tek21solutions.com](mailto:inspections@tek21solutions.com)
 * Address: Po Box 681, Berwyn, PA
 
 ## PA DEP certification

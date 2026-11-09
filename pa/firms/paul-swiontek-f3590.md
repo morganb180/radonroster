@@ -1,6 +1,6 @@
 ---
 title: "Paul Swiontek: Radon Tester in Uniontown, PA | Radon Roster"
-description: "Paul Swiontek (Uniontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Paul Swiontek (Uniontown, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/paul-swiontek-f3590/
 ---
 
@@ -16,8 +16,6 @@ Uniontown, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 814-3028](tel:5708143028)
-* Email: [pswiontek608@gmail.com](mailto:pswiontek608@gmail.com)
 * Address: 34 Union St, Uniontown, PA
 
 ## PA DEP certification

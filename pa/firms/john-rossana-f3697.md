@@ -1,6 +1,6 @@
 ---
 title: "John Rossana: Radon Mitigator in Morgantown, WV"
-description: "John Rossana (Morgantown, WV) is on PA DEP's certified radon list for mitigation. See DEP cert IDs, contact details and request a free quote."
+description: "John Rossana (Morgantown, WV) is on PA DEP's certified radon list for mitigation. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/john-rossana-f3697/
 ---
 
@@ -32,9 +32,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(304) 216-1179](tel:3042161179)
-* Email: [john@vetownedradon.com](mailto:john@vetownedradon.com)
-* Website: [https://vetownedradon.com/](https://vetownedradon.com/)
 * Address: 714 Venture Dr, Morgantown, WV
 
 ## PA DEP certification

@@ -64,7 +64,6 @@ Williamsport1 certified person
 #### Address
 
 * 1911 Poco Farm Rd, Williamsport, PA
-* ✉ [jcnradonservices@gmail.com](mailto:jcnradonservices@gmail.com)
 
 #### Certified individuals
 
@@ -76,7 +75,6 @@ mitigation #3518 · mitigation #3565 · testing #3518
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf) [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyTest.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3518)
 
-[**Call** (570) 988-6800](tel:5709886800)
 
 [See all firms near Williamsport →](https://radonroster.com/pa/city/williamsport-pa/)
 

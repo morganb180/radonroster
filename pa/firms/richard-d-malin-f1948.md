@@ -1,6 +1,6 @@
 ---
 title: "Richard D. Malin: Radon Tester in Monroeville, PA"
-description: "Richard D. Malin (Monroeville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Richard D. Malin (Monroeville, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/richard-d-malin-f1948/
 ---
 
@@ -14,9 +14,6 @@ Monroeville, PA · Allegheny County · 2 certified people
 
 ## Contact
 
-* Phone: [(412) 373-2211](tel:4123732211)
-* Email: [malin@richardmalin.com](mailto:malin@richardmalin.com)
-* Website: [https://www.richardmalin.com/](https://www.richardmalin.com/)
 * Address: 2075 Haymaker Rd, Monroeville, PA
 
 ## PA DEP certification

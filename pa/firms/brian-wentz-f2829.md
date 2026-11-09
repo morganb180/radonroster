@@ -1,6 +1,6 @@
 ---
 title: "Brian Wentz: Radon Tester in Harrisburg, PA | Radon Roster"
-description: "Brian Wentz (Harrisburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian Wentz (Harrisburg, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-wentz-f2829/
 ---
 
@@ -16,8 +16,6 @@ Harrisburg, PA · Dauphin County · 1 certified person
 
 ## Contact
 
-* Phone: [(717) 540-5970](tel:7175405970)
-* Email: [inspectahomeinc@gmail.com](mailto:inspectahomeinc@gmail.com)
 * Address: 6235 Warren Ave, Harrisburg, PA
 
 ## PA DEP certification

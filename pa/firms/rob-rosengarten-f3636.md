@@ -1,6 +1,6 @@
 ---
 title: "Rob Rosengarten: Radon Tester in Johns Island, SC"
-description: "Rob Rosengarten (Johns Island, SC) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Rob Rosengarten (Johns Island, SC) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/rob-rosengarten-f3636/
 ---
 
@@ -16,8 +16,6 @@ Johns Island, SC · 1 certified person
 
 ## Contact
 
-* Phone: [(630) 893-6085](tel:6308936085)
-* Email: [rrosengarten@reausa.com](mailto:rrosengarten@reausa.com)
 * Address: 2579 Helmsman Rd, Johns Island, SC
 
 ## PA DEP certification

@@ -70,8 +70,6 @@ Valencia4 certified people
 #### Address
 
 * 530 Steiner Bridge Rd, Valencia, PA
-* ✉ [bill@kennihans.com](mailto:bill@kennihans.com)
-* [kennihans.com](https://www.kennihans.com/)
 
 #### Certified individuals
 
@@ -86,7 +84,6 @@ mitigation #3535 · mitigation #3536 · mitigation #7630 · mitigation #7632 · 
 
 Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/10_01/CountyMitigation.pdf), retrieved 2026-10-11 · [Claim, correct or remove this listing](https://radonroster.com/claim-listing/?firm=F3535)
 
-[**Call** (724) 898-2587](tel:7248982587)
 
 [See all firms near Cranberry Township →](https://radonroster.com/pa/city/cranberry-township-pa/)
 

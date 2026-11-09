@@ -1,6 +1,6 @@
 ---
 title: "Joseph Pavlico: Radon Tester in White Haven, PA"
-description: "Joseph Pavlico (White Haven, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Joseph Pavlico (White Haven, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/joseph-pavlico-f3587/
 ---
 
@@ -16,8 +16,6 @@ White Haven, PA · Luzerne County · 1 certified person
 
 ## Contact
 
-* Phone: [(570) 574-4799](tel:5705744799)
-* Email: [jjconstruction89@yahoo.com](mailto:jjconstruction89@yahoo.com)
 * Address: 204 Hollenback Rd, White Haven, PA
 
 ## PA DEP certification

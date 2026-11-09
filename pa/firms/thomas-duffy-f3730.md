@@ -1,6 +1,6 @@
 ---
 title: "Thomas Duffy: Radon Tester in Port Jervis, NY | Radon Roster"
-description: "Thomas Duffy (Port Jervis, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Thomas Duffy (Port Jervis, NY) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/thomas-duffy-f3730/
 ---
 
@@ -16,8 +16,6 @@ Port Jervis, NY · 1 certified person
 
 ## Contact
 
-* Phone: [(845) 281-9204](tel:8452819204)
-* Email: [tdhomeinspections8@gmail.com](mailto:tdhomeinspections8@gmail.com)
 * Address: 57 Schoolhouse Rd, Port Jervis, NY
 
 ## PA DEP certification

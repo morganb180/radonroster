@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(610) 352-2212](tel:6103522212)
-* Email: [info@armoredhomeinspections.com](mailto:info@armoredhomeinspections.com)
-* Website: [https://armoredhomeinspections.com/](https://armoredhomeinspections.com/)
 * Address: 1451 N Hanover St, Pottstown, PA
 
 ## PA DEP certification

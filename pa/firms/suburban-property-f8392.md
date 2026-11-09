@@ -1,6 +1,6 @@
 ---
 title: "Suburban Property: Radon Tester in Temple, PA | Radon Roster"
-description: "Suburban Property (Temple, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Suburban Property (Temple, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/suburban-property-f8392/
 ---
 
@@ -16,8 +16,6 @@ Temple, PA · Berks County · 3 certified people
 
 ## Contact
 
-* Phone: [(610) 929-1154](tel:6109291154)
-* Email: [rick@inspectnow.com](mailto:rick@inspectnow.com)
 * Address: 4600 Kutztown Rd, Temple, PA
 
 ## PA DEP certification

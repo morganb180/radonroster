@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(267) 269-5573](tel:2672695573)
-* Email: [tony@rvsradon.com](mailto:tony@rvsradon.com)
-* Website: [https://www.rvsradon.com/](https://www.rvsradon.com/)
 * Address: 294 E Cheltenham Ave, Philadelphia, PA
 
 ## PA DEP certification

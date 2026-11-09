@@ -1,6 +1,6 @@
 ---
 title: "Brian C. Bacchus: Radon Testing & Mitigation in Wexford, PA"
-description: "Brian C. Bacchus (Wexford, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs, contact details and request a free quote."
+description: "Brian C. Bacchus (Wexford, PA) is on PA DEP's certified radon list for mitigation and testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/brian-c-bacchus-f1771/
 ---
 
@@ -16,8 +16,6 @@ Wexford, PA · Allegheny County · 1 certified person
 
 ## Contact
 
-* Phone: [(724) 940-3366](tel:7249403366)
-* Email: [sandy@airtechradon.com](mailto:sandy@airtechradon.com)
 * Address: 125 Twin Oaks Dr, Wexford, PA
 
 ## PA DEP certification

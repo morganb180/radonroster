@@ -28,9 +28,6 @@ Ratings and reviews from Google. Radon Roster doesn't verify them, and they don'
 
 ## Contact
 
-* Phone: [(814) 876-2228](tel:8148762228)
-* Email: [tom@oakleafenv.com](mailto:tom@oakleafenv.com)
-* Website: [https://www.oakleafenv.com/](https://www.oakleafenv.com/)
 * Address: 409 S Pennsylvania Ave, Centre Hall, PA
 
 ## PA DEP certification

@@ -1,6 +1,6 @@
 ---
 title: "Dunn, Jr., William: Radon Tester in Philadelphia, PA"
-description: "Dunn, Jr., William (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs, contact details and request a free quote."
+description: "Dunn, Jr., William (Philadelphia, PA) is on PA DEP's certified radon list for testing. See DEP cert IDs and request a free quote."
 canonical: https://radonroster.com/pa/firms/dunn-jr-william-f3374/
 ---
 
@@ -14,8 +14,6 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 ## Contact
 
-* Phone: [(215) 284-1737](tel:2152841737)
-* Email: [willdunn430@gmail.com](mailto:willdunn430@gmail.com)
 * Address: 3111 S 19Th St, Philadelphia, PA
 
 ## PA DEP certification
