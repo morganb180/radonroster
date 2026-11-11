@@ -126,6 +126,10 @@
   }
   form.addEventListener("input",render);
   form.addEventListener("change",render);
+  /* The optional test result lives in step 1 and shows only for "Help with a result" (or when a result was prefilled). */
+  var lvw=document.getElementById("lf-lvl");
+  function lvlToggle(){if(!lvw)return;var nd=(checked("need")||{}).value||"",lv=field("level");lvw.hidden=!(nd==="result"||!!(lv&&lv.value))}
+  form.addEventListener("change",lvlToggle);lvlToggle();
   form.addEventListener("lead:result",function(e){
     var d=e.detail||{};
     if(!d.ok)return;
