@@ -12,7 +12,7 @@ function cslug(c){return String(c||"").toLowerCase().replace(/[^a-z]+/g,"-")}
 function nextSteps(email){return '<h3 class="lf-h">What happens next</h3><ol><li>'+(email?'Their names are listed here. The same list is also sent to the address you gave, from leads@radonroster.com.':'Their names are listed here. Save this page or note the reference.')+'</li><li>We connected you with these firms. They contact you directly. We don\'t call or text you.</li><li>Compare their PA DEP certification IDs and written quotes before you hire. For mitigation, ask what post-install test is included. PA DEP Radon Hotline: 800-237-2366.</li></ol><p class="muted">To delete our copy, email <a href="mailto:hello@radonroster.com">hello@radonroster.com</a>. Firms keep what they received under their own policies.</p>'}
 forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.value=location.pathname;
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
- f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
+ f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("change",loadTS,{once:true}); /* Turnstile loads on first focus or change, never on hover */
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fn=fid&&(window.RR_FIRMS||{})[fid];
  if(fi&&fn&&/^F[0-9]{1,6}$/.test(fid)){fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='Your request goes to <strong>'+esc(fn)+'</strong> and up to 2 other nearby certified pros.';fl.hidden=false}}
