@@ -67,6 +67,9 @@ for f in ("theme.css", "style.css", "assets/trust.css", "assets/quote-boost.css"
         src += strip_comments(open(p, encoding="utf-8").read()) + "\n"
 
 root = re.search(r":root\{(.*?)\}", src, re.S).group(1)
+# trust.css keeps its own --trust-* tokens in a second :root block; without them legacy .btn / badges render blank.
+trust = "".join(";" + m for m in re.findall(r"(--trust-[\w-]+\s*:[^;}]+)", "".join(re.findall(r":root\{(.*?)\}", src, re.S)[1:])))
+root = root.rstrip().rstrip(";") + trust
 tokens = (f"{SCOPE}{{{root};--line:#e3ded3;--serif:\"Public Sans\",system-ui,sans-serif;--acc:#22231f;--acc-ink:#22231f;--acc-tint:#efebe2;display:block;background:transparent;font:16px/1.6 var(--sans)}}\n"
           f"{SCOPE} .phead{{background:transparent;border-bottom:0}}\n"
           f"{SCOPE} h1,{SCOPE} h2{{font-weight:800;letter-spacing:-.025em}}\n"

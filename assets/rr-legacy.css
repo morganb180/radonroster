@@ -2,7 +2,7 @@
 main.legacy{--paper:#f7f4ee;--paper2:#efebe2;--card:#fff;--ink:#1b1a17;--ink2:#4a4741;--mute:#67635b;--line:#e3ded3;--line2:#d6d0c3;
 --acc:#1e5a44;--acc:oklch(0.42 0.08 160);--acc-tint:#e3efe8;--acc-ink:#174a37;--warm1:#e9c9a4;--warm2:#d39a6a;--warm3:#b8693a;--warm4:#8f3d16;
 --serif:"Source Serif 4",Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;--r:8px;--r-sm:6px;--r-xs:3px;
---s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:20px;--s6:24px;--s7:32px;--s8:48px;--gut:32px;--tap:44px;--line:#e3ded3;--serif:"Public Sans",system-ui,sans-serif;--acc:#22231f;--acc-ink:#22231f;--acc-tint:#efebe2;display:block;background:transparent;font:16px/1.6 var(--sans)}
+--s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:20px;--s6:24px;--s7:32px;--s8:48px;--gut:32px;--tap:44px;--trust-brand:#1e8449;--trust-brand-ink:#146c34;--trust-brand-tint:#e5f6eb;--trust-on-brand:#fff;--trust-ink:#111827;--trust-muted:#5c6570;--trust-line:#e6e8ec;--trust-page:#f5f6f8;--trust-wordmark:"Radon Roster";--trust-mark:"Rn";--trust-tagline:"PA DEP-certified pros";--trust-cred-label:"DEP";--trust-source:"PA DEP certification lists dated Oct 1, 2026, retrieved Oct 11, 2026";--trust-card:#fff;--trust-radius:16px;--trust-shadow:0 1px 2px rgba(16,24,40,.05),0 8px 24px rgba(16,24,40,.04);--line:#e3ded3;--serif:"Public Sans",system-ui,sans-serif;--acc:#22231f;--acc-ink:#22231f;--acc-tint:#efebe2;display:block;background:transparent;font:16px/1.6 var(--sans)}
 main.legacy .phead{background:transparent;border-bottom:0}
 main.legacy h1,main.legacy h2{font-weight:800;letter-spacing:-.025em}
 main.legacy .btn{border-radius:12px;min-height:48px;background:var(--cta);color:#fff}

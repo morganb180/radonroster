@@ -1,6 +1,6 @@
 ---
 title: "Spotlight Home Inspection, Perkiomenville PA: Radon Testing"
-description: "Spotlight Home Inspection LLC (Perkiomenville, PA) is PA DEP-certified for radon testing, with 2 certified people. Phone (215) 234-0505, website, DEP cert IDs, free quote."
+description: "Spotlight Home Inspection LLC (Perkiomenville, PA) is PA DEP-certified for radon testing, with 2 certified people. DEP cert IDs and a free quote."
 canonical: https://radonroster.com/pa/firms/spotlight-home-inspection-llc-f3341/
 ---
 
