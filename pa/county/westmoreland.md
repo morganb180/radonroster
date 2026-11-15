@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **17 DEP-certified firms** have a business address in Westmoreland County (5 offer mitigation), with 22 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=westmoreland)
 
-[Mitigation5](#mitigation)[Testing12](#testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation5](#mitigation)[Testing12](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Westmoreland County, PA? (5 firms)
 

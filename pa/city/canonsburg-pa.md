@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Canonsburg, then
 
 Radon Roster lists 4 PA DEP-certified radon firms with a business address in Canonsburg; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
-Mitigation 0[Testing4](#local-testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing4](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where can I get radon testing in Canonsburg, PA? (4 firms)
 
@@ -134,7 +134,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 3 more PA DEP-certified firms elsewhere in Washington County. Certified pros often travel, so ask whether they cover your street in Canonsburg.
 
-[Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Washington County? (1 firm)
 

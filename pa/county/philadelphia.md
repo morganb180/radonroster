@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **10 DEP-certified firms** have a business address in Philadelphia County (2 offer mitigation), with 17 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=philadelphia)
 
-[Mitigation2](#mitigation)[Testing8](#testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation2](#mitigation)[Testing8](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Philadelphia County, PA? (2 firms)
 

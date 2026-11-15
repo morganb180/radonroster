@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Doylestown, then
 
 Radon Roster lists 4 PA DEP-certified radon firms with a business address in Doylestown; 1 of them is certified for mitigation.
 
-[Mitigation1](#local-mitigation)[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#local-mitigation)[Testing3](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Doylestown, PA? (1 firm)
 
@@ -137,7 +137,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 15 more PA DEP-certified firms elsewhere in Bucks County. Certified pros often travel, so ask whether they cover your street in Doylestown.
 
-[Mitigation3](#county-mitigation)[Testing12](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation3](#county-mitigation)[Testing12](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Bucks County? (3 firms)
 

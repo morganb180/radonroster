@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Easton, then oth
 
 Radon Roster lists 3 PA DEP-certified radon firms with a business address in Easton; none of them is certified for mitigation, so see the county and neighboring-county lists for installers.
 
-Mitigation 0[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing3](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where can I get radon testing in Easton, PA? (3 firms)
 
@@ -116,7 +116,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 4 more PA DEP-certified firms elsewhere in Northampton County. Certified pros often travel, so ask whether they cover your street in Easton.
 
-[Mitigation1](#county-mitigation)[Testing3](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing3](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Northampton County? (1 firm)
 

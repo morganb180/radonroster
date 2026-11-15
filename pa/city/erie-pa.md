@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Erie, then other
 
 Radon Roster lists 5 PA DEP-certified radon firms with a business address in Erie; 2 of them are certified for mitigation.
 
-[Mitigation2](#local-mitigation)[Testing3](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation2](#local-mitigation)[Testing3](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Erie, PA? (2 firms)
 
@@ -155,7 +155,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 1 more PA DEP-certified firm elsewhere in Erie County. Certified pros often travel, so ask whether they cover your street in Erie.
 
-Mitigation 0[Testing1](#county-testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing1](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where else can I get radon testing in Erie County? (1 firm)
 

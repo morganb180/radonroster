@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Allentown, then 
 
 Radon Roster lists 4 PA DEP-certified radon firms with a business address in Allentown; 3 of them are certified for mitigation.
 
-[Mitigation3](#local-mitigation)[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation3](#local-mitigation)[Testing1](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Allentown, PA? (3 firms)
 
@@ -146,7 +146,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 7 more PA DEP-certified firms elsewhere in Lehigh County. Certified pros often travel, so ask whether they cover your street in Allentown.
 
-[Mitigation1](#county-mitigation)[Testing6](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing6](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Lehigh County? (1 firm)
 

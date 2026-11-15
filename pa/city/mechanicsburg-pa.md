@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Mechanicsburg, t
 
 Radon Roster lists 3 PA DEP-certified radon firms with a business address in Mechanicsburg; 1 of them is certified for mitigation.
 
-[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Mechanicsburg, PA? (1 firm)
 
@@ -116,7 +116,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 3 more PA DEP-certified firms elsewhere in Cumberland County. Certified pros often travel, so ask whether they cover your street in Mechanicsburg.
 
-[Mitigation3](#county-mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
+[Mitigation3](#county-mitigation)Testing 0Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Cumberland County? (3 firms)
 

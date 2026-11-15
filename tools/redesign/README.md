@@ -6,6 +6,7 @@ Goal: a directory with Airbnb-level UX craft, and an official, authoritative voi
 ```
 python3 tools/redesign/extract.py     # reads the ORIGINAL generator output into data.json (run on pristine pages only)
 python3 tools/redesign/legacy_css.py  # old theme CSS, scoped to <main class="legacy">
+python3 tools/redesign/extract_copy.py # county/city hiring copy from the pre-redesign pages in git (17ee1d1) into copy.json
 python3 tools/redesign/build.py       # rewrites home, /quotes, 67 counties, 40 cities, 413 firms; reshells the other 65 pages
 ```
 `extract.py` parses the old page markup (reviews, addresses, people, stats), so it must run before `build.py` has touched those pages. To re-extract, check out the pre-redesign pages first (`git checkout main -- index.html quotes pa`). `data.json` is committed, so `build.py` alone reproduces this PR.
@@ -65,3 +66,10 @@ Each page keeps its own `<head>`, so canonicals, OG tags and JSON-LD are unchang
 ## Next data (for richer cards)
 - **Google Places:** business category, lat/long (for distance), and how many reviews mention radon.
 - **Claim flow:** test price, mitigation price range, warranty, whether a follow-up test is included, service area, next opening, and a photo of an installed system.
+
+## Review fixes (PR #4)
+- Homepage: county/city radon levels sit directly under the hero (R7); on phones the county list is a short scrollable panel.
+- Wording: "We connect you with up to 3 … They contact you directly" on /quotes, the homepage FAQ, county, city and firm pages (R6). /quotes has its H1 and intro back.
+- Ordering: listings stay sorted by Google rating; /about/, /how-we-make-money/, /claim-listing/, /for-contractors/ (+ badge) and the .md mirrors now say so, with the Top rated rule (4.5+ stars, 20+ reviews). Listing pages end with "How this directory works".
+- County and city pages get their hiring copy back (`copy.json`, rendered under the radon data), and each card's DEP number links its DEP list PDF. Firm pages link their specific DEP lists.
+- rr.js reports a missing email/phone as `form_error` (missing_contact); roman suffixes are upper-cased (III).

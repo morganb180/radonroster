@@ -12,6 +12,8 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 P = lambda *a: os.path.join(ROOT, *a)
 D = json.load(open(P("tools", "redesign", "data.json")))
 FIRMS, COUNTIES, CITIES = D["firms"], D["counties"], D["cities"]
+for _f in FIRMS.values():  # roman-numeral suffixes in upper case ("Schmidt Iii" -> "Schmidt III")
+    _f["name"] = re.sub(r"\b(Ii|Iii|Iv)\b", lambda m: m.group(1).upper(), _f["name"])
 
 DEFAULT_SORT = "rating"   # "rating" (Google rating, weighted by review count) or "town" (the old location-and-name order)
 LIST_DATE = "Oct 1, 2026"  # date on the PA DEP lists
@@ -176,6 +178,9 @@ def firm_card(f, here_county=None, vertical=False):
     faces = "".join(f'<i class="{tone(n)}">{e(person_initials(n))}</i>' for n, _ in ppl[:3])
     if len(ppl) > 3:
         faces += f"<em>+{len(ppl) - 3}</em>"
+    srcs = dep_sources(f)
+    dep_tag = (f'<a class="mono dep" href="{e(srcs[0][0])}" rel="noopener" title="Source: PA {e(srcs[0][1])}, dated {LIST_DATE}">DEP #{e(first_id)}</a>'
+               if srcs else f'<span class="mono dep">DEP #{e(first_id)}</span>')
     icn, does = what_they_do(f)
     facts = [f'<li>{ic(icn, 16)}{does}</li>']
     if ppl:
@@ -192,7 +197,7 @@ def firm_card(f, here_county=None, vertical=False):
         f'<p class="loc">{e(loc)}</p></div></div>'
         f'<ul class="facts">{"".join(facts)}</ul>'
         f'{quote_html}'
-        f'<div class="foot"><span class="faces">{faces}</span><span class="mono dep">DEP #{e(first_id)}</span></div></article>'
+        f'<div class="foot"><span class="faces">{faces}</span>{dep_tag}</div></article>'
     )
 
 
@@ -223,6 +228,42 @@ def lvl(pct):
 
 EL = '<span class="el{cls}" aria-hidden="true"><i>86</i><b>Rn</b><s>Radon</s></span>'
 MAP = json.load(open(P("tools", "redesign", "pa_map.json")))
+COPY = json.load(open(P("tools", "redesign", "copy.json")))  # hiring copy from the pre-redesign pages (extract_copy.py)
+DEP_LIST = {"CountyMitigation": "mitigation list", "CountyTest": "testing list", "CountyLab": "lab list", "WebTestAlpha": "testing list (A–Z)"}
+
+
+def dep_sources(f):
+    """(url, label) for each PA DEP list this firm appears on."""
+    out = []
+    for u in f.get("source") or []:
+        k = re.sub(r"\.pdf$", "", u.rsplit("/", 1)[-1])
+        out.append((u, "DEP " + DEP_LIST.get(k, "list")))
+    return out
+
+
+def dep_source_line(f):
+    srcs = dep_sources(f)
+    if not srcs:
+        return ""
+    links = " · ".join(f'<a class="link" href="{e(u)}" rel="noopener">{e(t)}</a>' for u, t in srcs)
+    got = f", retrieved {e(f['retrieved'])}" if f.get("retrieved") else ""
+    return f'<p class="mute src-line">Source: {links} (lists dated {LIST_DATE}{got}).</p>'
+
+
+HOW_ORDERED = ("By Google rating, weighted by how many reviews a firm has, so one five-star review doesn't outrank hundreds. "
+               "Firms with no Google reviews yet follow, by name. “Top rated” marks firms with 4.5+ stars from 20 or more reviews. "
+               "Pros can't pay to rank higher; any paid placement is labeled “Ad” and never reorders free listings.")
+
+
+def how_it_works():
+    return ('<div class="howit"><h2>How this directory works</h2><div class="hcols">'
+            f"<div><h3>Where listings come from</h3><p>Public PA DEP certification lists, dated {LIST_DATE}. Not affiliated with DEP; inclusion isn't endorsement.</p></div>"
+            f"<div><h3>How they're ordered</h3><p>{HOW_ORDERED}</p></div>"
+            f"<div><h3>Verify before you hire</h3><p>Ask for the DEP ID, or call the PA Radon Hotline at {HOTLINE}.</p></div></div></div>")
+
+
+def local_copy(kind, slug):
+    return re.sub(r'\sstyle="[^"]*"', "", COPY.get(kind, {}).get(slug, ""))
 RAMP = {"b0": "#f6e3c6", "b1": "#ebbd8c", "b2": "#d68c56", "b3": "#b35a2b", "b4": "#7a2c0c"}
 
 
@@ -391,7 +432,7 @@ def build_home():
 
     about_items = [
         ("How do I know a pro is really certified?", f'Every listing shows the firm\'s PA DEP certification number. You can look it up in the <a href="{DEP_DIR}">PA DEP Radon Services Directory</a> or call the PA Radon Hotline at {HOTLINE}. <a href="/how-we-verify/">How we verify</a>'),
-        ("What happens when I ask for quotes?", "We send your request to up to 3 certified pros near you who offer that service, and show you their names right away. They contact you directly. It's free, and you don't have to hire anyone."),
+        ("What happens when I ask for quotes?", "We connect you with up to 3 certified pros near you who offer that service, and show you their names right away. They contact you directly. It's free, and you don't have to hire anyone."),
         ("How are pros ranked?", 'By Google rating and number of reviews. Pros can\'t pay to rank higher. <a href="/how-we-make-money/">How we make money</a>'),
         ("Where does your information come from?", f'Pros come from public PA DEP certification lists dated {LIST_DATE}. Radon levels come from PA DEP\'s test results since 1986. Ratings come from Google, as of {RATING_DATE}. <a href="/about-our-data/">About our data</a>'),
     ]
@@ -429,13 +470,22 @@ def build_home():
 <div class="ac" id="s-ac" role="listbox" hidden></div></div>
 <button type="submit">{ic("search", 18)}<span>Search</span></button>
 </form>
-<p class="under">Have a ZIP code? <a class="link" href="/quotes/">Get matched with 3 pros instead</a></p>
+<p class="under">Have a ZIP code? <a class="link" href="/quotes/">Get matched with up to 3 pros instead</a></p>
 </div>
 <div class="hero-art" aria-hidden="true">
 {pa_map("map")}
 <p class="flag"><b>37%</b>of Pennsylvania basement tests come back at or above 4 pCi/L</p>
 <p class="flag flag2"><b class="num">{len(allf)}</b>DEP-certified firms, all listed free</p>
 <img src="/assets/img/inspector-detector.webp" alt="" width="688" height="960">
+</div>
+</div></section>
+<section class="band"><div class="wrap">
+<div class="sec-h"><div><h2>How common is high radon near you?</h2><p>Share of basement tests at or above 4 pCi/L, from PA DEP test records. Statewide it's 37%.</p></div><a class="more" href="/pa/radon-levels-by-county/">All 67 counties</a></div>
+<div class="cities">{cities_html}</div>
+<div class="browse" id="browse">
+<div class="tabs" role="tablist"><button type="button" role="tab" aria-selected="true" data-t="b-counties">All 67 counties</button><button type="button" role="tab" aria-selected="false" data-t="b-cities">Cities</button></div>
+<ul class="blist" id="b-counties">{county_links}</ul>
+<ul class="blist" id="b-cities" hidden>{city_links}</ul>
 </div>
 </div></section>
 
@@ -466,15 +516,6 @@ def build_home():
 <div class="rail">{"".join(firm_card(f, vertical=True) for f in top)}</div>
 </div></section>
 
-<section class="band"><div class="wrap">
-<div class="sec-h"><div><h2>How common is high radon near you?</h2><p>Share of basement tests at or above 4 pCi/L, from PA DEP test records. Statewide it's 37%.</p></div><a class="more" href="/pa/radon-levels-by-county/">All 67 counties</a></div>
-<div class="cities">{cities_html}</div>
-<div class="browse" id="browse">
-<div class="tabs" role="tablist"><button type="button" role="tab" aria-selected="true" data-t="b-counties">All 67 counties</button><button type="button" role="tab" aria-selected="false" data-t="b-cities">Cities</button></div>
-<ul class="blist" id="b-counties">{county_links}</ul>
-<ul class="blist" id="b-cities" hidden>{city_links}</ul>
-</div>
-</div></section>
 
 <section class="band green"><div class="wrap">
 <div class="trust">
@@ -513,7 +554,7 @@ def build_home():
 
 
 # ---------------------------------------------------------------- listing pages (county + city)
-def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, related, quote_q, county_slug, pct=None):
+def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, related, quote_q, county_slug, pct=None, copy=""):
     firms = sort_firms(dedupe(firm_ids))
     local = {f["id"] for f in dedupe(local_ids)}
     n = len(firms)
@@ -569,11 +610,13 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
 <p class="empty" id="none" hidden>No pros match that filter. <button class="chip" type="button" data-f="all">Show all</button></p>
 {nearby_html}
 </div>
-<div class="side">{ask_card(f"Get quotes in {place}", "Tell us what you need. We'll send it to up to 3 certified pros nearby, and show you who.", quote_q)}</div>
+<div class="side">{ask_card(f"Get quotes in {place}", "Tell us what you need. We connect you with up to 3 certified pros nearby and show you who. They contact you directly.", quote_q)}</div>
 </div>
 {radband}
+{('<section class="band" id="hiring"><div class="wrap lcopy">' + copy + '</div></section>') if copy else ''}
 <section class="band"><div class="wrap">{related}</div></section>
 <section class="band"><div class="wrap"><div class="sec-h"><h2>Answers</h2></div>{faq(faq_items)}</div></section>
+<section class="band"><div class="wrap">{how_it_works()}</div></section>
 </main>'''
     page(path, body, "/pa/counties/", mobile_bar(f"Quotes in {place}", "Free · up to 3 certified pros", quote_q))
 
@@ -617,7 +660,7 @@ def build_counties():
         listing(path, crumbs=crumbs, h1=f"Radon testing & mitigation in {name} County", place=f"{name} County",
                 firm_ids=c.get("firms", []), local_ids=c.get("firms", []), stat=stat,
                 faq_items=[(q, e(a)) for q, a in c.get("faq", [])], related='<div style="display:grid;gap:40px">' + "".join(rel) + "</div>",
-                quote_q=f"/quotes/?county={slug}", county_slug=slug, pct=c.get("pct"))
+                quote_q=f"/quotes/?county={slug}", county_slug=slug, pct=c.get("pct"), copy=local_copy("county", slug))
 
 
 def build_cities():
@@ -642,7 +685,7 @@ def build_cities():
         listing(path, crumbs=crumbs, h1=f"Radon testing & mitigation in {c['name']}, PA", place=c["name"],
                 firm_ids=c["firms"], local_ids=c["firms"], stat=stat, faq_items=[(q, e(a)) for q, a in c.get("faq", [])],
                 related='<div style="display:grid;gap:40px">' + "".join(rel) + "</div>",
-                quote_q=f"/quotes/?county={c['county_slug']}", county_slug=c["county_slug"], pct=c.get("pct"))
+                quote_q=f"/quotes/?county={c['county_slug']}", county_slug=c["county_slug"], pct=c.get("pct"), copy=local_copy("city", slug))
 
 
 # ---------------------------------------------------------------- firm pages
@@ -672,7 +715,7 @@ def build_firms():
         lic = f'''<div class="license">{EL.format(cls=" lg")}<p class="k">PA DEP certified</p><h3>{e(f["legal_name"])}</h3>
 <div class="svc">{svc}</div>
 <div class="ids">{"".join(f'<span>{e(x)}</span>' for x in f["ids"])}</div>
-<a class="ver" href="{DEP_DIR}" rel="noopener">Check these numbers with PA DEP</a><p class="mute">From DEP lists dated {LIST_DATE}. DEP doesn't publish expiry dates.</p></div>'''
+<a class="ver" href="{DEP_DIR}" rel="noopener">Check these numbers with PA DEP</a>{dep_source_line(f)}<p class="mute">DEP doesn't publish expiry dates.</p></div>'''
 
         sections = []
         if f.get("rating"):
@@ -710,7 +753,7 @@ def build_firms():
 <div class="meta">{'<span class="dot">·</span>'.join(meta)}</div>
 {certstrip}</section>
 <div class="fbody"><div>{"".join(sections)}</div>
-<div class="side">{ask_card(f"Get a quote from {f['name']}", f"We'll send your request to {e(f['name'])} and up to 2 other certified pros nearby. They contact you directly.", q, "Request a quote")}</div></div>
+<div class="side">{ask_card(f"Get a quote from {f['name']}", f"We connect you with {e(f['name'])} and up to 2 other certified pros nearby. They contact you directly.", q, "Request a quote")}</div></div>
 </div>{more}</main>'''
         page(path, body, "", mobile_bar(f["name"], "Free quote · no obligation", q, "Request a quote"))
 
@@ -724,19 +767,21 @@ def build_quotes():
                                                f'<span><b>{b}</b><small>{small}</small></span></label>')
     body = f'''<main id="main"><div class="wrap qpage">
 <div>
+<div class="qintro"><h1>Get free quotes from up to 3 certified radon pros</h1>
+<p>Tell us what you need and where. We connect you with up to 3 Pennsylvania DEP-certified firms that offer that service. You see their names on the next screen. They contact you directly. It's free, and there's no obligation to hire.</p></div>
 <form class="qflow" method="post" action="https://leads.radonroster.com/api/lead" data-lead novalidate>
 <div class="qbar" aria-hidden="true"><span id="qbar"></span></div>
 <p class="firmnote lf-firm" hidden></p>
 <fieldset class="qstep on" data-step="1"><legend tabindex="-1">What do you need?</legend>
-<p class="lead">We'll only send it to pros certified for that service.</p>
+<p class="lead">We only connect you with pros certified for that service.</p>
 <div class="opts">
 {opt("test", "test", "Test my home", "A certified tester measures your radon, usually over 2 to 4 days.", " required")}
 {opt("mitigation", "fix", "Fix high radon", "A certified mitigator installs a system.")}
-{opt("result", "result", "Help with a test result", "Tell us your number and we'll send it to the right pros.")}
+{opt("result", "result", "Help with a test result", "Tell us your number and we'll connect you with the right pros.")}
 {opt("kit", "kit", "A mail-in test kit", "From a DEP-certified lab.")}
 </div>
 <div class="lvlbox" id="lf-lvl" hidden><label class="f" for="g-level">Your result <span class="mute">(optional)</span></label>
-<input class="in num" id="g-level" name="level" type="number" step="any" min="0" max="2000" inputmode="decimal" placeholder="pCi/L"><p class="hint" id="levelhint">At 4 pCi/L or more, we send it to mitigators. Under 4, to testers.</p></div>
+<input class="in num" id="g-level" name="level" type="number" step="any" min="0" max="2000" inputmode="decimal" placeholder="pCi/L"><p class="hint" id="levelhint">At 4 pCi/L or more, we connect you with mitigators. Under 4, with testers.</p></div>
 </fieldset>
 
 <fieldset class="qstep" data-step="2"><legend tabindex="-1">Where's the home?</legend>
@@ -763,10 +808,10 @@ def build_quotes():
 <button type="button" class="btn lg qnext">Continue</button><button class="btn lg qsend" type="submit" hidden>Send request</button></div>
 </form>
 </div>
-<aside><div class="summary" id="qpanel"><div class="guide"><img src="/assets/img/inspector-point.webp" alt="" width="713" height="960"><p>Three quick questions, then certified pros near you take it from there.</p></div><h2>Your request</h2><div id="qsum"><p class="empty-s">Nothing yet.</p></div>
-<ol class="nsteps"><li><span><b>Up to 3 certified pros get it</b>Nearest first, starting with your county. Pros can't pay to be picked.</span></li>
+<aside><div class="summary" id="qpanel"><div class="guide"><img src="/assets/img/inspector-point.webp" alt="" width="713" height="960"><p>Three quick questions. We connect you with up to 3 certified pros near you, and they contact you directly.</p></div><h2>Your request</h2><div id="qsum"><p class="empty-s">Nothing yet.</p></div>
+<ol class="nsteps"><li><span><b>We connect you with up to 3 certified pros</b>Nearest first, starting with your county. Pros can't pay to be picked.</span></li>
 <li><span><b>You see who right away</b>Their names show on the next screen and in your email.</span></li>
-<li><span><b>They contact you</b>Compare quotes and DEP numbers. You don't have to hire anyone.</span></li></ol></div>
+<li><span><b>They contact you directly</b>Compare quotes and DEP numbers. You don't have to hire anyone.</span></li></ol></div>
 <p class="mute" style="font-size:.84rem;margin-top:16px">Prefer to choose yourself? <a class="link" href="/pa/counties/">Browse pros by county</a>.</p></aside>
 </div></main>
 <script>window.RR_COUNTIES={counties};</script><script>window.RR_FIRMS={firms};</script>'''

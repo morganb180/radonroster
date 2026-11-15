@@ -20,7 +20,7 @@ Radon Roster (radonroster.com) is operated by Radon Roster, the same operator na
 
 ## Independence
 
-Radon Roster is not affiliated with PA DEP, EPA or any contractor. A listing is not an endorsement. Free listings are ordered by location and name, never by payment, and any future paid placement will be labeled "Ad". Read [how we make money](https://radonroster.com/how-we-make-money/) and [about our data](https://radonroster.com/about-our-data/) for the full methodology.
+Radon Roster is not affiliated with PA DEP, EPA or any contractor. A listing is not an endorsement. Free listings are sorted by Google rating (weighted by number of reviews), never by payment, and any future paid placement will be labeled "Ad". Read [how we make money](https://radonroster.com/how-we-make-money/) and [about our data](https://radonroster.com/about-our-data/) for the full methodology.
 
 ## Corrections
 

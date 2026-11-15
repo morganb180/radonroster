@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **29 DEP-certified firms** have a business address in Montgomery County (8 offer mitigation), with 59 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=montgomery)
 
-[Mitigation8](#mitigation)[Testing21](#testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation8](#mitigation)[Testing21](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Montgomery County, PA? (8 firms)
 

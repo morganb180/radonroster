@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Philadelphia, th
 
 Radon Roster lists 10 PA DEP-certified radon firms with a business address in Philadelphia; 2 of them are certified for mitigation.
 
-[Mitigation2](#local-mitigation)[Testing8](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation2](#local-mitigation)[Testing8](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Philadelphia, PA? (2 firms)
 

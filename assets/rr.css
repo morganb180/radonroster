@@ -680,3 +680,38 @@ textarea.in{height:auto;padding:14px 16px;resize:vertical}
 .guide:hover{box-shadow:var(--sh-2)}
 .guide b{font-weight:800;letter-spacing:-.01em}
 .guide span{font-size:.88rem;color:var(--ink2)}
+
+/* Restored hiring copy on county + city pages, "How this directory works", /quotes intro, DEP source links */
+a.dep{text-decoration:underline;text-decoration-color:var(--line2);text-underline-offset:3px}
+a.dep:hover{text-decoration-color:currentColor}
+.src-line{font-size:.82rem;margin-top:10px}
+.qintro{margin-bottom:24px}
+.qintro h1{font-size:clamp(1.6rem,3.2vw,2.2rem);font-weight:800;line-height:1.15;letter-spacing:-.01em}
+.qintro p{color:var(--ink2);margin-top:10px;max-width:62ch}
+.lcopy{max-width:760px;color:var(--ink2)}
+.lcopy h2{color:var(--ink);font-size:1.3rem;font-weight:800;line-height:1.25;margin:32px 0 10px}
+.lcopy h3{color:var(--ink);font-size:1.02rem;font-weight:700;margin:22px 0 6px}
+.lcopy>:first-child{margin-top:0}
+.lcopy p,.lcopy ul,.lcopy ol{margin:0 0 12px}
+.lcopy ul,.lcopy ol{padding-left:1.25em}
+.lcopy li{margin:4px 0}
+.lcopy a{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.lcopy .answer{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:16px}
+.lcopy .lede{font-size:1.05rem;color:var(--ink)}
+.lcopy .muted,.lcopy .src{color:var(--mute);font-size:.86rem}
+.lcopy .eyebrow{text-transform:uppercase;letter-spacing:.08em;font-size:.72rem;font-weight:700;color:var(--mute);margin:28px 0 0}
+.lcopy .eyebrow+h2{margin-top:6px}
+.lcopy .big{font-size:1.6rem;font-weight:800;color:var(--ink);margin:4px 0}
+.lcopy .hotline{display:inline-block;margin:4px 0 8px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);font-size:.92rem}
+.lcopy .more{font-weight:600}
+.howit h2{font-size:1.3rem;font-weight:800;margin-bottom:16px}
+.howit .hcols{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.howit h3{font-size:1rem;font-weight:700;margin-bottom:6px}
+.howit p{color:var(--ink2);font-size:.92rem}
+@media (max-width:760px){.howit .hcols{grid-template-columns:1fr;gap:16px}}
+/* Phones: the county radon list sits right under the hero, so keep it to a short scrollable panel */
+@media (max-width:760px){
+.browse{margin-top:28px}
+.blist{columns:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:16px;max-height:400px;overflow-y:auto;overscroll-behavior:contain;padding:4px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.blist[hidden]{display:none}
+}

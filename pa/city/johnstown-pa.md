@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Johnstown, then 
 
 Radon Roster lists 2 PA DEP-certified radon firms with a business address in Johnstown; 1 of them is certified for mitigation.
 
-[Mitigation1](#local-mitigation)[Testing1](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#local-mitigation)[Testing1](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Johnstown, PA? (1 firm)
 
@@ -92,7 +92,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 2 more PA DEP-certified firms elsewhere in Cambria County. Certified pros often travel, so ask whether they cover your street in Johnstown.
 
-Mitigation 0[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing2](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where else can I get radon testing in Cambria County? (2 firms)
 

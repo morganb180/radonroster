@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Harrisburg, then
 
 Radon Roster lists 6 PA DEP-certified radon firms with a business address in Harrisburg; 3 of them are certified for mitigation.
 
-[Mitigation4](#local-mitigation)[Testing1](#local-testing)[Labs1](#local-lab)Ordered by town, then name · never by payment
+[Mitigation4](#local-mitigation)[Testing1](#local-testing)[Labs1](#local-lab)Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Harrisburg, PA? (3 firms)
 
@@ -161,7 +161,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 3 more PA DEP-certified firms elsewhere in Dauphin County. Certified pros often travel, so ask whether they cover your street in Harrisburg.
 
-[Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing2](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Dauphin County? (1 firm)
 

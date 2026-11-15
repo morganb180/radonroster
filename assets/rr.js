@@ -224,7 +224,7 @@
     }, true);
     form.addEventListener("submit", function (e) {
       var em = field("email").value.trim(), ph = field("phone").value.trim();
-      if (!em && !ph) { e.preventDefault(); e.stopImmediatePropagation(); var o = $(".lf-out", form); o.textContent = "Add an email or a phone number so pros can reach you."; field("email").focus(); return; }
+      if (!em && !ph) { e.preventDefault(); e.stopImmediatePropagation(); var o = $(".lf-out", form); o.textContent = "Add an email or a phone number so pros can reach you."; try { form.dispatchEvent(new CustomEvent("lead:result", { bubbles: true, detail: { ok: false, type: "missing_contact" } })); } catch (x) {} field("email").focus(); return; }
       if (!form.checkValidity()) { e.preventDefault(); e.stopImmediatePropagation(); form.reportValidity(); }
     }, true);
     form.addEventListener("lead:result", function (e) {
@@ -241,7 +241,7 @@
       var fm = field("firm").value; if (fm && window.RR_FIRMS && RR_FIRMS[fm]) rows.unshift(["Starting with", RR_FIRMS[fm]]);
       $("#qsum").innerHTML = rows.length ? "<dl>" + rows.map(function (r) { return "<div><dt>" + esc(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd></div>"; }).join("") + "</dl>" : '<p class="empty-s">Nothing yet.</p>';
       var h = $("#levelhint"), v = parseFloat(lv);
-      if (h) h.textContent = isNaN(v) ? "At 4 pCi/L or more, we send it to mitigators. Under 4, to testers." : v >= 4 ? v + " pCi/L is at or above EPA's action level, so this goes to certified mitigators." : v + " pCi/L is under 4, so this goes to certified testers.";
+      if (h) h.textContent = isNaN(v) ? "At 4 pCi/L or more, we connect you with mitigators. Under 4, with testers." : v >= 4 ? v + " pCi/L is at or above EPA's action level, so this goes to certified mitigators." : v + " pCi/L is under 4, so this goes to certified testers.";
     }
 
     /* prefill from the link that brought them here */
