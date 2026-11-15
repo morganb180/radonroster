@@ -197,7 +197,7 @@ def firm_card(f, here_county=None, vertical=False):
         f'<p class="loc">{e(loc)}</p></div></div>'
         f'<ul class="facts">{"".join(facts)}</ul>'
         f'{quote_html}'
-        f'<div class="foot"><span class="faces">{faces}</span>{dep_tag}</div></article>'
+        f'<div class="foot"><span class="faces" aria-hidden="true">{faces}</span>{dep_tag}</div></article>'
     )
 
 
@@ -573,7 +573,7 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
         seen = {f["id"] for f in firms}
         for nb in COUNTIES.get(county_slug, {}).get("neighbors", []):
             for f in dedupe(COUNTIES.get(nb, {}).get("firms", [])):
-                if "mitigation" in f["services"] and f["id"] not in seen:
+                if (n == 0 or "mitigation" in f["services"]) and f["id"] not in seen:
                     nearby.append(f)
                     seen.add(f["id"])
         nearby = sort_firms(nearby)[:6]
@@ -588,10 +588,21 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
 
     cards = "".join(firm_card(f, here_county=county_slug) for f in firms)
     nearby_html = ""
-    if nearby:
+    if nearby and n == 0:
+        nearby_html = (f'<div class="sub-h"><h2>Certified pros in nearby counties</h2><p>These PA DEP-certified pros are based in neighbouring counties, and many travel across county lines.</p></div>'
+                       f'<div class="cards">{"".join(firm_card(f, here_county=county_slug) for f in nearby)}</div>')
+    elif nearby:
         nearby_html = (f'<div class="sub-h"><h2>Mitigators in nearby counties</h2><p>Only {len(fixers)} certified mitigator{"s are" if len(fixers) != 1 else " is"} based in {e(place)}. '
                        f'These are certified too, and many travel across county lines.</p></div><div class="cards">{"".join(firm_card(f, here_county=county_slug) for f in nearby)}</div>')
 
+    if n:
+        list_html = (f'<p class="count" id="count" aria-live="polite">{n} pros <span>· {"sorted by Google rating" if DEFAULT_SORT == "rating" else "sorted by town"}</span></p>\n'
+                     f'<div class="cards" id="list">{cards}</div>\n'
+                     '<p class="empty" id="none" hidden>No pros match that filter. <button class="chip" type="button" data-f="all">Show all</button></p>')
+    else:
+        list_html = (f'<div class="empty nolocal"><p><b>No certified radon pros list a business address in {e(place)} yet.</b> '
+                     f'Pros from nearby counties often serve it. Tell us what you need and we connect you with up to 3 certified pros nearby. They contact you directly.</p>'
+                     f'<a class="btn" href="{e(quote_q)}">Get free quotes</a></div>')
     radchip = (f'<a class="radchip {lvl(pct)}" href="#radon-data"><i aria-hidden="true"></i><b class="num">{pct:.0f}%</b> of basement tests here were high'
                f'<span>· state 37%</span></a>') if pct is not None else ""
     radband = (f'<section class="band" id="radon-data"><div class="wrap radband"><div><h2>Radon in {e(place)}</h2>'
@@ -602,12 +613,10 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
 <div><nav class="crumbs" aria-label="Breadcrumb">{crumbs}</nav><h1>{e(h1)}</h1>
 <p class="sub"><span>{sub}</span>{radchip}</p></div>
 </div></section>
-{toolbar}
+{toolbar if n else ""}
 <div class="wrap results">
 <div>
-<p class="count" id="count" aria-live="polite">{n} pros <span>· {"sorted by Google rating" if DEFAULT_SORT == "rating" else "sorted by town"}</span></p>
-<div class="cards" id="list">{cards}</div>
-<p class="empty" id="none" hidden>No pros match that filter. <button class="chip" type="button" data-f="all">Show all</button></p>
+{list_html}
 {nearby_html}
 </div>
 <div class="side">{ask_card(f"Get quotes in {place}", "Tell us what you need. We connect you with up to 3 certified pros nearby and show you who. They contact you directly.", quote_q)}</div>
@@ -618,7 +627,7 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
 <section class="band"><div class="wrap"><div class="sec-h"><h2>Answers</h2></div>{faq(faq_items)}</div></section>
 <section class="band"><div class="wrap">{how_it_works()}</div></section>
 </main>'''
-    page(path, body, "/pa/counties/", mobile_bar(f"Quotes in {place}", "Free · up to 3 certified pros", quote_q))
+    page(path, body, "/pa/counties/", mobile_bar(place, "Free · up to 3 certified pros", quote_q))
 
 
 def stat_card(pct, label, rows, details, county=None):
@@ -755,7 +764,7 @@ def build_firms():
 <div class="fbody"><div>{"".join(sections)}</div>
 <div class="side">{ask_card(f"Get a quote from {f['name']}", f"We connect you with {e(f['name'])} and up to 2 other certified pros nearby. They contact you directly.", q, "Request a quote")}</div></div>
 </div>{more}</main>'''
-        page(path, body, "", mobile_bar(f["name"], "Free quote · no obligation", q, "Request a quote"))
+        page(path, body, "", mobile_bar(f["name"], "Free · no obligation", q, "Request a quote"))
 
 
 # ---------------------------------------------------------------- quotes
@@ -793,8 +802,9 @@ def build_quotes():
 <fieldset class="qstep" data-step="3"><legend tabindex="-1">How should pros reach you?</legend>
 <p class="lead">Email or phone is fine. We don't call or text you.</p>
 <div class="fld"><label class="f" for="g-name">Your name</label><input class="in" id="g-name" name="name" autocomplete="name" required minlength="2" maxlength="100"></div>
-<div class="pair"><div><label class="f" for="g-email">Email</label><input class="in" id="g-email" name="email" type="email" autocomplete="email" maxlength="200"></div>
-<div><label class="f" for="g-phone">Phone</label><input class="in" id="g-phone" name="phone" type="tel" autocomplete="tel" maxlength="30"></div></div>
+<div class="pair"><div><label class="f" for="g-email">Email</label><input class="in" id="g-email" name="email" type="email" autocomplete="email" maxlength="200" aria-describedby="contacthint"></div>
+<div><label class="f" for="g-phone">Phone</label><input class="in" id="g-phone" name="phone" type="tel" autocomplete="tel" maxlength="30" aria-describedby="contacthint"></div></div>
+<p class="hint err" id="contacthint" aria-live="polite"></p>
 <div class="fld"><label class="f" for="g-msg">Anything pros should know? <span class="mute">(optional)</span></label><textarea class="in" id="g-msg" name="message" rows="2" maxlength="1000" placeholder="Timing, a closing date, your test result…"></textarea></div>
 <div class="hp" aria-hidden="true"><label for="g-web">Leave this empty</label><input id="g-web" name="website" tabindex="-1" autocomplete="off"></div>
 <input type="hidden" name="firm" value=""><input type="hidden" name="source" value=""><input type="hidden" name="idem" value="">

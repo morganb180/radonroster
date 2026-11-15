@@ -1,6 +1,6 @@
 ---
 title: "Eagle Home Inspections, Jefferson Hills PA: Radon Testing"
-description: "Eagle Home Inspections, LLC (217 Pointer Drive, Jefferson Hills, Allegheny County) is PA DEP-certified for radon testing. Phone (412) 678-6696, DEP cert IDs, free quote."
+description: "Eagle Home Inspections, LLC (217 Pointer Drive, Jefferson Hills, Allegheny County) is PA DEP-certified for radon testing. DEP cert IDs and a free quote."
 canonical: https://radonroster.com/pa/firms/eagle-home-inspections-llc-f2788/
 ---
 

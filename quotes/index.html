@@ -37,8 +37,9 @@
 <fieldset class="qstep" data-step="3"><legend tabindex="-1">How should pros reach you?</legend>
 <p class="lead">Email or phone is fine. We don't call or text you.</p>
 <div class="fld"><label class="f" for="g-name">Your name</label><input class="in" id="g-name" name="name" autocomplete="name" required minlength="2" maxlength="100"></div>
-<div class="pair"><div><label class="f" for="g-email">Email</label><input class="in" id="g-email" name="email" type="email" autocomplete="email" maxlength="200"></div>
-<div><label class="f" for="g-phone">Phone</label><input class="in" id="g-phone" name="phone" type="tel" autocomplete="tel" maxlength="30"></div></div>
+<div class="pair"><div><label class="f" for="g-email">Email</label><input class="in" id="g-email" name="email" type="email" autocomplete="email" maxlength="200" aria-describedby="contacthint"></div>
+<div><label class="f" for="g-phone">Phone</label><input class="in" id="g-phone" name="phone" type="tel" autocomplete="tel" maxlength="30" aria-describedby="contacthint"></div></div>
+<p class="hint err" id="contacthint" aria-live="polite"></p>
 <div class="fld"><label class="f" for="g-msg">Anything pros should know? <span class="mute">(optional)</span></label><textarea class="in" id="g-msg" name="message" rows="2" maxlength="1000" placeholder="Timing, a closing date, your test result…"></textarea></div>
 <div class="hp" aria-hidden="true"><label for="g-web">Leave this empty</label><input id="g-web" name="website" tabindex="-1" autocomplete="off"></div>
 <input type="hidden" name="firm" value=""><input type="hidden" name="source" value=""><input type="hidden" name="idem" value="">

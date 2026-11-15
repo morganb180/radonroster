@@ -12,6 +12,8 @@
   if (menu) {
     document.addEventListener("click", function (e) { if (menu.open && !menu.contains(e.target)) menu.open = false; });
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") menu.open = false; });
+    /* mobile: dim the page behind the open menu and stop it scrolling underneath */
+    menu.addEventListener("toggle", function () { document.documentElement.classList.toggle("menu-open", menu.open); });
   }
 
   /* ---------- home search: two popovers with one behaviour ---------- */
@@ -194,13 +196,19 @@
       bar.style.width = Math.round((i + 1) / steps.length * 100) + "%";
       back.hidden = i === 0;
       next.hidden = i === steps.length - 1; send.hidden = !next.hidden;
-      if (focus) { var lg = $("legend", steps[i]); if (lg) lg.focus(); window.scrollTo({ top: 0, behavior: "smooth" }); }
+      if (focus) {
+        var lg = $("legend", steps[i]); if (lg) lg.focus({ preventScroll: true });
+        /* on phones, land on the step itself rather than back above the intro copy */
+        var y = window.innerWidth <= 760 ? Math.max(0, form.getBoundingClientRect().top + window.pageYOffset - 80) : 0;
+        if (window.pageYOffset > y || window.innerWidth > 760) window.scrollTo({ top: y, behavior: "smooth" });
+      }
       summary();
     };
     var valid = function () {
       var ok = true;
       $$("input,select,textarea", steps[i]).some(function (el) {
         if (el.type === "hidden" || el.disabled) return false;
+        if (el.name === "zip") el.setCustomValidity(el.validity.valueMissing || el.validity.patternMismatch ? "Enter a 5-digit Pennsylvania ZIP code." : "");
         if (!el.checkValidity()) { el.reportValidity(); ok = false; return true; }
         return false;
       });
@@ -215,7 +223,11 @@
       }
       summary();
     });
-    form.addEventListener("input", summary);
+    form.addEventListener("input", function (e) {
+      if (e.target.name === "zip") e.target.setCustomValidity("");
+      if (e.target.name === "email" || e.target.name === "phone") { field("email").removeAttribute("aria-invalid"); field("phone").removeAttribute("aria-invalid"); var h = $("#contacthint"); if (h) h.textContent = ""; }
+      summary();
+    });
     form.addEventListener("keydown", function (e) {
       if (e.key === "Enter" && e.target.tagName !== "TEXTAREA" && i < steps.length - 1) { e.preventDefault(); next.click(); }
     });
@@ -224,7 +236,7 @@
     }, true);
     form.addEventListener("submit", function (e) {
       var em = field("email").value.trim(), ph = field("phone").value.trim();
-      if (!em && !ph) { e.preventDefault(); e.stopImmediatePropagation(); var o = $(".lf-out", form); o.textContent = "Add an email or a phone number so pros can reach you."; try { form.dispatchEvent(new CustomEvent("lead:result", { bubbles: true, detail: { ok: false, type: "missing_contact" } })); } catch (x) {} field("email").focus(); return; }
+      if (!em && !ph) { e.preventDefault(); e.stopImmediatePropagation(); var o = $(".lf-out", form); o.textContent = "Add an email or a phone number so pros can reach you."; var ch = $("#contacthint"); if (ch) ch.textContent = o.textContent; field("email").setAttribute("aria-invalid", "true"); field("phone").setAttribute("aria-invalid", "true"); try { form.dispatchEvent(new CustomEvent("lead:result", { bubbles: true, detail: { ok: false, type: "missing_contact" } })); } catch (x) {} field("email").focus(); return; }
       if (!form.checkValidity()) { e.preventDefault(); e.stopImmediatePropagation(); form.reportValidity(); }
     }, true);
     form.addEventListener("lead:result", function (e) {

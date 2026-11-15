@@ -1,6 +1,6 @@
 ---
 title: "Realty Inspection, Spring Brook Twp PA: Radon Testing"
-description: "Realty Inspection (770 State Route 307, Spring Brook Twp, Lackawanna County) is PA DEP-certified for radon testing. Phone (570) 848-2772, DEP cert IDs and a free quote."
+description: "Realty Inspection (770 State Route 307, Spring Brook Twp, Lackawanna County) is PA DEP-certified for radon testing. DEP cert IDs and a free quote."
 canonical: https://radonroster.com/pa/firms/realty-inspection-f8365/
 ---
 
