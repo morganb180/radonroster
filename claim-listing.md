@@ -14,4 +14,4 @@ Every listing on Radon Roster comes from PA DEP's radon certification lists. Use
 2. Approved changes go live with the next site update, usually within 5 business days.
 3. **Removal:** we remove personal details (for example a home address or personal phone) on request. If you are no longer licensed or certified, tell us and we'll drop the listing. Because listings mirror a public record, we may keep the business name and license status while it stays on the official list.
 
-Listings are free and ordered by location and name, never by payment.
+Listings are free and sorted by Google rating, weighted by number of reviews, never by payment. “Top rated” marks firms with 4.5+ stars from 20 or more Google reviews.

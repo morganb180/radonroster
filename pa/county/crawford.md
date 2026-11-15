@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **3 DEP-certified firms** have a business address in Crawford County (0 offer mitigation), with 3 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=crawford)
 
-Mitigation 0[Testing3](#testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing3](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where can I get radon testing in Crawford County, PA? (3 firms)
 

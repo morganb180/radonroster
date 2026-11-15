@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **9 DEP-certified firms** have a business address in Berks County (4 offer mitigation), with 18 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=berks)
 
-[Mitigation4](#mitigation)[Testing5](#testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation4](#mitigation)[Testing5](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Berks County, PA? (4 firms)
 

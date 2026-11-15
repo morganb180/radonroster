@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Cranberry Townsh
 
 Radon Roster lists 12 more PA DEP-certified firms elsewhere in Butler County. Certified pros often travel, so ask whether they cover your street in Cranberry Township.
 
-[Mitigation1](#county-mitigation)[Testing11](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing11](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Butler County? (1 firm)
 

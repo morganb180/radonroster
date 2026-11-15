@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Greensburg, then
 
 Radon Roster lists 3 PA DEP-certified radon firms with a business address in Greensburg; 1 of them is certified for mitigation.
 
-[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#local-mitigation)[Testing2](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Greensburg, PA? (1 firm)
 
@@ -113,7 +113,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 14 more PA DEP-certified firms elsewhere in Westmoreland County. Certified pros often travel, so ask whether they cover your street in Greensburg.
 
-[Mitigation4](#county-mitigation)[Testing10](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation4](#county-mitigation)[Testing10](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Westmoreland County? (4 firms)
 

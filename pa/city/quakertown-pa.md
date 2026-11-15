@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Quakertown, then
 
 Radon Roster lists 2 PA DEP-certified radon firms with a business address in Quakertown; 2 of them are certified for mitigation.
 
-[Mitigation2](#local-mitigation)Testing 0Labs 0Ordered by town, then name · never by payment
+[Mitigation2](#local-mitigation)Testing 0Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Quakertown, PA? (2 firms)
 
@@ -92,7 +92,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 17 more PA DEP-certified firms elsewhere in Bucks County. Certified pros often travel, so ask whether they cover your street in Quakertown.
 
-[Mitigation2](#county-mitigation)[Testing15](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation2](#county-mitigation)[Testing15](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Bucks County? (2 firms)
 

@@ -14,7 +14,7 @@ Radon Roster is a free directory of Pennsylvania DEP-certified testing, mitigati
 
 * **DEP ID on every listing.** From the PA DEP lists dated Oct 1, 2026. Check it against the state record.
 * **No account needed.** One form. We connect you with up to 3 firms. They contact you.
-* **Firms can't pay to be picked.** Free listings are ordered by location and name.
+* **Firms can't pay to be picked.** Free listings are sorted by Google rating, never by payment.
 
 414 certified firms (101 mitigation, 352 testing, 18 labs) and 742 certified individuals, taken from Pennsylvania DEP records. Every listing names the firm, shows its DEP IDs and links the source.
 

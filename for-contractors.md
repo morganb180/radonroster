@@ -6,7 +6,7 @@ canonical: https://radonroster.com/for-contractors/
 
 # For radon contractors
 
-Every PA DEP-certified radon firm already has a free listing here, built from DEP's public certification lists. Free listings are ordered by location and name, never by payment.
+Every PA DEP-certified radon firm already has a free listing here, built from DEP's public certification lists. Free listings are sorted by Google rating, weighted by number of reviews, never by payment. “Top rated” marks firms with 4.5+ stars from 20 or more Google reviews.
 
 ## What you can do now
 

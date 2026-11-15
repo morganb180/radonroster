@@ -54,7 +54,7 @@ Example for M Webster Construction Inc (DEP: mitigation + testing):
 - **Who certifies:** radon certification is issued only by PA DEP. Radon Roster does not certify, license, inspect or endorse any firm. The badge is not issued, approved or endorsed by PA DEP, and Radon Roster is not affiliated with DEP.
 - **Pick an accurate type.** Only use a type you hold: "Radon Professional" fits any DEP-certified firm. Tester, Mitigator and Laboratory must match your DEP certification. The code generator only offers types on DEP's list for your firm.
 - **Only while certified.** Use the badge only while your firm is on DEP's current certification lists. If your certification lapses, we remove your listing and you must remove the badge.
-- Free and optional. It does not change your listing order. Free listings are ordered by location and name, never by payment.
+- Free and optional. It does not change your listing order. Free listings are sorted by Google rating, weighted by number of reviews, never by payment. “Top rated” marks firms with 4.5+ stars from 20 or more Google reviews.
 - Don't modify the artwork or wording, combine it with government seals or logos, or describe it as "DEP-approved" or "Radon Roster certified". You may scale it. Keep the seal at least 120 px wide.
 
 Corrections: https://radonroster.com/claim-listing/ · Contact: hello@radonroster.com

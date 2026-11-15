@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **8 DEP-certified firms** have a business address in Dauphin County (4 offer mitigation), with 12 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=dauphin)
 
-[Mitigation5](#mitigation)[Testing3](#testing)[Labs1](#lab)Ordered by town, then name · never by payment
+[Mitigation5](#mitigation)[Testing3](#testing)[Labs1](#lab)Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Dauphin County, PA? (4 firms)
 

@@ -38,7 +38,7 @@ Below are the PA DEP-certified firms with a business address in Pittsburgh, then
 
 Radon Roster lists 28 PA DEP-certified radon firms with a business address in Pittsburgh; 3 of them are certified for mitigation.
 
-[Mitigation3](#local-mitigation)[Testing25](#local-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation3](#local-mitigation)[Testing25](#local-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who installs radon mitigation systems in Pittsburgh, PA? (3 firms)
 
@@ -655,7 +655,7 @@ Source: [DEP list](https://files.dep.state.pa.us/RadiationProtection/RadonDivisi
 
 Radon Roster lists 16 more PA DEP-certified firms elsewhere in Allegheny County. Certified pros often travel, so ask whether they cover your street in Pittsburgh.
 
-[Mitigation1](#county-mitigation)[Testing15](#county-testing)Labs 0Ordered by town, then name · never by payment
+[Mitigation1](#county-mitigation)[Testing15](#county-testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Who else installs radon mitigation systems in Allegheny County? (1 firm)
 

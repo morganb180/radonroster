@@ -30,7 +30,7 @@ Source: computed 2026-10-11 from PA DEP's [Radon Test Results, Sept 1986 - Curre
 
 **1 DEP-certified firms** have a business address in Somerset County (0 offer mitigation), with 1 certified individuals between them. [Get free quotes](https://radonroster.com/quotes/?county=somerset)
 
-Mitigation 0[Testing1](#testing)Labs 0Ordered by town, then name · never by payment
+Mitigation 0[Testing1](#testing)Labs 0Listed here by town, then name; the web page sorts by Google rating · never by payment
 
 ## Where can I get radon testing in Somerset County, PA? (1 firm)
 
