@@ -672,6 +672,16 @@ textarea.in{height:auto;padding:14px 16px;resize:vertical}
 .blist a{font-weight:600;font-size:.94rem;text-decoration:none}
 .blist a:hover{text-decoration:underline}
 .blist small{font-size:.78rem;color:var(--mute)}
+.more-places{margin-top:8px;border-top:1px solid var(--line);padding-top:4px}
+.more-places>summary{cursor:pointer;font-weight:600;font-size:.95rem;color:var(--ink);padding:12px 0;list-style:none;display:flex;align-items:center;gap:8px;min-height:44px}
+.more-places>summary::-webkit-details-marker{display:none}
+.more-places>summary::after{content:"▸";margin-left:auto;color:var(--mute)}
+.more-places[open]>summary::after{content:"▾"}
+.more-places .blist{margin-top:4px}
+.more-dir{margin:12px 0 4px;font-size:.92rem}
+#b-counties[hidden],.blist[hidden]{display:none}
+.lhead .sa{border-top:0;padding:16px 0 4px;max-width:40rem}
+.lhead .sa h2{font-size:1.08rem;font-weight:800;letter-spacing:-.015em;margin:0 0 8px}
 /* guides */
 .guides{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 @media (max-width:900px){.guides{grid-template-columns:repeat(2,minmax(0,1fr))}}
@@ -709,11 +719,14 @@ a.dep:hover{text-decoration-color:currentColor}
 .howit h3{font-size:1rem;font-weight:700;margin-bottom:6px}
 .howit p{color:var(--ink2);font-size:.92rem}
 @media (max-width:760px){.howit .hcols{grid-template-columns:1fr;gap:16px}}
-/* Phones: the county radon list sits right under the hero, so keep it to a short scrollable panel */
+/* Phones: county radon rates stay directly under the hero. Featured counties are short enough
+   to show in full; only the cities tab and the expanded "all 67" list scroll. */
 @media (max-width:760px){
 .browse{margin-top:28px}
-.blist{columns:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:16px;max-height:400px;overflow-y:auto;overscroll-behavior:contain;padding:4px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
-.blist[hidden]{display:none}
+.blist{columns:auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:16px;padding:4px 12px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.blist.long,.more-places .blist{max-height:400px;overflow-y:auto;overscroll-behavior:contain}
+#b-counties[hidden],.blist[hidden]{display:none}
+.lhead .sa{padding-top:12px}
 }
 
 /* ---- mobile UX pass (fix/mobile-ux) ---- */
