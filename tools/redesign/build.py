@@ -334,8 +334,32 @@ def head(path):
     return h
 
 
-def page(path, body, active="", mbar=""):
-    out = head(path) + ('<body class="has-mbar">' if mbar else "<body>") + header(active) + body + footer() + mbar + "</body></html>"
+def upsert_faq_jsonld(head_html, items):
+    """Replace or insert a FAQPage JSON-LD block in a preserved <head>."""
+    if not items:
+        return head_html
+    block = faq_jsonld(items)
+
+    def repl(m):
+        try:
+            data = json.loads(m.group(1))
+        except Exception:
+            return m.group(0)
+        if isinstance(data, dict) and data.get("@type") == "FAQPage":
+            return block
+        return m.group(0)
+
+    new, n = re.subn(r'<script type="application/ld\+json">(.*?)</script>', repl, head_html, flags=re.S)
+    if "FAQPage" not in new:
+        new = new.replace("</head>", block + "</head>")
+    return new
+
+
+def page(path, body, active="", mbar="", faq_items=None):
+    h = head(path)
+    if faq_items:
+        h = upsert_faq_jsonld(h, faq_items)
+    out = h + ('<body class="has-mbar">' if mbar else "<body>") + header(active) + body + footer() + mbar + "</body></html>"
     write(path, out)
 
 
@@ -368,6 +392,9 @@ SHORT_ANSWERS = [
     ("Do radon testers and mitigators need to be certified in Pennsylvania?",
      "Yes. Pennsylvania requires anyone who tests for radon, installs mitigation systems or analyzes radon samples for the public to be certified by PA DEP and to show a current DEP photo ID card on request. Every pro on Radon Roster comes from DEP's certification lists, with the certification number shown.",
      ("25 Pa. Code Ch. 240", "https://files.dep.state.pa.us/RadiationProtection/BureauOfRadiationProtection/BRPPortalFiles/Chapter_240_2015-04-23.pdf"), ("How we verify pros", "/how-we-verify/")),
+    ("Where can I find certified radon testers or mitigation installers near me?",
+     "Search your Pennsylvania city or county on Radon Roster to see every PA DEP-certified tester and mitigator we list there, ranked by Google rating. Pros can't pay to rank higher. Tell us what you need and we connect you with up to 3 certified firms nearby. They contact you directly.",
+     ("How we verify pros", "/how-we-verify/"), ("Browse counties", "/pa/counties/")),
     ("What radon level is safe?",
      "EPA recommends fixing your home if radon is 4 picocuries per liter (pCi/L) or higher, and considering a fix between 2 and 4 pCi/L. For comparison, EPA puts the average indoor level in the U.S. at about 1.3 pCi/L and the average outdoor level at about 0.4 pCi/L.",
      ("EPA", "https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean"), ("What is radon?", "/what-is-radon/")),
@@ -407,8 +434,74 @@ def strip_tags(x):
 def faq_jsonld(items):
     return ('<script type="application/ld+json">' + json.dumps({
         "@context": "https://schema.org", "@type": "FAQPage",
-        "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": strip_tags(a)}} for q, a in items]},
+        "mainEntity": [{"@type": "Question", "name": html.unescape(q), "acceptedAnswer": {"@type": "Answer", "text": html.unescape(strip_tags(a))}} for q, a in items]},
         ensure_ascii=False) + "</script>")
+
+
+DEP_TESTS = "https://data.pa.gov/Energy-and-the-Environment/Radon-Test-Results-September-1986-Current-Annual-C/vkjb-sx3k"
+EPA_ACTION = "https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean"
+
+
+def firms_based_in(city_name, county_slug=None):
+    """Firms whose business address is in this city (optional county filter)."""
+    out = []
+    for f in FIRMS.values():
+        if (f.get("city") or "").lower() != (city_name or "").lower():
+            continue
+        if f.get("state", "PA") != "PA":
+            continue
+        if county_slug and f.get("county_slug") != county_slug:
+            continue
+        out.append(f)
+    return out
+
+
+def local_counts(flist):
+    n = len(flist)
+    n_test = sum(1 for f in flist if "testing" in f["services"])
+    n_fix = sum(1 for f in flist if "mitigation" in f["services"])
+    return n, n_test, n_fix
+
+
+def testing_direct_answer(place_pa, local, pct, tests):
+    """A 40–60 word yes-first answer for 'Is radon testing available in {place}?'
+
+    Only uses DEP certification counts and published PA DEP / EPA figures already
+    on the site. Never invents prices, reviews, or firm contacts.
+    """
+    q = f"Is radon testing available in {place_pa}?"
+    n, n_test, n_fix = local_counts(local)
+    if n == 0:
+        a = (f"Yes, though no PA DEP-certified firm lists a business address in {place_pa} yet. "
+             "Pros from neighboring counties often serve it.")
+    elif n == 1:
+        if n_fix:
+            a = (f"Yes. 1 PA DEP-certified radon firm lists a business address in {place_pa} "
+                 "and installs mitigation systems. Other certified testers serve nearby.")
+        else:
+            a = (f"Yes. 1 PA DEP-certified radon firm lists a business address in {place_pa}. "
+                 "Other certified testers and mitigators serve the area from nearby.")
+    else:
+        if n_fix == 0:
+            fix_bit = ""
+        elif n_fix == n:
+            fix_bit = ", all of which install mitigation systems"
+        elif n_fix == 1:
+            fix_bit = ", including 1 that installs mitigation systems"
+        else:
+            fix_bit = f", including {n_fix} that install mitigation systems"
+        a = f"Yes. {n} PA DEP-certified radon firms list a business address in {place_pa}{fix_bit}."
+    if pct is not None and tests:
+        a += (f" In PA DEP's test records, {pct:.0f}% of {tests:,} basement tests here were at or above "
+              f"EPA's 4 pCi/L action level, versus 37% statewide.")
+    a += " We connect you with up to 3 certified firms. They contact you directly."
+    srcs = (f'<p class="srcs">Source: <a href="{e(DEP_TESTS)}" rel="noopener">PA DEP Radon Test Results</a>'
+            f' · <a href="{e(EPA_ACTION)}" rel="noopener">EPA action level</a></p>')
+    return q, a, srcs
+
+
+def answer_box(q, a, srcs):
+    return f'<div class="sa" id="direct-answer"><h2>{e(q)}</h2><p>{e(a)}</p>{srcs}</div>'
 
 
 def build_home():
@@ -443,9 +536,14 @@ def build_home():
                 f' · <a class="link" href="{more[1]}">{e(more[0])}</a></p></div>')
     qa_html = "".join(sa(*x) for x in SHORT_ANSWERS)
     jsonld = faq_jsonld([(q, a) for q, a, _, _ in SHORT_ANSWERS] + about_items)
-    county_links = "".join(
-        f'<li><a href="/pa/county/{k}/">{e(c["name"])} County</a><small class="num">{pros_label(len(dedupe(c.get("firms", []))))} · {c["pct"]:.0f}% high</small></li>'
-        for k, c in sorted(COUNTIES.items()))
+    def county_li(k, c):
+        return (f'<li><a href="/pa/county/{k}/">{e(c["name"])} County</a>'
+                f'<small class="num">{pros_label(len(dedupe(c.get("firms", []))))} · {c["pct"]:.0f}% high</small></li>')
+    featured = sorted(COUNTIES.items(), key=lambda kv: (-(kv[1].get("pct") or 0), -(kv[1].get("tests") or 0), kv[1]["name"]))[:12]
+    featured_slugs = {k for k, _ in featured}
+    rest = sorted(((k, c) for k, c in COUNTIES.items() if k not in featured_slugs), key=lambda kv: kv[1]["name"])
+    county_links = "".join(county_li(k, c) for k, c in featured)
+    rest_links = "".join(county_li(k, c) for k, c in rest)
     def city_li(k, c):
         pct = f" · {c['pct']:.0f}% high" if c["pct"] is not None else ""
         return f'<li><a href="/pa/city/{k}/">{e(c["name"])}</a><small>{e(c["county"])} County{pct}</small></li>'
@@ -480,12 +578,18 @@ def build_home():
 </div>
 </div></section>
 <section class="band"><div class="wrap">
-<div class="sec-h"><div><h2>How common is high radon near you?</h2><p>Share of basement tests at or above 4 pCi/L, from PA DEP test records. Statewide it's 37%.</p></div><a class="more" href="/pa/radon-levels-by-county/">All 67 counties</a></div>
+<div class="sec-h"><div><h2>How common is high radon near you?</h2><p>The 12 Pennsylvania counties with the highest share of basement tests at or above 4 pCi/L, from PA DEP test records. Statewide it's 37%.</p></div><a class="more" href="/pa/radon-levels-by-county/">All 67 counties</a></div>
 <div class="cities">{cities_html}</div>
 <div class="browse" id="browse">
-<div class="tabs" role="tablist"><button type="button" role="tab" aria-selected="true" data-t="b-counties">All 67 counties</button><button type="button" role="tab" aria-selected="false" data-t="b-cities">Cities</button></div>
-<ul class="blist" id="b-counties">{county_links}</ul>
-<ul class="blist" id="b-cities" hidden>{city_links}</ul>
+<div class="tabs" role="tablist"><button type="button" role="tab" aria-selected="true" data-t="b-counties">Highest-rate counties</button><button type="button" role="tab" aria-selected="false" data-t="b-cities">Cities</button></div>
+<div id="b-counties">
+<ul class="blist">{county_links}</ul>
+<details class="more-places"><summary>See all 67 counties</summary>
+<ul class="blist">{rest_links}</ul>
+<p class="more-dir"><a class="link" href="/pa/counties/">Open the full county directory</a> or <a class="link" href="/pa/radon-levels-by-county/">see radon levels for every county</a>.</p>
+</details>
+</div>
+<ul class="blist long" id="b-cities" hidden>{city_links}</ul>
 </div>
 </div></section>
 
@@ -554,7 +658,7 @@ def build_home():
 
 
 # ---------------------------------------------------------------- listing pages (county + city)
-def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, related, quote_q, county_slug, pct=None, copy=""):
+def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, related, quote_q, county_slug, pct=None, copy="", direct=None):
     firms = sort_firms(dedupe(firm_ids))
     local = {f["id"] for f in dedupe(local_ids)}
     n = len(firms)
@@ -608,10 +712,15 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
     radband = (f'<section class="band" id="radon-data"><div class="wrap radband"><div><h2>Radon in {e(place)}</h2>'
                f'<p>Radon levels vary house to house, even on the same street. These numbers show how often tests in the area came back high. Only a test tells you your home\'s level.</p>'
                f'<p><a class="link" href="/quotes/?need=test">Get your home tested</a> or <a class="link" href="/free-radon-test-kit-pennsylvania/">see free test kits</a>.</p></div>{stat}</div></section>') if stat else ""
+    direct_html = answer_box(*direct) if direct else ""
+    if direct:
+        q, a, _srcs = direct
+        if not any(q == item[0] for item in faq_items):
+            faq_items = [(q, e(a))] + list(faq_items)
     body = f'''<main id="main">
 <section class="lhead"><div class="wrap">
 <div><nav class="crumbs" aria-label="Breadcrumb">{crumbs}</nav><h1>{e(h1)}</h1>
-<p class="sub"><span>{sub}</span>{radchip}</p></div>
+<p class="sub"><span>{sub}</span>{radchip}</p>{direct_html}</div>
 </div></section>
 {toolbar if n else ""}
 <div class="wrap results">
@@ -627,7 +736,7 @@ def listing(path, *, crumbs, h1, place, firm_ids, local_ids, stat, faq_items, re
 <section class="band"><div class="wrap"><div class="sec-h"><h2>Answers</h2></div>{faq(faq_items)}</div></section>
 <section class="band"><div class="wrap">{how_it_works()}</div></section>
 </main>'''
-    page(path, body, "/pa/counties/", mobile_bar(place, "Free · up to 3 certified pros", quote_q))
+    page(path, body, "/pa/counties/", mobile_bar(place, "Free · up to 3 certified pros", quote_q), faq_items=faq_items)
 
 
 def stat_card(pct, label, rows, details, county=None):
@@ -666,10 +775,13 @@ def build_counties():
             rel.append(related_links(f"Cities in {name} County", [(f"/pa/city/{k}/", CITIES[k]["name"]) for k in c["cities"] if k in CITIES]))
         if c.get("neighbors"):
             rel.append(related_links("Nearby counties", [(f"/pa/county/{k}/", f"{COUNTIES[k]['name']} County") for k in c["neighbors"] if k in COUNTIES]))
+        local = dedupe(c.get("firms", []))
+        direct = testing_direct_answer(f"{name} County, PA", local, c.get("pct"), c.get("tests"))
         listing(path, crumbs=crumbs, h1=f"Radon testing & mitigation in {name} County", place=f"{name} County",
                 firm_ids=c.get("firms", []), local_ids=c.get("firms", []), stat=stat,
                 faq_items=[(q, e(a)) for q, a in c.get("faq", [])], related='<div style="display:grid;gap:40px">' + "".join(rel) + "</div>",
-                quote_q=f"/quotes/?county={slug}", county_slug=slug, pct=c.get("pct"), copy=local_copy("county", slug))
+                quote_q=f"/quotes/?county={slug}", county_slug=slug, pct=c.get("pct"), copy=local_copy("county", slug),
+                direct=direct)
 
 
 def build_cities():
@@ -691,10 +803,13 @@ def build_cities():
         rel = [f'<div class="own"><p><b>Hiring in {e(c["name"])}?</b> Our guide covers what to ask, what it costs, and how to check a pro.</p><a class="btn ghost" href="{c["guide"]}">Read the {e(c["name"])} guide</a></div>'] if c.get("guide") else []
         others = [k for k, v in CITIES.items() if v["county_slug"] == c["county_slug"] and k != slug]
         rel.append(related_links("Nearby", [(f"/pa/county/{c['county_slug']}/", f"{c['county']} County")] + [(f"/pa/city/{k}/", CITIES[k]["name"]) for k in others]))
+        local = firms_based_in(c["name"], c.get("county_slug"))
+        direct = testing_direct_answer(f"{c['name']}, PA", local, c.get("pct"), c.get("tests"))
         listing(path, crumbs=crumbs, h1=f"Radon testing & mitigation in {c['name']}, PA", place=c["name"],
                 firm_ids=c["firms"], local_ids=c["firms"], stat=stat, faq_items=[(q, e(a)) for q, a in c.get("faq", [])],
                 related='<div style="display:grid;gap:40px">' + "".join(rel) + "</div>",
-                quote_q=f"/quotes/?county={c['county_slug']}", county_slug=c["county_slug"], pct=c.get("pct"), copy=local_copy("city", slug))
+                quote_q=f"/quotes/?county={c['county_slug']}", county_slug=c["county_slug"], pct=c.get("pct"), copy=local_copy("city", slug),
+                direct=direct)
 
 
 # ---------------------------------------------------------------- firm pages
@@ -829,6 +944,19 @@ def build_quotes():
 
 
 # ---------------------------------------------------------------- everything else: new shell, old content
+def inject_guide_question(inner, path):
+    """Add a query-mirroring H2 to city radon guides, above the existing quick answer."""
+    m = re.search(r"/pa/city/([^/]+)/radon-guide/", path.replace("\\", "/"))
+    if not m or 'id="direct-answer"' in inner or "id='direct-answer'" in inner:
+        return inner
+    city = CITIES.get(m.group(1))
+    if not city:
+        return inner
+    q = f"Is radon testing available in {city['name']}, PA?"
+    h2 = f'<h2 id="direct-answer">{e(q)}</h2>'
+    return re.sub(r"(<h1>[^<]*</h1>)", r"\1" + h2, inner, count=1, flags=re.S)
+
+
 def reshell():
     done = 0
     rebuilt = {P("index.html"), P("quotes", "index.html")}
@@ -843,6 +971,7 @@ def reshell():
             continue
         inner = m.group(1)
         inner = re.sub(r'<aside class="qsbar".*?</aside>', "", inner, flags=re.S)
+        inner = inject_guide_question(inner, path)
         body = f'<main id="main" class="legacy">{inner}</main>'
         tail = "".join(re.findall(r"<script>.*?</script>", s[s.find("</main>"):], re.S))
         h = head(path)
