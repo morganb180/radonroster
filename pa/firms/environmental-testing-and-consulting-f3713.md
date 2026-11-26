@@ -12,19 +12,21 @@ Romulus, MI · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3713): your request goes to Environmental Testing & Consulting and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 98 reviews · [Reviews on Google](https://maps.google.com/?cid=12789436650175707665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 99 reviews · [Reviews on Google](https://maps.google.com/?cid=12789436650175707665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> The class was outstanding and the instructor is very knowledgeable and helpful.
+>
+> 5★ · welink · 3 months ago
 
 > This class was very informative and the instructor, Ryan, was really good. Made something that had the potential to be boring, fun…
 >
-> 5★ · TKO PUNCH · 2 months ago
+> 5★ · TKO PUNCH · 3 months ago
 
-> Great class lead by the director. They are an explanatory resource for  less cert and  I will be using them for testing in the future!I strongly recommend. I don’t leave reviews unless someone deserves it.
->
-> 5★ · Brian Sams · 2 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

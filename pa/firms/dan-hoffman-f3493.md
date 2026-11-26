@@ -16,19 +16,21 @@ York, PA · York County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3493): your request goes to Dan Hoffman and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 93 reviews · [Reviews on Google](https://maps.google.com/?cid=6200026695432219382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Very pleased with the thorough inspection of the home we are purchasing. Many things were brought to our attention that helped us in negotiations and helped us to properly prepare for what we are getting into. The report was well organized and easy to understand. I feel that we got a good value…
+> Dan was thorough, professional, punctual, and so easy to work with. We had to move the inspection date, and he was very understanding. I would call him again -- and, as a matter of fact, we already have him coming out again to inspect another home!
 >
-> 5★ · Ed Mack · a month ago
+> 5★ · Jen Standen · 2 months ago
 
-> Dan was amazing! He came out after we purchased our home and did a very thorough inspection. He took his time, explained everything clearly, and made sure we understood what he was seeing without making anything feel overwhelming. As first-time homeowners, that meant a lot to us. He was…
+> Dan Hoffman was a pleasure to work with - from scheduling, to the inspection, to the report itself. Awesome job and would recommend to anyone looking for a new home build.
 >
-> 5★ · Rose Donatien · 5 months ago
+> 5★ · Brent Gates · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

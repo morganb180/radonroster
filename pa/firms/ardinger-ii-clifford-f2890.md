@@ -14,15 +14,17 @@ Coraopolis, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2890): your request goes to Ardinger, Ii, Clifford and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 2.6 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=266978046319117224&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Within three months of purchasing my property the siding started to fall off. Within four months we had massive leaks any time it rained, flowing through my bathroom, through our living room and into the basement. Our basement's electrical box was "the size of a pool shed's" (says our…
 >
-> 1★ · Brendan Miller (brendan) · 3 years ago
+> 1★ · Brendan Miller (brendan) · 4 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

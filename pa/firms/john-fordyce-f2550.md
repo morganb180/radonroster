@@ -16,19 +16,21 @@ Indiana, PA · Indiana County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2550): your request goes to John Fordyce and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 8 reviews · [Reviews on Google](https://maps.google.com/?cid=11289920585810356374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 9 reviews · [Reviews on Google](https://maps.google.com/?cid=11289920585810356374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > My overall experience with John is that he’s very professional and the kind of person who will make things right if there’s an issue. We can’t say that about many people these days and I can’t express how much I really appreciate him and his honesty. This man has integrity and I would absolutely…
 >
-> 5★ · LiZER Juni · 8 months ago
+> 5★ · LiZER Juni · 9 months ago
 
 > Reliable and incredibly thorough. He made sure we knew about every nook and cranny. He also answered every question we had in detail and gave us confidence in our purchase.
 >
 > 5★ · Kat Procyk · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

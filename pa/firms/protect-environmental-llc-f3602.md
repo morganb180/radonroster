@@ -1,6 +1,6 @@
 ---
 title: "Protect Environmental, LLC: PA DEP Radon Mitigation & Testing"
-description: "Protect Environmental, LLC (Louisville, KY) is on PA DEP's certified list for radon mitigation and testing, with 12 certified people. Google 4.9 from 78 reviews. Free quote."
+description: "Protect Environmental, LLC (Louisville, KY) is on PA DEP's certified list for radon mitigation and testing, with 12 certified people. Google 4.9 from 88 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/protect-environmental-llc-f3602/
 ---
 
@@ -12,19 +12,21 @@ Louisville, KY · 12 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3602): your request goes to Protect Environmental, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 78 reviews · [Reviews on Google](https://maps.google.com/?cid=2557757631333706610&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 88 reviews · [Reviews on Google](https://maps.google.com/?cid=2557757631333706610&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I was EXTREMELY pleased with Protect Environmental installers Corey D. & Corbin on 08/17/2026!  On time, professional, fastidious, conscientious, and courteous.  They were later followed up by Justin & Doug. GREAT team effort.
+> Today we had our mitigation system put in and Corey Dickerson was our technician. Cory was very informative and made sure that we understood everything that he was doing and answered any questions that we had.  We could not be more happy to have had a great tech helping us through something we…
 >
-> 5★ · P Klinker · a month ago
+> 5★ · Pam Campbell · 2 weeks ago
 
-> I contacted four different radon mitigation contractors before settling on Protect Environmental, and I could not be happier with my choice. Protect produced the lowest estimate, but after speaking with them several times and comparing their responses to those of other contractors and what I’d…
+> Excellent job , our technician Mike Jones did a fantastic and very clean installation for my radon Mitigation system. 100% Recommended.
 >
-> 5★ · Rachel 1860 · 2 months ago
+> 5★ · Robert Mercado · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

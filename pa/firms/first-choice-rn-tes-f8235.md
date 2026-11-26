@@ -14,6 +14,7 @@ Huntingdon Valle, PA · Montgomery County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8235): your request goes to First Choice Rn Tes and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=11678292124790179022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -26,7 +27,8 @@ Huntingdon Valle, PA · Montgomery County · 3 certified people
 >
 > 5★ · Beth Bates · 6 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

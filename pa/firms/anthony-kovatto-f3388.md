@@ -16,19 +16,21 @@ Macungie, PA · Lehigh County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3388): your request goes to Anthony Kovatto and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 160 reviews · [Reviews on Google](https://maps.google.com/?cid=1771507569167920346&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 165 reviews · [Reviews on Google](https://maps.google.com/?cid=1771507569167920346&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> We used Valley Home Inspectors for a pre-drywall walkthrough. Tony was extremely thorough and uncovered some issues we would have never seen on our own. Well worth the cost, which was very reasonable! We would definitely hire him again.
+> I highly recommend Valley Home inspectors! Worth every single penny! Tony completed our home inspection and was intensely detailed, patient, and took the time to check every corner of the house. The final report was clear and thorough. I will definitely refer to friends and family!
 >
-> 5★ · GlenRobin · 2 months ago
+> 5★ · Chinn Bowen · in the last week
 
-> Excellent job. Tony covered everything in the inspection. He was professional, friendly and answered all questions. It wasn’t easy because the owner was present during the inspection and was quite talkative but Tony persevered and did his job. His report was thorough and well presented. I do…
+> We had a great experience with our home inspector! He was professional, thorough, and knowledgeable throughout the entire process. We really appreciate his attention to detail and excellent service. Highly recommend!
 >
-> 5★ · Grasso Jerry · 4 months ago
+> 5★ · Wong Joyce · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -1,6 +1,6 @@
 ---
 title: "Radon Guys, LLC: Radon Testing & Mitigation, Middleburg PA"
-description: "Radon Guys, LLC (Middleburg, Snyder County) is PA DEP-certified for radon testing and mitigation. Google 5.0 from 7 reviews. DEP cert IDs, contact details, free quote."
+description: "Radon Guys, LLC (Middleburg, Snyder County) is PA DEP-certified for radon testing and mitigation. Google 5.0 from 8 reviews. DEP cert IDs, contact details, free quote."
 canonical: https://radonroster.com/pa/firms/radon-guys-llc-f3717/
 ---
 
@@ -12,19 +12,21 @@ Middleburg, PA · Snyder County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3717): your request goes to Radon Guys, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=17311718622427764377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 8 reviews · [Reviews on Google](https://maps.google.com/?cid=17311718622427764377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I highly recommend Radon Guys (Daniel & Adam) if you need a Radon Mitigation System installed in your home.  They are very professional and knowledgeable in every way, answered every question that I had, always on time, and were very accommodating to my needs and timing of the project.  And…
+> Daniel and his business partner promptly scheduled to come to our house in Tioga county Pennsylvania to view the house and come up with a plan to mitigate the radon which tested at an average of 6.3.  Later the same night, he provided us with an estimate.  Within a week, they installed the…
 >
-> 5★ · Anita Gugenheim · 2 months ago
+> 5★ · Kim Bedell · a week ago
 
-> Outstanding professionals....price and length of time for installations was 100 % on the mark. And when the work was finished the areas where clean and everything was back in place. Everything they did was exactly as they stated. From the appointment for the estimate,installation and the…
+> I can't recommend Radon Guys enough. It was a great experience to have them test our home for radon, collaborate on next steps, and install an effective mitigation system. Communication was excellent throughout the entire process, and every aspect was explained clearly. System installation was…
 >
-> 5★ · Bernard Lahr · 3 months ago
+> 5★ · Nick Ungson · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

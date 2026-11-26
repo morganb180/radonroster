@@ -12,6 +12,17 @@ Lenhartsville, PA · Berks County · 5 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0048): your request goes to A.B.E. Radiation Measurements Labs and up to 2 other nearby certified pros.
 
+
+## Google rating
+
+5.0 out of 5 from 2 reviews · [Reviews on Google](https://maps.google.com/?cid=8437221938624047056&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> The best people on the planet work here.
+>
+> 5★ · Waqas Anwar · a year ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 ## Contact
 
 * Address: 1005 Old Route 22, Lenhartsville, PA

@@ -12,19 +12,21 @@ Lancaster, PA · Lancaster County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3295): your request goes to Precise Inspecting and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 1137 reviews · [Reviews on Google](https://maps.google.com/?cid=6942800173682823137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 1,154 reviews · [Reviews on Google](https://maps.google.com/?cid=6942800173682823137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> It happened that we waived inspection when purchasing our home, and asked Matthew to come in for a post-purchase home inspection.  Matthew was absolutely wonderful! He checked out every inch of our new home, created a report with photos,  and then carefully reviewed the entire report with us. He…
+> Matt inspected the house we're buying in Lancaster City, and we couldn't have asked for a better experience. He was detailed and thorough, took his time walking us through everything, and explained each issue in a way that made sense to first-time buyers. The report came back the next day with…
 >
-> 5★ · Jessica Koenig · a month ago
+> 5★ · malik black · a week ago
 
-> I had a great experience with this company. As a  first time new construction buyer living out of state, I felt at ease knowing the inspection was handled thoroughly. The report was detailed, easy to understand, and included clear photos of all findings. I truly appreciate the professionalism…
+> I reached out to Precise Inspecting and they got me on the schedule right away. Bill did a thorough home inspection on my new build and the turnaround time for the report was very quick within the same day. Highly recommend their services!
 >
-> 5★ · Simone Sim · 3 months ago
+> 5★ · Char L · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

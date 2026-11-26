@@ -12,19 +12,21 @@ Binghamton, NY · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F7256): your request goes to Professional Home Inspection and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 193 reviews · [Reviews on Google](https://maps.google.com/?cid=12497785076643044040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 195 reviews · [Reviews on Google](https://maps.google.com/?cid=12497785076643044040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> George and his crew installed a sump pump and radon mitigation system in our house for a decent price and it only took two days to install both. Messages were returned promptly and there have been no issues with either installs. Highly recommend!
+> I bought a small radon monitor because I was curious to find out what the radon levels were in my 166 year old house. The radon levels varied between 10-15 pCi/L which is (was) well above safe limits. I called PHIS, talked with Stacy, and made an appointment. I'm an hour and a half away but Fred…
 >
-> 5★ · Beth Kalafatich · 3 months ago
+> 5★ · Steven Currier · 2 weeks ago
 
-> I chose Professional Home Inspection Service for my radon mitigation system based on a previously favorable home inspection experience a few years ago, as well as their status as a certified NYS radon mitigation contractor. Their pricing was slightly higher than other quotes I received, but the…
+> Hired George and his crew to do a radon mitigation system in Horseheads. They did an OUTSTANDING job earlier this year on my daughter’s house and avoided drilling beneath a slab which another local vendor said was probably the only option. Not only was this incorrect but could have damaged the…
 >
-> 3★ · Chris Pitts · 5 months ago
+> 5★ · MJ · 3 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,11 +16,13 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2499): your request goes to Jon Shaffer and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.0 out of 5 from 1 review · [Reviews on Google](https://maps.google.com/?cid=668993204694750799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,21 @@ West Pittston, PA · Luzerne County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2379): your request goes to Jon Melvin and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.7 out of 5 from 27 reviews · [Reviews on Google](https://maps.google.com/?cid=16996979367438491026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Jon Melvin was outstanding. He performed a thorough, detail-oriented inspection and clearly explained each step of the process. His professionalism, knowledge, and systematic approach gave me confidence that nothing was overlooked. I was initially on the fence about hiring a home inspector, but…
 >
-> 5★ · Jude Polit-Moran · 2 months ago
+> 5★ · Jude Polit-Moran · 4 months ago
 
 > Wonderful integrity from this owner! He let me know that I probably didn't need one particular service he offered,  and he explained the "why" of it very well.  Also, he took time to find me a phone number for services from another local business I'll be needing soon...very grateful for that…
 >
-> 5★ · Laura J. · 9 months ago
+> 5★ · Laura J. · 10 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

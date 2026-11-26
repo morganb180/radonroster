@@ -14,6 +14,21 @@ Bloomsburg, PA · Columbia County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3163): your request goes to Jeffrey Ralston and up to 2 other nearby certified pros.
 
+
+## Google rating
+
+4.4 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=6077222935075290668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Returned call quickly and appointment was inside of a week. Was told I needed a fan installed. The following week it was. Very pleased that my radon level has stayed below .75 since. Nice company to work with. Highly recommend
+>
+> 5★ · Mary Shelinski · 3 months ago
+
+> This is concerning Radon Mitigation. Wishing I could rate this company lower than a one star.  Their customer service is extremely poor. Jeff came out to the house made a quick visit to see the situation. When we called back to ask a few questions about things like painting the white PVC  brown,…
+>
+> 1★ · Dell417 · 6 months ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 ## Contact
 
 * Address: 422 Valley Rd, Bloomsburg, PA

@@ -16,19 +16,21 @@ Irwin, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3025): your request goes to Thomas Grove and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.7 out of 5 from 27 reviews · [Reviews on Google](https://maps.google.com/?cid=16486351816535166429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.7 out of 5 from 26 reviews · [Reviews on Google](https://maps.google.com/?cid=16486351816535166429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Tom was very personable and professional.  I called him on a Monday and he was able to do the inspection on my day off, which was Sunday.  VERY THOROUGH!  I can't emphasize that enough.  I am looking to purchase a rental property and I knew that given my price range, that whatever I found would…
+>
+> 5★ · Mark J · 3 years ago
 
 > I cannot recommend Tom Grove (Certified Home Inspection Services) highly enough.  Tom exceeded my expectations.  He was extremely detail-oriented and professional.  His examination was thorough, his report was informative and detailed, he was prompt and very personable.  I had texted and called…
 >
 > 5★ · Joe Manga · 6 years ago
 
-> I absolutely agree with all the great reviews of Tom Grove. He showed up on time and extremely well prepared with the tools he would need for the day. He was very knowledgeable in home inspections, as any questions or concerns I had, he had the answers for. And the things he found that I didn't…
->
-> 5★ · erin · 6 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

@@ -16,19 +16,21 @@ Duncansville, PA · Blair County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3171): your request goes to Adam Ulery and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.8 out of 5 from 9 reviews · [Reviews on Google](https://maps.google.com/?cid=9786813790519274996&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Very knowledgeable but a bit exaggeration,  needs to stay in his own lane. Not a contractor. Enjoys killing deals like its a game
 >
-> 2★ · G.M.C Cinderella · 7 months ago
+> 2★ · G.M.C Cinderella · 9 months ago
 
-> Professional, thorough, trustworthy, and punctual. This is our second time using A&K and I would recommend A&K to anyone that needs a home inspection.
+> Literally the worst person and experience to have inspect my home. First off, the report was ridiculous, contradicted himself multiple times, saying things were sound and sturdy, then adding his"note" that it wasn't on multiple things. Had a contractor that was licensed and electrician that was…
 >
-> 5★ · Derek Seymour · a year ago
+> 1★ · Crystal Conley · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

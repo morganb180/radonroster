@@ -12,11 +12,13 @@ Union, NJ · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8944): your request goes to Hillmann Consulting and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.6 out of 5 from 13 reviews · [Reviews on Google](https://maps.google.com/?cid=4715743392688422194&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

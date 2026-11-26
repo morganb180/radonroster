@@ -16,19 +16,21 @@ Philadelphia, PA · Philadelphia County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2188): your request goes to Bruce D. Lampe and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.0 out of 5 from 8 reviews · [Reviews on Google](https://maps.google.com/?cid=9908540358812940718&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > I have used and continue to use MED home inspections for pre-selling and buying my investment properties as well as my personal property.  I have found him to be professional  and thorough with inspections .  I would recommend  him to anyone who wants an honest inspection whether buying or…
 >
-> 5★ · Gene Allen · a year ago
+> 5★ · Gene Allen · 2 years ago
 
 > Bruce is awesome . He has inspected hundreds of homes for many of my clients for over 10 years and everyone who uses him agrees he is the best in the business.  Buyers and agents alike.  I also have tons of colleagues who reccommend Bruce.  He is a class act.  Not one of my clients has EVER…
 >
 > 5★ · Jennifer Nehila · 2 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

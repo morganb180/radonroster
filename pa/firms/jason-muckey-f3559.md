@@ -16,19 +16,21 @@ Horseheads, NY · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3559): your request goes to Jason Muckey and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 628 reviews · [Reviews on Google](https://maps.google.com/?cid=6196133182374940468&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Great service from office to field. I appreciated their knowledge, flexibility, and helpfulness. I have had several home inspections before in other states, and it is always a concern if you are going to get a quality inspection company. Don't worry about that here, Precision is top notch! I…
 >
-> 5★ · Tony Mazzenga · 4 months ago
+> 5★ · Tony Mazzenga · 5 months ago
 
 > Jason was very thorough with our home inspection. He walked us through each step he was taking. Jason was very informative and gave recommendations as to what his thoughts were on repairs. Friendly personality, funny, jokes around with our nephew! Very much enjoyed Jason’s presence and…
 >
-> 5★ · Owen-Eddie · 8 months ago
+> 5★ · Owen-Eddie · 9 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

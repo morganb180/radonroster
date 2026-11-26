@@ -12,19 +12,21 @@ Hawley, PA · Pike County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2189): your request goes to Precise Home and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 350 reviews · [Reviews on Google](https://maps.google.com/?cid=647254424130346344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 352 reviews · [Reviews on Google](https://maps.google.com/?cid=647254424130346344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> In the process of buying a house and had precise home inspection and the privilege of having Mr. Flint Schachter Inspect my home he did an exceptional job went from top to bottom explain everything that needed to be fixed and things that were OK The report is outstanding pictures, explanations,…
+> An Exceptional Home Inspection Experience  Flint was outstanding to work with. His professionalism, extensive knowledge, and genuine commitment to ensuring that we fully understood the systems, mechanics, and overall condition of our new home made the inspection process extremely valuable.  If…
 >
-> 5★ · Lionel Roman · a month ago
+> 5★ · Robert Wilson · a month ago
 
-> My wife and I were in the process of purchasing our first home, and being brand new to the whole process, we really didn't know what to expect. We were pretty nervous about everything, and once we got everything locked down, the inspection was the part where it all started to feel very real and…
+> As a first time homebuyer, I've been very nervous but very excited! When it came time to set up an inspection, my realtors recommended Precise Home Inspections. Flint and Craig were super thorough, patient, and very accommodating with any questions I had. They delivered exceptional service. I…
 >
-> 5★ · Tim S · a month ago
+> 5★ · Brianna Frisbie · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

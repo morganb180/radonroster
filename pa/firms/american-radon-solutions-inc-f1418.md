@@ -1,6 +1,6 @@
 ---
 title: "American Radon Solutions, Camp Hill PA: Radon Mitigation"
-description: "American Radon Solutions, Inc. (Camp Hill, Cumberland County) is PA DEP-certified for radon mitigation. Google 5.0 from 43 reviews. DEP cert IDs, contacts and a free quote."
+description: "American Radon Solutions, Inc. (Camp Hill, Cumberland County) is PA DEP-certified for radon mitigation. Google 5.0 from 44 reviews. DEP cert IDs, contacts and a free quote."
 canonical: https://radonroster.com/pa/firms/american-radon-solutions-inc-f1418/
 ---
 
@@ -12,19 +12,21 @@ Camp Hill, PA · Cumberland County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1418): your request goes to American Radon Solutions, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 43 reviews · [Reviews on Google](https://maps.google.com/?cid=534968509854414193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 44 reviews · [Reviews on Google](https://maps.google.com/?cid=534968509854414193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I was interested in learning more about the existing radon mitigation system in our home. Tuan took the time to walk me through how it works over the phone, answering all of my questions thoroughly and saving me the time of an in-person visit. He was honest and transparent, recommending simple…
+> I am very pleased with the service we received from American Radon Solutions. Our aged radon mitigation system was installed by this company 21 years ago, well before we purchased the house. The system needed service so I called the number on the panel. They came out the same day and replaced…
 >
-> 5★ · Gabrielle Brannock · 2 months ago
+> 5★ · Beth Hahn · a month ago
 
-> We had a passive radon mitigation system in our new house, which might have been enough.   But since we live in one of the areas in the US where radon is pretty prevalent, we decided to test it with a consumer grade monitor.   The reading was ~8 in the basement and ~4 in the living area on the…
+> I had American Radon Solutions complete a sub-slab and sub-membrane depressurization install in my basement and crawlspace.  I am very pleased with their quality of work. A few contractors have completed work at my home and none were as top-notch as American Radon Solutions.
 >
-> 5★ · Craig Janson · 4 months ago
+> 5★ · Dillon Kerstetter · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

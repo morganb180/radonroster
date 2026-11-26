@@ -16,19 +16,21 @@ Erie, PA · Erie County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3133): your request goes to Nicholas Barbarini and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.7 out of 5 from 12 reviews · [Reviews on Google](https://maps.google.com/?cid=9848650480956817941&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Another five Star for Nick. I had no idea what I was doing or what I needed, he didn't take advantage, he was honest clean and even made good recommendations that were better than my ideas. Thank you for making the house safer for my family!
 >
-> 5★ · Matt Klein · 7 months ago
+> 5★ · Matt Klein · 8 months ago
 
 > Nick was great, very responsive and professional. I highly recommend him!
 >
-> 5★ · Wendy Gollnitz Santilli · 11 months ago
+> 5★ · Wendy Gollnitz Santilli · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

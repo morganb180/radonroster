@@ -16,19 +16,21 @@ Mountain Top, PA · Luzerne County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3333): your request goes to Justin Weber and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 389 reviews · [Reviews on Google](https://maps.google.com/?cid=12406289434678418401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 398 reviews · [Reviews on Google](https://maps.google.com/?cid=12406289434678418401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> This is a great company and I fully recommend their services. They did an outstanding job communicating with me and providing me with the inspection report promptly. They truly did their due diligence and Kenny the inspector that was there at the property with me was great. He took his time to…
+> I refer all of my clients relocating north to this company, and I couldn’t be happier with the care and professionalism they provide. They consistently go above and beyond to make sure my clients are well taken care of. It’s reassuring to have a company I can trust to provide the same level of…
 >
-> 5★ · shadowtg1 · a month ago
+> 5★ · Donald Nagle · 3 weeks ago
 
-> Justin recently did an inspection of a home we are currently looking at purchasing.  He was very professional, friendly and thorough in his report.  We would definitely suggest using his company for anyone that is in the market.
+> Excellent experience! The inspector was professional, thorough, and took the time to explain the condition of the house and answer my questions. I appreciated the detailed inspection and the helpful recommendations about potential issues and future maintenance. I would definitely recommend their…
 >
-> 5★ · Gloria Spencer · 2 months ago
+> 5★ · nour namous · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

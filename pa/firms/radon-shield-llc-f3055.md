@@ -12,19 +12,21 @@ Trenton, NJ · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3055): your request goes to Radon Shield LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 41 reviews · [Reviews on Google](https://maps.google.com/?cid=8755409655893738399&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 44 reviews · [Reviews on Google](https://maps.google.com/?cid=8755409655893738399&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Benedict at Radon Shield was excellent. Extremely responsive, efficient, and remediated the radon dramatically on short notice for a home sale. Would highly recommend.
+> Radon savior! Very high levels remediated to
 >
-> 5★ · Ian MacPherson · 4 months ago
+> 5★ · John Gustad · a week ago
 
-> Benedict was top-notch! He arrived five minutes early and spent the next eight hours carefully drilling five locations in our basement. Our home is 80 years old, and his work was thorough and professional throughout the entire process. Within 24 hours, my digital radon meter showed the radon…
+> 5 Stars — Exceptional Service and Expertise  Radon Shield delivered one of the best contractor experiences I’ve ever had. Their team is highly experienced and took the time to fully explain the science behind radon, how mitigation works, and why certain choices were recommended for my home. The…
 >
-> 5★ · Weng Kang · 6 months ago
+> 5★ · Jay Woolston · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

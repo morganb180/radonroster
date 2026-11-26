@@ -12,19 +12,21 @@ Scranton, PA · Lackawanna County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2848): your request goes to Disaster Blaster Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.7 out of 5 from 62 reviews · [Reviews on Google](https://maps.google.com/?cid=16624194931529742921&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.7 out of 5 from 63 reviews · [Reviews on Google](https://maps.google.com/?cid=16624194931529742921&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Big thanks to Matthew, Allen, Will and the crew who helped me fix and restore my dirt crawlspace. The approach was tricky given how they had to approach from top to under the floor, with worries of asbestos floor tiles which thankfully turned out to be safe. They were able to successfully reach…
+> I am so happy we made the choice to go with Disaster Blaster. Right from the start, they made a very stressful situation a bit easier with their professionalism, knowledge and kindness. Allen was always willing to answer all of our questions and really helped set our minds at ease. We really…
 >
-> 5★ · Tymerc · 2 months ago
+> 5★ · KS · 2 weeks ago
 
-> We had a pipe burst in our basement and Disaster Blaster responded promptly and professionally. Will and team came out quickly, clearly explained everything that needed to be done, and put us at ease during a very stressful situation. They were incredibly kind, respectful, and thorough, and they…
+> I cannot say enough good things about Disaster Blaster of Scranton & Wilkes-Barre. They were amazing from the very first phone call. From the beginning, they were responsive, professional, knowledgeable, and genuinely concerned about what was happening in my home.  Matthew and the entire team…
 >
-> 5★ · Nicole O · 6 months ago
+> 5★ · Kerry Ziegler · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

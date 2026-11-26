@@ -1,6 +1,6 @@
 ---
 title: "Home Radon Pros Reviews & DEP Certs, Venetia PA"
-description: "Home Radon Pros (Venetia, Washington County): Google 4.8 from 20 reviews. PA DEP-certified for radon testing and mitigation, 9 certified people. DEP cert IDs, free quote."
+description: "Home Radon Pros (Venetia, Washington County): Google 4.8 from 22 reviews. PA DEP-certified for radon testing and mitigation, 9 certified people. DEP cert IDs, free quote."
 canonical: https://radonroster.com/pa/firms/home-radon-pros-f3238/
 ---
 
@@ -12,19 +12,21 @@ Venetia, PA · Washington County · 9 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3238): your request goes to Home Radon Pros and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 20 reviews · [Reviews on Google](https://maps.google.com/?cid=12758176608857443426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 22 reviews · [Reviews on Google](https://maps.google.com/?cid=12758176608857443426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I would absolutely use Home Radon Pros with any radon issue. I had a small problem with my installed system and Bill got right back to me and fixed the issue that same afternoon. He was friendly and knowledgeable about the system. I could not have asked for better service! Two thumbs up! 👍👍
+> Bill and his team did a great, efficient job installing my mitigation system. Already am seeing a huge drop in indoor radon levels compared to the previous baseline.
 >
-> 5★ · Laurie Bush · 3 months ago
+> 5★ · P M · a week ago
 
-> The installation team was super nice and did great work. When the first fan was rattling a bit after installation, they didn't complain about swapping it out for another one. Our radon levels are so much better! Thank you!
+> Home Radon pros installed a radon mitigation system at our home in Windmont Farms. They did an excellent job with the installation. Radon decreased from 27 to I in slightly less than 72 hours.
 >
-> 5★ · Daniel Sullivan · 3 months ago
+> 5★ · Raj Ranjan · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

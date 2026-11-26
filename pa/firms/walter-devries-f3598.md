@@ -16,19 +16,21 @@ Millville, PA · Columbia County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3598): your request goes to Walter Devries and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 331 reviews · [Reviews on Google](https://maps.google.com/?cid=8369184612816519554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 341 reviews · [Reviews on Google](https://maps.google.com/?cid=8369184612816519554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Walt’s services were TOP NOTCH! He had a complete breakdown of every issue with pictures and even advice on how to resolve them before he was even finished with his inspection. No wait at all. He searched that house for faults as if he was buying it. Very professional and experienced. I wouldn’t…
+> Walt was very easy to work with when we needed a home inspection on a house  we are planning to purchase. We never had to wait on a call back. He himself answers the phone directly. He was able to fit us in fairly quickly and made the whole process very easy. We will use him again in the near…
 >
-> 5★ · Richard Snyder · a month ago
+> 5★ · Colleen Fox · a week ago
 
-> Speaking as a first time homebuyer, Walt was incredibly helpful and thorough during the entire process. He answered all of our questions and concerns with confidence and expertise. I would definitely recommend him to anyone looking into purchasing a home.
+> We hired Walt to perform a home inspection on a property we're interested in purchasing. He was able to get us scheduled right away for just a few days later. Walt was very friendly and kind. He seems to really care about the work he does. He is very thorough with his job and easy to work with.…
 >
-> 5★ · Artie Egan · 4 months ago
+> 5★ · Lillie Stone · 3 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

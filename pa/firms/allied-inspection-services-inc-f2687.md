@@ -12,19 +12,21 @@ Macungie, PA · Lehigh County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2687): your request goes to Allied Inspection Services, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 462 reviews · [Reviews on Google](https://maps.google.com/?cid=2610318188449077496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 460 reviews · [Reviews on Google](https://maps.google.com/?cid=2610318188449077496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Allied inspected my septic system and I was very impressed with Brock’s knowledge and patient explanation for a few items I will need to address. Really happy with their professionalism and on-time arrival. I would use them again in a heartbeat.
+> Matt did an amazing job at our home inspection! He was super thorough and explained the process in a clear manner. You could tell he really cares about what he does which we genuinely appreciated. Outstanding customer service and would use Allied again in the future!
 >
-> 5★ · Tom Volk · 3 months ago
+> 5★ · Michelle Reedy · 3 months ago
 
-> Matt did an excellent job inspecting a newly built home for me. He caught many defects and hazards which I was unaware of and explained everything well. Overall, very happy with his observational skills.
+> "I highly recommend Matt Engler at Allied Inspection Service. As a first-time new homebuyer, we were completely overwhelmed, but Matt walked through the entire house with us and explained every detail in terms I could actually understand. He was  incredibly thorough, took his time, and found…
 >
-> 5★ · Paul Chappelle · 3 months ago
+> 5★ · anna kolano · 4 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

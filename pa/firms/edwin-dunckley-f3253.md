@@ -16,19 +16,21 @@ Chester Springs, PA · Chester County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3253): your request goes to Edwin Dunckley and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 78 reviews · [Reviews on Google](https://maps.google.com/?cid=1287511713300742401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 79 reviews · [Reviews on Google](https://maps.google.com/?cid=1287511713300742401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Ed provided outstanding service when we found water intruding in our living room ceiling. I started by texting him our problem description and he responded promptly with a detailed message on the potential culprits. When he came to assess the issue in person, he quickly identified the source,…
+> I had an incredible experience working with Chester County Home Inspections. I'm a first time home buyer, and Ed made me feel really good about moving forward with the house. He noted current and potential issues that could come up in the future, proposed solutions or options to resolve each of…
 >
-> 5★ · Greg stricker · 2 months ago
+> 5★ · Jaime Van Wart · in the last week
 
-> I highly recommend Edwin and Chester County Home Inspections and will be suggesting him for all of my clients going forward! The online scheduling system was so user friendly and Ed was available to come out to the property quickly. He was prompt, thorough and took his time explaining everything…
+> Highly recommend Edwin! You can tell he really cares about what he does. He was thorough, honest, and took the time to explain everything, including what needed attention and how to fix it. I learned a lot from him during the inspection and really appreciated the time and effort he put into it.…
 >
-> 5★ · Teri Anne Lalik · 11 months ago
+> 5★ · Inês Santos · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,6 @@ Rostraver Twp, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3547): your request goes to Jonathan J Helman and up to 2 other nearby certified pros.
 
-## Google rating
-
-5.0 out of 5 from 282 reviews · [Reviews on Google](https://maps.google.com/?cid=559456378764713064&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Absolutely 100% would use his services again. Very thoroughly detailed and great with explaining throughout the inspection. Doesn't dismiss issues for realtor benefits and very open and honest. Worked diligently to get a full inspection I would recommend his services to any home buyer with his…
->
-> 5★ · Monique Paige · a month ago
-
-> Jonathan went above and beyond my expectations. He was quick to respond to my request and was able to complete the inspection just three days later. He had the full detailed report back to me same day. He even went a step further and reached out to me the following day offering to go over…
->
-> 5★ · Melissa Smith · 3 months ago
-
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

@@ -14,19 +14,21 @@ New Kensington, PA · Westmoreland County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3219): your request goes to Restoration Contracting Services In and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 167 reviews · [Reviews on Google](https://maps.google.com/?cid=18339220124035374122&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 174 reviews · [Reviews on Google](https://maps.google.com/?cid=18339220124035374122&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> While in Florida for the winter we had a pipe freeze and burst in our basement which included a finished game room, full bathroom and several closets. RCS was recommended by our friend who was also a plumber. Everyone that I worked with from Florida was wonderful. I was completely at ease,…
+> I am renting and had Ken and E Maxwell as my crew for the afternoon to help clean. Let’s start with their professional.. it was on point. Polite and listened to my concerns. Reacted and understood appropriately every area I needed addressed. Ken was very knowledgeable and was the leader. He…
 >
-> 5★ · Carol Lewis · 5 months ago
+> 5★ · Holly Fury · a week ago
 
-> Following the most recent snowstorm, RCS sent someone over within a couple hours. Ken was experienced and kind. He communicated with me each day and kept accurate measurements of all the affected areas. The Injectidry machines were great and caused little additional damage to the walls. Ken wore…
+> Our carpeted basement flooded.  I called RCS and that day water removal, dry-out, and removal of damaged plaster board and woodwork started.  Ken, Ethan, Maxwell, and Rich did outstanding work.  They were detailed and thorough.  They clearly took pride in what they were doing.  I felt like they…
 >
-> 5★ · Whitney Polakowski · 7 months ago
+> 5★ · Bill Schenck · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

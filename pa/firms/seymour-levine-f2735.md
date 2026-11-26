@@ -16,19 +16,21 @@ New Cumberland, PA · York County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2735): your request goes to Seymour Levine and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 32 reviews · [Reviews on Google](https://maps.google.com/?cid=987476120717884756&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 34 reviews · [Reviews on Google](https://maps.google.com/?cid=987476120717884756&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Seymour, Jake and crew have been great to work worth. Good communication, great work to rid our newly purchased townhouse of the nicotine smell and residue left by the former owner. They removed and disposed of all the carpet and washed down all the walls - repeatedly- over 3 days. They checked…
 >
-> 5★ · Amy Morton · a month ago
+> 5★ · Amy Morton · 2 months ago
 
-> We worked with Jacob on resolving an issue within our home.  After inspecting our property, he explained in great detail how he could rectify the issue.  We had many questions and he was prompt in returning our calls and patient with our needs for follow up clarification. He eased our concerns…
+> Absolutely fantastic to work with. Great communication and completely solved our basement mold problem. Walked us through our options and helped us understand the situation clearly. They went above and beyond. We would highly recommend them.
 >
-> 5★ · Terri Mandia · 2 months ago
+> 5★ · Bella Soenen · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

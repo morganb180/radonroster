@@ -16,19 +16,21 @@ Cabot, PA · Butler County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3320): your request goes to Joshua Supik and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 348 reviews · [Reviews on Google](https://maps.google.com/?cid=15533443310364508903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 351 reviews · [Reviews on Google](https://maps.google.com/?cid=15533443310364508903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Josh did a very thorough inspection. He walked me through the whole home, showed me all areas of concern, gave me information on how issues could be fixed, what was a serious concern and those items that were more cosmetic in nature. He answered all my questions and didn’t make me feel as if…
+> Josh inspected a 125 year old home in the city of Pittsburgh.  The inspection was very comprehensive beginning with the exterior  and roof, the attic, 2nd floor, first floor, and basement ( dirt floor).  Josh discovered 2 minor gas leaks, one by the furnace and one by the water heater.  He also…
 >
-> 5★ · Linda Gress · 2 months ago
+> 5★ · Robert Williams · a week ago
 
-> The inspection was very thorough and detailed. I would recommend this company to anyone. His lines of communication were great.  I was able to forward the inspection to my plumber and electrician. They were able to give me a quote just by viewing the inspection report.  Definitely worth the fee…
+> We recently had home inspections completed by Josh Supik, and I couldn't be more impressed with the service. Josh was extremely thorough and took the time to carefully inspect every aspect of the property. His knowledge and experience were evident throughout the entire process. What really stood…
 >
-> 5★ · Darrin G · 3 months ago
+> 5★ · Ken P · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

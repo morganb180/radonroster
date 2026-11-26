@@ -16,19 +16,21 @@ Mc Intyre, PA · Indiana County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3755): your request goes to David Schloder and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=11126065518494803401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=11126065518494803401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Very easy-going, straightforward and professional. Made the whole process feel like a breeze.
+> I highly recommend David. I accompanied him on my house inspection and was thoroughly impressed! He took the time to point out all issues (major and minor) so that I was completely knowledgeable. His inspection was critical in the final negotiations of my property. The items on the final report…
 >
-> 5★ · Jesse Fried · a week ago
+> 5★ · David Kuniega · 3 weeks ago
 
-> David is a great guy to work with. This is the second home inspection he has done for me and I have nothing but high praise for him. He makes the process very easy and is very knowledgeable in the subject matter. He really takes his time and makes sure he checks everything he needs to, he does a…
+> David went above and beyond to assist our client in getting his home inspection completed. He was professional and knowledgeable. He didn’t simply deliver an inspection but helped the client work with the lender to remediate a few items that needed addressed. I’d highly recommend David to any…
 >
-> 5★ · Maxwell Kittelmann (Kittzz_) · a month ago
+> 5★ · Scott Valazak · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

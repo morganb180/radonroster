@@ -12,19 +12,21 @@ Carrollton, TX · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0711): your request goes to Eurofins Environment Testing Radon and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 2.4 out of 5 from 53 reviews · [Reviews on Google](https://maps.google.com/?cid=12896771275977416271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > I had an excellent experience with AE Labs from start to finish. The instructions included with the test kit were exceptionally clear, easy to understand, and left no guesswork. The online registration process was also quick, simple, and intuitive. It's obvious they've put a great deal of…
 >
-> 5★ · Joe Alexander · 3 months ago
+> 5★ · Joe Alexander · 4 months ago
 
 > If you could give a negative ten stars that would be more fitting for this place, just like everyone else says they lose your test, and I paid for a label from them so they can't say it's the carrier selection cause they provided that carrier after I paid, lost it, then the rep was super hateful…
 >
-> 1★ · Tim Brown · 8 months ago
+> 1★ · Tim Brown · 9 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

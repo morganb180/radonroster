@@ -1,6 +1,6 @@
 ---
 title: "Integra Environmental LLC: Radon Mitigation & Testing, Allentown"
-description: "Integra Environmental LLC (Allentown, Lehigh County) is PA DEP-certified for radon mitigation and testing, 6 certified people. Google 5.0 from 504 reviews. Free quote."
+description: "Integra Environmental LLC (Allentown, Lehigh County) is PA DEP-certified for radon mitigation and testing, 6 certified people. Google 5.0 from 529 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/integra-environmental-llc-f2621/
 ---
 
@@ -12,19 +12,21 @@ Allentown, PA · Lehigh County · 6 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2621): your request goes to Integra Environmental LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 504 reviews · [Reviews on Google](https://maps.google.com/?cid=6911922703336117103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 529 reviews · [Reviews on Google](https://maps.google.com/?cid=6911922703336117103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I received four estimates for a radon mitigation system, and Integra Environmental stood out immediately. Tony was by far the most thorough and knowledgeable estimator I met with. He took the time to explain how the type of material under my basement slab (gravel versus dirt) affects how a radon…
+> Easy to use. Fast service and the communication was top notch. The technicians were great, friendly but not too friendly where they want to talk your ear off for 30 minutes. Definitely recommend.
 >
-> 5★ · Elizabeth Mort · 2 months ago
+> 5★ · Jay Copin · in the last week
 
-> Had a radon mitigation system installed on July 21, 2026 by Integra  Environmental.  The crew (David and Tom) were top notch and did an excellent job on the install.  Everything neat and tidy.  Also, they were able to completely answer all of our questions. And, the system appears to be working…
+> David and Connor arrived in perfect timing.  They were very nice and respectful and got the job done and it is working great so far and looks great.  I would highly recommend this company from dealing with Carmen, and Katie in the office and Toni who came out to give me a free estimate.  He was…
 >
-> 5★ · Anita P. · 2 months ago
+> 5★ · Dianne Trevis · 3 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

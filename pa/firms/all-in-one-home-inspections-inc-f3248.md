@@ -12,19 +12,21 @@ Honesdale, PA · Wayne County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3248): your request goes to All In One Home Inspections, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 47 reviews · [Reviews on Google](https://maps.google.com/?cid=4958153209479918033&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> We used All in One Home Inspections when we bought our house. Prices were amazing. Cody was our inspector and he was very thorough and knowledgeable. We had a detailed report back in just a few days. I recommend this company!
+> I’ve used All In One for two home inspections so far and I’m very happy with their service. Cody is friendly and knowledgeable and it’s easy to schedule with them. As a first time home buyer I felt that I learned a lot and any questions I had were answered.
 >
-> 5★ · Nicole Castellano · a month ago
+> 5★ · Grayson Oliver · 2 months ago
 
-> Cody at All in one home inspections was outstanding. Very observant on all aspects of a home. Felt very comfortable using him to make sure our investment didn’t have any major current or future problems. Great price for the attention to detail he provides. Highly recommend!
+> We had an amazing experience with Cody and the All-In-One team. The services were for a second home, and having one company handle all inspections was convenient.  Also, Cody took the time to answer our questions about the house and the areas he flagged for us, which was great appreciated.  I’d…
 >
-> 5★ · Kyle Duff · 4 months ago
+> 5★ · Eric Fink · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

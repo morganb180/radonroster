@@ -16,19 +16,21 @@ Nanty Glo, PA · Cambria County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3707): your request goes to Timothy Spicher and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 59 reviews · [Reviews on Google](https://maps.google.com/?cid=10238202120482225633&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 63 reviews · [Reviews on Google](https://maps.google.com/?cid=10238202120482225633&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Our home inspection was fantastic. The inspector arrived on time, We only needed our foundation checked. He did everything even though he didnt have too, and found hidden things we never would have seen. We got a clear, easy-to-read report the same night. This team is honest, smart, and worth…
+> Tim was exceptional! Our new home is a family home so safety is the #1 concern! With as thorough of an inspection as we were provided by New Chapter, we have a baseline of what needed to be done prior to close as well as ongoing. Tim was patient, flexible with our timeline and answered every…
 >
-> 5★ · thomas rumberger · 2 months ago
+> 5★ · Stephanie Alfonso · a week ago
 
-> Tim was absolutely amazing! Very honest and realistic. Told us the good and the bad. Gave personal recommendations which was very helpful as a first time home buyer. Went out of his way to make sure all of our questions and concerns were answered. Absolutely nothing bad to say about Tim and his…
+> Tim was prompt, thorough, and took the time to fully explain anything we had questions about. He was very patient and knowledgeable. I highly recommend New Chapter Home Inspections if you are in need of a home inspection!
 >
-> 5★ · Katie Ness · 2 months ago
+> 5★ · Gerald Wolford · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

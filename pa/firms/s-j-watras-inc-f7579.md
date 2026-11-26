@@ -12,19 +12,21 @@ Boyertown, PA · Berks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F7579): your request goes to S. J. Watras Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-2.4 out of 5 from 15 reviews · [Reviews on Google](https://maps.google.com/?cid=4600881436512028230&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Stanley is very experienced and did excellent work for all of my clients. Practical, effective and efficient  SJ Watras never let us down. A. Townes 27 yrs PA  Realtor
->
-> 5★ · Anne Townes · 11 months ago
+2.2 out of 5 from 14 reviews · [Reviews on Google](https://maps.google.com/?cid=4600881436512028230&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > We had a HVAC company conduct some work in our house and observed a PVC pipe in our Radon system was completely disconnected, informing us it should have been glued in place. We called non-stop to try and get a return call from our messages but not one call back. This system was only installed 3…
 >
 > 1★ · Andrew Bella · 6 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+> they installed a radon remediation system at my house.  The work seems to be fine, but when they installed the system they conducted another Radon Test to make sure the system was working and still after 3 weeks they have not told me the results of that test.  I have been calling every other day…
+>
+> 1★ · Charles Williamson · 6 years ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

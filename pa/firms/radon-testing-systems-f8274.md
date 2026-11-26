@@ -1,6 +1,6 @@
 ---
 title: "Radon Testing Systems: DEP-Certified Radon Testing, Collegeville PA"
-description: "Radon Testing Systems, 427 Franklin Ct, Collegeville (Montgomery County): 4 PA DEP-certified radon testers. Google 3.7 from 3 reviews. DEP cert IDs, contacts and a free quote."
+description: "Radon Testing Systems, 427 Franklin Ct, Collegeville (Montgomery County): 4 PA DEP-certified radon testers. DEP cert IDs, contacts and a free quote."
 canonical: https://radonroster.com/pa/firms/radon-testing-systems-f8274/
 ---
 
@@ -14,19 +14,6 @@ Collegeville, PA · Montgomery County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8274): your request goes to Radon Testing Systems and up to 2 other nearby certified pros.
 
-## Google rating
-
-3.7 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=4746524011762399907&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Didn’t like the name.
->
-> 1★ · Fatmagul Uzun · 2 months ago
-
-> It was a pleasure dealing with this company. I was able to get tested the next day after my call, the tech that came to my home was very knowledgeable and was able to answer all of my questions. Hopefully I will never need a test again, but if I do, this is who I would call. Great Job RTS
->
-> 5★ · Alex Dougherty · 2 years ago
-
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

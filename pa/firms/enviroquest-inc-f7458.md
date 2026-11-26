@@ -12,19 +12,21 @@ Harrisburg, PA · Dauphin County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F7458): your request goes to Enviroquest, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 312 reviews · [Reviews on Google](https://maps.google.com/?cid=6302638923228077971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 317 reviews · [Reviews on Google](https://maps.google.com/?cid=6302638923228077971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Second time using EnviroQuest and they were excellent as usual. Quote was prepared quickly and technician came at convenient time. Fan installed quickly and without disrupting household. Radon levels have been reduced dramatically. Highly recommend.
+> As a first-time homebuyer, Enviroquest and their employee, Brent, were very helpful. The process was made clear, it was easy to make payment, and I learned a lot about the home I’m in the process of buying. They go above and beyond to make sure you have knowledge of the areas that need attention…
 >
-> 5★ · Daniel McKeone · a month ago
+> 5★ · Alyson Wert · a week ago
 
-> We recently had Enviroquest replace a ~13-year-old failing radon fan in our home, and the experience was seamless from start to finish. Their flat-rate quoting based on the model made pricing simple and transparent, and scheduling the install was quick and easy. Communication was excellent…
+> Brent Durborow, my home inspector, was very knowledgeable, thorough and helpful for me. He explained everything to me (a first time home buyer) so I could understand easily the issues present within the house and ways to address them. He was also relaxed, friendly and professional. I recommend…
 >
-> 5★ · Martin Majcher · a month ago
+> 5★ · Ryan Ralls · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

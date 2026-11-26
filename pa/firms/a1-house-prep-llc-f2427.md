@@ -12,19 +12,21 @@ Harleysville, PA · Montgomery County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2427): your request goes to A1 House Prep, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 106 reviews · [Reviews on Google](https://maps.google.com/?cid=12610596445655173470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Called and asked for a simple electrical imspection for peco re-entry. I was asked to send pictures and it would be done, A-1 didn't get the job done and after multiple texts and calls, I was called a clown. That is a reason by itself to look for another contractor, one who fullfills your needs,…
 >
-> 1★ · As Above So Below · a month ago
+> 1★ · As Above So Below · 2 months ago
 
 > As a first time home buyer (and someone who is not familiar with maintenance/home improvement), Bob was wonderful and incredibly thorough. He was beyond helpful in the entire inspection process with explaining everything, answering questions, and offering recommendations on how to navigate…
 >
-> 5★ · Lauryn Fahey · 9 months ago
+> 5★ · Lauryn Fahey · 10 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

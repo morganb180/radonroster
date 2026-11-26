@@ -14,19 +14,21 @@ Philadelphia, PA · Philadelphia County · 6 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1910): your request goes to Valueguard Usa, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 1431 reviews · [Reviews on Google](https://maps.google.com/?cid=1322052170135831250&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 1,440 reviews · [Reviews on Google](https://maps.google.com/?cid=1322052170135831250&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I had a great experience with ValueGuard. I was able to get an inspection scheduled very quickly after another company canceled on me. Michael was extremely thorough, took his time explaining everything he found, and made sure I understood the serious issues with the property instead of just…
+> I had an excellent experience with ValueGuard Home Inspections! Tyler was phenomenal from start to finish. He was extremely knowledgeable, professional, thorough, and informative throughout the entire inspection. He took his time, explained everything clearly, and made sure I understood his…
 >
-> 5★ · Gwen MP · a month ago
+> 5★ · Bridg'ette Bagner · in the last week
 
-> Nick Ostrowski from Value Guard is one of the best home inspectors I have worked with.  He is my go to recommendation to my buyers.  I say this because he is so thorough and knowledgeable.  He does't rush and advises and educates the buyer throughout the inspection.  I can not recommend him…
+> Easy to schedule, arrived on time and very professional. I requested Steve Haslam specifically and it was worth it. Thorough inspection (3.5 hours) and he explained his reasoning on every flag instead of just leaving me with a scary-looking report. He made clear what actually needed to be…
 >
-> 5★ · Maggie Oyler · 2 months ago
+> 5★ · Claudia Ranalli-Gross · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

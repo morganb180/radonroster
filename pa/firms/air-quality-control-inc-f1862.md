@@ -12,19 +12,21 @@ King Of Prussia, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1862): your request goes to Air Quality Control, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.4 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=4789723078494333350&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Roger did a great job installing our radon fan. I appreciated that he actually came out and did a walk through before giving us his (free) quote, instead of just doing it over the phone like some other companies -- it gave me confidence that he actually knew what he would be dealing with. The…
 >
-> 5★ · Nathan Bamberger · 9 months ago
+> 5★ · Nathan Bamberger · 10 months ago
 
 > I highly recommend Roger Burens of Air Quality Control, Inc. for radon remediation. Roger was professional, knowledgeable, friendly, and reasonably priced. After a difficult time with a bigger company, my husband and I were thrilled to find Roger who quickly and easily fixed our radon problem.
 >
 > 5★ · Molly Macias · 2 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

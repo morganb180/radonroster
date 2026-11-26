@@ -16,19 +16,21 @@ Downingtown, PA · Chester County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3589): your request goes to Mary Ann Saenz and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=771731329288428377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Bob has been doing this for many years, and has really good experience from multiple angles. He takes his time, and is very patient to make sure you understand what the process is and how to proceed with your results. He runs a very honest business and would definitely recommend him
 >
-> 5★ · Paiget Miller · 2 months ago
+> 5★ · Paiget Miller · 3 months ago
 
 > Bob is very knowledgeable. I was impressed how he found mold in so many places within seconds. He is a pro. We rented a place that had penicillin mold at its finest and we all got very sick. Luckily we were able to get a quick appointment with him and he came out ran the air quality tests and…
 >
-> 5★ · Nesada Velagic · 4 months ago
+> 5★ · Nesada Velagic · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

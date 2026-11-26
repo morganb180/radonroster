@@ -16,19 +16,21 @@ Clarks Summit, PA · Lackawanna County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3441): your request goes to Jim Kotz and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=984588278356843113&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=984588278356843113&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Jim was amazing…got the job done for a fair price. He was responsive, got out quick, and thoroughly explained the whole system. I’d feel comfortable recommending him to anyone needing a system installed! 5⭐️
+>
+> 5★ · Dylan Cianciolo · a month ago
 
 > Amazing service! Quick to respond and does quality work! Highly recommend Attack Radon!
 >
-> 5★ · Jeff W · 12 months ago
+> 5★ · Jeff W · a year ago
 
-> Jim came out within days of calling him about the high levels of radon we tested in our newly built home (2021). We had a passive mitigation system that was not working and he was able to seal our basement while installing an active mitigation system (fan, breaker, switch, & pvc pipe to rooftop…
->
-> 5★ · Jared Reesman · 3 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

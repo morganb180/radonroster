@@ -12,6 +12,7 @@ Cranberry Townsh, PA · Butler County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3275): your request goes to Ecs Mid-Atlantic LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=14927558189410179412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -20,7 +21,8 @@ Cranberry Townsh, PA · Butler County · 3 certified people
 >
 > 1★ · Sean · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -11,6 +11,7 @@ canonical: https://radonroster.com/pa/firms/house-inspect-inc-f8473/
 Media, PA · Delaware County · 4 certified people
 
 
+
 ## Google rating
 
 4.4 out of 5 from 35 reviews · [Reviews on Google](https://maps.google.com/?cid=1995470689098813098&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -23,7 +24,8 @@ Media, PA · Delaware County · 4 certified people
 >
 > 5★ · LeAndra Thompson · 5 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

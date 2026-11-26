@@ -12,19 +12,21 @@ Mechanicsburg, PA · Cumberland County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2404): your request goes to Precision Inspections & Radon Solutions and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 98 reviews · [Reviews on Google](https://maps.google.com/?cid=3640696486190170366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 99 reviews · [Reviews on Google](https://maps.google.com/?cid=3640696486190170366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Great job with the radon installation! The work was very clean and neat, and the price was very reasonable compared to other companies. They explained everything clearly and answered all our questions. Connor did an amazing job with the installation. We are very happy with the service and would…
+> I can't say enough good things about Precision Radon Solutions! From start to finish, the entire experience was excellent. The people were incredibly friendly, professional, and a pleasure to deal with. Their response time was impressive, and the service was absolutely phenomenal! It's…
 >
-> 5★ · MarcQ · a month ago
+> 5★ · James crist · 2 weeks ago
 
-> Precision Inspections and Radon Solutions was a pleasure to do business with. We had extremely high radon levels in our basement for some time and decided it was time for a mitigation solution. Of the vendors in the York area we had reached out to, Precision was the only one to come out and do a…
+> I have been working with Jeremy for over 5 years and he is the best radon contractor around. His prices are very reasonable. The College I work at has been using PIRS for over 10 years and have never proposed finding another radon vendor. The office manager,  Selena, could run a master class on…
 >
-> 5★ · Colten Ferringer · 3 months ago
+> 5★ · Kevin Walters · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

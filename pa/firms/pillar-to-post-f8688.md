@@ -12,19 +12,21 @@ Morrisville, PA · Bucks County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8688): your request goes to Pillar To Post and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 702 reviews · [Reviews on Google](https://maps.google.com/?cid=15332125470690798920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 708 reviews · [Reviews on Google](https://maps.google.com/?cid=15332125470690798920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> The pre- and post-inspection comms from the team, especially Angela, were thorough and helpful. My inspector onsite, Neil, walked me through everything and I felt totally educated and informed about the house I am purchasing. The online portal is AWESOME! So helpful to have reports and comms to…
+> Our inspector, Neil, was very thorough and great to work with. The reports included detailed information and photos for all items. Scheduling was easy & quick online. Will definitely recommend this company to future clients!
 >
-> 5★ · Leah Conley · a month ago
+> 5★ · Natalie Curry · a week ago
 
-> I’m always able to count on Pillar to Post to provide a careful and thorough report to my clients. I have 100% confidence that every step of the process will be handled professionally and efficiently from scheduling to published report.
+> Pillar to Post was very thorough with their home, termite, radon, sewer scope, air and water sample inspections. I would definitely recommend them again to my real estate clients. My client thought that the inspector was very knowledgeable and was available to answer questions days after the…
 >
-> 5★ · Mike Baselice · a month ago
+> 5★ · LISA BLUE · 4 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

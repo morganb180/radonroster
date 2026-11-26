@@ -16,19 +16,6 @@ Hershey, PA · Dauphin County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2337): your request goes to Chris Matteson and up to 2 other nearby certified pros.
 
-## Google rating
-
-4.9 out of 5 from 169 reviews · [Reviews on Google](https://maps.google.com/?cid=7389678761993907675&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Chris did an excellent job of inspecting our new home.  He was very professional and thorough, and he even told my husband how to fix the minor problems he found.  We would highly recommend him to anyone who needs a home inspection.
->
-> 5★ · Barbara Allen · 2 months ago
-
-> This will be a glowing review and so I want to make it clear Chris is not a previous friend nor do I have any financial interest in recommending him. That said, Chris, who is the owner and only employee I think, was beyond outstanding as a home inspector and educator. He was extraordinary. I…
->
-> 5★ · Andrew Kuebler · 5 months ago
-
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

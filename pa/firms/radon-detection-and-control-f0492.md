@@ -12,19 +12,21 @@ South Heights, PA · Beaver County · 15 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0492): your request goes to Radon Detection And Control and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-3.5 out of 5 from 29 reviews · [Reviews on Google](https://maps.google.com/?cid=6080648793151654314&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+3.5 out of 5 from 30 reviews · [Reviews on Google](https://maps.google.com/?cid=6080648793151654314&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> I want to give Mr. Don K. A 5 rating on helping us with our radon issues. He explained the issues and the best way to solve them. A very kind, considerate, and knowledgeable gentleman. Explained every process he was doing and why it was being done. Thanks Don
+>
+> 5★ · Andrew Suratt · 2 months ago
 
 > I would never trust this company in my home. I was behind one of the service vans today during high traffic times in a RESIDENTIAL area. The entire time their employee was tailing vehicles, including a motorcyclist, swerving on single lane road to attempt to pass, abruptly changed lanes last…
 >
-> 1★ · Becky · 5 months ago
+> 1★ · Becky · 7 months ago
 
-> Radon System Service - Mixed Experience  I had my radon mitigation system serviced by RDC in February 2023. While the system successfully maintains low radon levels, the overall experience was disappointing.  Initial Service Issues (February 2023):  The primary complaint was system noise.…
->
-> 3★ · Christopher Pitstick · a year ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

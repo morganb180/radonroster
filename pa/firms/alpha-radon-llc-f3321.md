@@ -12,19 +12,21 @@ Aliquippa, PA · Beaver County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3321): your request goes to Alpha Radon, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 202 reviews · [Reviews on Google](https://maps.google.com/?cid=169006512249690614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 203 reviews · [Reviews on Google](https://maps.google.com/?cid=169006512249690614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I can’t recommend Alpha Radon enough! From the very first phone call, the level of professionalism, honesty, and urgency was outstanding. Alex, the owner, is truly the Radon King! He got straight to the point, explained exactly what our home needed, and never once tried to upsell us on services…
+> The guys from Alpha Radon were absolutely excellent. They provided and accurate estimate to me within hours of our phone call. Scheduled the work promptly and completed the installation in under an hour. All while answering our questions. Excellent work and can't go wrong with this company.
 >
-> 5★ · Ali Roncevich · 2 months ago
+> 5★ · David Szuminsky · a month ago
 
-> The team delivered an excellent experience from start to finish. When a scheduling conflict arose after my initial appointment, they were extremely flexible and accommodating in arranging a new time. They arrived promptly, clearly explained my best options, and completed the work with a high…
+> Alex and Bryce were great at installing my system. They were prompt, courteous and knowledgeable. My radon levels dropped from over 40 to 1.3 in a matter of 1 day. Always available if needed for phone call/text. Would highly recommend.
 >
-> 5★ · Chad Shirley · 4 months ago
+> 5★ · Martha Bresnahan · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

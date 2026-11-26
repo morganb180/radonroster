@@ -12,19 +12,21 @@ Centre Hall, PA · Centre County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3726): your request goes to Oak Leaf Environmental and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 73 reviews · [Reviews on Google](https://maps.google.com/?cid=15131393030354021740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 75 reviews · [Reviews on Google](https://maps.google.com/?cid=15131393030354021740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Definitely a positive experience and would highly recommend! The company is very knowledgeable and took the time to answer all my questions and provide insight into the issues at my home.  Very satisfied!
 >
-> 5★ · Jennifer Hofe · a month ago
+> 5★ · Jennifer Hofe · 2 months ago
 
-> I am so thankful for their help and guidance!  Not only are they knowledgeable, prompt and efficient, they are exceedingly kind.  Both the folks in the office and the technician that came out took time to explain things and answer my questions.  They have exceeded my expectations.
+> Georgetta and Scott came and did a great job cleaning the ductwork. What a job they had, it was very much needed. Would highly recommend them!!  The guys came out for an evaluation and had lots of great ideas. They were knowledgeable, friendly, prompt, courteous and thorough. Continental just…
 >
-> 5★ · J Mc · 2 months ago
+> 5★ · Kimberly Schabel · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

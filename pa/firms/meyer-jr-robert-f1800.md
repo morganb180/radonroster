@@ -14,19 +14,21 @@ Wellsville, PA · York County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1800): your request goes to Meyer, Jr., Robert and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-3.5 out of 5 from 8 reviews · [Reviews on Google](https://maps.google.com/?cid=9678499142886783014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+3.7 out of 5 from 9 reviews · [Reviews on Google](https://maps.google.com/?cid=9678499142886783014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Bob from Central Penn Radon was able to fix our Radon Mitigation system and get our reading down to a EPA acceptable level.  He was quick, professional and got the job done at a fair price.
 >
-> 5★ · Joe Hainey · 8 months ago
+> 5★ · Joe Hainey · 10 months ago
 
 > I had a radon system installed by Bob at Central Penn Radon, and the post-remediation test was still way above the 4 Pci/L that the system was guaranteed for. I informed him of the high result but he was avoiding my calls and emails about repairing the system to bring it down within levels. I…
 >
 > 1★ · Jethro Nolt · 2 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

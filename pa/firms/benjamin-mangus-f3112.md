@@ -16,6 +16,7 @@ Meadville, PA · Crawford County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3112): your request goes to Benjamin Mangus and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.0 out of 5 from 8 reviews · [Reviews on Google](https://maps.google.com/?cid=11971069829299204493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -28,7 +29,8 @@ Meadville, PA · Crawford County · 1 certified person
 >
 > 1★ · Skogstad Blattaria · 4 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

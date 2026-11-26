@@ -16,19 +16,21 @@ Warrington, PA · Bucks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2252): your request goes to Albert Gordon and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.0 out of 5 from 11 reviews · [Reviews on Google](https://maps.google.com/?cid=2446097089093668393&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > This was a detailed and highly professional inspection. The inspector inspected the entire plumbing. Found a few issues and described problems to me with suggestions for future use. He also inspected electric system, the availability of gfis. He also inspected roof, gave a few suggestions. I was…
 >
-> 5★ · Mira Chanin · 3 months ago
+> 5★ · Mira Chanin · 5 months ago
 
 > Albert did a fantastic job doing a home inspection of a property we were looking to purchase. He was very pleasant to work with and the home inspection was very detailed and thorough and he was happy to answer any and all questions related to. Highly recommend!!!
 >
-> 5★ · Alina Pressman · 3 months ago
+> 5★ · Alina Pressman · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

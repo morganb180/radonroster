@@ -13,11 +13,13 @@ canonical: https://radonroster.com/pa/firms/todd-giddings-and-as-f8453/
 State College, PA · Centre County · 1 certified person
 
 
+
 ## Google rating
 
-5.0 out of 5 from 1 review · [Reviews on Google](https://maps.google.com/?cid=8001546429126292561&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 1 review · [Reviews on Google](https://maps.google.com/?cid=13879097618407019829&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

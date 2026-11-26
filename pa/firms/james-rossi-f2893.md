@@ -16,19 +16,21 @@ Pine Grove, PA · Schuylkill County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2893): your request goes to James Rossi and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 28 reviews · [Reviews on Google](https://maps.google.com/?cid=17372836246022304899&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 29 reviews · [Reviews on Google](https://maps.google.com/?cid=17372836246022304899&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Jim is fantastic, both as a person and in the work that he does!  Found that my house had a Radon level of 24 so I began looking for a mitigation contractor.  Couple large companies from a bit of a distance and a solo contractor from "just over the hill", Jim.  Left a message on his business…
+>
+> 5★ · Mike Verhagen · 4 weeks ago
 
 > Ever since we contacted Jim my wife and I were very impressed with Jim compared to other companies we reached out to. Jim was the only one that came out to look at our house and come up with a game plan to get our levels where we needed to be. Our level in our basement was at 141 pCi/L and…
 >
-> 5★ · Jordan David · 4 months ago
+> 5★ · Jordan David · 5 months ago
 
-> I reached out to R & R Radon for advise & assistance to install system. Jim’s communication, knowledge & professionalism kept me in the game for future yrs to come. His high energy, motivation & positive attitude demonstrated pride & respect to his customers. I highly recommend this business if…
->
-> 5★ · Mike Roberts · 8 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

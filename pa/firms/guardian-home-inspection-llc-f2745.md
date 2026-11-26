@@ -12,19 +12,21 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2745): your request goes to Guardian Home Inspection, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 843 reviews · [Reviews on Google](https://maps.google.com/?cid=6742097594511957758&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 852 reviews · [Reviews on Google](https://maps.google.com/?cid=6742097594511957758&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Jason and his team were incredibly responsive, quick to address my questions, and produced a remarkably thorough inspection report that helped us throughout the process of buying our first home. He was great to work with and we can’t recommend him enough.
+> Jason was professional and helpful. He tucked us through each point during our inspection. We left a feeling confident in the decision that we made to purchase this house and equipped to handle the things that could potentially go wrong overall it was a wonderful experience highly recommend.
 >
-> 5★ · Phil Powell · a month ago
+> 5★ · Alyson Leake · a week ago
 
-> As a first-time home buyer, the inspection process felt pretty overwhelming, but Cameron from Guardian Home Inspectors made it an incredibly positive experience. He was extremely thorough, knowledgeable, and took the time to explain everything in a way that was easy to understand without being…
+> Beau was a great home inspector and would ask him to inspect any home I bought.  I have a 3 star because I ordered an underground sewer line inspection expecting it to occur the day of the inspection or at least by the time they picked up the radon test. I had the home inspection on Thursday…
 >
-> 5★ · Chris Hawkins · 3 months ago
+> 3★ · Zachary Schmitt · 3 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

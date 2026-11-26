@@ -1,6 +1,6 @@
 ---
 title: "A Harmony Home Inspection, Allison Park PA: Radon Testing"
-description: "A Harmony Home Inspection, LLC (Allison Park, Allegheny County) is PA DEP-certified for radon testing, with 5 certified people. Google 4.8 from 86 reviews. Free quote."
+description: "A Harmony Home Inspection, LLC (Allison Park, Allegheny County) is PA DEP-certified for radon testing, with 5 certified people. Google 4.8 from 88 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/a-harmony-home-inspection-llc-f1842/
 ---
 
@@ -12,19 +12,21 @@ Allison Park, PA · Allegheny County · 5 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1842): your request goes to A Harmony Home Inspection, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 86 reviews · [Reviews on Google](https://maps.google.com/?cid=12274401559085876584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 88 reviews · [Reviews on Google](https://maps.google.com/?cid=12274401559085876584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> I recently engaged A Harmony Home Inspection to perform a home inspection, pest inspection, and radon test on a new home.  This is the second time I hired them and had another positive experience.  From Debbie, to Sue Ellen and Amanda in the office, to Ruthanne and Justin who performed the…
+>
+> 5★ · Bill Radish · 2 weeks ago
 
 > My first time being a homebuyer, inspector Justin Bright saved my wife and I from buying a house with so much problems. He is a excellent inspector,walk us through the whole procedure. I highly recommend him and I will for sure. Be using him again in the future thank me later everyone! 10/10
 >
-> 5★ · Ashlynn Fischer · 4 months ago
+> 5★ · Ashlynn Fischer · 5 months ago
 
-> I had a home for sale and had one of A harmony inspectors by the name of Justin go outside of his job to put down my home to a possible buyer. He told the buyer that the home was not worth the asking price and that he shouldn’t buy the house. This information was relayed to myself and my…
->
-> 1★ · Joey Zalin · 4 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

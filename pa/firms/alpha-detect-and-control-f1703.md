@@ -14,19 +14,21 @@ Connellsville, PA · Fayette County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1703): your request goes to Alpha Detect & Control and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 172 reviews · [Reviews on Google](https://maps.google.com/?cid=8884664212533301596&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=1186769214839798015&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Precision Home Inspections inspected a house for us that we later purchased, but several issues were missed that I believe should have been identified during the inspection.  These included electrical outlets with burn marks or that did not work, poor roof condition, sinks that did not drain…
+> Always thorough and professional. Highly recommend!
 >
-> 1★ · Anna Schrack · 3 months ago
+> 5★ · Bonnie Herrilko · 6 years ago
 
-> Dan quickly inspected our home, and provided a very detailed description of each issue with the property and suggestions on how it could be repaired. I appreciated his help during the process of purchasing our home!
+> Our house tested very high for the cancer causing radon gas.  Alpha Detection mitigated  the problem in one day.  Very professional job.  The equipment they installed is very un-intrusive.  Very quiet and we hardly know it's there..Best part almost no radon now..We have peace of mind.
 >
-> 5★ · Elizabeth Stash · 3 months ago
+> 5★ · David Brown · 6 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

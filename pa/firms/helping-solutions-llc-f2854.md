@@ -12,15 +12,17 @@ Altoona, PA · Blair County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2854): your request goes to Helping Solutions LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=3957533161270308656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > ⭐⭐⭐⭐⭐  I highly recommend **Helping Solutions Inspection Services**! They were extremely responsive and were able to provide a **same-day moisture and mold inspection**, which was exactly what I needed.  The inspection was thorough, professional, and efficient. I was also very impressed with how…
 >
-> 5★ · Henry Benton · a month ago
+> 5★ · Henry Benton · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

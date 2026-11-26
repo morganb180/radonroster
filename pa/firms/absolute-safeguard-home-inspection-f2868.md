@@ -12,19 +12,21 @@ Carnegie, PA · Allegheny County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2868): your request goes to Absolute Safeguard Home Inspection and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.5 out of 5 from 99 reviews · [Reviews on Google](https://maps.google.com/?cid=10225604044794178279&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.5 out of 5 from 100 reviews · [Reviews on Google](https://maps.google.com/?cid=10225604044794178279&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> We called to get a pest inspection done on a house we are purchasing. Dino talked with my husband about what we needed and Dino had the work completed within a week. This company is top notch and we will recommend them to everyone in the future
+> Dino was great to work with. Super knowledgeable and very thorough, taking his time to work through the entire house. And the report arrived in a timely fashion. I would highly recommend using Dino to inspect your house.
 >
-> 5★ · Dawn McGinnis · 2 months ago
+> 5★ · Julie · a month ago
 
-> I have now had two separate homes inspected by Absolute Safeguard, and I could not be happier with the experience. Communication was tremendous, pricing was fair and transparent, and the inspection process was very thorough. The team took the time to ensure that all my questions were answered.…
+> As soon as we started house hunting, we knew we would get our inspections done by Dino. What we didn’t know was how valuable his expertise would be in negotiating with sellers. His inspection on one property saved us at least $30,000 AND taught us what to look for in other homes. We made a…
 >
-> 5★ · Zach Van Dusen · 4 months ago
+> 5★ · Larissa Symington · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

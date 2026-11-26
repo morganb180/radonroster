@@ -17,7 +17,7 @@ for _f in FIRMS.values():  # roman-numeral suffixes in upper case ("Schmidt Iii"
 
 DEFAULT_SORT = "rating"   # "rating" (Google rating, weighted by review count) or "town" (the old location-and-name order)
 LIST_DATE = "Oct 1, 2026"  # date on the PA DEP lists
-RATING_DATE = "Oct 18, 2026"
+RATING_DATE = "Nov 25, 2026"
 HOTLINE = "800-237-2366"
 DEP_DIR = "https://www.pa.gov/agencies/dep/programs-and-services/radiation-protection/radon-division/radon-services-directory"
 FUNNEL = "/quotes/"

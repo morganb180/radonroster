@@ -16,19 +16,21 @@ Macungie, PA · Lehigh County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3572): your request goes to Michael P Sup Jr. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 118 reviews · [Reviews on Google](https://maps.google.com/?cid=11776613464401821958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 120 reviews · [Reviews on Google](https://maps.google.com/?cid=11776613464401821958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> My experience with ROI Inspections was fantastic! Mike was professional, thorough, and took the time to explain everything he found during the inspection in a way that was easy to understand. Mike’s attention to detail gave me confidence that nothing was overlooked, and his honest,…
+> We had a great experience working with Mike for our home inspection! He was extremely knowledgeable, thorough, and took the time to make sure we understood everything throughout the process. He was also incredibly helpful and responsive every step of the way, always willing to answer any…
 >
-> 5★ · Tyler Countess · 3 months ago
+> 5★ · Alayna Krause · a week ago
 
-> As a real estate professional for over 25 years, I have to say Mike was impressive in many ways.  He was prompt, professional and extremely knowledgeable.  We had many questions and he was patient and his responses were thorough. I recommend Mike’s services for both investment as well as single…
+> Micheal did an excellent job on the home inspection. He was thorough and took his time, making sure to inspect every area. Pricing was reasonable as well as he was very knowledgeable on informing us on any issues he spotted. Micheal made sure to get us scheduled very short notice. I would…
 >
-> 5★ · Lisa Fick · 3 months ago
+> 5★ · Anthony Susano · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

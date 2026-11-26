@@ -16,19 +16,21 @@ Springdale, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3070): your request goes to Joshua Lindner and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 248 reviews · [Reviews on Google](https://maps.google.com/?cid=14908547312219710841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 249 reviews · [Reviews on Google](https://maps.google.com/?cid=14908547312219710841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Absolutely amazing service. I initially requested for radon testing along with my home inspection but on the property after finding there is already mitigation system. He did not charge for not doing radon testing.  100% recommended. And price is absolutely reasonable.
+>
+> 5★ · Saad Liaqat Ali · 4 months ago
 
 > Josh was easy to communicate with and thorough with every aspect of our inspection. He was on time and professional. Would recommend him to anyone.
 >
-> 5★ · Jessica Moreno · 3 months ago
+> 5★ · Jessica Moreno · 4 months ago
 
-> Just had a home inspection with Josh today. He was great. Very thorough and answered all questions I came up with. He was kind to me and my dad who tagged along! Very happy with the experience.
->
-> 5★ · Angela Karpieniak · 4 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

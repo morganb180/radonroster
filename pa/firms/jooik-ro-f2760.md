@@ -16,19 +16,21 @@ Carlisle, PA · Cumberland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2760): your request goes to Jooik Ro and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 16 reviews · [Reviews on Google](https://maps.google.com/?cid=15272608683196127994&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > We can't recommend Jooik highly enough. He is one of the few professionals in the area who advertises radon remediation and is actually licensed by the state to do radon remediation, which I wish we would have realized earlier.  The difference in professionalism is striking. The first radon…
 >
-> 5★ · Ann Stromgren · 8 months ago
+> 5★ · Ann Stromgren · 9 months ago
 
 > Top notch. I've had fantastic experiences with Joo Ik Ro for many radon tests and mitigations. They were incredibly timely, showing up exactly when scheduled, and completed the work efficiently. Highly professional throughout the process, clearly knowledgeable, and respectful of the spaces…
 >
 > 5★ · Dave Fleming · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,21 @@ Newtown, PA · Bucks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3383): your request goes to Bradley Longosky and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 96 reviews · [Reviews on Google](https://maps.google.com/?cid=1014681326867559115&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Bradley did a thorough job, explained findings to us, and provided a detailed report. The information was very useful to help us make repairs and be aware of items to monitor in the future. It was easy to schedule and he was prompt and professional.
+> We had a great experience with Bradley Home Inspections. They were professional, thorough, and helpful throughout the inspection process. They took the time to explain everything clearly and made us feel more confident about our home purchase. We highly recommend Bradley Home Inspections to…
 >
-> 5★ · Lauren Xu · 4 months ago
+> 5★ · A B · a month ago
 
-> Our realtor recommended Brad and he was wonderful to work with for our inspection. Brad was communicative and detailed throughout his time with us. As we walked the property with him he made everything easy to understand and provided great solutions. He very accommodating to the buyers and…
+> I highly recommend Bradley Home Inspections! After working in real estate for 12 years, flipping several homes myself, and working closely with contractors, plumbers, HVAC professionals, and electricians, I have developed a pretty good understanding of what to look for in a home inspection — and…
 >
-> 5★ · Steve Burger · 4 months ago
+> 5★ · Jackie Jumper · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

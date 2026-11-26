@@ -16,19 +16,21 @@ Mount Bethel, PA · Northampton County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3386): your request goes to Derek Pragle and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=14211856176658404040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=14211856176658404040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Enjoyed working with Derek for our septic inspection. He was very thorough and informative throughout the process. Thank you!
+>
+> 5★ · Matthew Conroy · a month ago
 
 > Really nice guy to talk to, which these days makes all the difference. He does thorough work and makes it easy for the customer to understand exactly what’s going on as well as ask any questions. I’ll be referring anyone I know Derek’s way. Highly recommend.
 >
 > 5★ · Patrick Walden · 2 years ago
 
-> Derek is the definition of a responsive professional providing an in-depth review with easy to understand meanings of the results.  We now have the understanding of our purchase as well as ideas about future work/ improvements.
->
-> 5★ · Wayward Analysis · 3 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

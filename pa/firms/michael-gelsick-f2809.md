@@ -16,19 +16,21 @@ Saint Marys, PA · Elk County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2809): your request goes to Michael Gelsick and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 52 reviews · [Reviews on Google](https://maps.google.com/?cid=10864574504437134585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > I’m very pleased with my home inspection report and plan on getting the repairs as mentioned.  Im not sure which box to check below.
 >
-> 5★ · marian steis · 3 months ago
+> 5★ · marian steis · 4 months ago
 
 > Mike was extremely friendly and professional throughout this entire process. He replied quickly, answered all of our questions, and provided us with a detailed and informative report at the end of the inspection. We had a great experience, and I highly recommend their services!
 >
-> 5★ · Kaitlynn Thompson · 10 months ago
+> 5★ · Kaitlynn Thompson · 11 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

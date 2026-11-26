@@ -12,19 +12,21 @@ Philadelphia, PA · Philadelphia County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3458): your request goes to Rvs Radon Mitigation, LLC. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 121 reviews · [Reviews on Google](https://maps.google.com/?cid=16678611192656778948&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 125 reviews · [Reviews on Google](https://maps.google.com/?cid=16678611192656778948&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> One word. Wow. From beginning to end. The phone call, the consultation, the scheduling, the installation, the payments, everything was amazing.  We are so happy with how everything turned out and I highly, highly recommend this company for all your Radon needs!  They get one of my rare 5.0 ratings!
+> RVS Radon did a great job from start to finish. I needed mitigation done quickly for home closure and they came out within a day to quote and did the job within a week. Job looked professional and cleaned up everything. Job well done.
 >
-> 5★ · Hulk · 5 months ago
+> 5★ · Michael Harvey · in the last week
 
-> RVS installed our radon mitigation system.  From the consultation to installation they were very thorough, thoughtful and caring.  They sent a complete diagram and reviewed every step.  The installation crew was professional, neat, and knowledgeable.  The install was exactly the timing they set…
+> Impressed with their professionalism, design ideas, hassle free installation and mitigation results! Highly recommended for any family.
 >
-> 5★ · Susan Brennan (Susan Brennan) · 5 months ago
+> 5★ · Jonathan Slomka · in the last week
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

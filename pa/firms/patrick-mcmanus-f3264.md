@@ -16,15 +16,17 @@ North Huntingdon, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3264): your request goes to Patrick Mcmanus and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=6830486869846432631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Pat from A Close Look Home Inspections did a wonderful job coordinating and performing a home inspection for a new home build. He was very responsive through both email, text, and phone calls. His work was diligent and detailed via a report with pictures sent the same evening of the inspection…
 >
-> 5★ · Michael Whitico · in the last week
+> 5★ · Michael Whitico · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

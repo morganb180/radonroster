@@ -12,19 +12,21 @@ Willow Street, PA · Lancaster County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3747): your request goes to Jk Mechanical Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 1448 reviews · [Reviews on Google](https://maps.google.com/?cid=17663461867423712998&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 1,468 reviews · [Reviews on Google](https://maps.google.com/?cid=17663461867423712998&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> The team who replaced our HVAC system (Tyler, David and Zavian) were great to work with.  They were professional, friendly and knowledgable.  Having them in our home was comfortable at all times.  They took time to make certain we understood the system before they finished.  Overall it was a…
+> After spending a couple of overnight hours hosting some of our dedicated local volunteer firefighters who urged us to get our furnace serviced first thing in the morning, JK Mechanical got back to us right at the start of business for a morning service call.  Mark reached out to give a more…
 >
-> 5★ · Susan Ranck · 2 months ago
+> 5★ · Sarah Roberts · 3 weeks ago
 
-> JK Mechanical installed a tank less water heater flawlessly. Chris and Jared were great. Explained everything perfectly and were very professional. Cleaned up the mess and made sure they always had their boot covers on. We will always use JK Mechanical for all of our water and HVAC needs.
+> JK installed the ground-source heat pump when I had this house built 10 years ago. Since then they have provided the semi-annual preventative maintenance. The technician have all been great. JK obviously treats their employees fairly. I am a very satisfied customer.
 >
-> 5★ · william faust · 2 months ago
+> 5★ · Stephen Marone · 4 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

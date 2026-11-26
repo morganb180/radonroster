@@ -16,19 +16,21 @@ Alburtis, PA · Berks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2885): your request goes to Piotr Podolecki and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 26 reviews · [Reviews on Google](https://maps.google.com/?cid=17964588371798008878&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 29 reviews · [Reviews on Google](https://maps.google.com/?cid=17964588371798008878&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Very knowledgeable.personable.  Excellent at installing the unit. Tries to make it has nice as can be. He cleans up before he leaves. No debris  Reasonable pricing.  I totally recommend them. I sent him my sons way and he did a unit for him as well  Very Happy with his workmanship.
+> We had a great experience working with Peter on our New radon system. From start to finish, the service was excellent. He was knowledgeable, punctual, professional, and friendly. He took the time to explain everything clearly, answered all of our questions, and made sure the work was done…
 >
-> 5★ · HM · 2 months ago
+> 5★ · Danitza · a week ago
 
-> The best - a pleasure to work with. All around great experience working with Radon Gone & very happy with results!
+> Highly recommend! Long story short, I have hired Peter for two different projects- both radon remediation. I am impressed by his professionalism, know-how, and the result. Radon readings prior to installation were around 10. Now they are below 1.
 >
-> 5★ · Vlad Dokhvat · 3 months ago
+> 5★ · I · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

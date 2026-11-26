@@ -12,19 +12,21 @@ Tannersville, PA · Monroe County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2303): your request goes to A R M Environmental LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.3 out of 5 from 23 reviews · [Reviews on Google](https://maps.google.com/?cid=14516502663761578489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> Very professional. They were very knowledgeable. They were on time and finished ahead of schedule. Left everything clean and came in at the estimated price. My radon was reduced 99 percent in 24 hours. Would definitely recommend.
+>
+> 5★ · Cary Mclaughlin · 7 months ago
+
 > Recommended. Really good communication from initial contact to completion. Appreciated the in-person assessment. Actual installation was completed in two days and all aspects of work were clearly explained.
 >
-> 5★ · maria giuliani · 8 months ago
+> 5★ · maria giuliani · 9 months ago
 
-> Greg installed a radon fan at our home and was quick, professional, and knowledgeable. I would recommend his services to anyone in the area as they were great. Thank you!
->
-> 5★ · Deanna · 9 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

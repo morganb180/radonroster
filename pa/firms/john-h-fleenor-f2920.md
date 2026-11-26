@@ -16,19 +16,21 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2920): your request goes to John H. Fleenor and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.4 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=4008900872397004332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=4008900872397004332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > John is very personable and a great inspector. He taught me several things as we walked through the property and made it easy for me to understand the long-term implications of each issue. I appreciated his demeanor, skillset, and knowledge. I would recommend Citywide to anyone in the PGH area.
 >
-> 5★ · Cal · 5 months ago
+> 5★ · Cal · 6 months ago
 
 > John was very responsive when I reached out. He probably could charge more given how detail oriented and thorough he is. He spoke to me about the improvements and priorities I have so that he could include those in his assessment. The report was sent within 24 hours of completing the inspection…
 >
-> 5★ · Sarah Wonders · 7 months ago
+> 5★ · Sarah Wonders · 9 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

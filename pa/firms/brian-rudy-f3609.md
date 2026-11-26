@@ -16,19 +16,21 @@ Middletown, NY · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3609): your request goes to Brian Rudy and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 30 reviews · [Reviews on Google](https://maps.google.com/?cid=15205065152646172146&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 34 reviews · [Reviews on Google](https://maps.google.com/?cid=15205065152646172146&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I had a great experience with my pre-purchase home inspection. As a first-time homebuyer, I really appreciated how professional and thorough the Brian was. He arrived early, took the time to walk me through the inspection, and answered every question I had in a way that was easy to understand.…
+> It was a pleasure working with Brian. He returns phone calls, he replies to text, and he actually shows up when he says he does. It has been such a pleasure dealing with him for business. He is quick and got a report in same day and had everything set up. He is kind and he is 100% for his…
 >
-> 5★ · Madison Gonzalez · 2 months ago
+> 5★ · Tiffany Aja · in the last week
 
-> If I could give more than 5 stars, I absolutely would. From start to finish, the inspection was incredibly thorough, professional, and informative. Every part of the home was inspected with great attention to detail, and nothing felt rushed. What impressed me most was how clearly everything was…
+> We hired Brian O. Rudy Jr. from INSPXPRO HOME INSPECTIONS for a pre-purchase home inspection and received a very detailed and impressive inspection report! Thanks to Brian’s thorough inspection, we now have a much better understanding of the property and its condition. Thank you so much, Brian,…
 >
-> 5★ · Betsy Russell · 2 months ago
+> 5★ · June Tang · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

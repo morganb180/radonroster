@@ -12,19 +12,21 @@ Emmaus, PA · Lehigh County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3446): your request goes to Cda Inspection Services and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 600 reviews · [Reviews on Google](https://maps.google.com/?cid=8126979861002242184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 616 reviews · [Reviews on Google](https://maps.google.com/?cid=8126979861002242184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> CDA Inspection Services is an exceptional business that I would highly recommend for your home inspection needs. As first time home buyers, my husband and I went into the process a little nervous and armed with ample questions. Our inspector, Eric, didn’t hesitate to answer all our concerns, and…
+> CDA was recommended to me by a family member who carefully researched local inspection companies. I'm glad I went with the recommendation. CDA is a remarkable and highly professional company with great customer service, communication, scheduling, and access to a real person! The inspector…
 >
-> 5★ · Rachel K · a month ago
+> 5★ · Lewis Speech · in the last week
 
-> CDA Inspections provided a great experience from start to finish. The team was professional, thorough, and easy to work with. A special thank you to Deanna, the secretary, who was incredibly kind, helpful, and welcoming. She was always pleasant, answered questions promptly, and made the entire…
+> Sean did a wonderful job with my septic inspection. He was very knowledgeable and explained everything to me in depth. Was very kind and personable. Just from talking with him for a few moments I knew he was an honest caring man who genuinely cared about doing he’s job which reassured me since I…
 >
-> 5★ · Nicole Landis · 2 months ago
+> 5★ · Rebecca · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -12,15 +12,21 @@ Atlanta, GA · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1614): your request goes to Radalink, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.2 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=7287125505239776282&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.3 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=7287125505239776282&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> I'm a Florida Dept. of Health Certified Radon Measurement Specialist, and I've been using the Radalink AirCat continuous radon monitor (CRM) for about 15 years. During that time, the AirCat has consistently proven to be a reliable and accurate radon monitor, and Radalink has provided excellent…
+>
+> 5★ · M Flemming · 4 weeks ago
 
 > My wife and I own a lakefront property in, Ohio, which we put on the market in mid-September 2024. On September 23, we accepted an offer at the end of the season which was well over offer. The initial inspections were completed on September 26, and the buyers approved the property pending radon…
 >
-> 1★ · Greg McNeil · a year ago
+> 1★ · Greg McNeil · 2 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

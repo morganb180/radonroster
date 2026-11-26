@@ -16,19 +16,21 @@ Erie, PA · Erie County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3016): your request goes to Michael Parenti and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=17311310302963984915&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Mike does a great job. Very fair, responsible and finishes in a timely manner.
 >
-> 5★ · Rosanna Esper · 8 months ago
+> 5★ · Rosanna Esper · 9 months ago
 
 > Mike couldn’t have been more efficient in his work, very neat and personable. Pricing more than fair.
 >
-> 5★ · Carrie Cardo · 8 months ago
+> 5★ · Carrie Cardo · 9 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

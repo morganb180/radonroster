@@ -16,19 +16,21 @@ Milford, PA · Pike County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1880): your request goes to Randy Knesnik and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=1211233048359694455&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=1211233048359694455&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Very responsive and reasonably priced. They came out quickly and fixed our radon system that was installed by another contractor.
+>
+> 5★ · Mike Kusmann · a month ago
 
 > Very professional,  on time works clean leaves clean priced correctly would definitely recommend.  Also takes his time to answer questions qith out the usual attitude that most contractors here have :) Redon levels went from 8.2 to 0.3 in one day .
 >
-> 5★ · Vladislav Belenky · 3 months ago
+> 5★ · Vladislav Belenky · 4 months ago
 
-> Randy, very professional,  precise workmanship.  Very polite. With Randy there is no fooling around, the minute he arrived he hit the ground running.  We hired him to install a radon mitigation system and the install looks and works great. Pricing was affordable.  In fact cheaper than a few of…
->
-> 5★ · Peter Keough · a year ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

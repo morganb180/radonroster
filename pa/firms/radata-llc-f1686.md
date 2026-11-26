@@ -12,19 +12,21 @@ Flanders, NJ · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1686): your request goes to Radata, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 2695 reviews · [Reviews on Google](https://maps.google.com/?cid=5739024405259229585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 2,702 reviews · [Reviews on Google](https://maps.google.com/?cid=5739024405259229585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> The water softener was installed by RA Data before I bought the house, so I can’t speak to the installation. However, I’ve used them every year for the annual maintenance and have had exactly 0 problems since I moved in. I really appreciate the GPS tracker once the technician is on their way,…
+> John F., Jacob and Rocco did a great job on our radon system but just as importantly they were the most utmost professionals; explaining everything during the process. They were courteous, friendly and thorough. They also did a great job cleaning up after the job. It’s so refreshing to see…
 >
-> 4★ · Patrick Kearney · a month ago
+> 5★ · cathy burd · a month ago
 
-> I recently had RAdata.LLC to install a radon fan in my home. The technicians were very patience, understanding, polite and knowledge of the product that were installing. They took the time to explain to me all the process of what they were doing. Plus, the Office staff were so patience with me…
+> I cannot recommend RAdata enough. I urgently needed an expedited well water test, and their team went completely above and beyond to accommodate the rush. They were incredibly professional, communicated clearly, and delivered the official paperwork exactly when promised. If you need fast,…
 >
-> 5★ · Leticia Wilson · 2 months ago
+> 5★ · Maria Makarova · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

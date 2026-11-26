@@ -16,19 +16,21 @@ Clifford Townshi, PA · Susquehanna County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3359): your request goes to James Brownell and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 293 reviews · [Reviews on Google](https://maps.google.com/?cid=10867961355447904768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 292 reviews · [Reviews on Google](https://maps.google.com/?cid=10867961355447904768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Had an excellent experience with this home inspector from start to finish. Jim was extremely thorough, knowledgeable, and professional. He took the time to carefully inspect the home and clearly explained his findings, answering all of our questions throughout the inspection process. The…
+> Jim was prompt, knowledgeable, professional, and friendly. I felt confident taking ownership of the house after Jim walked me through all of it's systems and showed me what to look out for. He took the time to explain things thoroughly and was patient with my questions. Thank you for helping me…
 >
-> 5★ · Joshua M · 2 months ago
+> 5★ · Diana · in the last week
 
-> Clearview Inspections is an amazing company, great pricing, thorough findings and customer service was exceptional. Jim was able to get us an appointment quickly and accommodate our schedule. He was thorough in the inspection of the house we were interested in buying. His report was detailed,…
+> Jim performed a full septic inspection for us on a property we’re purchasing as part of our Agreement of Sale a few days ago. Being from more urban-type areas, my husband & I had always had homes with public sewer so making the change over to septic was a bit intimidating for us. Jim was helpful…
 >
-> 5★ · Elizabeth Lawless · 2 months ago
+> 5★ · Michelle Toughill · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

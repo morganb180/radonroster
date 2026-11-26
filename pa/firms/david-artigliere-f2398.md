@@ -16,19 +16,21 @@ Reading, PA · Berks County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2398): your request goes to David Artigliere and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 81 reviews · [Reviews on Google](https://maps.google.com/?cid=11266647415786167116&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 83 reviews · [Reviews on Google](https://maps.google.com/?cid=11266647415786167116&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Overall, very solid. David’s knowledge and experience was outstanding. He explained everything as we walked through the house and is one of the best inspectors my wife and I could have ever asked for. Also, my father in law was with us and he is a very observant man, by the end my father in law,…
+> David is a fantastic inspector. He was thorough, patient, and answered all my questions as I walked through the house during the inspection. Would use ARTI again for sure!
 >
-> 5★ · Gary Eaton · 4 months ago
+> 5★ · Jack Ford · a week ago
 
-> By far the most thorough home inspection I have ever been a part of.  David did a phenomenal job picking apart and going into great detail to show every possible concern he could find.  He also took the time to answer my questions and explain things that the home has that I was not familiar…
+> I have used ARTI multiple times for multiple different home purchases.  I've been very pleased with the communication and the flexibility and most importantly the quality of work.  Attention to detail is the most important thing for a home inspection because obviously they have found things that…
 >
-> 5★ · Devin Geist · 5 months ago
+> 5★ · Andrew Bruno · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -1,6 +1,6 @@
 ---
 title: "Armored Home Inspections, Pottstown PA: Radon Testing"
-description: "Armored Home Inspections, LLC (Pottstown, Montgomery County) is PA DEP-certified for radon testing, 3 certified people. Google 5.0 from 282 reviews. DEP cert IDs, free quote."
+description: "Armored Home Inspections, LLC (Pottstown, Montgomery County) is PA DEP-certified for radon testing, 3 certified people. Google 5.0 from 283 reviews. DEP cert IDs, free quote."
 canonical: https://radonroster.com/pa/firms/armored-home-inspections-llc-f2495/
 ---
 
@@ -12,19 +12,21 @@ Pottstown, PA · Montgomery County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2495): your request goes to Armored Home Inspections, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 282 reviews · [Reviews on Google](https://maps.google.com/?cid=1182345417780268051&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 283 reviews · [Reviews on Google](https://maps.google.com/?cid=1182345417780268051&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Curtis and his team were PHENOMENAL. 10/10 would recommend. They were prompt with their arrival and thorough with their inspections. We were able to ask questions and have the answers explained to us in a language we could understand. Curtis was helpful, informative, and most importantly, we…
+>
+> 5★ · Sarah Ingram · a month ago
 
 > This is a family run business that we've used 3 times for home inspections over the past year. Responsive, professional, and incredibly knowledgable and full of helpful advice. Curtis helped us 1) avoid buying a flip that looked good but had some potential hidden issues 2) market our house with…
 >
-> 5★ · Cara Dixon · 3 months ago
+> 5★ · Cara Dixon · 4 months ago
 
-> I highly recommend Armored Home Inspections for their exceptional service! They are thorough, professional, and provide outstanding customer service. Curtis’s keen eye and extensive experience offer a great sense of comfort throughout the home inspection process. If you’re considering purchasing…
->
-> 5★ · M Gilbert · 5 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

@@ -16,15 +16,17 @@ Union, PA · Union County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3683): your request goes to Seth Kerstetter and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-2.7 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=5965365357601037902&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+3.0 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=5965365357601037902&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Why do the people who work for SEDA not call you back????? I’ve been waiting over a month for a call back for information. So far their mission statement is far from reality!
 >
-> 1★ · sharon pauline · 4 months ago
+> 1★ · sharon pauline · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

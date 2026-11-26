@@ -12,19 +12,21 @@ Chambersburg, PA · Franklin County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8846): your request goes to Baxter Environmental and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.6 out of 5 from 60 reviews · [Reviews on Google](https://maps.google.com/?cid=10090432643271433374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.6 out of 5 from 62 reviews · [Reviews on Google](https://maps.google.com/?cid=10090432643271433374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Quick, efficient with the asbestos removal, friendly technicians and all very clean work. Would not hesitate to book services with Baxter again.
+>
+> 5★ · Harold Eugene · 2 weeks ago
 
 > We had a great experience with Baxter Environmental for mold remediation. Their team was professional, knowledgeable, and responsive throughout the entire process. They communicated clearly, completed the work efficiently, and gave us confidence that the job was done right. As a commercial real…
 >
-> 5★ · Crystal Pheulpin · 2 months ago
+> 5★ · Crystal Pheulpin · 4 months ago
 
-> The crew worked very hard throughout the morning and early afternoon.  Their care and concern for my wood floors throughout was quite evident - they laid down runners and were especially careful as they moved from room to room.  Definitely recommend Baxter!!
->
-> 5★ · Billie “Bugs” Dunlap · 10 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

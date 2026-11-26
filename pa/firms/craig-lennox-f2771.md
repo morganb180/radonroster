@@ -16,19 +16,21 @@ Trooper, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2771): your request goes to Craig Lennox and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=13484996161617473652&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Some people are better suited as employees than owners. Terrible attitude, and I'm being nice about my experience.
 >
-> 1★ · Miciah T · 9 months ago
+> 1★ · Miciah T · 11 months ago
 
 > Craig did a great job on my house inspection. He was professional, knowledgeable, and always willing to explain the details of what he was talking about so I could understand. In the face of difficulties he proved stalwart, maintaining an air of dry humor and well-directed information to some…
 >
 > 5★ · Colin Eardley · 5 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

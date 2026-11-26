@@ -14,19 +14,21 @@ Melbourne, FL · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3684): your request goes to Sunlabs and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.8 out of 5 from 16 reviews · [Reviews on Google](https://maps.google.com/?cid=3558640108593829959&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > I have 6 sun radon units, and have been with this company for years, the customer service is disappointing. I filled out an online request and left a message for a call back. Four days has passed, no reply. You will not talk with a person if you call, you are at their mercy for a call back. I…
 >
-> 1★ · Home Appeal Inspections · 7 months ago
+> 1★ · Home Appeal Inspections · 8 months ago
 
 > I have been using SunRadon for radon monitor calibrations.  Their online system is very easy to navigate and Dennis is top notch with customer service. I highly recommend them!
 >
 > 5★ · Marc Shanley · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

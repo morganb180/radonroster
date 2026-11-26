@@ -12,19 +12,21 @@ Gettysburg, PA · Adams County · 5 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0275): your request goes to Radon Protection Services Of Gettysburg and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=7981888953015397391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Matt was very kind and helpful, thank you!
 >
-> 5★ · Victoria D · 8 months ago
+> 5★ · Victoria D · 9 months ago
 
 > Excellent and knowledgeable service. Thank you for your expertise.
 >
 > 5★ · Flora Whipple · 3 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

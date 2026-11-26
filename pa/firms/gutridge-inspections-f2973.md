@@ -12,19 +12,21 @@ Pottstown, PA · Chester County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2973): your request goes to Gutridge Inspections and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 110 reviews · [Reviews on Google](https://maps.google.com/?cid=5660653399495045412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 111 reviews · [Reviews on Google](https://maps.google.com/?cid=5660653399495045412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Charlie was incredibly knowledgeable, thorough, and had a fantastic attitude ("everything can be fixed!"). Home inspections can be daunting and overwhelming. Do yourself a favor and have your home inspected by Charlie Gutridge.  He will make it as favorable - and fun - an experience as he can.
+> Charlie was very thorough explaining everything he saw to my wife, who was on site for part of the inspection. He provided us with the report the same day as inspection. He also was very professional in handling pushback from the seller’s side of the family.
 >
-> 5★ · V Mil · 5 months ago
+> 5★ · Matt Haman · a week ago
 
-> Charlie performed my client’s septic inspection. He took the time to really understand the system as well as educate my client. 10/10 and would recommend again.
+> We used Gurtridge twice now for water and Radon testing! Charlie was great. Very knowledgeable on the two topics. Would highly recommend them to anyone!
 >
-> 5★ · Connor Gorman · 6 months ago
+> 5★ · Frank Cocco · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

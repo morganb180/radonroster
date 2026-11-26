@@ -12,19 +12,21 @@ Bellefonte, PA · Centre County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3484): your request goes to Mckee Environmental, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 45 reviews · [Reviews on Google](https://maps.google.com/?cid=7278410898907217328&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Our radon fan was 20 years old and making a lot of noise. On the phone they said, “It probably still works, it’s just loud.” No pressure, no scare tactics, they didn’t try to create a false sense of urgency. They gave us a quote over the phone and they swiftly replaced it. There was no upsell or…
 >
-> 5★ · Raja K · 5 months ago
+> 5★ · Raja K · 6 months ago
 
 > Doug and his team were incredibly professional and considerate. They made sure the job was sufficient for my home's needs. No complaints on my end. None. And some wonderful humor too! I would definitely recommend them. ✌️
 >
-> 5★ · Peggy Newel · 6 months ago
+> 5★ · P. Newel · 7 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

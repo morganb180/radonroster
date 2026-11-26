@@ -16,19 +16,21 @@ Woolrich, PA · Clinton County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1712): your request goes to Gregory Hancock and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.3 out of 5 from 12 reviews · [Reviews on Google](https://maps.google.com/?cid=9720174041945810830&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Getting spam emails from this business, they are forwarding me information from people using their company. I don’t even live in the US. This is the second time they have emailed me. I’ve never even heard of this business before, nor do I have a home for inspecting
+>
+> 1★ · Marissa · 2 months ago
 
 > Vickie and Greg are the absolute best! I've had them do all 3 of my home inspections and they are thorough, fast, and so kind! Not enough good things to say about every interaction!
 >
 > 5★ · Mikaela H · a year ago
 
-> Would HIGHLY recommend Greg and Vickie at Hancock Home Inspections.  I never imagined this process to be stress free but they ensured that it was!  Vickie had our inspections scheduled right away and was very responsive with all of our questions/concerns.  Greg is knowledgeable, thorough,…
->
-> 5★ · Aubrey Malloy · 4 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

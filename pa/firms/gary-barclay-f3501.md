@@ -16,19 +16,21 @@ Watsontown, PA · Northumberland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3501): your request goes to Gary Barclay and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 25 reviews · [Reviews on Google](https://maps.google.com/?cid=9953390101582953943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 27 reviews · [Reviews on Google](https://maps.google.com/?cid=9953390101582953943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Gary was kind, honest and extremely helpful during the home inspection process. He was thorough with his pictures and notes, making it easy to understand what repairs need done to my home. I would recommend him to anyone buying a home!
+> Gary was very professional and very thorough. He take's his time and talk's with you explaining thing's he see's and will give recommendations on maintenance items and preventive maintenance as well. He knows exactly what to look for plus some. I would recommend Gary to any person who is looking…
 >
-> 5★ · Baleigh Dunkleberger · 2 months ago
+> 5★ · Clayton Stahl · 2 weeks ago
 
-> Gary did a great job! He was very thorough and took his time inspecting the entire house. As we followed him during the inspection, he answered all of our questions and gave us recommendations for repairs and maintenance. He was also very personable and responded promptly to our calls and…
+> We had 3 inspections performed by Gary Barclay: residential, radon, and WDI prior to our purchasing a home.  We were very pleased with Gary.  He was very professional, helpful, and courteous.  He explained everything in detail and it was extremely easy to ask him questions.  He also said he…
 >
-> 5★ · Jeremy Martin · 4 months ago
+> 5★ · Barbara · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

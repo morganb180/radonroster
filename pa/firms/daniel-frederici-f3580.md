@@ -16,19 +16,21 @@ Forest City, PA · Wayne County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3580): your request goes to Daniel Frederici and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 153 reviews · [Reviews on Google](https://maps.google.com/?cid=17927136487461664726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 156 reviews · [Reviews on Google](https://maps.google.com/?cid=17927136487461664726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Dan is the best! He took his time to check every area of the house as well as took the time to explain items I didn’t understand. I would highly recommend him to anyone for a home inspection! I’ve been apart of 2 other home inspections in the last 2 years and Dans work far surpassed the others.
+> Daniel was awesome to work with. Very thorough and knowledgeable. Explained everything he was seeing in great detail and gave me some tips to improve certain aspects of the property. Looking forward to working with him again for annual maintenance inspections.
 >
-> 5★ · MattKelly Tucker · a month ago
+> 5★ · John Grey · a month ago
 
-> It was a great benefit having Daniel inspect my soon-to-be new home. He was thorough, knowledgeable, and very informative. On a personal note, he was very personable and was very willing to answer any questions we had. I would strongly recommend him as we were very satisfied with his services.
+> Don't look any further Dan is the man. Dan is very professional was very prompt and very thorough with his inspection. He answered all my questions and was very prompt and answering my phone calls or texts messages. He was very prompt on presenting his report and the report was very easy to read…
 >
-> 5★ · Elena Mou · 2 months ago
+> 5★ · David Morton · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,21 @@ Pine Grove, PA · Schuylkill County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3179): your request goes to Ryan Reichert and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 80 reviews · [Reviews on Google](https://maps.google.com/?cid=11290475231279395022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Ryan did an inspection on the first home my husband and I were purchasing. Not only was he great to talk to, but his inspections were as thorough as can be! We will definitely be using him again!
 >
-> 5★ · Sam · 4 months ago
+> 5★ · Sam · 5 months ago
 
 > Ryan was very thorough with the inspection.  Took plenty of pictures and explained everything that needed attention or fixed immediately.  He was on time, very respectful and his prices are reasonable.  I would highly recommend Ryan for a home inspection before buying.
 >
 > 5★ · Janet Myro · 6 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

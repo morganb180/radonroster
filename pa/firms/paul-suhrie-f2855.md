@@ -16,19 +16,21 @@ East Stroudsburg, PA · Monroe County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2855): your request goes to Paul Suhrie and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 50 reviews · [Reviews on Google](https://maps.google.com/?cid=18191554481818908198&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 52 reviews · [Reviews on Google](https://maps.google.com/?cid=18191554481818908198&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ I cannot recommend PRS Home Inspection highly enough. I was incredibly impressed by the knowledge, professionalism, and sharp attention to detail displayed by both Paul and Lenny throughout the inspection process.  Their experience and keen eyes proved invaluable. Before purchasing my…
+> As a real estate agent, I always recommend Lenny to my clients for their home inspections. He’s professional, takes the time to answer questions, and explains his findings in a way buyers can understand. I appreciate the care he shows my clients, and I feel confident recommending him to anyone…
 >
-> 5★ · Raminder Bajwa · 2 months ago
+> 5★ · Robin Bovell · in the last week
 
-> Lenny was very professional and very knowledgeable. And very thorough. Would recommend him to anyone needing a home inspection. Lenny did my complete inspection from water to radon to electrical , exterior and interior. I’m adding this bc it isn’t on the list to pick from 100% satisfied!
+> Lenny from PRS Home Inspection was exceptionally thorough and professional. He took the time to explain every detail, and his comprehensive report gave me total confidence in my purchase. Highly recommend!
 >
-> 5★ · Dell Larcom · 3 months ago
+> 5★ · Irv Ace (IamONE) · 2 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

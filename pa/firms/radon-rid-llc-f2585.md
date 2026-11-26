@@ -1,6 +1,6 @@
 ---
 title: "Radon-Rid LLC, Phoenixville PA: Radon Mitigation & Testing"
-description: "Radon-Rid LLC (Phoenixville, Montgomery County) is PA DEP-certified for radon mitigation and testing. Google 4.7 from 58 reviews. DEP cert IDs, contacts and a free quote."
+description: "Radon-Rid LLC (Phoenixville, Montgomery County) is PA DEP-certified for radon mitigation and testing. Google 4.7 from 59 reviews. DEP cert IDs, contacts and a free quote."
 canonical: https://radonroster.com/pa/firms/radon-rid-llc-f2585/
 ---
 
@@ -12,19 +12,21 @@ Phoenixville, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2585): your request goes to Radon-Rid LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.7 out of 5 from 58 reviews · [Reviews on Google](https://maps.google.com/?cid=18132363498274617653&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.7 out of 5 from 59 reviews · [Reviews on Google](https://maps.google.com/?cid=18132363498274617653&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Very professional and fast. Not pushy about next steps, felt truly dedicated to ensuring my family was safe. Would recommend!
+> Marc did a great job! Professional clean install and very knowledgeable. Great results just 3 days post install (see pictured readings).
 >
-> 5★ · Morgan Sannes · 6 months ago
+> 5★ · Brody Nesemann · 2 weeks ago
 
 > Service was phenomenal. I sent an inquiry for a fan replacement since it was on its way out. Mike was very responsive, walked me through identifying the make & model, and ordered the replacement fan within a day. He updated me throughout the process and was able to schedule service within a…
 >
-> 5★ · Annie · 6 months ago
+> 5★ · Annie · 8 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

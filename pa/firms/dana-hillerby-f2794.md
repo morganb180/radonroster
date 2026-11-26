@@ -16,6 +16,7 @@ Hatfield, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2794): your request goes to Dana Hillerby and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.3 out of 5 from 7 reviews · [Reviews on Google](https://maps.google.com/?cid=15806491987893067661&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -26,9 +27,10 @@ Hatfield, PA · Montgomery County · 1 certified person
 
 > Dana with Suburban Home Inspection was great. Thorough and efficient. Helped explain aspects of the home to us as first time buyers and things to mindful of but were not necessarily an issue. Would recommend and use again.
 >
-> 5★ · Stefan Shoup · 5 years ago
+> 5★ · Stefan Shoup · 6 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

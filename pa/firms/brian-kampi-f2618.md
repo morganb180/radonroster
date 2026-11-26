@@ -16,19 +16,21 @@ Mars, PA · Butler County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2618): your request goes to Brian Kampi and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.3 out of 5 from 12 reviews · [Reviews on Google](https://maps.google.com/?cid=18053096236969029559&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Brian does a fantastic job!! He is very thorough and knowledgeable, he takes time to answer any question you have. I wouldn't use anyone else and would recommend him to everyone I know!!!
 >
-> 5★ · Deana Rossetti · 2 months ago
+> 5★ · Deana Rossetti · 3 months ago
 
 > This company inspected a home we had for sale. The inspector caused damage to the basement which he didn't report, including  removing and not replacing sealed weatherization items, leaving the electrical panel box open, damaging the basement door handle and breaking the outdoor flap on the…
 >
-> 1★ · Julie Auble · 2 months ago
+> 1★ · Julie Auble · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

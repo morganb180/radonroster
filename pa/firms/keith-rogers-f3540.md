@@ -16,19 +16,21 @@ Douglassville, PA · Berks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3540): your request goes to Keith Rogers and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 50 reviews · [Reviews on Google](https://maps.google.com/?cid=4123491200728933101&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 51 reviews · [Reviews on Google](https://maps.google.com/?cid=4123491200728933101&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Excellent service from start to finish. I received a response very quickly after reaching out, and the entire process was smooth and straightforward. The team was able to diagnose the issue quickly, clearly explain what was happening, and resolve it without any hassle.  What stood out most was…
+> Keith was incredible to work with! He was very communicative through and through. Out of the six companies we were speaking with, Supreme Radon was the ONLY one that stood out. If you need radon mitigation, please call these guys. Their work is pristine and looks VERY clean. You will not regret…
 >
-> 5★ · Ali Elkhatib · 2 months ago
+> 5★ · Yoel · 2 weeks ago
 
-> I now know why Supreme Radon has all 5 stars on every post! Keith contacted me in about 2 hours after I emailed him about our radon removal fan making loud noises. We set up an appointment for the following day. He replaced our fan and made some other needed modifications. Keith kept his…
+> Submitted request via the website and got a call within a few hours! Keith was very informative and friendly. We will definitely be contacting Supreme Radon in the future. Thank you!
 >
-> 5★ · Katy Freeman · 8 months ago
+> 5★ · Jessy Diaz · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

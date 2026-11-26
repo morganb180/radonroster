@@ -16,6 +16,7 @@ Morgantown, WV · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3697): your request goes to John Rossana and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 13 reviews · [Reviews on Google](https://maps.google.com/?cid=17561914493531921539&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -28,7 +29,8 @@ Morgantown, WV · 1 certified person
 >
 > 5★ · Brianna McCardle · 4 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

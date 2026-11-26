@@ -16,19 +16,6 @@ Harrison City, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3660): your request goes to Yvonne Sorovacu and up to 2 other nearby certified pros.
 
-## Google rating
-
-3.8 out of 5 from 26 reviews · [Reviews on Google](https://maps.google.com/?cid=13112917436214761817&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Protect PT is dedicated to the community and the environmental quality for all residents, regardless of whether locally or state wide. The community outreach programs are superb and everyone always felt welcome when I was around.  Protect PT stands up for the community and provides a voice to…
->
-> 5★ · Nyja Brown · 2 years ago
-
-> Protect Pt is a great organization. They are helping to bring common sense to local law makers regarding our health and safety while reaching out to the community and providing educational and engaging opportunities.
->
-> 5★ · Melissa Renwick · 2 years ago
-
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

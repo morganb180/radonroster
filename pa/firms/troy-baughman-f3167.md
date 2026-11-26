@@ -16,19 +16,21 @@ Dubois, PA · Clearfield County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3167): your request goes to Troy Baughman and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 210 reviews · [Reviews on Google](https://maps.google.com/?cid=2364693327352154191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 219 reviews · [Reviews on Google](https://maps.google.com/?cid=2364693327352154191&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Troy and his assistant were prompt, through and provided clear communication throughout the inspection process. This is my second time using Millstone and though I do not intend to purchase another home anytime soon, I would definitely recommend their services for anyone who does.
+> Troy did a great job inspecting the home we are looking to purchase. He kept us in the loop with text messages and emails.  The inspection report was very thorough and included pictures so we could see what he was seeing.
 >
-> 5★ · Corrina Bella · a month ago
+> 5★ · Cbynja · a month ago
 
-> Troy and his team did a thorough inspection and took the time to explain all of the findings to us, giving us the information we needed to move forward with confidence in the home purchase.
+> The most comprehensive and exacting home inspection I have had in over 40 years of needing Home Inspections. No stone was left unturned and every aspect of the house was meticulously evaluated. The final report was superb, easy to read, and very understandable. I highly recommend Toby and his…
 >
-> 5★ · Jared Myers · 2 months ago
+> 5★ · Joe · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,21 @@ Tower City, PA · Schuylkill County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3225): your request goes to Anthony Wilhelm and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 97 reviews · [Reviews on Google](https://maps.google.com/?cid=4173048881739704225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Called Tony to ask for some advice & guidance re: new home construction, and also gain a better understanding of the inspection options. He was a straight shooter, very honest, very helpful, and offered a lot of great information. Very experienced and I appreciated his time.
+> Tony was right on time, very communicative, and helped us understand what he was seeing during our home inspection. The report was thorough, well-written, and prompt. I definitely will call him again for future inspections!
 >
-> 5★ · Helen C · 4 months ago
+> 5★ · derek wamsley · a month ago
 
-> Tony was awesome! Very insightful, willing to answer questions, & went above and beyond to provide excellent service. Our inspection report was received promptly, and all concerns were addressed thoughtfully. Highly recommend!
+> When given a list of potential inspectors I poked around online. When I saw that Home Pro Inspectors offered a Veteran's Discount I knew I would go with them. Not that I qualify for the discount, but that typically it's good people who offer them. Tony lived up to all the praise in his many five…
 >
-> 5★ · Autumn & Timothy Foster · 6 months ago
+> 5★ · AT Seller · 3 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

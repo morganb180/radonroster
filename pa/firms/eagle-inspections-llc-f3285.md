@@ -12,15 +12,17 @@ Croydon, PA · Bucks County · 5 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3285): your request goes to Eagle Inspections LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.2 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=17308625069065063961&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > First and only choice.  Absolutely best experience. The knowledge learned from this experience will not only teach you what to look for when buying a home but how to spot possible repair projects after being in your new home.  Money well spent.
 >
-> 5★ · orlando denny · 4 months ago
+> 5★ · orlando denny · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

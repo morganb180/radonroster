@@ -12,19 +12,21 @@ Duncannon, PA · Perry County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3483): your request goes to Alpha Home Inspections and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 949 reviews · [Reviews on Google](https://maps.google.com/?cid=15241070959931725499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 956 reviews · [Reviews on Google](https://maps.google.com/?cid=15241070959931725499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I had my home inspection today, and I was extremely pleased. With the service i received. The inspector was very knowledgeable , prit, pleasant, and easy to speak with. He took the time to answer every question i had clearly and without hesitation. I appreciated his patience, attention to…
+> I highly recommend Alpha Home Inspection! Nicole led our inspection and did an outstanding job. She took the time to thoroughly inspect the home and explain everything in detail, making sure we understood each finding and what to expect moving forward. Her knowledge and expertise truly shine…
 >
-> 5★ · Marlene Elome · 2 months ago
+> 5★ · Jillian L · a week ago
 
-> I highly recommend Alpha Inspections! Kenny and Nicole were extremely thorough, professional, and knowledgeable throughout the entire home inspection process. They took the time to carefully explain their findings and ensured the buyers fully understood every aspect of the inspection.  Their…
+> Zach from Alpha Home Inspections did an amazing job doing a pre-purchase home inspection and wood destroying insect inspection for me before I bought it. He was thorough with his notes, pictures, & was readily available for any questions/concerns I had. Alpha Home Inspections was priced…
 >
-> 5★ · Betty Jean-Philippe · 3 months ago
+> 5★ · Ashley Harold · 4 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

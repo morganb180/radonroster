@@ -12,19 +12,21 @@ Moon Township, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3663): your request goes to Clarity Home Inspection and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 467 reviews · [Reviews on Google](https://maps.google.com/?cid=10305771246796111965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 481 reviews · [Reviews on Google](https://maps.google.com/?cid=10305771246796111965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I had a pre-inspection done from Thomas yesterday before listing my house this weekend. He is thorough beyond belief! I highly recommend him for sure if you're looking to have a pre-inspection before selling or if you're purchasing a home. He's The Best I've encountered after owning 9 homes for…
+> The team was extremely professional.  Providing last minute adjustments on the day of the inspection, due to me with absolutely no hesitation or missed steps. During the inspection.  They were thorough while providing real time feedback and explanations. After the inspection.  The follow up…
 >
-> 5★ · Diane Klavon · 2 months ago
+> 5★ · Justin Stephens · a week ago
 
-> Clarity Home Inspections was a truly wonderful experience from start to end. Easy to make appointment, Brandon the Inspector was friendly, professional, very helpful and informative.  This is the first time I used them and I, 100%, would again.  $450 for the inspection on a 1600 sq ft home,…
+> I highly recommend Clarity Home Inspection. Brandon did my home inspection. He walked me through ever part of the house and pointed out everything I should be concern about, difficult fixes, and how to best mantain the house. All the information was very helpful for a first time home buyer.…
 >
-> 5★ · Robert Marriott · 3 months ago
+> 5★ · Khalil Parker · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

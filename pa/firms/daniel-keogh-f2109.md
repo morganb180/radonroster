@@ -16,19 +16,21 @@ Phoenixville, PA · Chester County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2109): your request goes to Daniel Keogh and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 184 reviews · [Reviews on Google](https://maps.google.com/?cid=15470758342635074347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 187 reviews · [Reviews on Google](https://maps.google.com/?cid=15470758342635074347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I had a wonderful experience with my home inspection.  The inspector was extremely knowledgeable, thorough, and professional.  He took his time and paid close attention to every detail, which gave me a lot of confidence and peace of mind about my home.  I truly feel that the inspection was worth…
+> Dan was an incredibly helpful and educational inspector during my home walkthrough. Even after identifying several minor issues, his thoroughness left me feeling much more confident in my buying decision. I truly appreciate his professional guidance and would highly recommend his services to…
 >
-> 5★ · Marcyanne Russell · a month ago
+> 5★ · Mason Miller · in the last week
 
-> We highly recommend SunLight inspection services if you need a home inspection report. Daniel was prompt, professional and extremely thorough. His report was very comprehensive and informative. It was laid out very well, many pictures, detailed descriptions and easy to follow recommendations.…
+> Dan was extremely thorough, professional, and knowledgeable throughout the entire inspection.  He took the time to explain his findings, answer all of our questions, and make sure we understood everything we needed to know about the home.  We would recommend him to anyone looking for a home…
 >
-> 5★ · Kathy Vanic · 2 months ago
+> 5★ · Molly Brennan · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

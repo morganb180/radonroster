@@ -1,6 +1,6 @@
 ---
 title: "Pro-Spect Inspection Services: PA DEP Radon Testing (Dover, DE)"
-description: "Pro-Spect Inspection Services Inc (Dover, DE) is on PA DEP's certified radon testing list, with 11 certified people. Google 4.9 from 3,614 reviews. DEP cert IDs, free quote."
+description: "Pro-Spect Inspection Services Inc (Dover, DE) is on PA DEP's certified radon testing list, with 11 certified people. Google 4.9 from 3,691 reviews. DEP cert IDs, free quote."
 canonical: https://radonroster.com/pa/firms/pro-spect-inspection-services-inc-f3402/
 ---
 
@@ -12,19 +12,21 @@ Dover, DE · 11 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3402): your request goes to Pro-Spect Inspection Services Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 3614 reviews · [Reviews on Google](https://maps.google.com/?cid=11765431321052998070&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 3,691 reviews · [Reviews on Google](https://maps.google.com/?cid=11765431321052998070&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Jeremy was absolutely wonderful! He was extremely thorough, professional, and took the time to carefully inspect everything and explain his findings. I truly appreciate how detailed he was and how comfortable he made the whole process. Highly recommend Jeremy for a home inspection!
+> Pro-Spect did an excellent job inspecting my home. They are reasonably priced and will also price match. Alex, my inspector, was super helpful. He even changed a light bulb in my high ceiling that I could not reach per my request after the inspection was completed. I wish inspections were less…
 >
-> 5★ · Kiersten Singh · 2 months ago
+> 5★ · Dawn Bennett · in the last week
 
-> Dylan and ProSpect were very good with communication. They were thorough and did not speak above my head regarding issues or potential issues with my new home. I really appreciate the interaction and look forward to the report. Highly recommend!
+> I I am writing to express my appreciation for the excellent service Pro-spect Inspection Services provided.  Steve recently inspected my house and did a fantastic job. He arrived early, was friendly and prepared, and completed a thorough inspection of the entire property—including the crawl…
 >
-> 5★ · Catherine Mucci · 2 months ago
+> 5★ · Pat K · a week ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

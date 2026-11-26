@@ -16,19 +16,21 @@ Templeton, PA · Armstrong County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3100): your request goes to Robert Morrow and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 281 reviews · [Reviews on Google](https://maps.google.com/?cid=6544846708704071625&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 284 reviews · [Reviews on Google](https://maps.google.com/?cid=6544846708704071625&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> My experience with Rob was fantastic. He gave me a very thorough and detailed report, that ultimately led me to not purchasing a home that would've required a lot of work and issues down the road. He was very quick to send the full report over right after reviewing with me in the home. Walked me…
+> Rob was fantastic to work with. Our realtor (Pam, also great!) referred him to us, and he scheduled our inspection just one day after our offer was accepted. He showed up right on time and took his time with the inspection; he was clearly very thorough and detail-oriented. We arrived as he was…
 >
-> 5★ · Jake Buckley · 3 months ago
+> 5★ · Adrianna I. Acevedo · a month ago
 
-> Rob was fantastic to work with throughout our home inspection process. He was incredibly timely, responsive, and accommodated us by squeezing our inspection into his busy schedule, which we truly appreciated. His inspection was thorough and detail-oriented, taking the time to carefully evaluate…
+> We had a great experience working with Rob! We were on a tight timeline, and he was able to schedule the inspection quickly and turn around the report incredibly fast, which was so helpful throughout the home-buying process.  Rob was extremely thorough and took the time to explain everything he…
 >
-> 5★ · Courtney Cook · 4 months ago
+> 5★ · Lauren Sion · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

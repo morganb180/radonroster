@@ -16,19 +16,21 @@ Kunkletown, PA · Carbon County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2172): your request goes to Marc Shanley and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 290 reviews · [Reviews on Google](https://maps.google.com/?cid=12231874422033957738&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 289 reviews · [Reviews on Google](https://maps.google.com/?cid=12231874422033957738&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> We've had 2 inspections done by Trinity Inspection.  They both were very thorough and extremely timely.  Marc and Valerie were wonderful to work with.  Valerie answered all calls/texts and was very prompt with setting up the inspection in a timely manner.  Marc was superb in the inspection…
+>
+> 5★ · Michael C · 3 months ago
 
 > Stop here - you have found the correct home inspector to hire. I can’t recommend Marc strongly enough. Was he a little bit more expensive than the inspector my realtor recommended? Yes. That being said, his inspection is SO thorough that you’ll ultimately come out way ahead. Marc treats you…
 >
-> 5★ · Brad Frizzell · 3 months ago
+> 5★ · Brad Frizzell · 5 months ago
 
-> I couldn't be happier with my experience with Trinity Inspection. Marc and Valerie were able to fit me into their schedule when a very narrow window window was provided by the seller. Marc was extremely thorough and knowledgeable, and I have no doubt a lot of the issues would've been overlooked…
->
-> 5★ · J M · 4 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

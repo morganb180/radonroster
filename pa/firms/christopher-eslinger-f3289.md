@@ -16,19 +16,21 @@ Lansdale, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3289): your request goes to Christopher Eslinger and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 402 reviews · [Reviews on Google](https://maps.google.com/?cid=3721864898010620643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 406 reviews · [Reviews on Google](https://maps.google.com/?cid=3721864898010620643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Chris was very professional and knowledgeable while he conducted a home inspection for me. He looked at everything in details and provided a clear and understandable explanation. He was very objective and provided an honest and  detailed report that is easy to understand. The report was very…
+> Chris was great for my home inspection. He was thorough and provided information through every step of the inspection. His experience really helped me make tough calls during the home buying process and I really appreciate it
 >
-> 5★ · Yaya Saliu · 3 months ago
+> 5★ · Timothy Nessel · 2 weeks ago
 
-> Chris performed a home inspection for me that included mold, termite, and radon inspections. He was very thorough, thoughtful, and patient, and he took the time to explain his findings clearly. The home had a significant amount of deferred maintenance, and Chris tactfully helped me understand…
+> Chris did an outstanding job giving the home we were purchasing the best possible inspection, but his great service started before the inspection.... He was incredibly accommodating with our schedules, prompt offering information about the process always being professional and kind.  Highly…
 >
-> 5★ · Susan Barney · 4 months ago
+> 5★ · Gabriella Posly · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

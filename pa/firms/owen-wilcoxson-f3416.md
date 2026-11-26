@@ -16,19 +16,21 @@ Erie, PA · Erie County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3416): your request goes to Owen Wilcoxson and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=10311475516105795841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Excellent.
 >
-> 5★ · Anthony · a month ago
+> 5★ · Anthony · 2 months ago
 
 > Owen came by to inspect our home today. Not because we're selling but for our peace of mind. We're in our 80's and wanted somebody to climb into places we no longer can . He is a very kind and personable young man. He did thorough inspection from basement to attic and roof and every nook and…
 >
-> 5★ · Elisabeth Johnson · 4 months ago
+> 5★ · Elisabeth Johnson · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

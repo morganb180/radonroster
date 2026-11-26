@@ -12,19 +12,21 @@ Cinnaminson, NJ · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2573): your request goes to Emsl Analytical, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.3 out of 5 from 69 reviews · [Reviews on Google](https://maps.google.com/?cid=10977697457107376475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> The people who answer the phones were nice, however this a lab that only tests products going to market. You, an individual, will not get any help getting tests run here
->
-> 2★ · Rich Walko · a year ago
+4.3 out of 5 from 68 reviews · [Reviews on Google](https://maps.google.com/?cid=10977697457107376475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > They offer a very diverse menu of services and a lot of knowledgeable  people to work with. However, the Accounts Payable dept. will often create invoices higher than prices  quoted or erroneous  fees if you give them a credit card to hold and charge services to.  You have to be diligent at all…
 >
 > 3★ · Keith Roe · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+> Where do I start. Ordered a kit almost 4 weeks ago for nicotine test. Still nothing. "3 days to receive". Had a local environmental company use one of their EMSL kits to test for a vaping/nicotine test. Been going on 3 weeks, and still no results. Sample is lost so far. Customer service,…
+>
+> 1★ · Who Am I · 3 years ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

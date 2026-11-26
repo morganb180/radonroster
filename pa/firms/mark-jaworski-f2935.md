@@ -16,19 +16,21 @@ Canonsburg, PA · Washington County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2935): your request goes to Mark Jaworski and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 18 reviews · [Reviews on Google](https://maps.google.com/?cid=12456198792293605682&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> 100% satisfied, I was completely unaware just how much slope my yard actually had. I thought it would be just a small amount of dirt removed but it was something I never could have done on my own.Mark did an amazing job and I would recommend him in a heartbeat.
+>
+> 5★ · Michael Yeager · 3 months ago
+
 > Mark is a great person and does a fantastic job! Quality work, prompt service, has integrity and values his customers. Thanks for helping our family out when we needed it! Highly recommend this business.
 >
-> 5★ · Lauren M · 3 months ago
+> 5★ · Lauren M · 5 months ago
 
-> Mark installed electric (outlet, vent fan/light, and vanity light) into our remodeled bathroom and we could not be happier with the results. He made our electric for the bathroom GFCI protected (where the original wiring for the house was not). Excellent to work with, on time, and knows what he…
->
-> 5★ · Joanna Salem · 8 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

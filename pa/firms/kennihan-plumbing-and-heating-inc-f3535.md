@@ -12,19 +12,21 @@ Valencia, PA · Butler County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3535): your request goes to Kennihan Plumbing And Heating Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.7 out of 5 from 918 reviews · [Reviews on Google](https://maps.google.com/?cid=9050935511018295034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.7 out of 5 from 920 reviews · [Reviews on Google](https://maps.google.com/?cid=9050935511018295034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> The people at Kennihan were great to work with. They quickly diagnosed the issue with my water heater and offered multiple options to get it replaced. The techs were friendly and professional. They quickly got the job done and the work looks great. Highly recommend Kennihan!
+> Greg,  Jerid, and Sean did a fantastic job for me in October of this year... they were professional, neat, considerate of my home, polite, and explained every part of the job to me, which I personally appreciate.  Greg also explained to me about my furnace,  which is extremely old and is leaking…
 >
-> 5★ · Alex Miller · 4 months ago
+> 5★ · Joyce Carter · a week ago
 
-> I was very pleased with the service today by Aaron. He replaced my kitchen sink faucet quickly and he went above and beyond in terms of communication and consideration. Would recommend him. Also very pleased with the business overall. The communication is great all around and I was able to get…
+> They were very nice and a quick response time. However their fee just to come is $159. This does not include a diagnostic apparently and also does not go toward any work done. I ended up paying $159 for them to come out and $637 for labor for them to replace a blower motor that was still UNDER…
 >
-> 5★ · Steven Licht · 5 months ago
+> 2★ · Natalie Argeras · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

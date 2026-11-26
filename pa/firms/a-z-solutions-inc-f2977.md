@@ -11,11 +11,17 @@ canonical: https://radonroster.com/pa/firms/a-z-solutions-inc-f2977/
 North Canton, OH · Certified firm
 
 
+
 ## Google rating
 
-3.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=13916934509440571225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+3.7 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=13916934509440571225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+> Very nice folks. Super knowledgeable! Very clean, professional work.
+>
+> 5★ · Chad Stefaniak · 9 years ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

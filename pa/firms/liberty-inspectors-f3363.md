@@ -12,19 +12,21 @@ North Huntingdon, PA · Westmoreland County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3363): your request goes to Liberty Inspectors and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 221 reviews · [Reviews on Google](https://maps.google.com/?cid=9956699061909391669&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 222 reviews · [Reviews on Google](https://maps.google.com/?cid=9956699061909391669&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Terry did a very detailed inspection of the house we had an offer in at. He saved us from all the issues the house was hiding. Multiple family members said they wished they got this thorough of an inspection when they bought their houses.
+> Dante came out to our new home for our inspection. He called me after he was done and gave me a run down of wverything he found and things that may need attention. When the report itself came I had follow up questions. I called and left him a message and he called back within 20 minutes. Very…
 >
-> 5★ · Kyle Schneiderlochner · 2 months ago
+> 5★ · Angela Best · 3 weeks ago
 
-> I am currently going through the process of buying a house and I cannot state enough how glad I am that we went with Dante Guglielmo for the inspection. He was super responsive to set up the appointment, clearly communicated the inspection process, and answered all of our questions thoroughly.…
+> We used Liberty Inspectors (Elijah Metzgar) for a recent home inspection. The process was first class beginning to end. The person who answered the phone to schedule was kind, friendly and very efficient. We requested Elijah as we had worked with him before. Elijah is incredibly knowledgeable in…
 >
-> 5★ · Andrew Baker · 5 months ago
+> 5★ · Sandy Onofray · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

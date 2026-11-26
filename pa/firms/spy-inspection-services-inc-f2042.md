@@ -12,19 +12,21 @@ Lansdale, PA · Montgomery County · 6 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2042): your request goes to Spy Inspection Services, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.4 out of 5 from 41 reviews · [Reviews on Google](https://maps.google.com/?cid=16650688084634528721&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> This company seriously dropped the ball inspecting my home. After moving in, I found several infestation of carpenter ants and house ants all throughout my home inside and out. The report given to me was extremely vague and suggested no specific areas to target treatment. I’m yet to receive a…
+>
+> 1★ · Liv Evleth · 3 months ago
+
 > The agency was great and very responsive. Nick was very friendly and very thorough. He took the time to explain what he was noticing through out the entire inspection, which was extremely helpful, especially as a first time home buyer.
 >
-> 5★ · Kathryn Carter · 3 months ago
+> 5★ · Kathryn Carter · 4 months ago
 
-> Frank was great. His thorough inspection saved us from buying a house that was indeed to good be true. We also used him for the house we ended up buying and his inspection gave us the peace of mind we needed. He took the time to answer all my questions during both inspections. And there were a…
->
-> 5★ · Michael Egan · 7 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

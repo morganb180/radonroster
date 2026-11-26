@@ -12,19 +12,21 @@ New Castle, PA · Lawrence County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3549): your request goes to Lawrence County Community Action and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-3.9 out of 5 from 16 reviews · [Reviews on Google](https://maps.google.com/?cid=483577917054602804&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.1 out of 5 from 15 reviews · [Reviews on Google](https://maps.google.com/?cid=483577917054602804&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > I did not go there. I was close to there, but I did not go.
 >
-> 1★ · Dee McKinney · 5 months ago
+> 1★ · Dee McKinney · 6 months ago
 
 > They have helped me so much the staff is excellent thank you for everything you have done for me this year I'm a disabled veteran
 >
-> 5★ · franklin goss · 9 months ago
+> 5★ · franklin goss · 10 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

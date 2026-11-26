@@ -16,19 +16,21 @@ Export, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3001): your request goes to Brian Brucker and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 26 reviews · [Reviews on Google](https://maps.google.com/?cid=11888672484387143148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 27 reviews · [Reviews on Google](https://maps.google.com/?cid=11888672484387143148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Brian Brucker is personable and spoke in plain language in order to educate us about the home we were looking to purchase. His 30+ years of experience is obvious and his inspection was extremely thorough. It was money well spent and we would highly recommend his services. We entirely trust…
+> I hired Brian for a townhome we purchased in Pittsburgh. I’m currently in Florida, and I was really looking for someone who would do a thorough inspection for us without us being there.. and for someone who understood how important some things were to us with a medically sensitive daughter.…
 >
-> 5★ · kjwerder · 2 months ago
+> 5★ · Taylor A · a month ago
 
-> Thanks Brian for your knowledgeable and professional services. Brian’s expertise as a master carpenter/former home builder is spot on. He was able to determine a few issues that were not disclosed. This ultimately helped in the price negotiations. I highly recommend even if he is booked out,…
+> Brian was such a nice guy and so easy to work with. He made us feel really secure about our decision in purchasing this home. He kept everything very blunt and to the point. Because of his services, we feel so much more confident now going into this. We would highly recommend brian for a home…
 >
-> 5★ · Tad Bowler · 3 months ago
+> 5★ · Danielle Kirk · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

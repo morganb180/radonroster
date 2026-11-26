@@ -16,15 +16,17 @@ Uniontown, PA · Fayette County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3296): your request goes to David Dowling and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=17454924727006674379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=17454924727006674379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Great job
+> Dave was extremely thorough in his inspection. I would NOT hesitate going to Grandview in the future for another home inspection. He took his time and answered ALL of my questions. His work is quality and knowledgeable.
 >
-> 5★ · Jenny Calhoun · 5 years ago
+> 5★ · D Rack · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

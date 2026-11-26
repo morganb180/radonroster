@@ -16,19 +16,21 @@ Effort, PA · Monroe County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3005): your request goes to Dewey Kerns and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 24 reviews · [Reviews on Google](https://maps.google.com/?cid=2910772151980568477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> After having Dewey returned he reassured me on everything I had questions on stuff on the report and stuff like that and he did a very thorough job on the inspection and I would recommend him.
+>
+> 5★ · Angelo Defrancesco · 3 months ago
+
 > Excellent service with great attention to details! Dewey is highly professional, reliable, knowledgeable, honest, good in explaining his work. I recommend his company for anyone who needs an house inspection.
 >
-> 5★ · Sanja Medich · 9 months ago
+> 5★ · Sanja Medich · 10 months ago
 
-> As a first time home buyer, I would recommend Pennspect for any home inspection. Dewey was very professional and knowledgeable. He did a thorough external and internal inspection of the home and provided helpful information along the way. He also provided a timely, detailed report of our…
->
-> 5★ · Jenifer Beers · 10 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

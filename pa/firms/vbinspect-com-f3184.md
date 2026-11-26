@@ -12,11 +12,13 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3184): your request goes to Vbinspect.Com and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 1 review · [Reviews on Google](https://maps.google.com/?cid=12299391584330549423&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

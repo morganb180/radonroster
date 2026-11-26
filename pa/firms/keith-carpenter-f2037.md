@@ -14,19 +14,21 @@ Johnstown, PA · Cambria County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2037): your request goes to Keith Carpenter and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 3 reviews · [Reviews on Google](https://maps.google.com/?cid=2791348421313339819&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Keith did a wonderful job. Very fair price and the workmanship was excellent
 >
-> 5★ · Ryan Eger · in the last week
+> 5★ · Ryan Eger · a month ago
 
 > The radon mitigation system designed and installed by Keith looks and works great. He was able to get our radon down from 8.0 pCi/L to 0.37 pCi/L. He was very informative, his work was clean and he was punctual. We highly recommend Carpenter Radon LLC.
 >
-> 5★ · Kathy Magyor · 3 weeks ago
+> 5★ · Kathy Magyor · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

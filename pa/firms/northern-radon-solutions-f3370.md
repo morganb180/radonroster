@@ -12,19 +12,21 @@ Honesdale, PA · Wayne County · 4 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3370): your request goes to Northern Radon Solutions and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 9 reviews · [Reviews on Google](https://maps.google.com/?cid=15631369660621084624&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 10 reviews · [Reviews on Google](https://maps.google.com/?cid=15631369660621084624&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Dave and his team arrived when they were scheduled to for both estimate and installation. Estimate was very competitive and the installation was very well done. Radon level went from 7.0 to 0.4! Very professional and nice to work with during this project.
+>
+> 5★ · Craig Knup · 4 weeks ago
 
 > We had a tight timeline because we were trying to close on our house, and Northern Radon Solutions really came through for us. From the first call, Dave was incredibly responsive, helpful, and professional. He understood the urgency of our situation and made every effort to get us on their…
 >
-> 5★ · Bahar Ansari · 7 months ago
+> 5★ · Bahar Ansari · 8 months ago
 
-> I have been battling a marginal radon level problem for over a year. I thought the problem was under control UNTIL we install a new heat pump heating system. When the heat pump air handler in the basement went on the radon levels rose well above the critical level of 4. I contacted several radon…
->
-> 5★ · Joe Migliorino · 11 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

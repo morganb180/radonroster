@@ -12,19 +12,21 @@ Lansdale, PA · Montgomery County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2741): your request goes to Airotox and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 202 reviews · [Reviews on Google](https://maps.google.com/?cid=14793340122527452761&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 207 reviews · [Reviews on Google](https://maps.google.com/?cid=14793340122527452761&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Had a great experience with this company. The whole team was friendly, professional, and easy to work with. They got my fan and system activated quickly and made the entire process really simple and efficient. Everything went smoothly from start to finish. Definitely recommend them!
+> Airotox did a fantastic job installing my remediation system. Their quote was reasonable and final cost did not change. They also did a great job sealing everything up. I had been monitoring radon for a few years on all levels of my home, and within a day or so I already saw a notable drop in…
 >
-> 5★ · J. Dalton Nice · 2 months ago
+> 5★ · Mike Landi · 3 weeks ago
 
-> Had a great experience with airotox. They responded quickly to the quote request, gave me a competitive price, were professional and responsive and the final radon levels decreased significantly. Would overall recommend to anyone looking for radon mitigation.
+> By far the easiest and most responsive contractors we have ever worked with! Communication was excellent. They sent information when promised and always showed up on time. In fact, they even followed up with me! If you have ever had to chase a company down, you know how refreshing that is.…
 >
-> 5★ · Jorge Rosario · 4 months ago
+> 5★ · Deirdre Mulhern · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

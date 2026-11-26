@@ -16,19 +16,21 @@ Montoursville, PA · Lycoming County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3414): your request goes to Joshua Mcclain and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 252 reviews · [Reviews on Google](https://maps.google.com/?cid=17751404463254740797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 259 reviews · [Reviews on Google](https://maps.google.com/?cid=17751404463254740797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Josh did a great job on our home inspection. He was very thorough and took time to show us his findings.  On top of our thorough inspection he was quick to schedule and finish his report especially when time was sensitive.  I would highly recommend West Branch Inspections if you're buying a home…
+> Josh always delivers superb workmanship and knowledge for my Buyers! I highly recommend his business. He is kind, professional and diligent with communication  and fulfilling my Buyers needs. Thank you Josh so much.
 >
-> 5★ · Gregory Pomarico · a month ago
+> 5★ · Alison Braim · 3 weeks ago
 
-> Josh was patient and kind, when the sellers didn't have everything up and running. He worked with us on getting the inspections done. It was a long day, and Josh always maintained being approachable, conversational, and knowledgable. The report that is sent to you afterwards, is easy to read.…
+> Home inspector Josh McClain performed a very thorough inspection both outside & inside of the home. He was very professional and very helpful in answering all my questions. He provided results of all concerned issues in a timely manner. I definitely would recommend West Branch Inspections, LLC.
 >
-> 5★ · Sarah Purcell · 3 months ago
+> 5★ · Vickie Weigel · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,21 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3145): your request goes to Greg Karkowsky and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.7 out of 5 from 21 reviews · [Reviews on Google](https://maps.google.com/?cid=15057979451803289208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Greg was very nice, but a number of things were missed in my inspections reports, leaving me high cost repairs to make after closing.
 >
-> 2★ · Rachel Bundy · 5 months ago
+> 2★ · Rachel Bundy · 7 months ago
 
 > Greg was straight forward, knowledgeable and thorough. Professional in his service,  gives clear and detailed explanations when answering any questions. Greg pointed out things even I myself missed..and I was there! I would use his service again and highly recommend.
 >
-> 5★ · Daun Jones · 6 months ago
+> 5★ · Daun Jones · 8 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

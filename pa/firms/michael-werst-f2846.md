@@ -16,19 +16,21 @@ Allentown, PA · Lehigh County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2846): your request goes to Michael Werst and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 220 reviews · [Reviews on Google](https://maps.google.com/?cid=9756803135193328062&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Michael is a great guy. He will answer any question, points out all sorts of helpful tips, and is very attentive and thorough. I highly recommend him.
 >
-> 5★ · Terence O'Rourke · a month ago
+> 5★ · Terence O'Rourke · 2 months ago
 
 > Called for a mobile home inspection and Mike was very helpful and able to get me an appointment quickly! Report was very thorough! Highly recommend! Thanks again Mike!
 >
-> 5★ · megshin · 3 months ago
+> 5★ · megshin · 4 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -16,19 +16,6 @@ Old Hickory, TN · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3673): your request goes to William Carmichael and up to 2 other nearby certified pros.
 
-## Google rating
-
-5.0 out of 5 from 62 reviews · [Reviews on Google](https://maps.google.com/?cid=6649621663576037176&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
-
-> Will did an awesome job with our new construction home.  He was familiar with our builder (Beazer Homes) and knew exactly what to look for. The process was seamless, and I was able to give the contractor the report ahead of our walkthrough. The aerial drone footage of the roof was done in great…
->
-> 5★ · greg west · 2 years ago
-
-> Will was superb on our new (to us) home inspection! Super detailed, great quality report, and was willing to help out in any ways possible to further inspect the house. He gives a clear and straight forward report with a highlight summary of the key findings along with recommendations on how to…
->
-> 5★ · SeungJin Park · 3 years ago
-
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

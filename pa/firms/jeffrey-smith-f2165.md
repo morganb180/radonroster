@@ -16,15 +16,17 @@ Ebensburg, PA · Cambria County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2165): your request goes to Jeffrey Smith and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.4 out of 5 from 5 reviews · [Reviews on Google](https://maps.google.com/?cid=16853040063405508564&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > BEWARE--Jeff screwed us BIG TIME! Our check was mailed immediately, he cashed it no issues, but he DIDNT GIVE US THE INSPECTION REPORT UNTIL AFTER OUR BUYERS NEGOTIATION PERIOD WAS OVER...MORE THAN 2 WEEKS LATE!! We had no opportunity to negotiate any of the issues found on the report so it was…
 >
-> 1★ · PK Tompson · 11 months ago
+> 1★ · PK Tompson · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

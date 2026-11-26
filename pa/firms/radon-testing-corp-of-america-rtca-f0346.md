@@ -14,19 +14,21 @@ Elmsford, NY · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0346): your request goes to Radon Testing Corp. Of America-Rtca and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 27 reviews · [Reviews on Google](https://maps.google.com/?cid=7896962279484192876&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 28 reviews · [Reviews on Google](https://maps.google.com/?cid=7896962279484192876&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> It is a good place I really liked the experience and I will definitely recommend this to more of my friends and family and tell them that they really have to do this and I liked how easy it was to navigate and co.plete.
+>
+> 4★ · Marcus Hile · 2 weeks ago
 
 > We had a very time-sensitive situation and RTCA was incredibly professional and responsive from start to finish. They understood the urgency right away and made every effort to move things along as quickly as possible while still being thorough. Communication was clear, prompt, and reassuring…
 >
-> 5★ · Bahar Ansari · 7 months ago
+> 5★ · Bahar Ansari · 8 months ago
 
-> They gave me a time to come they made it in between that time they called me before hand to let me know they were 30 minutes away they inspected the area made everything easy and simple Steve and his partner provided excellent craftsmanship I will definitely recommend
->
-> 5★ · The AIR Rivas Channel · 4 years ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

@@ -16,19 +16,21 @@ Mountain Top, PA · Luzerne County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3603): your request goes to Cody Fisher and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 153 reviews · [Reviews on Google](https://maps.google.com/?cid=11722765121901493017&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Great company to work with! Cody and Frank helped us out with home inspection and testing for radon, mold, septic, and advanced water. They are knowledgeable, helpful, and very thorough. We appreciate their expertise during our long distance move.
+> Had a great experience with Fisher Inspections! They were on time and thorough, I met with Frank on site. He did my home inspection, took time to explain and answer any questions I had. Very personable and easy to understand, it was a total breeze!
 >
-> 5★ · Candice Linton · 2 months ago
+> 5★ · Amber Mtns · a month ago
 
-> We had an excellent experience with our home inspector Cody. He was extremely honest, knowledgeable, and thorough throughout the entire process. He took the time to explain everything clearly, answered all of our questions, and made sure we understood his finding. We truly appreciated how…
+> Cody and Frank were excellent! Their inspection was thorough and they walked me through every important detail. I went into my home purchase well informed and confident. I cannot recommend this team enough! 5 stars!
 >
-> 5★ · Danielle Santora · 4 months ago
+> 5★ · Rin Walsh · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

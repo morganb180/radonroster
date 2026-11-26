@@ -12,19 +12,21 @@ West Chester, PA · Chester County · 6 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0207): your request goes to Safe Shelter Environmental and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 611 reviews · [Reviews on Google](https://maps.google.com/?cid=9962930545137061868&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 622 reviews · [Reviews on Google](https://maps.google.com/?cid=9962930545137061868&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I would highly recommend Safe Shelter to anyone in need of radon services. I received a quick call back from the office staff and they were able to get someone out to the house the same day since we were under a time crunch. The technician Jessie was great. He was on time, friendly,…
+> Jesse and Chris from Safe Shelter Environmental were fantastic. They showed up on time, explained everything clearly, and worked efficiently. The installation looks clean and professional. They also installed my Jackel radon sump pump cover and went over and above by extending the pipes so I can…
 >
-> 5★ · Patrick McGowan · a month ago
+> 5★ · Spencer M · a week ago
 
-> Estimate process was easy. Pricing was great. Scheduling was seamless. Highly communicative team. Technician arrived in a timely fashion and got right to work. I’ve never had a home that needed a radon mitigation system before, and the technician walked me through everything. Installation was…
+> Excellent experience and highly recommend! My 29 year old radon mitigation system had to be reconfigured and the fan replaced. I called Safe Shelter based on their reviews. Scheduling was easy- I talked with a live person (Jillian). Technician (Jesse) came out and after doing a quick evaluation…
 >
-> 5★ · Kelly Dress · 2 months ago
+> 5★ · Joanne S. · 3 weeks ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -12,19 +12,21 @@ York, PA · York County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1965): your request goes to Absolute Radon Mitigation, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.2 out of 5 from 25 reviews · [Reviews on Google](https://maps.google.com/?cid=18286140415782445545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Jeff and his team came out on a warranty call. They added a second system at no charge.The installer was very professional. He laid tarps and cleaned thoroughly upon completion. The install needed to go up through a closet. It isn't even noticeable. Jeff stands behind his work and his price was…
+> I don't leave a lot of reviews, but it's 100% worth it for these guys. First, I found Jeff with Absolute Radon Mitigation on the York PA Radon Pros directory. That alone made it helpful that I didn't have to call a ton of people. They were knowledgeable, helpful, did exactly what they said they…
 >
-> 5★ · Kelly Sprenkle · 4 months ago
+> 5★ · Jesse Barton · 2 months ago
 
-> Had a great experience with Jeff and team. They installed a radon mitigation system and sealed our sump pumps. Price was fair. Would recommend.
+> best radon mitigation company in York PA!! Jeff was great to deal with. I had to navigate getting a radon test and radon pipe installed in my parents house in York from out of state. They are both elderly and this was beyond what they could handle. Dealing with Jeff was seamless and easy. We…
 >
-> 5★ · Kayla E · 5 months ago
+> 5★ · Blair Witkowski · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

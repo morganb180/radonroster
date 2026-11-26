@@ -1,6 +1,6 @@
 ---
 title: "Radon Technology & Enviromental: Radon Mitigation, Royersford PA"
-description: "Radon Technology & Enviromental Inc (Royersford, Montgomery County) is PA DEP-certified for radon mitigation, 5 certified people. Google 4.9 from 244 reviews. Free quote."
+description: "Radon Technology & Enviromental Inc (Royersford, Montgomery County) is PA DEP-certified for radon mitigation, 5 certified people. Google 4.9 from 245 reviews. Free quote."
 canonical: https://radonroster.com/pa/firms/radon-technology-and-enviromental-inc-f1308/
 ---
 
@@ -12,19 +12,21 @@ Royersford, PA · Montgomery County · 5 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1308): your request goes to Radon Technology & Enviromental Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 244 reviews · [Reviews on Google](https://maps.google.com/?cid=11985558128263691442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 245 reviews · [Reviews on Google](https://maps.google.com/?cid=11985558128263691442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> This company has the best customer service. Matt gave us our initial quote and was exceptionally knowledgeable about his craft, and took the time to fully explain each part of the process to us so we could understand what was going on and what we were paying for.  Chris was the guy who did the…
+> Shane was excellent to work with! He was extremely knowledgeable, professional, and friendly, and he took the time to explain everything clearly throughout the process. The quality of the installation was exceptional, with great attention to detail—from the clean wire management to the placement…
 >
-> 5★ · Haylee Urban · a month ago
+> 5★ · Jonathan Spangenberg · a month ago
 
-> My original contact was with Joe who responded quickly to my inquire and was flexible in scheduling and willing to work with me to have someone come out for an estimate. Bruce came out to my house took a look and throughly talked over the radon system with me and different ways it could be put…
+> I highly recommend RT&E. Our house had a very stubborn radon issue and was a unique case, and Matt was extremely thorough and worked with us until we got to the bottom of it. I appreciated that he didn't push us to do expensive work, but recommended small incremental changes to see what effect…
 >
-> 5★ · Robert Jenkins · 3 months ago
+> 5★ · Ryan Haught · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

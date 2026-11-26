@@ -16,19 +16,21 @@ Greensburg, PA · Westmoreland County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3299): your request goes to Andrew Joseph and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 3.6 out of 5 from 16 reviews · [Reviews on Google](https://maps.google.com/?cid=2740610378426029742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Felipe was great in our home inspection, he was very knowledgeable and helpful he answered all our questions and concerns.
 >
-> 5★ · Manrique Herrera · 2 months ago
+> 5★ · Manrique Herrera · 3 months ago
 
 > Working with Drew was easily the best decision we made during our home-buying process. From the moment he arrived, it was clear he wasn’t just there to tick boxes; he was there to ensure we truly understood the bones of our future home. The level of detail and value provided was outstanding.…
 >
-> 5★ · Richard Altman · 6 months ago
+> 5★ · Richard Altman · 7 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

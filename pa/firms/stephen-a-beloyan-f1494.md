@@ -16,19 +16,21 @@ Wrightstown, NJ · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F1494): your request goes to Stephen A. Beloyan and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.6 out of 5 from 22 reviews · [Reviews on Google](https://maps.google.com/?cid=10930362172171615711&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Steve at Bradley Home Inspections was outstanding from start to finish. As a new homeowner, I had a lot of questions and he answered every single one patiently and thoroughly without making me feel rushed.  What really set Steve apart was how he prioritized his findings — clearly explaining what…
 >
-> 5★ · Nikita Patel · 4 months ago
+> 5★ · Nikita Patel · 5 months ago
 
 > Our team has continually used Beloyan Inspection Services for years and have had only great experiences.  Steve is extremely knowledgeable and goes above and beyond to make sure that our clients understand the ins & outs of their new home.  The inspection reports are very detail orientated and…
 >
 > 5★ · The Sadusky Team · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -12,6 +12,7 @@ Pittsburgh, PA · Allegheny County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3430): your request goes to Atlas Technical Consultants, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 2 reviews · [Reviews on Google](https://maps.google.com/?cid=17460505440418392252&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -20,7 +21,8 @@ Pittsburgh, PA · Allegheny County · 2 certified people
 >
 > 5★ · Daniel Miller · 7 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

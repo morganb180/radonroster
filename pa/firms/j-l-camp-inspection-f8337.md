@@ -14,19 +14,21 @@ Monaca, PA · Beaver County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F8337): your request goes to J.L. Camp Inspection and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.3 out of 5 from 12 reviews · [Reviews on Google](https://maps.google.com/?cid=10825977313708481899&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Needed a house inspected before I agreed to buy it. JL Camp was recommended by my realtor. The inspector was very professional and knowledgeable. He didn’t mind me being there the whole time and walking around with him asking a lot of questions. He answered and explained everything. He gave me…
 >
-> 5★ · Joe Hickman · 9 months ago
+> 5★ · Joe Hickman · 10 months ago
 
 > Their inspector was on time, professional, and friendly.  He went the extra mile to explain what he found and even took time to show me where the emergency gas and water shutoffs for my house were after his inspection.
 >
 > 5★ · David Whittier · a year ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

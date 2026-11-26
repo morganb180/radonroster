@@ -16,19 +16,21 @@ Delmar, MD · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3526): your request goes to Lewis Wertz and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 46 reviews · [Reviews on Google](https://maps.google.com/?cid=7419101330412462067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> Lewis is incredibly knowledgeable and is a great resource for homebuyers. I will definitely recommend him to all of my clients looking for home renovations.
+>
+> 5★ · Todd Dougherty · a month ago
+
 > Mr Lou helped me out so BIG. I needed to have a water sample taken to pass a VA panel on very short notice. He answered my call on a Saturday afternoon around 2pm and was at my house Sunday morning to retrieve the sample. He then took it to the lab first thing Monday morning. Giving enough time…
 >
-> 5★ · SEAN ENEY · 2 months ago
+> 5★ · SEAN ENEY · 3 months ago
 
-> Lew is a real genuine guy and has treated me very well throughout the process of having my new home inspected. I highly recommend him and will be going to him again in the future. Thanks again! -Todd
->
-> 5★ · Todd Goldstein · 3 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

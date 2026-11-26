@@ -12,19 +12,21 @@ Pittsburgh, PA · Allegheny County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2463): your request goes to Keystone Building Inspections and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 6 reviews · [Reviews on Google](https://maps.google.com/?cid=10525972011525370929&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > We utilized Keystone for a home inspection last week and could not have asked for a better company to work with. Maria was prompt and flexible with scheduling, and Dan did an excellent job with the inspection, making sure we all understood each item that would be mentioned in the report. A good…
 >
-> 5★ · Benjamin Demers · a month ago
+> 5★ · Benjamin Demers · 3 months ago
 
 > Dan helped us with our home inspection and we couldn't have been happier! We are first time home buyers and he took his time and explained everything to us in great detail. I will recommend Keystone Inspections to everyone I know! Thank you!
 >
-> 5★ · Hunter Dye · 7 months ago
+> 5★ · Hunter Dye · 8 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

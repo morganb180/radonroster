@@ -14,19 +14,21 @@ Freeport, PA · Armstrong County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3261): your request goes to Wolfe, Jr., Jerry and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 458 reviews · [Reviews on Google](https://maps.google.com/?cid=7813600483877872692&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 463 reviews · [Reviews on Google](https://maps.google.com/?cid=7813600483877872692&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> My wife and I hired Jerry to do a home inspection on a house we are looking to purchase.  He was both professional and friendly, and open to answering any questions we had.  I feel he did a very thorough job and definitely alerted us to a few concerns that we would have otherwise had no idea…
+> First off...Jerry Wolfe was the  utmost professional.  He treated all my concerns and questions  with honest feedback and clarity. He explained in detail,from start to finish, the entire home -nspection  process in ways I could completely understand for the 1st-time homebuyer I am. If you are…
 >
-> 5★ · Michael · 2 months ago
+> 5★ · Lee · 3 weeks ago
 
-> I hired Jerry to inspect a house I had put an offer on, contingent on the results. He was extremely thorough, and very clearly explained significant safety and structural issues present in the house, saving me tens of thousands of dollars in repairs and a tremendous amount of stress. I highly…
+> I had a fantastic experience with Jerry and couldn’t recommend him enough! He did an amazing job with my home inspection and was extremely thorough, knowledgeable, and patient throughout the entire process. He took the time to explain things I didn’t know and showed me everything that was…
 >
-> 5★ · Erin Joyce · 3 months ago
+> 5★ · Cheyenne Beam · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -12,15 +12,17 @@ Akron, PA · Lancaster County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F0565): your request goes to Rjh Radon Mitigation Inc and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 1 review · [Reviews on Google](https://maps.google.com/?cid=18067963938673583627&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Our experience with RJH was exceptional! They were professional and knowledgeable. The installation was quick and drama-free. The results were amazing! I wholeheartedly recommend their service!
 >
-> 5★ · Theresa Carey · 9 months ago
+> 5★ · Theresa Carey · 11 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

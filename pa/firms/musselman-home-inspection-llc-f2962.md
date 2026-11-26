@@ -12,19 +12,21 @@ Harleysville, PA · Montgomery County · 3 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2962): your request goes to Musselman Home Inspection LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 427 reviews · [Reviews on Google](https://maps.google.com/?cid=17942378852571069177&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 431 reviews · [Reviews on Google](https://maps.google.com/?cid=17942378852571069177&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> We had a great experience with David at Musselman Home Inspection. He showed up on time and was extremely thorough, spending over three hours carefully going through the house.  What stood out most was how much time David took to explain everything to us as he went. He didn’t just point out…
+> Couldn’t recommend these guys enough. Jon and Dave were incredibly nice and walked us through our future house and explained every single finding. They were able to accommodate our schedule and do a Sunday inspection for us. They are incredibly reasonable with pricing as well. Would 100% use…
 >
-> 5★ · sam webb · a month ago
+> 5★ · Austin Gattinella · 4 weeks ago
 
-> David is the kind of home inspector every homeowner hopes to work with. He is down-to-earth, incredibly knowledgeable, and takes the time to clearly explain what he finds, why it matters, and any potential implications. His honest, straightforward approach gave us a great deal of confidence…
+> Hired them for our pre-drywall inspection and they did an excellent job! We had to switch the inspection 2 times and each time I contacted them they were so accommodating and friendly. Our inspector talked through what he was looking for during the process and was very thorough in the report.…
 >
-> 5★ · Evan Roman · 2 months ago
+> 5★ · Priscilla Burnside · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

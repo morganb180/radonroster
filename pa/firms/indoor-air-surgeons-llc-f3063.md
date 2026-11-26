@@ -12,19 +12,21 @@ Bensalem, PA · Bucks County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3063): your request goes to Indoor Air Surgeons, LLC and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 5.0 out of 5 from 4 reviews · [Reviews on Google](https://maps.google.com/?cid=4593057097443650490&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > Indoor Air Surgeons provided excellent service to remediate an emergency situation. Cory was responsive, courteous, professional, and did an excellent job repairing the problem. All on a holiday weekend! Thanks, again, Cory!
 >
-> 5★ · Dominic DiMascia · 4 months ago
+> 5★ · Dominic DiMascia · 6 months ago
 
 > Corwyn was incredibly professional and respectful of our home! Love that the business is veteran owned too. We’re happy that now we can use our basement without fear of radon build up.
 >
-> 5★ · Kirby Frizzell · 5 months ago
+> 5★ · Kirby Frizzell · 6 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

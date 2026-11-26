@@ -16,6 +16,7 @@ Erie, PA · Erie County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3618): your request goes to Steve Guertin and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.4 out of 5 from 33 reviews · [Reviews on Google](https://maps.google.com/?cid=21761986483907270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
@@ -28,7 +29,8 @@ Erie, PA · Erie County · 1 certified person
 >
 > 5★ · Eric Peirce · 2 years ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -14,6 +14,21 @@ Ephrata, PA · Lancaster County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3541): your request goes to Andrew Fritsch and up to 2 other nearby certified pros.
 
+
+## Google rating
+
+5.0 out of 5 from 134 reviews · [Reviews on Google](https://maps.google.com/?cid=15576608016684692117&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> We were very pleased with the great job Andrew did with the radon mitigation in our old house. Because of the age of the house and complication with inaccessible crawlspaces, we weren't sure if it would fully work. But the radon level came down well below the safe action level...and also for a…
+>
+> 5★ · Arlen Stoltzfus · 3 weeks ago
+
+> I recommend Andrew Fritsch from Bauder Basements to the highest degree. The most professional and detail oriented contractor I’ve worked with over the past year since buying my home . Provided detailed quotes in a timely manner and always followed up. Thanks for your professionalism and hard…
+>
+> 5★ · Nicholas Duca · a month ago
+
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 ## Contact
 
 * Address: 110 S Line Rd, Ephrata, PA

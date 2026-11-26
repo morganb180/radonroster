@@ -16,19 +16,21 @@ Beaver Falls, PA · Beaver County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2980): your request goes to Erik Funkhouser and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 634 reviews · [Reviews on Google](https://maps.google.com/?cid=15033017267925015350&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 643 reviews · [Reviews on Google](https://maps.google.com/?cid=15033017267925015350&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Extremely helpful and informative home inspection! Erik did a very thorough job and took the time to walk us through everything he observed. Would recommend!
+> Rich did a great job inspecting our townhome. He was very thorough and professional, and was very communicative in discussing the items in the property that needed to be addressed. We heartily recommend Round Tuit and Rich's services!
 >
-> 5★ · Sabine Silva · 2 months ago
+> 5★ · Bob Nachman · in the last week
 
-> Brian Beck at Round Tuit was truly awesome to work with! He inspected our house professionally, very thorough, and treated it like his own. He was great to work with, super easy to communicate with, and followed up in a timely matter. We had a great experience with Brian and Round Tuit and will…
+> Caelan and his trainee did a wonderful job of walking us through each aspect of the home inspection. They took the time to explain their findings and address any concerns we had, as well as provided us with information on how to fix the minor issues found. I highly recommend their team!
 >
-> 5★ · Sarah McCarty · 2 months ago
+> 5★ · Courtney Klug-Mansell · a month ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

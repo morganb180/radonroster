@@ -16,19 +16,21 @@ Pittsburgh, PA · Allegheny County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2569): your request goes to Edward S. Lampl and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 277 reviews · [Reviews on Google](https://maps.google.com/?cid=5739211184747687239&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 279 reviews · [Reviews on Google](https://maps.google.com/?cid=5739211184747687239&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> I highly recommend Ed Lampl Environmental & Home Inspections. After years of recurring roof leaks, I needed answers about possible mold, moisture damage, and indoor air quality concerns. Ed was extremely thorough, professional, and knowledgeable throughout the entire process.  His inspection and…
+> Contacted Ed to do some testing in my garage. Ed walked me through all the tests he was going to do, explaining in detail why he was suggesting each test.  He also offered to walk around the house, giving suggestions on small things that could be a problem later, with most of the latter…
 >
-> 5★ · Chris D. · 2 months ago
+> 5★ · Mike Hasko · a month ago
 
-> Ed is the best! He really cares about what he does, and it stood out immediately. I ordered a mold inspection, and he took a look around the exterior of my property and gave me non-mold-related pointers. He truly cares about helping his clients and I'd recommend him to anyone looking for an…
+> Ed came to check out air quality in our house, because we suspected mold.  He came on time and engaged in one of the most transparent procedures I've experienced.  I learned a lot more about the house than what we paid for - in the best possible way.  He really seems to be in this to help…
 >
-> 5★ · Anthony Rini · 3 months ago
+> 5★ · Daniel Scott · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

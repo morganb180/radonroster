@@ -16,19 +16,21 @@ Pottsville, PA · Schuylkill County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3358): your request goes to Gene Heffner and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.9 out of 5 from 117 reviews · [Reviews on Google](https://maps.google.com/?cid=13281785251647095559&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > We just closed on our first home. We used Gene's Property Analysis for our home inspection and could not have been happier with the service. Gene let me follow him around during the inspection, answered all my questions, and gave me advice along the way. Some issues came up during the inspection…
 >
-> 5★ · Travis Sterner · 3 months ago
+> 5★ · Travis Sterner · 4 months ago
 
 > Very thorough general home and termite inspection with a lengthy yet concise inspection report. I was not able to be present for the home inspection itself due to work, but everything was completed in a very punctual manner. Lisa was extremely helpful, polite, and professional. I would recommend…
 >
-> 5★ · Matt Nestor · 4 months ago
+> 5★ · Matt Nestor · 5 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

@@ -12,19 +12,21 @@ Pittsburgh, PA · Allegheny County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F3692): your request goes to Affordable Services, Inc. and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-5.0 out of 5 from 10 reviews · [Reviews on Google](https://maps.google.com/?cid=11526839530857014018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+5.0 out of 5 from 13 reviews · [Reviews on Google](https://maps.google.com/?cid=11526839530857014018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+
+> Dan is amazing! We called him to schedule asbestos testing of our siding.  He asked us to send a picture of the siding to save us time.  After reviewing the photo, he confirmed that yes our siding was transite cement which contains asbestos, and gave us the safety protocol on how to proceed with…
+>
+> 5★ · Julia Hill · 3 weeks ago
 
 > Delighted to give a 5-Star review and highly recommend Affordable Services!  Easy to work with, very professional and responsive, and as the company name says "Affordable".  No asbestos found in sample!  Thank you Daniel and Affordable Services for turning a stressful situation into a positive…
 >
 > 5★ · Mlr53 Mlr53 · a year ago
 
-> We had an asbestos scare. Dan was able to do testing for me and answered every single question I had to ask and took his time explaining everything, he is extremely knowledgeable and very friendly! Definitely would use this company again. Best pricing around with a fast turnaround time for…
->
-> 5★ · Mommadoodle 06 · a year ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

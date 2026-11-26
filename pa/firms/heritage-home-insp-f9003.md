@@ -14,19 +14,21 @@ Canonsburg, PA · Washington County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F9003): your request goes to Heritage Home Insp and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
 4.6 out of 5 from 19 reviews · [Reviews on Google](https://maps.google.com/?cid=14853520108118512339&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
+> Unfortunately, I cannot recommend Heritage Home Inspectors. Shortly after purchasing our home, subsequent professional evaluations identified significant moisture, mold, and ventilation concerns that left us seriously questioning the thoroughness of the inspection. Some of these concerns…
+>
+> 1★ · Nina Leezenbaum · 2 months ago
+
 > Steve was recommended by our agent l. We had an absolutely wonderful experience with him. As first time home buyers, we really were entering an uncharted territory for us and had no idea what to expect. Steve was thorough, knowledgeable, and patient with us as we had many questions. He made us…
 >
-> 5★ · Maria Canino · 3 months ago
+> 5★ · Maria Canino · 4 months ago
 
-> Steve was very thorough in our home inspection. He was very open in communication in letting us know he would be a few minutes late. Even though he was late he still did a very thorough inspection probably pushing back his entire day. I appreciate the open communication before during and after…
->
-> 5★ · Jesse C. · 5 months ago
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
 
 ## Contact
 

@@ -12,19 +12,21 @@ Gettysburg, PA · Adams County · 2 certified people
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2985): your request goes to Top Dawg Inspections and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.8 out of 5 from 70 reviews · [Reviews on Google](https://maps.google.com/?cid=9947047734633426458&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.8 out of 5 from 73 reviews · [Reviews on Google](https://maps.google.com/?cid=9947047734633426458&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
 > This company was contracted to inspect a home I was selling they inspected the septic system and failed it.  We were told they were gonna quote us around $30,000 for a full replacement. I had a thorough inspection done four years ago so both the realtor and I decided I would  pay out-of-pocket…
 >
-> 1★ · Holden Grüdges · 2 months ago
+> 1★ · Holden Grüdges · 4 months ago
 
 > Devrynn did an amazing job on my home inspection! He was professional, thorough, and fast. He explained everything to me along the way and was happy to show me any issues that came up (that were thankfully small). The entire process with Top Dawg was super easy from beginning till end. I also…
 >
-> 5★ · Austin Buckley · 3 months ago
+> 5★ · Austin Buckley · 4 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 

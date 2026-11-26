@@ -16,19 +16,21 @@ Gilbertsville, PA · Montgomery County · 1 certified person
 
 [Get a quote](https://radonroster.com/quotes/?firm=F2719): your request goes to Jason C. Bancroft and up to 2 other nearby certified pros.
 
+
 ## Google rating
 
-4.9 out of 5 from 87 reviews · [Reviews on Google](https://maps.google.com/?cid=17278587512943548426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
+4.9 out of 5 from 88 reviews · [Reviews on Google](https://maps.google.com/?cid=17278587512943548426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA)
 
-> Jason did our home inspection and did a great job.  He is very thorough and organized, has a detailed plan on going through all the areas and inspect each single components.  He is very knowledgeable and patient, answering all my questions and pointing out important findings or things that I…
+> Jason was a referral to me from another one of my trusted inspectors and he was wonderful! got me out of a jam where I needed a immediate inspection of a crawl space for a LO that I was working on for a client, because the appraiser was not willing to remove a hatch covering the crawlspace…
 >
-> 5★ · Jiayan xiang · 2 months ago
+> 5★ · zemill20 · a month ago
 
-> Jason was excellent. He's very knowledgeable and took the time to explain everything thoroughly, which mattered a great deal to me as a first-time homebuyer. He was extremely detail-oriented and didn't rush through anything.  He also handled a difficult situation very professionally. During the…
+> Jason did an outstanding job on the property inspection for my property.  He was extremely thorough, knowledgeable, and professional. Jason also handled coordinating the septic inspection and water testing. I would highly recommend Jason for your property inspection needs.
 >
-> 5★ · Gunther Hubsch Jr. · 4 months ago
+> 5★ · Carolyn Francis · 2 months ago
 
-Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Oct 18, 2026.
+Ratings and reviews from Google. Radon Roster doesn't verify them, and they don't affect listing order. Google rating as of Nov 25, 2026.
+
 
 ## Contact
 
